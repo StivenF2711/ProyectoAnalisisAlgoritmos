@@ -1,0 +1,250 @@
+TY  - JOUR
+T1  - The Role of Learning and Kinematic Features in Dexterous Manipulation: A Comparative Study with Two Robotic Hands
+AU  - Ciancio, Anna Lisa
+AU  - Zollo, Loredana
+AU  - Baldassarre, Gianluca
+AU  - Caligiore, Daniele
+AU  - Guglielmelli, Eugenio
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/10/01
+N1  - doi: 10.5772/56479
+DO  - 10.5772/56479
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -340
+VL - 10
+IS - 10
+PB - SAGE Publications
+N2 - Dexterous movements performed by the human hand are by far more sophisticated than those achieved by current humanoid robotic hands and systems used to control them. This work aims at providing a contribution in order to overcome this gap by proposing a bio-inspired control architecture that captures two key elements underlying human dexterity. The first is the progressive development of skilful control, often starting from – or involving – cyclic movements, based on trial-and-error learning processes and central pattern generators. The second element is the exploitation of a particular kinematic features of the human hand, i.e. the thumb opposition. The architecture is tested with two simulated robotic hands having different kinematic features and engaged in rotating spheres, cylinders, and cubes of different sizes. The results support the feasibility of the proposed approach and show the potential of the model to allow a better understanding of the control mechanisms and kinematic principles underlying human dexterity and make them transferable to anthropomorphic robotic hands.
+SN - 1729-8806
+M3  - doi: 10.5772/56479
+UR  - https://doi-org.crai.referencistas.com/10.5772/56479
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Gene Expression Signatures Based on Variability can Robustly Predict Tumor Progression and Prognosis
+AU  - Dinalankara, Wikum
+AU  - Bravo, Héctor Corrada
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/CIN.S23862
+DO  - 10.4137/CIN.S23862
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S23862
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Gene expression signatures are commonly used to create cancer prognosis and diagnosis methods, yet only a small number of them are successfully deployed in the clinic since many fail to replicate performance on subsequent validation. A primary reason for this lack of reproducibility is the fact that these signatures attempt to model the highly variable and unstable genomic behavior of cancer. Our group recently introduced gene expression anti-profiles as a robust methodology to derive gene expression signatures based on the observation that while gene expression measurements are highly heterogeneous across tumors of a specific cancer type relative to the normal tissue, their degree of deviation from normal tissue expression in specific genes involved in tissue differentiation is a stable tumor mark that is reproducible across experiments and cancer types. Here we show that constructing gene expression signatures based on variability and the anti-profile approach yields classifiers capable of successfully distinguishing benign growths from cancerous growths based on deviation from normal expression. We then show that this same approach generates stable and reproducible signatures that predict probability of relapse and survival based on tumor gene expression. These results suggest that using the anti-profile framework for the discovery of genomic signatures is an avenue leading to the development of reproducible signatures suitable for adoption in clinical settings.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S23862
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S23862
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Exploring harnessing wind power in moving reference frames with application to vehicles
+AU  - Goushcha, Oleg
+AU  - Felicissimo, Robert
+AU  - Danesh-Yazdi, Amir H.
+AU  - Andreopoulos, Yiannis
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1177/1687814019865689
+DO  - 10.1177/1687814019865689
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019865689
+VL - 11
+IS - 9
+PB - SAGE Publications
+N2 - The possibility of extracting wind power from unique configurations embedded in moving vehicles using microturbine devices has been investigated. In such environments with moving frames or platforms, powered either by humans like bicycles or by chemical reactions like automobiles, the specific power of the air motion is much greater and less intermittent than in stationary wind turbines anchored to the ground in open atmospheric conditions. In a translational frame of reference, the rate of work done by the drag force acting on the wind harnessing device due to the relative motion of air should be taken into account in the overall performance evaluation through an energy balance. A device with a venting tube has been tested that connects a high-pressure stagnating flow region in the front of the vehicle with a low-pressure region at its rear. Our analysis identified two key areas to focus on for potentially significant rewards: (1) vehicles with high energy conversion efficiency, which require a high mass flow rate through the venting duct, and (2) vehicles with low energy conversion efficiency with wakes, which will be globally affected by the introduction of the venting duct device in a manner that reduces their drag so that there is a net gain in power generation.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019865689
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019865689
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Unlocking biomedical data sharing: A structured approach with digital twins and artificial intelligence (AI) for open health sciences
+AU  - Jean-Quartier, Claire
+AU  - Stryeck, Sarah
+AU  - Thien, Alexander
+AU  - Vrella, Burim
+AU  - Kleinschuster, Jeremias
+AU  - Spreitzer, Emil
+AU  - Wali, Mojib
+AU  - Mueller, Heimo
+AU  - Holzinger, Andreas
+AU  - Jeanquartier, Fleur
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/20552076241271769
+DO  - 10.1177/20552076241271769
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076241271770
+VL - 10
+PB - SAGE Publications Ltd
+N2 - Objective Data sharing promotes the scientific progress. However, not all data can be shared freely due to privacy issues. This work is intended to foster FAIR sharing of sensitive data exemplary in the biomedical domain, via an integrated computational approach for utilizing and enriching individual datasets by scientists without coding experience. Methods We present an in silico pipeline for openly sharing controlled materials by generating synthetic data. Additionally, it addresses the issue of inexperience to computational methods in a non-IT-affine domain by making use of a cyberinfrastructure that runs and enables sharing of computational notebooks without the need of local software installation. The use of a digital twin based on cancer datasets serves as exemplary use case for making biomedical data openly available. Quantitative and qualitative validation of model output as well as a study on user experience are conducted. Results The metadata approach describes generalizable descriptors for computational models, and outlines how to profit from existing data resources for validating computational models. The use of a virtual lab book cooperatively developed using a cloud-based data management and analysis system functions as showcase enabling easy interaction between users. Qualitative testing revealed a necessity for comprehensive guidelines furthering acceptance by various users. Conclusion The introduced framework presents an integrated approach for data generation and interpolating incomplete data, promoting Open Science through reproducibility of results and methods. The system can be expanded from the biomedical to any other domain while future studies integrating an enhanced graphical user interface could increase interdisciplinary applicability.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076241271769
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076241271769
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Multitasking in Driving as Optimal Adaptation Under Uncertainty
+AU  - Jokinen, Jussi P.P.
+AU  - Kujala, Tuomo
+AU  - Oulasvirta, Antti
+Y1  - 2020/07/30
+PY  - 2021
+DA  - 2021/12/01
+N1  - doi: 10.1177/0018720820927687
+DO  - 10.1177/0018720820927687
+T2  - Human Factors
+JF  - Human Factors
+JO  - Hum Factors
+SP  -1324
+EP - 1341
+VL - 63
+IS - 8
+PB - SAGE Publications Inc
+N2 - Objective The objective was to better understand how people adapt multitasking behavior when circumstances in driving change and how safe versus unsafe behaviors emerge. Background Multitasking strategies in driving adapt to changes in the task environment, but the cognitive mechanisms of this adaptation are not well known. Missing is a unifying account to explain the joint contribution of task constraints, goals, cognitive capabilities, and beliefs about the driving environment. Method We model the driver’s decision to deploy visual attention as a stochastic sequential decision-making problem and propose hierarchical reinforcement learning as a computationally tractable solution to it. The supervisory level deploys attention based on per-task value estimates, which incorporate beliefs about risk. Model simulations are compared against human data collected in a driving simulator. Results Human data show adaptation to the attentional demands of ongoing tasks, as measured in lane deviation and in-car gaze deployment. The predictions of our model fit the human data on these metrics. Conclusion Multitasking strategies can be understood as optimal adaptation under uncertainty, wherein the driver adapts to cognitive constraints and the task environment’s uncertainties, aiming to maximize the expected long-term utility. Safe and unsafe behaviors emerge as the driver has to arbitrate between conflicting goals and manage uncertainty about them. Application Simulations can inform studies of conditions that are likely to give rise to unsafe driving behavior.
+SN - 0018-7208
+M3  - doi: 10.1177/0018720820927687
+UR  - https://doi-org.crai.referencistas.com/10.1177/0018720820927687
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cost-Effective Cloud Computing: A Case Study Using the Comparative Genomics Tool, Roundup
+AU  - Kudtarkar, Parul
+AU  - DeLuca, Todd F.
+AU  - Fusaro, Vincent A.
+AU  - Tonellato, Peter J.
+AU  - Wall, Dennis P.
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.4137/EBO.S6259
+DO  - 10.4137/EBO.S6259
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S6259
+VL - 6
+PB - SAGE Publications Ltd STM
+N2 - Background Comparative genomics resources, such as ortholog detection tools and repositories are rapidly increasing in scale and complexity. Cloud computing is an emerging technological paradigm that enables researchers to dynamically build a dedicated virtual cluster and may represent a valuable alternative for large computational tools in bioinformatics. In the present manuscript, we optimize the computation of a large-scale comparative genomics resource—Roundup—using cloud computing, describe the proper operating principles required to achieve computational efficiency on the cloud, and detail important procedures for improving cost-effectiveness to ensure maximal computation at minimal costs. Methods Utilizing the comparative genomics tool, Roundup, as a case study, we computed orthologs among 902 fully sequenced genomes on Amazon’s Elastic Compute Cloud. For managing the ortholog processes, we designed a strategy to deploy the web service, Elastic MapReduce, and maximize the use of the cloud while simultaneously minimizing costs. Specifically, we created a model to estimate cloud runtime based on the size and complexity of the genomes being compared that determines in advance the optimal order of the jobs to be submitted. Results We computed orthologous relationships for 245,323 genome-to-genome comparisons on Amazon’s computing cloud, a computation that required just over 200 hours and cost $8,000 USD, at least 40% less than expected under a strategy in which genome comparisons were submitted to the cloud randomly with respect to runtime. Our cost savings projections were based on a model that not only demonstrates the optimal strategy for deploying RSD to the cloud, but also finds the optimal cluster size to minimize waste and maximize usage. Our cost-reduction model is readily adaptable for other comparative genomics tools and potentially of significant benefit to labs seeking to take advantage of the cloud as an alternative to local computing infrastructure.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S6259
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S6259
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Editorial: Multidisciplinary Approaches to Mis- and Disinformation Studies
+AU  - Pavliuc, Alexandra
+AU  - George, Anna
+AU  - Spezzano, Francesca
+AU  - Giachanou, Anastasia
+AU  - Spaiser, Viktoria
+AU  - Bright, Jonathan
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20563051221150405
+DO  - 10.1177/20563051221150405
+T2  - Social Media + Society
+JF  - Social Media + Society
+SP  -20563051221150404
+VL - 9
+IS - 1
+PB - SAGE Publications Ltd
+SN - 2056-3051
+M3  - doi: 10.1177/20563051221150405
+UR  - https://doi-org.crai.referencistas.com/10.1177/20563051221150405
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Proposed Paradigm Shift in Initializing Cancer Predictive Models with DCE-MRI Based PK Parameters: A Feasibility Study
+AU  - Roniotis, Alexandros
+AU  - Oraiopoulou, Mariam-Eleni
+AU  - Tzamali, Eleftheria
+AU  - Kontopodis, Eleftherios
+AU  - Van Cauter, Sofie
+AU  - Sakkalis, Vangelis
+AU  - Marias, Kostas
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/CIN.S19339
+DO  - 10.4137/CIN.S19339
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S19339
+VL - 14s4
+PB - SAGE Publications Ltd STM
+N2 - Glioblastoma multiforme is the most aggressive type of glioma and the most common malignant primary intra-axial brain tumor. In an effort to predict the evolution of the disease and optimize therapeutical decisions, several models have been proposed for simulating the growth pattern of glioma. One of the latest models incorporates cell proliferation and invasion, angiogenic net rates, oxygen consumption, and vasculature. These factors, particularly oxygenation levels, are considered fundamental factors of tumor heterogeneity and compartmentalization. This paper focuses on the initialization of the cancer cell populations and vasculature based on imaging examinations of the patient and presents a feasibility study on vasculature prediction over time. To this end, pharmacokinetic parameters derived from dynamic contrast-enhanced magnetic resonance imaging using Toft’s model are used in order to feed the model. Ktrans is used as a metric of the density of endothelial cells (vasculature); at the same time, it also helps to discriminate distinct image areas of interest, under a set of assumptions. Feasibility results of applying the model to a real clinical case are presented, including a study on the effect of certain parameters on the pattern of the simulated tumor.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S19339
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S19339
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effect of matrix and fibre cracks on static and fatigue strength of composite laminates
+AU  - Socci, Carlo Alberto
+AU  - Kassapoglou, Christos
+Y1  - 2022/12/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/00219983221140638
+DO  - 10.1177/00219983221140638
+T2  - Journal of Composite Materials
+JF  - Journal of Composite Materials
+SP  -235
+EP - 251
+VL - 57
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - The effect of matrix and fibre cracks on the static strength and stiffness of uni-directional plies and cross-ply laminates under tensile loads was examined with the goal of understanding the main damage mechanisms. The size of matrix cracks emanating from cracked fibres was determined and found to be in excellent agreement with test results. This was used to predict static tensile failure of uni-directional laminates and was shown to be in good to excellent agreement with test results for six different materials. The approach was extended to fatigue loading by determining the number of cycles for the plastic zone ahead of a matrix crack tip to fail. It was combined with an approach to quantify the effect of matrix cracks under any in-plane loading previously developed by the authors to predict changes in laminate stiffness as a function of cycles. Comparisons with test results showed good to excellent agreement between predicted and measured laminate stiffness as a function of fatigue cycles.
+SN - 0021-9983
+M3  - doi: 10.1177/00219983221140638
+UR  - https://doi-org.crai.referencistas.com/10.1177/00219983221140638
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Real-time simulation of a cat-scale artificial cerebellum on PEZY-SC processors
+AU  - Yamazaki, Tadashi
+AU  - Igarashi, Jun
+AU  - Makino, Junichiro
+AU  - Ebisuzaki, Toshikazu
+Y1  - 2017/06/06
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1094342017710705
+DO  - 10.1177/1094342017710705
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -155
+EP - 168
+VL - 33
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The cerebellum is a part of the brain that plays essential roles in real-time motor learning and control and even cognitive functions. Thanks to the large amount of anatomical and physiological data, we implemented a spiking network model of the cerebellum on Shoubu, an energy-efficient supercomputer with 1280 PEZY-SC processors at RIKEN. Our artificial cerebellum consists of more than one billion neurons, which is comparable to the whole cerebellum of a cat. Using 1008 of 1280 processors on Shoubu, we achieved real-time simulation, that is, a computer simulation of the model for 1 s completes within 1 s of the real world with temporal resolution of 1 ms. Effective performance was estimated as 68 teraflops in single-precision floating points, suggesting 2.6% of peak performance. We expect that the artificial cerebellum will be applicable to various engineering applications, such as robotics and brain-style artificial intelligence.
+SN - 1094-3420
+M3  - doi: 10.1177/1094342017710705
+UR  - https://doi-org.crai.referencistas.com/10.1177/1094342017710705
+Y2  - 2024/10/01
+ER  - 
+

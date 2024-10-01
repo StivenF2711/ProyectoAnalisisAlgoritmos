@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Stepping back from Data and AI for Good – current trends and ways forward
+AU  - Aula, Ville
+AU  - Bowles, James
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20539517231173901
+DO  - 10.1177/20539517231173901
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517231173900
+VL - 10
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Various ‘Data for Good’ and ‘AI for Good’ initiatives have emerged in recent years to promote and organise efforts to use new computational techniques to solve societal problems. The initiatives exercise ongoing influence on how the capabilities of computational techniques are understood as vehicles of social and political change. This paper analyses the development of the initiatives from a rhetorical slogan into a research program that understands itself as a ‘field’ of applications. It discusses recent academic literature on the topic to show a problematic entanglement between the promotion of initiatives and prescriptions of what ‘good’ ought to be. In contrast, we call researchers to take a practical and analytical step back. The paper provides a framework for future research by calling for descriptive research on the composition of the initiatives and critical research that draws from broader social science debates on computational techniques. The empirical part of the paper provides first steps towards this direction by positioning Data and AI for Good initiatives as part of a single continuum and situating it within a historical trajectory that has its immediate precursor in ICT for Development initiatives.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517231173901
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517231173901
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Automobile chain maintenance parts delivery problem using an improved ant colony algorithm
+AU  - Gao, Junjie
+AU  - Gu, Feng
+AU  - Hu, Ping
+AU  - Xie, Yanan
+AU  - Yao, Baozhen
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1177/1687814016665297
+DO  - 10.1177/1687814016665297
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016665297
+VL - 8
+IS - 9
+PB - SAGE Publications
+N2 - The mode of automotive maintenance chain is gaining more and more attention in China because of its advantages such as the lower cost, higher speed, higher availability, and strong adaptability. Since the automobile chain maintenance parts delivery problem is a very complex multi-depot vehicle routing problem with time windows, a virtual center depot is assumed and adopted to transfer multi-depot vehicle routing problem with time windows to multi-depot vehicle routing problem with the virtual central depot, which is similar to a vehicle routing problem with time windows. Then an improved ant colony optimization with saving algorithms, mutation operation, and adaptive ant-weight strategy is presented for the multi-depot vehicle routing problem with the virtual central depot. At last, the computational results for benchmark problems indicate that the proposed algorithm is an effective method to solve the multi-depot vehicle routing problem with time windows. Furthermore, the results of an automobile chain maintenance parts delivery problem also indicate that the improved ant colony algorithm is feasible for solving this kind of delivery problem.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016665297
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016665297
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Practical Guide to Variable Selection in Structural Equation Modeling by Using Regularized Multiple-Indicators, Multiple-Causes Models
+AU  - Jacobucci, Ross
+AU  - Brandmaier, Andreas M.
+AU  - Kievit, Rogier A.
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/2515245919826527
+DO  - 10.1177/2515245919826527
+T2  - Advances in Methods and Practices in Psychological Science
+JF  - Advances in Methods and Practices in Psychological Science
+SP  -55
+EP - 76
+VL - 2
+IS - 1
+PB - SAGE Publications Inc
+N2 - Methodological innovations have allowed researchers to consider increasingly sophisticated statistical models that are better in line with the complexities of real-world behavioral data. However, despite these powerful new analytic approaches, sample sizes may not always be sufficiently large to deal with the increase in model complexity. This difficult modeling scenario entails large models with a limited number of observations given the number of parameters. Here, we describe a particular strategy to overcome this challenge: regularization, a method of penalizing model complexity during estimation. Regularization has proven to be a viable option for estimating parameters in this small-sample, many-predictors setting, but so far it has been used mostly in linear regression models. We show how to integrate regularization within structural equation models, a popular analytic approach in psychology. We first describe the rationale behind regularization in regression contexts and how it can be extended to regularized structural equation modeling. We then evaluate our approach using a simulation study, showing that regularized structural equation modeling outperforms traditional structural equation modeling in situations with a large number of predictors and a small sample size. Next, we illustrate the power of this approach in two empirical examples: modeling the neural determinants of visual short-term memory and identifying demographic correlates of stress, anxiety, and depression.
+SN - 2515-2459
+M3  - doi: 10.1177/2515245919826527
+UR  - https://doi-org.crai.referencistas.com/10.1177/2515245919826527
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning–assisted real-time container corner casting recognition
+AU  - Lee, Jaecheul
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1550147718824462
+DO  - 10.1177/1550147718824462
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147718824462
+VL - 15
+IS - 1
+PB - SAGE Publications
+N2 - Intelligent automated crane systems are now an integral part of container port automation. Accurate corner casting detection boosts the performance of an automated crane system which ultimately automates ships loading and unloading. Existing techniques use various traditional laser-based and vision-based methods for corner casting detection. Challenging weather conditions, varying lighting conditions, light reflections from ground, and container rusting conditions are the main problems that affect the performance of automated cranes. From this line of research, we propose an end-to-end method that takes a low-quality video input and produces bounding boxes around corner castings by applying a recurrent neural network along with long short-term memory units. The expressive image features from GoogLeNet are used to produce intermediate image representations that are further tuned for our system. The proposed system uses back-propagation to allow joint tuning of all components. At least, four cameras are mounted on each crane and input stream is combined into a single image to reduce the computational cost. The proposed system outperforms all existing methods in terms of precision, recall, and F-measure. The proposed method is implemented in a real-time port and produces more than 98% accuracy in all conditions.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147718824462
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147718824462
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Neutral, Non-Disruptive, and Native: Why Do Chinese Nonprofit Scholars Cite English Articles?
+AU  - Ma, Ji
+Y1  - 2023/09/30
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1177/08997640231196892
+DO  - 10.1177/08997640231196892
+T2  - Nonprofit and Voluntary Sector Quarterly
+JF  - Nonprofit and Voluntary Sector Quarterly
+SP  -1028
+EP - 1056
+VL - 53
+IS - 4
+PB - SAGE Publications Inc
+N2 - Language shapes diverse cultures and creates natural barriers between human societies. The landscape of nonprofit and philanthropic studies in non-English languages is barely charted, impeding the globalization of this research field. This project (a) describes the topics shared between English and Chinese scholarship on nonprofits and philanthropy and (b) explores why English scholarship is cited in Chinese journal articles from five aspects: rationale of scholarship, novelty, relevance, social network, and reputation. The English articles cited by Chinese scholars tend to: (a) focus on instrumentality but not expressive values, (b) develop rather than disrupt existing paradigms, and (c) be relevant to topics popular in Chinese literature and have authors with Chinese scholarly connections. In general, Chinese scholars tend to cite English articles that are value-neutral, non-disruptive, and native. Theoretical and methodological implications for examining nonprofit studies in other languages are discussed.
+SN - 0899-7640
+M3  - doi: 10.1177/08997640231196892
+UR  - https://doi-org.crai.referencistas.com/10.1177/08997640231196892
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Phenomenological Model Reproducing Temporal Response Characteristics of an Electrically Stimulated Auditory Nerve Fiber
+AU  - Takanen, Marko
+AU  - Seeber, Bernhard U.
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/23312165221117079
+DO  - 10.1177/23312165221117079
+T2  - Trends in Hearing
+JF  - Trends in Hearing
+JO  - Trends in Hearing
+SP  -23312165221117080
+VL - 26
+PB - SAGE Publications Inc
+N2 - The ability of cochlear implants (CIs) to restore hearing to profoundly deaf people is based on direct electrical stimulation of the auditory nerve fibers (ANFs). Still, CI users do not achieve as good hearing outcomes as their normal-hearing peers. The development and optimization of CI stimulation strategies to reduce that gap could benefit from computational models that can predict responses evoked by different stimulation patterns, particularly temporal responses for coding of temporal fine structure information. To that end, we present the sequential biphasic leaky integrate-and-fire (S-BLIF) model for the ANF response to various pulse shapes and temporal sequences. The phenomenological S-BLIF model is adapted from the earlier BLIF model that can reproduce neurophysiological single-fiber cat ANF data from single-pulse stimulations. It was extended with elements that simulate refractoriness, facilitation, accommodation and long-term adaptation by affecting the threshold value of the model momentarily after supra- and subthreshold stimulation. Evaluation of the model demonstrated that it can reproduce neurophysiological data from single neuron recordings involving temporal phenomena related to inter-pulse interactions. Specifically, data for refractoriness, facilitation, accommodation and spike-rate adaptation can be reproduced. In addition, the model can account for effects of pulse rate on the synchrony between the pulsatile input and the spike-train output. Consequently, the model offers a versatile tool for testing new coding strategies for, e.g., temporal fine structure using pseudo-monophasic pulses, and for estimating the status of the electrode-neuron interface in the CI user’s cochlea.
+SN - 2331-2165
+M3  - doi: 10.1177/23312165221117079
+UR  - https://doi-org.crai.referencistas.com/10.1177/23312165221117079
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive neurorobotics and self in the shared world, a focused review of ongoing research
+AU  - Tani, Jun
+AU  - White, Jeffrey
+Y1  - 2020/10/09
+PY  - 2022
+DA  - 2022/02/01
+N1  - doi: 10.1177/1059712320962158
+DO  - 10.1177/1059712320962158
+T2  - Adaptive Behavior
+JF  - Adaptive Behavior
+SP  -81
+EP - 100
+VL - 30
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - Through brain-inspired modeling studies, cognitive neurorobotics aims to resolve dynamics essential to different emergent phenomena at the level of embodied agency in an object environment shared with human beings. This article is a review of ongoing research focusing on model dynamics associated with human self-consciousness. It introduces the free energy principle and active inference in terms of Bayesian theory and predictive coding, and then discusses how directed inquiry employing analogous models may bring us closer to representing the sense of self in cognitive neurorobots. The first section quickly locates cognitive neurorobotics in the broad field of computational cognitive modeling. The second section introduces principles according to which cognition may be formalized, and reviews cognitive neurorobotics experiments employing such formalizations. The third section interprets the results of these and other experiments in the context of different senses of self, both “minimal” and “narrative” self. The fourth section considers model validity and discusses what we may expect ongoing cognitive neurorobotics studies to contribute to scientific explanation of cognitive phenomena including the senses of minimal and narrative self.
+SN - 1059-7123
+M3  - doi: 10.1177/1059712320962158
+UR  - https://doi-org.crai.referencistas.com/10.1177/1059712320962158
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Experimental characterization of artificial turf infill mixtures and implementation in smoothed particle hydrodynamics numerical model
+AU  - Watson, Brock
+AU  - Bustamante, Michael C.
+AU  - Rycman, Aleksander
+AU  - Correia, Matheus A.
+AU  - Cronin, Duane S.
+Y1  - 2023/07/13
+PY  - 2023
+N1  - doi: 10.1177/17543371231186861
+DO  - 10.1177/17543371231186861
+T2  - Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology
+JF  - Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology
+JO  - Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology
+SP  -17543371231186860
+VL - 0
+IS - 0
+PB - SAGE Publications
+N2 - Quantifying the response of infill used to construct contemporary artificial turf is critical to the development of computational models and providing insights to reduce sports injury associated with artificial turf. In the current study, confined compression and direct shear tests were performed on typical infill materials (sand, SBR and two mixtures (33%: 67%) by-weight). The experimental tests exhibited a progression from high strength and stiffness (sand) to low strength and stiffness (SBR) with the mixtures having intermediate values. Increasing particle size, particularly sand, tended to increase the resistance of the infill to deformation. The experimental results were implemented into a soil constitutive material model and the experimental tests were simulated using a smoothed particle hydrodynamics (SPH) method to verify the implementation in a commercial explicit finite element solver. The SPH method successfully captured the initial loading up to yield, material flow and post-yield behavior, enabling large-scale particle flow that will be necessary to simulate artificial turf. The simulation results predicted the test force-displacement response well for SBR and mixture infills. The proposed methodology demonstrated the ability to measure properties of contemporary artificial turf infills in both compression and shear for pure sand, pure SBR and mixtures of the two, and use these properties to accurately represent the infill in a computational environment. The resulting model can be extended to large-scale turf models, to investigate athlete performance and injury risk when interacting with artificial turf.
+SN - 1754-3371
+M3  - doi: 10.1177/17543371231186861
+UR  - https://doi-org.crai.referencistas.com/10.1177/17543371231186861
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - In Silico Prediction of Synthetic Lethality by Meta-Analysis of Genetic Interactions, Functions, and Pathways in Yeast and Human Cancer
+AU  - Wu, Min
+AU  - Li, Xuejuan
+AU  - Zhang, Fan
+AU  - Li, Xiaoli
+AU  - Kwoh, Chee-Keong
+AU  - Zheng, Jie
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CIN.S14026
+DO  - 10.4137/CIN.S14026
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S14026
+VL - 13s3
+PB - SAGE Publications Ltd STM
+N2 - A major goal in cancer medicine is to find selective drugs with reduced side effect. A pair of genes is called synthetic lethality (SL) if mutations of both genes will kill a cell while mutation of either gene alone will not. Hence, a gene in SL interactions with a cancer-specific mutated gene will be a promising drug target with anti-cancer selectivity. Wet-lab screening approach is still so costly that even for yeast only a small fraction of gene pairs has been covered. Computational methods are therefore important for large-scale discovery of SL interactions. Most existing approaches focus on individual features or machine-learning methods, which are prone to noise or overfitting. In this paper, we propose an approach named MetaSL for predicting yeast SL, which integrates 17 genomic and proteomic features and the outputs of 10 classification methods. MetaSL thus combines the strengths of existing methods and achieves the highest area under the Receiver Operating Characteristics (ROC) curve (AUC) of 87.1% among all competitors on yeast data. Moreover, through orthologous mapping from yeast to human genes, we then predicted several lists of candidate SL pairs in human cancer. Our method and predictions would thus shed light on mechanisms of SL and lead to discovery of novel anti-cancer drugs. In addition, all the experimental results can be downloaded from http://www.ntu.edu.sg/home/zhengjie/data/MetaSL.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S14026
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S14026
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Surface electromyography–based hand movement recognition using the Gaussian mixture model, multilayer perceptron, and AdaBoost method
+AU  - Zhou, Shengli
+AU  - Yin, Kuiying
+AU  - Fei, Fei
+AU  - Zhang, Ke
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1177/1550147719846060
+DO  - 10.1177/1550147719846060
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719846060
+VL - 15
+IS - 4
+PB - SAGE Publications
+N2 - Human movement is closely linked with muscle activities. Research has indicated that predicting human movements with surface electromyography signals is feasible. However, the classification accuracy of surface electromyography signal–based movements is still limited due to the low signal to noise ratio, especially when multiple movement categories are investigated. In this study, six representative time-domain feature extraction techniques and four frequency-domain feature extraction techniques with three different types of classifiers (the statistical classifier Gaussian mixture model, the neural network classifier multilayer perceptron, and the ensemble method AdaBoost) were applied for the recognition of 52 movements in Non-Invasive Adaptive Prosthetics database 1. From the experimental results, we observed that the performance of Gaussian mixture model was superior to that of the multilayer perceptron in both classification accuracy and computational load. When AdaBoost was introduced into the multilayer perceptron, the classification accuracy significantly improved, such that the performance was comparable with that of the Gaussian mixture model. Using the combination of the Gaussian mixture model and the mean of absolute value, we achieved an accuracy rate of 89.5% for the classification of the 52 movements, which was much higher than the 76% rate reported in previous studies.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719846060
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719846060
+Y2  - 2024/10/01
+ER  - 
+

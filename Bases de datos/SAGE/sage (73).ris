@@ -1,0 +1,240 @@
+TY  - JOUR
+T1  - Methodological Issues in Predicting Pediatric Epilepsy Surgery Candidates through Natural Language Processing and Machine Learning
+AU  - AU  - Cohen, Kevin Bretonnel
+AU  - Glass, Benjamin
+AU  - Greiner, Hansel M.
+AU  - Holland-Bouley, Katherine
+AU  - Standridge, Shannon
+AU  - Arya, Ravindra
+AU  - Faist, Robert
+AU  - Morita, Diego
+AU  - Mangano, Francesco
+AU  - Connolly, Brian
+et al.
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/BII.S38308
+DO  - 10.4137/BII.S38308
+T2  - Biomedical Informatics Insights
+JF  - Biomedical Informatics Insights
+JO  - Biomed Inform Insights
+SP  -BII.S38308
+VL - 8
+PB - SAGE Publications Ltd STM
+N2 - Objective: We describe the development and evaluation of a system that uses machine learning and natural language processing techniques to identify potential candidates for surgical intervention for drug-resistant pediatric epilepsy. The data are comprised of free-text clinical notes extracted from the electronic health record (EHR). Both known clinical outcomes from the EHR and manual chart annotations provide gold standards for the patient’s status. The following hypotheses are then tested: 1) machine learning methods can identify epilepsy surgery candidates as well as physicians do and 2) machine learning methods can identify candidates earlier than physicians do. These hypotheses are tested by systematically evaluating the effects of the data source, amount of training data, class balance, classification algorithm, and feature set on classifier performance. The results support both hypotheses, with F-measures ranging from 0.71 to 0.82. The feature set, classification algorithm, amount of training data, class balance, and gold standard all significantly affected classification performance. It was further observed that classification performance was better than the highest agreement between two annotators, even at one year before documented surgery referral. The results demonstrate that such machine learning methods can contribute to predicting pediatric epilepsy surgery candidates and reducing lag time to surgery referral.
+SN - 1178-2226
+M3  - doi: 10.4137/BII.S38308
+UR  - https://doi-org.crai.referencistas.com/10.4137/BII.S38308
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Energy absorption capability of carbon/epoxy composite laminates: A novel numerical approach
+AU  - Engül, Mehmet C.
+AU  - Ersoy, Nuri
+Y1  - 2023/01/10
+PY  - 2023
+DA  - 2023/12/01
+N1  - doi: 10.1177/07316844221150619
+DO  - 10.1177/07316844221150619
+T2  - Journal of Reinforced Plastics and Composites
+JF  - Journal of Reinforced Plastics and Composites
+SP  -1262
+EP - 1276
+VL - 42
+IS - 23–24
+PB - SAGE Publications Ltd STM
+N2 - While composite structures absorb energy well during crash events, crush-induced failure mechanisms and their effects on energy absorption characteristics are still unclear. Due to the complexity of the process, Finite Element (FE) models applied to estimate energy absorption capability of composite structures require a considerable amount of computational time. This study presents a novel numerical approach for the crushing process of AS4/8852 flat coupon plates in which computational cost is decreased by reducing the number of interfaces between plies and modifying the relevant properties. Experimental and numerical studies are conducted for cross-ply specimens [0/90]ns in order to understand and discuss the failure mechanisms occurring during the crushing process in detail and the influence of plate thickness on Specific Energy Absorption (SEA). Moreover, to demonstrate the validity of novel FE model for different stacking sequences, same approach is applied to the [0/45/0/−45]s plate geometry. By this method, run time is decreased by more than 50%.
+SN - 0731-6844
+M3  - doi: 10.1177/07316844221150619
+UR  - https://doi-org.crai.referencistas.com/10.1177/07316844221150619
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Measuring Interdisciplinarity Using Text
+AU  - Evans, Eliza D.
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.1177/2378023116654147
+DO  - 10.1177/2378023116654147
+T2  - Socius
+JF  - Socius
+SP  -2378023116654147
+VL - 2
+PB - SAGE Publications
+N2 - This article presents a new, text-based measure of interdisciplinarity. The author compares the text of a scholar’s publications with text from multiple disciplines and measures the extent to which a scholar’s work integrates language from distal and proximate disciplines. The measure is tested on all faculty members employed at Stanford University between 1993 and 2008. Comparisons among text, citation, and coauthorship measures of interdisciplinarity; measures of disciplinarity; and other variables provide validity evidence for the measure. This text-based measure of interdisciplinarity offers new opportunities for data analysis, especially for unstructured text and within book-centric fields such as the humanities.
+SN - 2378-0231
+M3  - doi: 10.1177/2378023116654147
+UR  - https://doi-org.crai.referencistas.com/10.1177/2378023116654147
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A rolling bearing fault diagnosis method based on LSSVM
+AU  - Gao, Xuejin
+AU  - Wei, Hongfei
+AU  - Li, Tianyao
+AU  - Yang, Guanglu
+Y1  - 2014/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1687814019899561
+DO  - 10.1177/1687814019899561
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019899561
+VL - 12
+IS - 1
+PB - SAGE Publications
+N2 - The fault characteristic signals of rolling bearings are coupled with each other, thus increasing the difficulty in identifying the fault characteristics. In this study, a fault diagnosis method of rolling bearing based on least squares support vector machine is proposed. First, least squares support vector machine model is trained with the samples of known classes. Least squares support vector machine algorithm involves the selection of a kernel function. The complexity of samples in high-dimensional space can be adjusted through changing the parameters of kernel function, thus affecting the search for the optimal function as well as final classification results. Particle swarm optimization and 10-fold cross-validation method are adopted to optimize the parameters in the training model. Then, with the optimized parameters, the classification model is updated. Finally, with the feature vector of the test samples as the input of least squares support vector machine, the pattern recognition of the testing samples is performed to achieve the purpose of fault diagnosis. The actual bearing fault data are analyzed with the diagnosis method. This method allows the accurate classification results and fast diagnosis and can be applied in the diagnosis of compound faults of rolling bearing.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019899561
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019899561
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Aerodynamic performance and analysis of a hovering micro-scale shrouded rotor in confined environment
+AU  - Han, Han
+AU  - Xiang, Changle
+AU  - Xu, Bin
+AU  - Yu, Yong
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1177/1687814018823327
+DO  - 10.1177/1687814018823327
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814018823327
+VL - 11
+IS - 4
+PB - SAGE Publications
+N2 - The aerodynamic characteristics of open rotor hovering in confined environment are extensively studied, but few papers focus on shrouded rotor. In order to study aerodynamic performance and flowfield characteristics of micro-scale shrouded rotor hovering in confined environment, experimental measurements and computational fluid dynamic simulations are conducted in this article. Three cases of confined planes including ground, ceiling, and wall close to shrouded rotor are studied successively. Another case of no confined planes around shrouded rotor is also researched. Results show that both ground and ceiling improve the aerodynamic performance of shrouded rotor at distance below 1.5 rotor radii with the enhanced figure of merit, while wall plane influences flight stability because of the unbalanced moment. The experimental data reveal that the performance of shrouded rotor in-ground effect is more sensitive than that of shrouded rotor in-ceiling effect. However, for in-ground effect or in-ceiling effect, the performance of shrouded rotor is more sensitive than that of open rotor. Flowfield analysis by computational fluid dynamic shows the confined planes block airflow around shrouded rotor. Tip flow leakage and flow separation occur near shroud lip when shrouded rotor is hovering considerably close to ground or ceiling. Turbulent vortices and fluctuating velocities affect the flight stability of shrouded rotor.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814018823327
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814018823327
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Noninvasive Tests for Bladder Cancer Detection and Surveillance: A Systematic Review of Commercially Available Assays
+AU  - Heard, John R.
+AU  - Mitra, Anirban P.
+Y1  - 2024/01/04
+PY  - 2024
+DA  - 2024/01/04
+N1  - doi: 10.3233/BLC-230096
+DO  - 10.3233/BLC-230096
+T2  - Bladder Cancer
+JF  - Bladder Cancer
+SP  -71
+EP - 81
+VL - 10
+IS - 1
+PB - SAGE Publications
+N2 - BACKGROUND: An important reason for the high health care costs associated with bladder cancer is the need for frequent cystoscopy for detection and surveillance of this disease. Cytologic analysis of voided urine specimens can assist, but is too inaccurate to replace cystoscopy. In an effort to create reliable, objective, noninvasive mechanisms for detecting bladder cancer, a number of urine-based molecular tests have been developed with the ultimate goal of reducing the frequency of cystoscopy. OBJECTIVE: To summarize the performance of urine-based biomarker tests, currently commercially available in the US, as part of the initial workup for hematuria and for bladder cancer surveillance. METHODS: In accordance with PRISMA guidelines we performed a systematic review of the literature on the performance of NMP22, BTA, UroVysion, ImmunoCyt/uCyt, CxBladder, and Bladder EpiCheck. Median sensitivity, specificity, negative (NPV) and positive predictive values (PPV) were calculated for each test based on the included studies. RESULTS: Twenty-eight studies met inclusion criteria for the performance of five urine-based biomarker tests in the setting hematuria workup. Median sensitivity ranged from 65.7% –100% and specificity ranged from 62.5% –93.8%. Median NPV ranged from 94.2% –98.3% and PPV ranged from 29% –58.7%. Fourteen studies met inclusion criteria for the performance of six tests in the setting of bladder cancer surveillance. Median sensitivity ranged from 22.6% –92.0% and specificity from 20.5% –97.9%. Median NPV ranged from 52.9% –96.5% and PPV ranged from 48.1% –75.7%. CONCLUSIONS: Our analysis finds that while these tests may provide some clinical utility, none of the assays have thus far demonstrated objective evidence to supplant the gold diagnostic standard.
+SN - 2352-3727
+M3  - doi: 10.3233/BLC-230096
+UR  - https://doi-org.crai.referencistas.com/10.3233/BLC-230096
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Age-related Differences in White Matter Integrity in Healthy Human Brain: Evidence from Structural Mri and Diffusion Tensor Imaging
+AU  - Rathee, Rishu
+AU  - Rallabandi, V.P. Subramanyam
+AU  - Roy, Prasun K.
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/MRI.S39666
+DO  - 10.4137/MRI.S39666
+T2  - Magnetic Resonance Insights
+JF  - Magnetic Resonance Insights
+JO  - Magn Reson�Insights
+SP  -MRI.S39666
+VL - 9
+PB - SAGE Publications Ltd STM
+N2 - The aim is to investigate the relationship between microstructural white matter (WM) diffusivity indices and macrostructural WM volume (WMV) among healthy individuals (20–85 years). Whole-brain diffusion measures were calculated from diffusion tensor imaging using FMRIB software library while WMV was estimated through voxel-based morphometry, and voxel-based analysis was carried out using tract-based spatial statistics. Our results revealed that mean diffusivity, axial diffusivity, and radial diffusivity had shown good correlation with WMV but not for fractional anisotropy (FA). Voxel-wise tract-based spatial statistics analysis for FA showed a significant decrease in four regions for middle-aged group compared to young-aged group, in 22 regions for old-aged group compared to middle-aged group, and in 26 regions for old-aged group compared to young-aged group (P < 0.05). We found significantly lower WMV, FA, and mean diffusivity values in females than males and inverted-U trend for FA in males. We conclude differential age- and gender-related changes for structural WMV and WM diffusion indices.
+SN - 1178-623X
+M3  - doi: 10.4137/MRI.S39666
+UR  - https://doi-org.crai.referencistas.com/10.4137/MRI.S39666
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the Expected Value of Sample Information Using the Probabilistic Sensitivity Analysis Sample: A Fast, Nonparametric Regression-Based Method
+AU  - Strong, Mark
+AU  - Oakley, Jeremy E.
+AU  - Brennan, Alan
+AU  - Breeze, Penny
+Y1  - 2015/03/25
+PY  - 2015
+DA  - 2015/07/01
+N1  - doi: 10.1177/0272989X15575286
+DO  - 10.1177/0272989X15575286
+T2  - Medical Decision Making
+JF  - Medical Decision Making
+JO  - Med Decis Making
+SP  -570
+EP - 583
+VL - 35
+IS - 5
+PB - SAGE Publications Inc STM
+N2 - Health economic decision-analytic models are used to estimate the expected net benefits of competing decision options. The true values of the input parameters of such models are rarely known with certainty, and it is often useful to quantify the value to the decision maker of reducing uncertainty through collecting new data. In the context of a particular decision problem, the value of a proposed research design can be quantified by its expected value of sample information (EVSI). EVSI is commonly estimated via a 2-level Monte Carlo procedure in which plausible data sets are generated in an outer loop, and then, conditional on these, the parameters of the decision model are updated via Bayes rule and sampled in an inner loop. At each iteration of the inner loop, the decision model is evaluated. This is computationally demanding and may be difficult if the posterior distribution of the model parameters conditional on sampled data is hard to sample from. We describe a fast nonparametric regression-based method for estimating per-patient EVSI that requires only the probabilistic sensitivity analysis sample (i.e., the set of samples drawn from the joint distribution of the parameters and the corresponding net benefits). The method avoids the need to sample from the posterior distributions of the parameters and avoids the need to rerun the model. The only requirement is that sample data sets can be generated. The method is applicable with a model of any complexity and with any specification of model parameter distribution. We demonstrate in a case study the superior efficiency of the regression method over the 2-level Monte Carlo method.
+SN - 0272-989X
+M3  - doi: 10.1177/0272989X15575286
+UR  - https://doi-org.crai.referencistas.com/10.1177/0272989X15575286
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Microarray-Based Cancer Prediction Using Soft Computing Approach
+AU  - Wang, Xiaosheng
+AU  - Gotoh, Osamu
+Y1  - 2009/01/01
+PY  - 2009
+DA  - 2009/01/01
+N1  - doi: 10.4137/CIN.S2655
+DO  - 10.4137/CIN.S2655
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S2655
+VL - 7
+PB - SAGE Publications Ltd STM
+N2 - One of the difficulties in using gene expression profiles to predict cancer is how to effectively select a few informative genes to construct accurate prediction models from thousands or ten thousands of genes. We screen highly discriminative genes and gene pairs to create simple prediction models involved in single genes or gene pairs on the basis of soft computing approach and rough set theory. Accurate cancerous prediction is obtained when we apply the simple prediction models for four cancerous gene expression datasets: CNS tumor, colon tumor, lung cancer and DLBCL. Some genes closely correlated with the pathogenesis of specific or general cancers are identified. In contrast with other models, our models are simple, effective and robust. Meanwhile, our models are interpretable for they are based on decision rules. Our results demonstrate that very simple models may perform well on cancerous molecular prediction and important gene markers of cancer can be detected if the gene selection approach is chosen reasonably.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S2655
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S2655
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Ocimum basilicum and Ocimum americanum: A Systematic Literature Review on Chemical Compositions and Antimicrobial Properties
+AU  - Wirtu, Shuma Fayera
+AU  - Mishra, Ashutosh Kumar
+AU  - Jule, Leta Tesfaye
+AU  - Ramaswamy, Krishnaraj
+Y1  - 2024/04/01
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1177/1934578X241247640
+DO  - 10.1177/1934578X241247640
+T2  - Natural Product Communications
+JF  - Natural Product Communications
+SP  -1934578X241247640
+VL - 19
+IS - 4
+PB - SAGE Publications Inc
+N2 - Objectives This systematic review aimed to evaluate the chemical compositions and Pharmacological applications of Ocimum basilicum, known as sweet basil, and Ocimum americanum, known as hoary basil, to assess their antimicrobial properties. Both plants are renowned for their culinary uses and medicinal properties, with studies suggesting potential therapeutic benefits due to their rich essential oil. Methods A systematic approach was adopted to gather and analyze the relevant literature on the chemical profiles and pharmacological activities of Ocimum basilicum and Ocimum americanum. Electronic databases including Web of Science, ScienceDirect, Google Scholar, and PubMed were searched using keywords such as chemical composition of Ocimum basilicum, chemical composition of Ocimum americanum, antimicrobial activities of Ocimum basilicum, and antimicrobial activities of Ocimum americanum. Results Ninety-nine articles meeting the determined inclusion criteria were incorporated in this systematic review. Several studies have consistently demonstrated the antimicrobial activities of these 2 plants, although the specific compounds responsible for this activity vary between the 2 species. Conclusion The diverse array of bioactive molecules present in these plants contributes to their pharmacological effects, suggesting avenues for further research into their therapeutic applications. This review supports the continued exploration of the medicinal properties and potential development of sweet basil and hoary basil as antimicrobial agents.
+SN - 1934-578X
+M3  - doi: 10.1177/1934578X241247640
+UR  - https://doi-org.crai.referencistas.com/10.1177/1934578X241247640
+Y2  - 2024/10/01
+ER  - 
+

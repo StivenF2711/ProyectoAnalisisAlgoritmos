@@ -1,0 +1,250 @@
+TY  - JOUR
+T1  - What are patterns in the humanities?
+AU  - van den Akker, Chiel
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1080/03080188.2017.1296265
+DO  - 10.1080/03080188.2017.1296265
+T2  - Interdisciplinary Science Reviews
+JF  - Interdisciplinary Science Reviews
+SP  -74
+EP - 86
+VL - 43
+IS - 1
+PB - SAGE Publications
+N2 - This paper is concerned with patterns in past human behaviour, what they are, and how this relates to the detection of patterns in data by means of computation. Theorists have not given patterns the attention they deserve. Therefore it is far from clear what patterns are and to what purpose scholars may use them. This paper presents eight propositions on patterns which hold true for patterns found ‘by hand’ and patterns found ‘by computation’. One such is that a pattern is discernible in behaviour when we subject it to the intentional stance, as the philosopher Daniel Dennett argues. Here behaviour is part of an intentional system. This paper’s argument is that the patterns found ‘by computation’ too are part of an intentional system. To substantiate this claim this paper discusses two important examples of detecting computational patterns in the domain of the humanities.
+SN - 0308-0188
+M3  - doi: 10.1080/03080188.2017.1296265
+UR  - https://doi-org.crai.referencistas.com/10.1080/03080188.2017.1296265
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Genomic Interventions in Medicine
+AU  - Aworunse, Oluwadurotimi S.
+AU  - Adeniji, Oluwatomiwa
+AU  - Oyesola, Olusola L.
+AU  - Isewon, Itunuoluwa
+AU  - Oyelade, Jelili
+AU  - Obembe, Olawole O.
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1177932218816100
+DO  - 10.1177/1177932218816100
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -1177932218816100
+VL - 12
+PB - SAGE Publications Ltd STM
+N2 - Lately, the term “genomics” has become ubiquitous in many scientific articles. It is a rapidly growing aspect of the biomedical sciences that studies the genome. The human genome contains a torrent of information that gives clues about human origin, evolution, biological function, and diseases. In a bid to demystify the workings of the genome, the Human Genome Project (HGP) was initiated in 1990, with the chief goal of sequencing the approximately 3 billion nucleotide base pairs of the human DNA. Since its completion in 2003, the HGP has opened new avenues for the application of genomics in clinical practice. This review attempts to overview some milestone discoveries that paved way for the initiation of the HGP, remarkable revelations from the HGP, and how genomics is influencing a paradigm shift in routine clinical practice. It further highlights the challenges facing the implementation of genomic medicine, particularly in Africa. Possible solutions are also discussed.
+SN - 1177-9322
+M3  - doi: 10.1177/1177932218816100
+UR  - https://doi-org.crai.referencistas.com/10.1177/1177932218816100
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Schumacher in the age of generative AI: Towards a new critique of technology
+AU  - Berry, David M.
+AU  - Stockman, James
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1177/13684310241234028
+DO  - 10.1177/13684310241234028
+T2  - European Journal of Social Theory
+JF  - European Journal of Social Theory
+SP  -437
+EP - 455
+VL - 27
+IS - 3
+PB - SAGE Publications Ltd
+N2 - This article sets out to bring E. F. Schumacher’s social theory of technology into dialogue with recent advances in the field of generative artificial intelligence (AI). By generative AI, we are here referring to a new constellation of machine learning technologies that aim to simulate and, subsequently, automate human creativity, with a particular focus on OpenAI’s GPT-3 family (ChatGPT and DALL-E). Often overlooked in contemporary debates on machine learning and AI, we argue that Schumacher’s 1973 book, Small is Beautiful, offers a series of insights and concepts that are increasingly relevant for the development of a humanist politics under conditions of computation. With a particular focus on Schumacher’s account of ‘intermediate technology’, we suggest that his emphasis on the social role of human creativity and identification of scale as a crucial concept to deploy in critiquing technology together provide a unique framework within which to (a) address the rise of what we call ‘pathologies of meaning’ and (b) offer a powerful way to consider alternatives to the gigantisms of the FAANG (Facebook, Amazon, Apple, Netflix, Google) and Silicon Valley-style ideologies of digital transformation.
+SN - 1368-4310
+M3  - doi: 10.1177/13684310241234028
+UR  - https://doi-org.crai.referencistas.com/10.1177/13684310241234028
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Toward interpretable and generalized mitosis detection in digital pathology using deep learning
+AU  - Farooq, Hasan
+AU  - Saleem, Saira
+AU  - Aleem, Iffat
+AU  - Iftikhar, Ayesha
+AU  - Sheikh, Umer Nisar
+AU  - Naveed, Hammad
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/20552076241255471
+DO  - 10.1177/20552076241255471
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076241255470
+VL - 10
+PB - SAGE Publications Ltd
+N2 - Objective The mitotic activity index is an important prognostic factor in the diagnosis of cancer. The task of mitosis detection is difficult as the nuclei are microscopic in size and partially labeled, and there are many more non-mitotic nuclei compared to mitotic ones. In this paper, we highlight the challenges of current mitosis detection pipelines and propose a method to tackle these challenges. Methods Our proposed methodology is inspired from recent research on deep learning and an extensive analysis on the dataset and training pipeline. We first used the MiDoG′22 dataset for training, validation, and testing. We then tested the methodology without fine-tuning on the TUPAC′16 dataset and on a real-time case from Shaukat Khanum Memorial Cancer Hospital and Research Centre. Results Our methodology has shown promising results both quantitatively and qualitatively. Quantitatively, our methodology achieved an F1-score of 0.87 on the MiDoG’22 dataset and an F1-score of 0.83 on the TUPAC dataset. Qualitatively, our methodology is generalizable and interpretable across various datasets and clinical settings. Conclusion In this paper, we highlight the challenges of current mitosis detection pipelines and propose a method that can accurately predict mitotic nuclei. We illustrate the accuracy, generalizability, and interpretability of our approach across various datasets and clinical settings. Our methodology can speed up the adoption of computer-aided digital pathology in clinical settings.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076241255471
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076241255471
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Scalable information-theoretic path planning for a rover-helicopter team in uncertain environments
+AU  - Folsom, Larkin
+AU  - Ono, Masahiro
+AU  - Otsu, Kyohei
+AU  - Park, Hyoshin
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1177/1729881421999587
+DO  - 10.1177/1729881421999587
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881421999587
+VL - 18
+IS - 2
+PB - SAGE Publications
+N2 - Mission-critical exploration of uncertain environments requires reliable and robust mechanisms for achieving information gain. Typical measures of information gain such as Shannon entropy and KL divergence are unable to distinguish between different bimodal probability distributions or introduce bias toward one mode of a bimodal probability distribution. The use of a standard deviation (SD) metric reduces bias while retaining the ability to distinguish between higher and lower risk distributions. Areas of high SD can be safely explored through observation with an autonomous Mars Helicopter allowing safer and faster path plans for ground-based rovers. First, this study presents a single-agent information-theoretic utility-based path planning method for a highly correlated uncertain environment. Then, an information-theoretic two-stage multiagent rapidly exploring random tree framework is presented, which guides Mars helicopter through regions of high SD to reduce uncertainty for the rover. In a Monte Carlo simulation, we compare our information-theoretic framework with a rover-only approach and a naive approach, in which the helicopter scouts ahead of the rover along its planned path. Finally, the model is demonstrated in a case study on the Jezero region of Mars. Results show that the information-theoretic helicopter improves the travel time for the rover on average when compared with the rover alone or with the helicopter scouting ahead along the rover’s initially planned route.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881421999587
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881421999587
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Representing argumentation schemes with Constraint Handling Rules (CHR)
+AU  - Gordon, Thomas F.
+AU  - Friedrich, Horst
+AU  - Walton, Douglas
+AU  - Grasso, Floriana
+AU  - Green, Nancy L.
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.3233/AAC-180039
+DO  - 10.3233/AAC-180039
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -91
+EP - 119
+VL - 9
+IS - 2
+PB - SAGE Publications
+N2 - We present a high-level declarative programming language for representing argumentation schemes, where schemes represented in this language can be easily validated by domain experts, including developers of argumentation schemes in informal logic and philosophy, and serve as executable specifications for automatically constructing arguments, when applied to a set of assumptions. Since argumentation schemes are defeasible inference rules, both premises and conclusions of schemes can be second-order schema variables, i.e. without a fixed predicate symbol. Thus, while particular schemes can be and have been implemented in computer programs, in general argumentation schemes cannot be represented as executable specifications using logic programming languages based on first-order logic, such as Prolog. Moreover, even if the conclusion (head) of Prolog rules could be second-order variables, a depth-first, backward-chaining search strategy, as typically used in logic programming, would usually cause such programs to not terminate, since every goal would match the head of such a scheme, including all goals created by instantiating the body of the same scheme. The language for representing argumentation schemes presented here, for the purpose of automatically constructing arguments, uses Constraint Handling Rules (CHR), a declarative, Turing complete, forwards-chaining, rule-based programming language introduced by Thom Frühwirth in 1991. CHR is attractive for representing and implementing argumentation for several reasons, including: 1) Inference rules, rewrite rules, sequents, proof rules, and logical axioms can be directly written in CHR. 2) The execution of CHR rules can be interrupted and restarted at any time, with intermediate results approximating the final solution, and 3) Constraints can be input incrementally as they become known, during rule execution, without requiring recomputation. These three properties of CHR appear attractive for representing and implementing argumentation schemes. Since argumentation schemes are (defeasible) inference rules, the ability of CHR to represent inference rules directly would appear to be quite useful. The ability to stop the computation and produce approximate results is compatible with one objective of argumentation, to provide a principled method for supporting approximate reasoning with limited resources. Because argumentation typically takes place in dialogs, with evidence and arguments brought forward and asserted by the participants incrementally, during the course of the dialog, CHR’s ability to handle new information, incrementally introduced during the computation, may be useful. This new rule language for representing argumentation schemes is validated by using it to represent twenty representative argumentation schemes.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-180039
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-180039
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Unlocking biomedical data sharing: A structured approach with digital twins and artificial intelligence (AI) for open health sciences
+AU  - Jean-Quartier, Claire
+AU  - Stryeck, Sarah
+AU  - Thien, Alexander
+AU  - Vrella, Burim
+AU  - Kleinschuster, Jeremias
+AU  - Spreitzer, Emil
+AU  - Wali, Mojib
+AU  - Mueller, Heimo
+AU  - Holzinger, Andreas
+AU  - Jeanquartier, Fleur
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/20552076241271769
+DO  - 10.1177/20552076241271769
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076241271770
+VL - 10
+PB - SAGE Publications Ltd
+N2 - Objective Data sharing promotes the scientific progress. However, not all data can be shared freely due to privacy issues. This work is intended to foster FAIR sharing of sensitive data exemplary in the biomedical domain, via an integrated computational approach for utilizing and enriching individual datasets by scientists without coding experience. Methods We present an in silico pipeline for openly sharing controlled materials by generating synthetic data. Additionally, it addresses the issue of inexperience to computational methods in a non-IT-affine domain by making use of a cyberinfrastructure that runs and enables sharing of computational notebooks without the need of local software installation. The use of a digital twin based on cancer datasets serves as exemplary use case for making biomedical data openly available. Quantitative and qualitative validation of model output as well as a study on user experience are conducted. Results The metadata approach describes generalizable descriptors for computational models, and outlines how to profit from existing data resources for validating computational models. The use of a virtual lab book cooperatively developed using a cloud-based data management and analysis system functions as showcase enabling easy interaction between users. Qualitative testing revealed a necessity for comprehensive guidelines furthering acceptance by various users. Conclusion The introduced framework presents an integrated approach for data generation and interpolating incomplete data, promoting Open Science through reproducibility of results and methods. The system can be expanded from the biomedical to any other domain while future studies integrating an enhanced graphical user interface could increase interdisciplinary applicability.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076241271769
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076241271769
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Comparing perturbation models for evaluating stability of neuroimaging pipelines
+AU  - Kiar, Gregory
+AU  - de Oliveira Castro, Pablo
+AU  - Rioux, Pierre
+AU  - Petit, Eric
+AU  - Brown, Shawn T.
+AU  - Evans, Alan C.
+AU  - Glatard, Tristan
+Y1  - 2020/05/21
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1177/1094342020926237
+DO  - 10.1177/1094342020926237
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -491
+EP - 501
+VL - 34
+IS - 5
+PB - SAGE Publications Ltd STM
+N2 - With an increase in awareness regarding a troubling lack of reproducibility in analytical software tools, the degree of validity in scientific derivatives and their downstream results has become unclear. The nature of reproducibility issues may vary across domains, tools, data sets, and computational infrastructures, but numerical instabilities are thought to be a core contributor. In neuroimaging, unexpected deviations have been observed when varying operating systems, software implementations, or adding negligible quantities of noise. In the field of numerical analysis, these issues have recently been explored through Monte Carlo Arithmetic, a method involving the instrumentation of floating-point operations with probabilistic noise injections at a target precision. Exploring multiple simulations in this context allows the characterization of the result space for a given tool or operation. In this article, we compare various perturbation models to introduce instabilities within a typical neuroimaging pipeline, including (i) targeted noise, (ii) Monte Carlo Arithmetic, and (iii) operating system variation, to identify the significance and quality of their impact on the resulting derivatives. We demonstrate that even low-order models in neuroimaging such as the structural connectome estimation pipeline evaluated here are sensitive to numerical instabilities, suggesting that stability is a relevant axis upon which tools are compared, alongside more traditional criteria such as biological feasibility, computational efficiency, or, when possible, accuracy. Heterogeneity was observed across participants which clearly illustrates a strong interaction between the tool and data set being processed, requiring that the stability of a given tool be evaluated with respect to a given cohort. We identify use cases for each perturbation method tested, including quality assurance, pipeline error detection, and local sensitivity analysis, and make recommendations for the evaluation of stability in a practical and analytically focused setting. Identifying how these relationships and recommendations scale to higher order computational tools, distinct data sets, and their implication on biological feasibility remain exciting avenues for future work.
+SN - 1094-3420
+M3  - doi: 10.1177/1094342020926237
+UR  - https://doi-org.crai.referencistas.com/10.1177/1094342020926237
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear Dose–Response Modeling of High-Throughput Screening Data Using an Evolutionary Algorithm
+AU  - Ma, Jun
+AU  - Bair, Eric
+AU  - Motsinger-Reif, Alison
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/1559325820926734
+DO  - 10.1177/1559325820926734
+T2  - Dose-Response
+JF  - Dose-Response
+SP  -1559325820926734
+VL - 18
+IS - 2
+PB - SAGE Publications Inc
+N2 - Nonlinear dose–response relationships exist extensively in the cellular, biochemical, and physiologic processes that are affected by varying levels of biological, chemical, or radiation stress. Modeling such responses is a crucial component of toxicity testing and chemical screening. Traditional model fitting methods such as nonlinear least squares (NLS) are very sensitive to initial parameter values and often had convergence failure. The use of evolutionary algorithms (EAs) has been proposed to address many of the limitations of traditional approaches, but previous methods have been limited in the types of models they can fit. Therefore, we propose the use of an EA for dose–response modeling for a range of potential response model functional forms. This new method can not only fit the most commonly used nonlinear dose–response models (eg, exponential models and 3-, 4-, and 5-parameter logistic models) but also select the best model if no model assumption is made, which is especially useful in the case of high-throughput curve fitting. Compared with NLS, the new method provides stable and robust solutions without sensitivity to initial values.
+SN - 1559-3258
+M3  - doi: 10.1177/1559325820926734
+UR  - https://doi-org.crai.referencistas.com/10.1177/1559325820926734
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Full-scale aerodynamic study on the effects of tower wind shields and road-sign gantries on passing high-sided vehicles in the tower region at the Queensferry Crossing
+AU  - Zhu, Licheng
+AU  - McCrum, Daniel
+AU  - Keenahan, Jennifer
+Y1  - 2024/03/22
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1177/13694332241240659
+DO  - 10.1177/13694332241240659
+T2  - Advances in Structural Engineering
+JF  - Advances in Structural Engineering
+SP  -1055
+EP - 1070
+VL - 27
+IS - 6
+PB - SAGE Publications Ltd STM
+N2 - A novel investigation into the impact of the tower road-sign gantry and the tower shielding on double-decker buses and trucks passing by the bridge tower based on a previously validated full-scale CFD model. Two sets of simulations were conducted for comparison of aerodynamic force conditions of vehicles as they pass by the bridge tower: first group of simulations were performed including and excluding the road-sign gantry; and the second group include and exclude the tower shielding. Conditions in different traffic lanes (one on leeward side and two on windward side) considered. The effect of changes in wind yaw angle are also considered. Mechanism exploration on the variation of vehicle aerodynamic force conditions was made based on the numerical visualization of wind velocity field and pressure field. Novel results suggest that the road-sign gantry provides a sheltering effect in some circumstances, but a destabilizing effect in others. In addition, the tower shielding shows significant impact on reducing aerodynamic forces and sudden force changes of the high-sided vehicles while they are passing by the bridge tower.
+SN - 1369-4332
+M3  - doi: 10.1177/13694332241240659
+UR  - https://doi-org.crai.referencistas.com/10.1177/13694332241240659
+Y2  - 2024/10/01
+ER  - 
+

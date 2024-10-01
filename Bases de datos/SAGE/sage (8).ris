@@ -1,0 +1,232 @@
+TY  - JOUR
+T1  - Chaste: A case study of parallelisation of an open source finite-element solver with          applications to computational cardiac electrophysiology simulation
+AU  - Bernabeu, Miguel O.
+AU  - Southern, James
+AU  - Wilson, Nicholas
+AU  - Strazdins, Peter
+AU  - Cooper, Jonathan
+AU  - Pitt-Francis, Joe
+Y1  - 2013/02/10
+PY  - 2014
+DA  - 2014/02/01
+N1  - doi: 10.1177/1094342012474997
+DO  - 10.1177/1094342012474997
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -13
+EP - 32
+VL - 28
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The simulation of cardiac electrophysiology is a mature field in computational physiology. Recent advances in medical imaging, high-performance computing and numerical methods mean that computational models of electrical propagation in human heart tissue are ripe for use in patient-specific simulation for diagnosis, for prognosis and for selection of treatment methods. However, in order to move in this direction, it is necessary to make efficient use of modern petascale computing resources. This paper focuses on an existing open source simulation framework (Chaste) and documents work done to improve the parallel scaling on a small range of electrophysiology benchmark problems. These benchmarks involve the numerical solution of the monodomain or bidomain equations via the finite-element method. At the beginning of this study the electrophysiology libraries within Chaste were already enabled to run in parallel and were able to solve for electrical propagation using the monodomain or bidomain equations, but parallel efficiency dropped rapidly when run on more than about 64 processors. Throughout the course of the study, improvements were made to problem definition input; geometric mesh partitioning; finite-element assembly of large, sparse linear systems; problem-specific matrix preconditioning; numerical solution of the linear system; and output of the approximate solution. The consequence of these improvements is that, at the end of the study, Chaste is able to solve a monodomain benchmark problem in close to real time. While some of the improvements made to the parallel Chaste code are specific to cardiac electrophysiology, many of the techniques documented in this paper are generic to the parallel finite-element method in other scientific application areas.
+SN - 1094-3420
+M3  - doi: 10.1177/1094342012474997
+UR  - https://doi-org.crai.referencistas.com/10.1177/1094342012474997
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Computational deconvolution of transcriptomic data for the study of tumor-infiltrating immune cells
+AU  - Bolis, Marco
+AU  - Vallerga, Arianna
+AU  - Fratelli, Maddalena
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - doi: 10.1177/1724600820903317
+DO  - 10.1177/1724600820903317
+T2  - The International Journal of Biological Markers
+JF  - The International Journal of Biological Markers
+JO  - Int J Biol Markers
+SP  -20
+EP - 22
+VL - 35
+IS - 1_suppl
+PB - SAGE Publications Ltd STM
+N2 - Cancer is a complex disease characterized by a wide array of mutually interacting components constituting the tumor microenvironment (connective tissue, vascular system, immune cells), many of which are targeted therapeutically. In particular, immune checkpoint inhibitors have recently become an established part of the treatment of cancer. Despite great promise, only a portion of the patients display durable response. Current research efforts are concentrated on the determination of tumor-specific biomarkers predictive of response, such as tumor mutational burden, microsatellite instability, and neo-antigen presentation. However, it is clear that several additional characteristics pertaining to the tumor microenvironment play a critical role in the effectiveness of immunotherapy. Here we comment on the computational methods that are used for the analysis of the tumor microenvironment components from transcriptomic data, discuss the critical needs, and foresee potential evolutions in the field.
+SN - 0393-6155
+M3  - doi: 10.1177/1724600820903317
+UR  - https://doi-org.crai.referencistas.com/10.1177/1724600820903317
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The sound of disinformation: TikTok, computational propaganda, and the invasion of Ukraine
+AU  - Bösch, Marcus
+AU  - Divon, Tom
+Y1  - 2024/08/30
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1177/14614448241251804
+DO  - 10.1177/14614448241251804
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -5081
+EP - 5106
+VL - 26
+IS - 9
+PB - SAGE Publications
+N2 - TikTok has emerged as a powerful platform for the dissemination of mis- and disinformation about the war in Ukraine. During the initial three months after the Russian invasion in February 2022, videos under the hashtag #Ukraine garnered 36.9 billion views, with individual videos scaling up to 88 million views. Beyond the traditional methods of spreading misleading information through images and text, the medium of sound has emerged as a novel, platform-specific audiovisual technique. Our analysis distinguishes various war-related sounds utilized by both Ukraine and Russia and classifies them into a mis- and disinformation typology. We use computational propaganda features—automation, scalability, and anonymity—to explore how TikTok’s auditory practices are exploited to exacerbate information disorders in the context of ongoing war events. These practices include reusing sounds for coordinated campaigns, creating audio meme templates for rapid amplification and distribution, and deleting the original sounds to conceal the orchestrators’ identities. We conclude that TikTok’s recommendation system (the “for you” page) acts as a sound space where exposure is strategically navigated through users’ intervention, enabling semi-automated “soft” propaganda to thrive by leveraging its audio features.
+SN - 1461-4448
+M3  - doi: 10.1177/14614448241251804
+UR  - https://doi-org.crai.referencistas.com/10.1177/14614448241251804
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - No recognised ethical standards, no broad consent: navigating the quandary in computational social science research
+AU  - El-Sayed, Seliem
+AU  - Paspalj, Filip
+Y1  - 2024/04/19
+PY  - 2024
+DA  - 2024/07/01
+N1  - doi: 10.1177/17470161241247686
+DO  - 10.1177/17470161241247686
+T2  - Research Ethics
+JF  - Research Ethics
+SP  -433
+EP - 452
+VL - 20
+IS - 3
+PB - SAGE Publications Ltd
+N2 - Recital 33 GDPR has often been interpreted as referring to ‘broad consent’. This version of informed consent was intended to allow data subjects to provide their consent for certain areas of research, or parts of research projects, conditional to the research being in line with ‘recognised ethical standards’. In this article, we argue that broad consent is applicable in the emerging field of Computational Social Science (CSS), which lies at the intersection of data science and social science. However, the lack of recognised ethical standards specific to CSS poses a practical barrier to the use of broad consent in this field and other fields that lack recognised ethical standards. Upon examining existing research ethics standards in social science and data science, we argue that they are insufficient for CSS. We further contend that the fragmentation of European Union (EU) law and research ethics sources makes it challenging to establish universally recognised ethical standards for scientific research. As a result, CSS researchers and other researchers in emerging fields that lack recognised ethical standards are left without sufficient guidance on the use of broad consent as provided for in the GDPR. We conclude that responsible EU bodies should provide additional guidance to facilitate the use of broad consent in CSS research.
+SN - 1747-0161
+M3  - doi: 10.1177/17470161241247686
+UR  - https://doi-org.crai.referencistas.com/10.1177/17470161241247686
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Advancing the digital and computational capabilities of healthcare providers: A qualitative study of a hospital organisation in the NHS
+AU  - Gardner, John
+AU  - Herron, Daniel
+AU  - McNally, Nick
+AU  - Williams, Bryan
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20552076231186513
+DO  - 10.1177/20552076231186513
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076231186510
+VL - 9
+PB - SAGE Publications Ltd
+N2 - Objective Healthcare systems require transformation to meet societal challenges and projected health demands. Digital and computational tools and approaches are fundamental to this transformation, and hospitals have a key role to play in their development and implementation. This paper reports on a study with the objective of exploring the challenges encountered by hospital leaders and innovators as they implement a strategy to become a data-driven hospital organisation. In doing so, this paper provides guidance to future leaders and innovators seeking to build computational and digital capabilities in complex clinical settings. Methods Interviews were undertaken with 42 participants associated with a large public hospital organisation within England’s National Health Service. Using the concept of institutional readiness as an analytical framework, the paper explores participants’ perspectives on the organisation’s capacity to support the development of, and benefit from, digital and computational approaches. Results Participants’ accounts reveal a range of specific institutional readiness criteria relating to organisational vision, technical capability, organisational agility, and talent and skills that, when met, enhance the organisations’ capacity to support the development and implementation of digital and computational tools. Participant accounts also reveal challenges relating to these criteria, such as unrealistic expectations and the necessary prioritisation of clinical work in resource-constrained settings. Conclusions The paper identifies a general set of institutional readiness criteria that can guide future hospital leaders and innovators aiming to improve their organisation’s digital and computational capability. The paper also illustrates the challenges of pursuing digital and computational innovation in resource-constrained hospital environments.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076231186513
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076231186513
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Installing computational social science: Facing the challenges of new information and communication technologies in social science
+AU  - Heiberger, Raphael H.
+AU  - Riebling, Jan R.
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.1177/2059799115622763
+DO  - 10.1177/2059799115622763
+T2  - Methodological Innovations
+JF  - Methodological Innovations
+SP  -2059799115622763
+VL - 9
+PB - SAGE Publications Ltd
+N2 - Today’s world allows people to connect over larger distances and in shorter intervals than ever before, widely monitored by massive online data sources. Ongoing worldwide computerization has led to completely new opportunities for social scientists to conceive human interactions and relations in unknown precision and quantities. However, the large data sets require techniques that are more likely to be found in computer and natural sciences than in the established fields of social relations. In order to facilitate the participation of social scientists in an emerging interdisciplinary research branch of “computational social science,” we propose in this article the usage of the Python programming language. First, we carve out its capacity to handle “Big Data” in suitable formats. Second, we introduce programming libraries to analyze large networks and big text corpora, conduct simulations, and compare their performance to their counterparts in the R environment. Furthermore, we highlight practical tools implemented in Python for operational tasks like preparing presentations. Finally, we discuss how the process of writing code may help to exemplify theoretical concepts and could lead to empirical applications that gain a better understanding of the social processes initiated by the truly global connections of the Internet era.
+SN - 2059-7991
+M3  - doi: 10.1177/2059799115622763
+UR  - https://doi-org.crai.referencistas.com/10.1177/2059799115622763
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Computational Design of Targeted Inhibitors of Polo-Like Kinase 1 (Plk1)
+AU  - Jani, Krupa S.
+AU  - Dalafave, D.S.
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - doi: 10.4137/BBI.S8971
+DO  - 10.4137/BBI.S8971
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S8971
+VL - 6
+PB - SAGE Publications Ltd STM
+N2 - Computational design of small molecule putative inhibitors of Polo-like kinase 1 (Plk1) is presented. Plk1, which regulates the cell cycle, is often over expressed in cancers. Down regulation of Plk1 has been shown to inhibit tumor progression. Most kinase inhibitors interact with the ATP binding site on Plk1, which is highly conserved. This makes the development of Plk1-specific inhibitors challenging, since different kinases have similar ATP sites. However, Plk1 also contains a unique region called the polo-box domain (PBD), which is absent from other kinases. In this study, the PBD site was used as a target for designed Plk1 putative inhibitors. Common structural features of several experimentally known Plk1 ligands were first identified. The findings were used to design small molecules that specifically bonded Plk1. Drug likeness and possible toxicities of the molecules were investigated. Molecules with no implied toxicities and optimal drug likeness values were used for docking studies. Several molecules were identified that made stable complexes only with Plk1 and LYN kinases, but not with other kinases. One molecule was found to bind exclusively the PBD site of Plk1. Possible utilization of the designed molecules in drugs against cancers with over expressed Plk1 is discussed.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S8971
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S8971
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Understanding Dyslexia Through Personalized Large-Scale Computational Models
+AU  - Perry, Conrad
+AU  - Zorzi, Marco
+AU  - Ziegler, Johannes C.
+Y1  - 2019/02/07
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/0956797618823540
+DO  - 10.1177/0956797618823540
+T2  - Psychological Science
+JF  - Psychological Science
+JO  - Psychol Sci
+SP  -386
+EP - 395
+VL - 30
+IS - 3
+PB - SAGE Publications Inc
+N2 - Learning to read is foundational for literacy development, yet many children in primary school fail to become efficient readers despite normal intelligence and schooling. This condition, referred to as developmental dyslexia, has been hypothesized to occur because of deficits in vision, attention, auditory and temporal processes, and phonology and language. Here, we used a developmentally plausible computational model of reading acquisition to investigate how the core deficits of dyslexia determined individual learning outcomes for 622 children (388 with dyslexia). We found that individual learning trajectories could be simulated on the basis of three component skills related to orthography, phonology, and vocabulary. In contrast, single-deficit models captured the means but not the distribution of reading scores, and a model with noise added to all representations could not even capture the means. These results show that heterogeneity and individual differences in dyslexia profiles can be simulated only with a personalized computational model that allows for multiple deficits.
+SN - 0956-7976
+M3  - doi: 10.1177/0956797618823540
+UR  - https://doi-org.crai.referencistas.com/10.1177/0956797618823540
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Comparing research topics in European and International Communication Association journals: Computational analysis
+AU  - Soffer, Oren
+AU  - Geifman, Dorit
+Y1  - 2020/06/02
+PY  - 2021
+DA  - 2021/12/01
+N1  - doi: 10.1177/1748048520928334
+DO  - 10.1177/1748048520928334
+T2  - International Communication Gazette
+JF  - International Communication Gazette
+SP  -753
+EP - 775
+VL - 83
+IS - 8
+PB - SAGE Publications Ltd
+N2 - This study uses diachronic computational analysis enhanced with a qualitative approach to examine ongoing changes in communication studies, comparing trends in two European media studies journals and three major International Communication Association journals. We analyze the titles, keywords, and abstracts of 2,585 articles published between 1994–2007 and 2008–2016. We find differences between topics in the two periods in each of the journals’ groups and between the two groups themselves. In the European group, we find centrality of topics related to media change and media logic. In the ICA journals, we find a strengthening of scholarly engagement with effects studies. At the same time, we find evidence of erosion of the place of cultural studies as a distinctive research stream.
+SN - 1748-0485
+M3  - doi: 10.1177/1748048520928334
+UR  - https://doi-org.crai.referencistas.com/10.1177/1748048520928334
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - (Re)Searching Critical Thinking in a Hong Kong Classroom: A Postfoundational Reflection on Ignorant Modernity
+AU  - Zhao (赵伟黎), Weili
+Y1  - 2024/07/23
+PY  - 2024
+N1  - doi: 10.1177/20965311241265373
+DO  - 10.1177/20965311241265373
+T2  - ECNU Review of Education
+JF  - ECNU Review of Education
+SP  -20965311241265372
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd
+N2 - Purpose This article takes a postfoundational lens to reflect upon my ethnographic (re)searching experience in a Hong Kong high school biology classroom to expose ignorant theoretical–methodological assumptions of researchers and teachers on critical thinking for new realizations. Design/Approach/Methods Using an encountered embodied thinking moment as a trigger, this article examines the texts/discourses collected from teachers/teaching and students/learning to unpack underlying philosophical–theoretical–methodological traps and ignorance. Findings The analysis exposes three ignorant assumptions. First is a mind–body dualism that has historically disembodied thinking as an abstract and invisible mind/cognitive activity. Second is a knowledge–skill/thinking divide that upgrades critical thinking as a transferrable higher-order skill above and external to knowledge. Third is a naturalized assumption that didactic instructions in Asian classrooms are not as conducive to thinking cultivation as (Western) student-centered pedagogies. Originality/Value My postfoundational reflections interrogate and expand these philosophical–theoretical–methodological grounds to reconstruct effective thinking curricula and classrooms.
+SN - 2096-5311
+M3  - doi: 10.1177/20965311241265373
+UR  - https://doi-org.crai.referencistas.com/10.1177/20965311241265373
+Y2  - 2024/10/01
+ER  - 
+

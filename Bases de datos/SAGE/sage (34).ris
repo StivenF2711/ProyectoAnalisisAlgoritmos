@@ -1,0 +1,233 @@
+TY  - JOUR
+T1  - CMCpy: Genetic Code-Message Coevolution Models in Python
+AU  - Becich, Peter J.
+AU  - Stark, Brian P.
+AU  - Bhat, Harish S.
+AU  - Ardell, David H.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.4137/EBO.S11169
+DO  - 10.4137/EBO.S11169
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S11169
+VL - 9
+PB - SAGE Publications Ltd STM
+N2 - Code-message coevolution (CMC) models represent coevolution of a genetic code and a population of protein-coding genes (“messages”)- Formally, CMC models are sets of quasispecies coupled together for fitness through a shared genetic code. Although CMC models display plausible explanations for the origin of multiple genetic code traits by natural selection, useful modern implementations of CMC models are not currently available. To meet this need we present CMCpy, an object-oriented Python API and command-line executable front-end that can reproduce all published results of CMC models. CMCpy implements multiple solvers for leading eigenpairs of quasispecies models. We also present novel analytical results that extend and generalize applications of perturbation theory to quasispecies models and pioneer the application of a homotopy method for quasispecies with non-unique maximally fit genotypes. Our results therefore facilitate the computational and analytical study of a variety of evolutionary systems. CMCpy is free open-source software available from http://pypi.python.org/pypi/CMCpy/.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S11169
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S11169
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical study to investigate the design parameters of a wind tower to improve the performance of a vertical-axis wind turbine
+AU  - Cho, Soo-Yong
+AU  - Choi, Sang-Kyu
+AU  - Kim, Jin-Gyun
+AU  - Cho, Chong-Hyun
+Y1  - 2017/12/01
+PY  - 2017
+DA  - 2017/12/01
+N1  - doi: 10.1177/1687814017744474
+DO  - 10.1177/1687814017744474
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017744474
+VL - 9
+IS - 12
+PB - SAGE Publications
+N2 - A wind tower can augment the performance of a vertical-axis wind turbine since it can increase the wind velocity as well as adjust the wind direction. However, it is very important to correctly determine the configuration of the wind tower because the wind tower can also interrupt the wind flow toward the wind turbine. Hence, a numerical analysis was conducted to investigate an effective wind tower configuration using computational fluid dynamics. For practical reasons, a numerical algorithm using a reduced computational domain was applied because the full three-dimensional computational fluid dynamics required huge amounts of computation time for a transient analysis. This method was validated using experimental results and was then applied to the computation of a wind tower with an installed vertical-axis wind turbine. Three wind tower design parameters were chosen for investigation: the inner radius, outer radius, and relative angle of the guide wall. When these parameters were correctly determined, the wind tower always increased the performance of the vertical-axis wind turbine in an omnidirectional wind. In addition, the maximum power coefficient was increased from 0.261 (without the wind tower) to 0.436.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017744474
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017744474
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Start Generating: Harnessing Generative Artificial Intelligence for Sociological Research
+AU  - Davidson, Thomas
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/23780231241259651
+DO  - 10.1177/23780231241259651
+T2  - Socius
+JF  - Socius
+SP  -23780231241259652
+VL - 10
+PB - SAGE Publications
+N2 - How can generative artificial intelligence (GAI) be used for sociological research? The author explores applications to the study of text and images across multiple domains, including computational, qualitative, and experimental research. Drawing upon recent research and stylized experiments with DALL·E and GPT-4, the author illustrates the potential applications of text-to-text, image-to-text, and text-to-image models for sociological research. Across these areas, GAI can make advanced computational methods more efficient, flexible, and accessible. The author also emphasizes several challenges raised by these technologies, including interpretability, transparency, reliability, reproducibility, ethics, and privacy, as well as the implications of bias and bias mitigation efforts and the trade-offs between proprietary models and open-source alternatives. When used with care, these technologies can help advance many different areas of sociological methodology, complementing and enhancing our existing toolkits.
+SN - 2378-0231
+M3  - doi: 10.1177/23780231241259651
+UR  - https://doi-org.crai.referencistas.com/10.1177/23780231241259651
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Sub-band selection approach to artifact suppression from electroencephalography signal using hybrid wavelet transform
+AU  - Ferdous, Jannatul
+AU  - Ali, Sujan
+AU  - Hamid, Ekramul
+AU  - Molla, Khademul Islam
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/1729881421992269
+DO  - 10.1177/1729881421992269
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881421992269
+VL - 18
+IS - 1
+PB - SAGE Publications
+N2 - This article presents a hybrid wavelet-based algorithm to suppress the ocular artifacts from electroencephalography (EEG) signals. The hybrid wavelet transform (HWT) method is designed by the combination of discrete wavelet decomposition and wavelet packet transform. The artifact suppression is performed by the selection of sub-bands obtained by HWT. Fractional Gaussian noise (fGn) is used as the reference signal to select the sub-bands containing the artifacts. The multichannel EEG signal is decomposed HWT into a finite set of sub-bands. The energies of the sub-bands are compared to that of the fGn to the desired sub-band signals. The EEG signal is reconstructed by the selected sub-bands consisting of EEG. The experiments are conducted for both simulated and real EEG signals to study the performance of the proposed algorithm. The results are compared with recently developed algorithms of artifact suppression. It is found that the proposed method performs better than the methods compared in terms of performance metrics and computational cost.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881421992269
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881421992269
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Systems Biology Approach in Therapeutic Response Study for Different Dosing Regimens—a Modeling Study of Drug Effects on Tumor Growth using Hybrid Systems
+AU  - Li, Xiangfang
+AU  - Qian, Lijun
+AU  - Bittner, Michale L.
+AU  - Dougherty, Edward R.
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - doi: 10.4137/CIN.S8185
+DO  - 10.4137/CIN.S8185
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S8185
+VL - 11
+PB - SAGE Publications Ltd STM
+N2 - Motivated by the frustration of translation of research advances in the molecular and cellular biology of cancer into treatment, this study calls for cross-disciplinary efforts and proposes a methodology of incorporating drug pharmacology information into drug therapeutic response modeling using a computational systems biology approach. The objectives are two fold. The first one is to involve effective mathematical modeling in the drug development stage to incorporate preclinical and clinical data in order to decrease costs of drug development and increase pipeline productivity, since it is extremely expensive and difficult to get the optimal compromise of dosage and schedule through empirical testing. The second objective is to provide valuable suggestions to adjust individual drug dosing regimens to improve therapeutic effects considering most anticancer agents have wide inter-individual pharmacokinetic variability and a narrow therapeutic index. A dynamic hybrid systems model is proposed to study drug antitumor effect from the perspective of tumor growth dynamics, specifically the dosing and schedule of the periodic drug intake, and a drug’s pharmacokinetics and pharmacodynamics information are linked together in the proposed model using a state-space approach. It is proved analytically that there exists an optimal drug dosage and interval administration point, and demonstrated through simulation study.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S8185
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S8185
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modeling of Multihop Wireless Sensor Networks with MAC, Queuing, and Cooperation
+AU  - Lin, Jian
+AU  - Weitnauer, Mary Ann
+Y1  - 2016/02/01
+PY  - 2016
+DA  - 2016/02/01
+N1  - doi: 10.1155/2016/5258742
+DO  - 10.1155/2016/5258742
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -5258742
+VL - 12
+IS - 2
+PB - SAGE Publications
+N2 - We present a Markovian decision process (MDP) framework for multihop wireless sensor networks (MHWSNs) to bound the network performance of both energy constrained (EC) networks and energy harvesting (EH) networks, both with and without relay cooperation. The model provides the fundamental performance limit that a MHWSN can theoretically achieve, under the general constraints from medium access control, routing, and energy harvesting. We observe that the analyses for EC and EH networks fall into two branches of MDP theory, which are finite-horizon process and infinite-horizon process, respectively. The performance metrics for EC and EH networks are different. For EC networks, an appropriate metric is the network lifetime; for EH networks, an appropriate metric is, for example, the network throughput. To efficiently solve the models with high dimension, for the EC networks, we propose a novel computational algorithm by taking advantage of the stochastic shortest path structure of the problem; for the EH networks, we propose a dual linear programming based algorithm by considering the sparsity of the transition matrix. Under the unified MDP framework, numerical results demonstrate the advantages of cooperation for the optimal performance, in both EC and EH networks.
+SN - 1550-1329
+M3  - doi: 10.1155/2016/5258742
+UR  - https://doi-org.crai.referencistas.com/10.1155/2016/5258742
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of Conserved, Computationally Predicted Epitope Regions for VP5 and VP7 Across three Orbiviruses
+AU  - Russell, Bonnie L.
+AU  - Parbhoo, Nishal
+AU  - Gildenhuys, Samantha
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1177932218755348
+DO  - 10.1177/1177932218755348
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -1177932218755348
+VL - 12
+PB - SAGE Publications Ltd STM
+N2 - Orbiviruses are double-stranded RNA viruses that have profound economic and veterinary significance, 3 of the most important being African horse sickness virus (AHSV), bluetongue virus (BTV), and epizootic hemorrhagic disease virus (EHDV). Currently, vaccination and vector control are used as preventative measures; however, there are several problems with the current vaccines. Comparing viral amino acid sequences, we obtained an AHSV-BTV-EHDV consensus sequence for VP5 (viral protein 5) and for VP7 (viral protein 7) and generated homology models for these proteins. The structures and sequences were analyzed for amino acid sequence conservation, entropy, surface accessibility, and epitope propensity, to computationally determine whether consensus sequences still possess potential epitope regions. In total, 5 potential linear epitope regions on VP5 and 11 on VP7, as well as potential discontinuous B-cell epitopes, were identified and mapped onto the homology models created. Regions identified for VP5 and VP7 could be important in vaccine design against orbiviruses.
+SN - 1177-9322
+M3  - doi: 10.1177/1177932218755348
+UR  - https://doi-org.crai.referencistas.com/10.1177/1177932218755348
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An Efficient Large-Scale Sensor Deployment Using a Parallel Genetic Algorithm Based on CUDA
+AU  - Seo, Jae-Hyun
+AU  - Yoon, Yourim
+AU  - Kim, Yong-Hyuk
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - doi: 10.1155/2016/8612128
+DO  - 10.1155/2016/8612128
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -8612128
+VL - 12
+IS - 3
+PB - SAGE Publications
+N2 - We have employed evolutionary computation to solve the optimization problem of sensor deployment in battlefield environments. A genetic algorithm has the advantage of delivering results of a higher quality than simple computational algorithms, but it has the drawback of requiring too much computing time. This study aimed not only to shorten the computing time to as close to real-time as possible by using the Compute Unified Device Architecture (CUDA) but also to maintain a solution quality that is as good as or better than the case when the proposed algorithm is not used. In the proposed genetic algorithm, parallelization was applied to speed up the fitness evaluation requiring heavy computation time. The proposed CUDA-based design approach for complex and various sensor deployments is validated by means of simulation. We parallelized two parts in Monte Carlo simulation for the fitness evaluation: moving lots of tested vehicles and calculating the probability of detection (POD) for each vehicle. The experiment was divided into CPU and GPU experiments depending on arithmetic unit types. In the GPU experiment, the results showed similar levels for the detection probability by GPU and CPU, and the computing time decreased by approximately 55-56 times.
+SN - 1550-1329
+M3  - doi: 10.1155/2016/8612128
+UR  - https://doi-org.crai.referencistas.com/10.1155/2016/8612128
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Changes in the extracellular microenvironment and osteogenic responses of mesenchymal stem/stromal cells induced by in vitro direct electrical stimulation
+AU  - Srirussamee, Kasama
+AU  - Xue, Ruikang
+AU  - Mobini, Sahba
+AU  - Cassidy, Nigel J.
+AU  - Cartmell, Sarah H.
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/2041731420974147
+DO  - 10.1177/2041731420974147
+T2  - Journal of Tissue Engineering
+JF  - Journal of Tissue Engineering
+JO  - J Tissue Eng
+SP  -2041731420974147
+VL - 12
+PB - SAGE Publications Ltd STM
+N2 - Electrical stimulation (ES) has potential to be an effective tool for bone injury treatment in clinics. However, the therapeutic mechanism associated with ES is still being discussed. This study aims to investigate the initial mechanism of action by characterising the physical and chemical changes in the extracellular environment during ES and correlate them with the responses of mesenchymal stem/stromal cells (MSCs). Computational modelling was used to estimate the electrical potentials relative to the cathode and the current density across the cell monolayer. We showed expression of phosphorylated ERK1/2, c-FOS, c-JUN, and SPP1 mRNAs, as well as the increased metabolic activities of MSCs at different time points. Moreover, the average of 2.5 μM of H2O2 and 34 μg/L of dissolved Pt were measured from the electrically stimulated media (ES media), which also corresponded with the increases in SPP1 mRNA expression and cell metabolic activities. The addition of sodium pyruvate to the ES media as an antioxidant did not alter the SPP1 mRNA expression, but eliminated an increase in cell metabolic activities induced by ES media treatment. These findings suggest that H2O2 was influencing cell metabolic activity, whereas SPP1 mRNA expression was regulated by other faradic by-products. This study reveals how different electrical stimulation regime alters cellular regenerative responses and the roles of faradic by-products, that might be used as a physical tool to guide and control cell behaviour.
+SN - 2041-7314
+M3  - doi: 10.1177/2041731420974147
+UR  - https://doi-org.crai.referencistas.com/10.1177/2041731420974147
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Blade shape optimization of an aircraft propeller using space mapping surrogates
+AU  - Toman, Usama T.
+AU  - Hassan, Abdel-Karim SO
+AU  - Owis, Farouk M.
+AU  - Mohamed, Ahmed SA
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.1177/1687814019865071
+DO  - 10.1177/1687814019865071
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019865071
+VL - 11
+IS - 7
+PB - SAGE Publications
+N2 - Propeller performance greatly influences the overall efficiency of the turboprop engines. The aim of this study is to perform a propeller blade shape optimization for maximum aerodynamic efficiency with a minimal number of high-fidelity model evaluations. A physics-based surrogate approach exploiting space mapping is employed for the design process. A space mapping algorithm is utilized, for the first time in the field of propeller design, to link two of the most common propeller analysis models: the classical blade-element momentum theory to be the coarse model; and the high-fidelity computational fluid dynamics tool as the fine model. The numerical computational fluid dynamics simulations are performed using the finite-volume discretization of the Reynolds-averaged Navier–Stokes equations on an adaptive unstructured grid. The optimum design is obtained after few iterations with only 56 computationally expensive computational fluid dynamics simulations. Furthermore, an optimization method based on design of experiments and kriging response surface is used to validate the results and compare the computational efficiency of the two techniques. The results show that space mapping is more computationally efficient.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019865071
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019865071
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,227 @@
+TY  - JOUR
+T1  - Comparing decoding mechanisms for parsing argumentative structures
+AU  - Afantenos, Stergos
+AU  - Peldszus, Andreas
+AU  - Stede, Manfred
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.3233/AAC-180033
+DO  - 10.3233/AAC-180033
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -177
+EP - 192
+VL - 9
+IS - 3
+PB - SAGE Publications
+N2 - Parsing of argumentative structures has become a very active line of research in recent years. Like discourse parsing or any other natural language task that requires prediction of linguistic structures, most approaches choose to learn a local model and then perform global decoding over the local probability distributions, often imposing constraints that are specific to the task at hand. Specifically for argumentation parsing, two decoding approaches have been recently proposed: Minimum Spanning Trees (MST) and Integer Linear Programming (ILP), following similar trends in discourse parsing. In contrast to discourse parsing though, where trees are not always used as underlying annotation schemes, argumentation structures so far have always been represented with trees. Using the ‘argumentative microtext corpus’ [in: Argumentation and Reasoned Action: Proceedings of the 1st European Conference on Argumentation, Lisbon 2015 / Vol. 2, College Publications, London, 2016, pp. 801–815] as underlying data and replicating three different decoding mechanisms, in this paper we propose a novel ILP decoder and an extension to our earlier MST work, and then thoroughly compare the approaches. The result is that our new decoder outperforms related work in important respects, and that in general, ILP and MST yield very similar performance.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-180033
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-180033
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - On the Behavior of Fiberglass Epoxy Composites under Low Velocity Impact Loading
+AU  - Chandekar, Gautam S.
+AU  - Thatte, Bhushan S.
+AU  - Kelkar, Ajit D.
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.1155/2010/621406
+DO  - 10.1155/2010/621406
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -621406
+VL - 2
+PB - SAGE Publications
+N2 - Response of fiberglass epoxy composite laminates under low velocity impact loading is investigated using LS-DYNA®, and the results are compared with experimental analysis performed using an instrumented impact test setup (Instron dynatup 8250). The composite laminates are manufactured using H-VARTM© process with basket weave E-Glass fabrics. Epon 862 is used as a resin system and Epicure-W as a hardening agent. Composite laminates, with 10 layers of fiberglass fabrics, are modeled using 3D solid elements in a mosaic fashion to represent basket weave pattern. Mechanical properties are calculated by using classical micromechanical theory and assigned to the elements using ORTHOTROPIC ELASTIC material model. The damage occurred since increasing impact energy is incorporated using ADVANCED COMPOSITE DAMAGE material model in LS-DYNA®. Good agreements are obtained with the failure damage results in LS-DYNA® and experimental results. Main considerations for comparison are given to the impact load carrying capacity and the amount of impact energy absorbed by the laminates.
+SN - 1687-8132
+M3  - doi: 10.1155/2010/621406
+UR  - https://doi-org.crai.referencistas.com/10.1155/2010/621406
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Unraveling Dravet Syndrome: Exploring the complex effects of sodium channel mutations on neuronal networks
+AU  - Doorn, Nina
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/00368504231225076
+DO  - 10.1177/00368504231225076
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504231225076
+VL - 107
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Dravet Syndrome (DS) is a severe developmental epileptic encephalopathy with frequent intractable seizures accompanied by cognitive impairment, often caused by pathogenic variants in SCN1A encoding sodium channel NaV1.1. Recent research utilizing in vitro patient-derived neuronal networks and accompanying in silico models uncovered that not just sodium—but also potassium—and synaptic currents were impaired in DS networks. Here, we explore the implications of these findings for three questions that remain elusive in DS: How do sodium channel impairments result in epilepsy? How can identical variants lead to varying phenotypes? What mechanisms underlie the developmental delay in DS patients? We speculate that impaired potassium currents might be a secondary effect to NaV1.1 mutations and could result in hyperexcitable neurons and epileptic networks. Moreover, we reason that homeostatic plasticity is actively engaged in DS networks, possibly affecting the phenotype and impairing learning and development when driven to extremes.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504231225076
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504231225076
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Reproducibility and Replicability in a Fast-Paced Methodological World
+AU  - Epskamp, Sacha
+Y1  - 2019/05/16
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1177/2515245919847421
+DO  - 10.1177/2515245919847421
+T2  - Advances in Methods and Practices in Psychological Science
+JF  - Advances in Methods and Practices in Psychological Science
+SP  -145
+EP - 155
+VL - 2
+IS - 2
+PB - SAGE Publications Inc
+N2 - Methodological developments and software implementations are progressing at an increasingly fast pace. The introduction and widespread acceptance of preprint archived reports and open-source software have made state-of-the-art statistical methods readily accessible to researchers. At the same time, researchers are increasingly concerned that their results should be reproducible (i.e., the same analysis should yield the same numeric results at a later time), which is a basic requirement for assessing the results’ replicability (i.e., whether results at a later time support the same conclusions). Although this age of fast-paced methodology greatly facilitates reproducibility and replicability, it also undermines them in ways not often realized by researchers. This article draws researchers’ attention to these threats and proposes guidelines to help minimize their impact. Reproducibility may be influenced by software development and change over time, a problem that is greatly compounded by the rising dependency between software packages. Replicability is affected by rapidly changing standards, researcher degrees of freedom, and possible bugs or errors in code, whether introduced by software developers or empirical researchers implementing an analysis. This article concludes with a list of recommendations to improve the reproducibility and replicability of results.
+SN - 2515-2459
+M3  - doi: 10.1177/2515245919847421
+UR  - https://doi-org.crai.referencistas.com/10.1177/2515245919847421
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Many Mutations of the COVID-19 Variant: Current Perspectives on EG.5/Eris
+AU  - Girma, Abayeneh
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/11786302231217805
+DO  - 10.1177/11786302231217805
+T2  - Environmental Health Insights
+JF  - Environmental Health Insights
+JO  - Environ�Health�Insights
+SP  -11786302231217804
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - Viral diseases pose a significant threat to public health around the world. SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) was originally identified in Wuhan, China, in 2019. Throughout the epidemic, SARS-CoV-2 has continually changed genetically, giving rise to variants that are distinct from the original virus. SARS-CoV-2 has a high-frequency mutation rate, resulting in more genetic diversity. EG.5/Eris is a subvariant and descendant of Omicron, which remains the world’s most prevalent coronavirus strain of current concern. The percentage of EG.5 recorded has steadily increased across the board. Epidemiological week 29 (17-23 July 2023) saw a 17.4% global prevalence of EG.5. Mutations in the virus’s genome can cause false-negative results in molecular detection and cause increased transmissibility, morbidity, and mortality due to a reduction in vaccine efficiency. Furthermore, these changes in S-protein structure alter the neutralising ability of neutralising antibodies (Nabs), resulting in a reduction in vaccine efficiency. Therefore, all countries should take efficient infection prevention and control measures as per the guidelines of the world, continental, and their country’s health organisations, along with vaccine and treatment investigations.
+SN - 1178-6302
+M3  - doi: 10.1177/11786302231217805
+UR  - https://doi-org.crai.referencistas.com/10.1177/11786302231217805
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Developing a Systems Biology Approach to Study Disease Progression Caused by Heterodera glycines in Glycine max
+AU  - Klink, Vincent P.
+AU  - Overall, Christopher C.
+AU  - Matthews, Benjamin F.
+Y1  - 2007/01/01
+PY  - 2007
+DA  - 2007/01/01
+N1  - doi: 10.1177/117762500700100003
+DO  - 10.1177/117762500700100003
+T2  - Gene Regulation and Systems Biology
+JF  - Gene Regulation and Systems Biology
+JO  - Gene�Regul Syst Bio
+SP  -117762500700100000
+VL - 1
+PB - SAGE Publications Ltd STM
+SN - 1177-6250
+M3  - doi: 10.1177/117762500700100003
+UR  - https://doi-org.crai.referencistas.com/10.1177/117762500700100003
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Flexural behavior of sandwich panels with cellular wood, plywood stiffener/foam and thermoplastic composite core
+AU  - Labans, Edgars
+AU  - Kalnins, Kaspars
+AU  - Bisagni, Chiara
+Y1  - 2017/03/24
+PY  - 2019
+DA  - 2019/02/01
+N1  - doi: 10.1177/1099636217699587
+DO  - 10.1177/1099636217699587
+T2  - Journal of Sandwich Structures & Materials
+JF  - Journal of Sandwich Structures & Materials
+JO  - Jnl of Sandwich Structures & Materials
+SP  -784
+EP - 805
+VL - 21
+IS - 2
+PB - SAGE Publications
+N2 - A series of experimental tests have been carried out on three types of novel sandwich panels mainly designed for application in lightweight mobile housing. Two types of the panels are manufactured entirely from wood-based materials while the third one presents a combination of plywood for surfaces and corrugated thermoplastic composite as a core part. All sandwich panels are designed to allow rapid one-shot manufacturing. Mechanical performance has been evaluated in four-point bending comparing the data to the reference plywood board. Additionally, finite element simulations were performed to evaluate global behavior, stress distribution and provide the basis for a reliable design tool. Obtained results show sufficient mechanical characteristics suitable for floor and wall units. Compared to a solid plywood board, sandwich alternative can reach up to 42% higher specific stiffness, at the same time maintaining sufficient strength characteristics.
+SN - 1099-6362
+M3  - doi: 10.1177/1099636217699587
+UR  - https://doi-org.crai.referencistas.com/10.1177/1099636217699587
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Quantum projections on conceptual subspaces: A deeper dive into methodological challenges and opportunities
+AU  - Martínez-Mingo, Alejandro
+AU  - Martínez-Huertas, Jose Ángel
+AU  - Olmos, Ricardo
+AU  - Jorge-Botana, Guillermo
+Y1  - 2024/04/01
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1177/00368504241238773
+DO  - 10.1177/00368504241238773
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504241238773
+VL - 107
+IS - 2
+PB - SAGE Publications Ltd
+N2 - In alignment with the distributional hypothesis of language, the work “Quantum Projections on Conceptual Subspaces” (Martínez-Mingo A, Jorge-Botana G, Martinez-Huertas JÁ, et al. Quantum projections on conceptual subspaces. Cogn Syst Res 2023; 82: 101154) proposed a methodology for generating conceptual subspaces from textual information based on previous work (Martinez-Mingo A, Jorge-Botana G and Olmos R. Quantum approach for similarity evaluation in LSA vector space models. 2020). These subspaces enable the utilization of the quantum model of similarity put forth by Pothos and Busemeyer (Pothos E, Busemeyer J. A quantum probability explanation for violations of symmetry in similarity judgments. In Proceedings of the annual meeting of the cognitive science society, 2011, Vol. 33, No. 33), allowing for the empirical examination of the violations of assumptions concerning symmetry and triangular inequality (Tversky A. Features of similarity. Psychol Rev 1977; 84: 327–352; Yearsley JM, Barque-Duran A, Scerrati E, et al. The triangle inequality constraint in similarity judgments. Prog Biophys Mol Biol 2017; 130: 26–32), as well as the diagnosticity effect (Tversky A. Features of similarity. Psychol Rev 1977; 84: 327–352; Yearsley JM, Pothos EM, Barque-Duran A, et al. Context effects in similarity judgments. J Exp Psychol Gen 2022; 151: 711–717), within a data-driven environment. These psychological biases, deeply studied by authors such as Tversky and Kahneman, inform us about the limitations of modeling psychological similarity measures using tools from classical geometry. This commentary aims to offer methodological clarifications, discuss theoretical and practical implications, and speculate on future directions in this field of research. Concretely, it aims to propose the use of different contours (conceptual or contextual) to generate the subspaces, which lead to subspaces of terms or contexts. Once these contours are defined, a differentiation is proposed between Aggregated Terms Subspaces (ATSs), Aggregated Contexts Subspaces (ACSs), and Aggregated Features Subspaces (AFSs) depending on whether we define the subspaces by grouping the terms or contexts within the contour, or from the latent dimensions of the semantic space obtained in the contour window. Finally, new data is provided on the violation of the triangular inequality assumption through the application of the quantum similarity model to ATSs.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504241238773
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504241238773
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modelling the generation of temperature inhomogeneities by a premixed flame
+AU  - Steinbacher, Thomas
+AU  - Meindl, Max
+AU  - Polifke, Wolfgang
+Y1  - 2017/11/14
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1177/1756827717738139
+DO  - 10.1177/1756827717738139
+T2  - International Journal of Spray and Combustion Dynamics
+JF  - International Journal of Spray and Combustion Dynamics
+SP  -111
+EP - 130
+VL - 10
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - The response of a laminar, premixed flame to perturbations of upstream equivalence ratio is investigated and modelled, with emphasis on the generation of ‘entropy waves’, i.e. entropic inhomogeneities of downstream temperature. Transient computational fluid dynamics simulations of two adiabatic lean methane-air flames of different Péclet numbers provide guidance and validation data for subsequent modelling. The respective entropy transfer functions, which describe the production of temperature inhomogeneities, as well as transfer functions for the variation of the heat release, are determined from the computational fluid dynamics time series data by means of system identification. The processes governing the dynamics of the entropy transfer functions are segregated into two sub-problems: (1) heat release due to chemical reaction at the flame front and (2) advective and diffusive transport. By adopting a formulation in terms of a mixture fraction variable, these two sub-problems can be treated independently from each other. Models for both phenomena are derived and analysed using simple 0- and 1-dimensional configurations. The heat release process (1) is represented by a fast-reaction-zone model, which takes into account variations of the specific heat capacity with equivalence ratio in order to evaluate the magnitude of downstream temperature fluctuations with quantitative accuracy. For the transport processes (2), two types of models based on mean field data from the computational fluid dynamics simulation are proposed: A semi-analytical, low-order formulation based on stream lines, and a state-space formulation, which is constructed by Finite Elements discretisation of the transport equation for mixture fraction. Model predictions for the entropy transfer functions are found to agree well with the computational fluid dynamics reference data at very low computational costs.
+SN - 1756-8277
+M3  - doi: 10.1177/1756827717738139
+UR  - https://doi-org.crai.referencistas.com/10.1177/1756827717738139
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Incorporating Machine Learning into Sociological Model-Building
+AU  - Verhagen, Mark D.
+Y1  - 2024/01/13
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1177/00811750231217734
+DO  - 10.1177/00811750231217734
+T2  - Sociological Methodology
+JF  - Sociological Methodology
+SP  -217
+EP - 268
+VL - 54
+IS - 2
+PB - SAGE Publications Inc
+N2 - Quantitative sociologists frequently use simple linear functional forms to estimate associations among variables. However, there is little guidance on whether such simple functional forms correctly reflect the underlying data-generating process. Incorrect model specification can lead to misspecification bias, and a lack of scrutiny of functional forms fosters interference of researcher degrees of freedom in sociological work. In this article, I propose a framework that uses flexible machine learning (ML) methods to provide an indication of the fit potential in a dataset containing the exact same covariates as a researcher’s hypothesized model. When this ML-based fit potential strongly outperforms the researcher’s self-hypothesized functional form, it implies a lack of complexity in the latter. Advances in the field of explainable AI, like the increasingly popular Shapley values, can be used to generate understanding into the ML model such that the researcher’s original functional form can be improved accordingly. The proposed framework aims to use ML beyond solely predictive questions, helping sociologists exploit the potential of ML to identify intricate patterns in data to specify better-fitting, interpretable models. I illustrate the proposed framework using a simulation and real-world examples.
+SN - 0081-1750
+M3  - doi: 10.1177/00811750231217734
+UR  - https://doi-org.crai.referencistas.com/10.1177/00811750231217734
+Y2  - 2024/10/01
+ER  - 
+

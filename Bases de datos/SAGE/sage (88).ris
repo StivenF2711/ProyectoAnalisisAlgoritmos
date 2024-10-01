@@ -1,0 +1,238 @@
+TY  - JOUR
+T1  - Optimization of lattice Boltzmann simulations on heterogeneous computers
+AU  - Calore, E.
+AU  - Gabbana, A.
+AU  - Schifano, SF
+AU  - Tripiccione, R.
+Y1  - 2017/04/24
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1094342017703771
+DO  - 10.1177/1094342017703771
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -124
+EP - 139
+VL - 33
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - High-performance computing systems are more and more often based on accelerators. Computing applications targeting those systems often follow a host-driven approach, in which hosts offload almost all compute-intensive sections of the code onto accelerators; this approach only marginally exploits the computational resources available on the host CPUs, limiting overall performances. The obvious step forward is to run compute-intensive kernels in a concurrent and balanced way on both hosts and accelerators. In this paper, we consider exactly this problem for a class of applications based on lattice Boltzmann methods, widely used in computational fluid dynamics. Our goal is to develop just one program, portable and able to run efficiently on several different combinations of hosts and accelerators. To reach this goal, we define common data layouts enabling the code to exploit the different parallel and vector options of the various accelerators efficiently, and matching the possibly different requirements of the compute-bound and memory-bound kernels of the application. We also define models and metrics that predict the best partitioning of workloads among host and accelerator, and the optimally achievable overall performance level. We test the performance of our codes and their scaling properties using, as testbeds, HPC clusters incorporating different accelerators: Intel Xeon Phi many-core processors, NVIDIA GPUs, and AMD GPUs.
+SN - 1094-3420
+M3  - doi: 10.1177/1094342017703771
+UR  - https://doi-org.crai.referencistas.com/10.1177/1094342017703771
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Diminished State Space Theory of Human Aging
+AU  - Eppinger, Ben
+AU  - Ruel, Alexa
+AU  - Bolenz, Florian
+Y1  - 2023/11/06
+PY  - 2023
+N1  - doi: 10.1177/17456916231204811
+DO  - 10.1177/17456916231204811
+T2  - Perspectives on Psychological Science
+JF  - Perspectives on Psychological Science
+JO  - Perspect Psychol Sci
+SP  -17456916231204812
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - Many new technologies, such as smartphones, computers, or public-access systems (like ticket-vending machines), are a challenge for older adults. One feature that these technologies have in common is that they involve underlying, partially observable, structures (state spaces) that determine the actions that are necessary to reach a certain goal (e.g., to move from one menu to another, to change a function, or to activate a new service). In this work we provide a theoretical, neurocomputational account to explain these behavioral difficulties in older adults. Based on recent findings from age-comparative computational- and cognitive-neuroscience studies, we propose that age-related impairments in complex goal-directed behavior result from an underlying deficit in the representation of state spaces of cognitive tasks. Furthermore, we suggest that these age-related deficits in adaptive decision-making are due to impoverished neural representations in the orbitofrontal cortex and hippocampus.
+SN - 1745-6916
+M3  - doi: 10.1177/17456916231204811
+UR  - https://doi-org.crai.referencistas.com/10.1177/17456916231204811
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Two-dimensional gyrotactic microorganisms flow of hydromagnetic power law nanofluid past an elongated sheet
+AU  - Ferdows, M.
+AU  - Reddy, M. Gnaneswara
+AU  - Sun, Shuyu
+AU  - Alzahrani, Faris
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - doi: 10.1177/1687814019881252
+DO  - 10.1177/1687814019881252
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019881252
+VL - 11
+IS - 11
+PB - SAGE Publications
+N2 - This article, describes two-dimensional magnetohydrodynamic steady incompressible viscous power law nanofluid comprising gyrotactic microorganisms adjacent to a vertical stretching sheet. The governing non-linear partial differential equations are lessened to a set of non-linear ordinary differential equation using similitude transformation. The non-dimensional boundary value problem is then solved under spectral relaxation method. The influences of different parameters such as buoyancy convection parameters , magnetic field parameter M, power law parameter , Prandtl number , modified Prandtl number , thermophoresis parameter , Peclet number , Lewis number , Brownian motion parameter , bioconvection Lewis number , and bioconvection constant on flow convective characteristics phenomena are explored via plots and tables. The skin friction factor, rate of heat transfer, rate of mass transfer, and the density number of the motile microorganisms near the surface are also computed. Our results are compared with the existing results to support our model. Residual error analysis is determined for showing the convergence rate against iteration. Our result showed that the momentum thickness reduces as the value of induces and thermal boundary thickness increases as the value of induces. We also revealed that the density of the motile microorganisms is a reducing function of and concentration boundary layer induces with the increase of , whereas its thickness close to the surface decreases with increasing of . Also, the stream line patterns are exhibited to the impact of physical sundry variables.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019881252
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019881252
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Magnitude, risk factors and antimicrobial susceptibility pattern of Shigella and Salmonella, among children with diarrhea in Southern Ethiopia: A Cross-sectional Study
+AU  - Hayamo, Manamo
+AU  - Alemayehu, Tsegaye
+AU  - Tadesse, Bereket
+AU  - Mitiku, Enkosilassie
+AU  - Bedawi, Zufan
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/20503121211009729
+DO  - 10.1177/20503121211009729
+T2  - SAGE Open Medicine
+JF  - SAGE Open Medicine
+SP  -20503121211009730
+VL - 9
+PB - SAGE Publications Ltd
+N2 - Objective: This study was aimed at identifying Shigella and Salmonella infection, their antibiotic susceptibility pattern and associated risk factors among children with diarrhea who attended Alamura Health Center. Method: A facility-based cross-sectional study was conducted on 263 children aged below 14 years with diarrhea. A structured questionnaire was used to collect socio-demographic and clinical data after obtaining the necessary consent from their parents or caretakers. The culture and sensitivity tests were performed using the standard operating procedure of the microbiology laboratory. Results: Accordingly, 20/263 (7.6%), 95% confidence interval: 4.4%–11.4% Shigella and 1/263 (0.38%), 95% confidence interval: 0.0%–1.1% Salmonella were isolated. Shigella dysenteriae was dominant 11 (4.2%), followed by Shigella spp. 9 (3.42%) and Salmonella typ 1 (0.38%). The isolates showed 71.4% overall resistance to ampicillin and 61.9% for augmentin and tetracycline, whereas 95.2% of the isolates were sensitive to ciprofloxacin, 85.9% to ceftriaxone and ceftazidime, 81% to gentamycin, 76.2% to chloramphenicol, 66.7% to cefuroxime and 52.4% to cotrimoxazole. The habit of washing hands after toilet use for a while (adjusted odds ratio: 235.1, 95% confidence interval: 20.9–2643.3, p < 0.000) and storing cooked food in an open container for later use (adjusted odds ratio: 36.44, 95% confidence interval: 5.82–228.06, p < 0.000) showed a statistically significant association. Conclusion: High level of Shigella and single Salmonella was isolated. Ampicillin, augmentin and tetracycline were resistant and ciprofloxacin, ceftriaxone, ceftazidime, gentamycin, chloramphenicol, cefuroxime and cotrimoxazole were relatively sensitive. Hand-washing after defecation for some time and storing of foods for later use in an open container were statistically associated. Therefore, to alleviate this infection, the concerned body should focus on imparting health education for hand-wash after defecation and storing food in a closed container for later use is mandatory.
+SN - 2050-3121
+M3  - doi: 10.1177/20503121211009729
+UR  - https://doi-org.crai.referencistas.com/10.1177/20503121211009729
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Edge-based secure image denoising scheme supporting flexible user authorization
+AU  - Huang, Yibing
+AU  - Xu, Yongliang
+AU  - Cheng, Hang
+AU  - Chen, Fei
+AU  - Wang, Meiqing
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/17483026241264131
+DO  - 10.1177/17483026241264131
+T2  - Journal of Algorithms & Computational Technology
+JF  - Journal of Algorithms & Computational Technology
+SP  -17483026241264132
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Image denoising is a fundamental tool in the fields of image processing and computer vision. With the rapid development of multimedia and cloud computing, it has become popular for resource-constrained users to outsource the storage and denoising of massive images. However, it may cause privacy concerns and response delays. In this scenario, we propose an efFicient privAcy-preseRving Image deNoising schEme (FARINE) for outsourcing digital images. By introducing a key conversion mechanism, FARINE allows removing noise from a given noisy image using a non-local mean way without leaking any information about the plaintext content. Due to its low computational latency/communication cost, edge computing is considered to improve the user experience. To achieve a dynamic user set efficiently, we design a fine-grained access control mechanism to support user authorization and revocation in multi-user scenarios. Extensive experiments over several benchmark data sets show that FARINE obtains comparable performance to plaintext image denoising.
+SN - 1748-3018
+M3  - doi: 10.1177/17483026241264131
+UR  - https://doi-org.crai.referencistas.com/10.1177/17483026241264131
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Malaria Vectors Tend to Avoid the Indoor-Based Vector Control Tools in Wonji Sugar Estate, Oromia, Ethiopia
+AU  - Lelisa, Kidane
+AU  - Golassa, Lemu
+AU  - Woldehawariat, Yitbarek
+AU  - Dugassa, Sisay
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/11786302241267186
+DO  - 10.1177/11786302241267186
+T2  - Environmental Health Insights
+JF  - Environmental Health Insights
+JO  - Environ�Health�Insights
+SP  -11786302241267186
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Background: There is a paucity of data regarding resting habits and comparison of the physiological states of Anopheles mosquito populations from indoor and outdoor collection venues in Ethiopia. Therefore, this study aims to investigate resting behavior and age structure of the malaria vectors in Wonji Sugar Estate. Methods: Longitudinal entomological study was conducted at Wonji Sugar Estate from July 2018 to June 2020. Pyrethrum spray catches (PSC), Pit Shelter (PIT), and Oral Aspirators were used to collect adult Anopheles species from various resting sites. Mosquitoes were identified to the species using morphological keys. Finally, the resting behavior of Anopheles mosquitoes were determined using standard protocol. Results: A total of 1406 mosquitoes were collected from indoor and outdoor resting venues, with the outdoor resting population being significantly higher (F = 8.296, P = .04). The number of half-gravid/gravid Anopheles species collected from outdoors was higher than that from indoor resting venues (F = 35.612, P = .00). Eight two percent of the indoor sampled Anopheles species left the indoor venue before completing their gonotrophic cycle. Anopheles pharoensis and An. coustani cx. exhibited exophily rate of 83.4% and 100%, respectively. The overall parity rate of Anopheles gambiae s.l. was 45.7%. The highest parity rate, daily survival rate, and longevity of Anopheles gambiae s.l. was 66.7%, 0.874, and 7.399 days, respectively. Anopheles gambiae s.l. reached the infective stages for Plasmodium falciparum and P. vivax in February 2019. Conlusion: Anopheles mosquitoes, including the major malaria vector Anopheles gambiae s.l., showed predominantly exophilic habits, underscoring the need for outdoor vector control strategies in addition to indoor-based interventions. The increase in the nulliparous population indicates a higher risk of vector-human contact. Meanwhile, the extended lifespan of Anopheles gambiae s.l. observed during the dry season could increase the risk of infectious bites.
+SN - 1178-6302
+M3  - doi: 10.1177/11786302241267186
+UR  - https://doi-org.crai.referencistas.com/10.1177/11786302241267186
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Big Data is a big lie without little data: Humanistic intelligence as a human right
+AU  - Mann, Steve
+Y1  - 2017/02/01
+PY  - 2017
+DA  - 2017/06/01
+N1  - doi: 10.1177/2053951717691550
+DO  - 10.1177/2053951717691550
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951717691550
+VL - 4
+IS - 1
+PB - SAGE Publications Ltd
+N2 - This article introduces an important concept: Transparency by way of Humanistic Intelligence as a human right, and in particular, Big/Little Data and Sur/Sous Veillance, where “Little Data” is to sousveillance (undersight) as “Big Data” is to surveillance (oversight). Veillance (Sur- and Sous-veillance) is a core concept not just in human–human interaction (e.g. people watching other people) but also in terms of Human–Computer Interaction. In this sense, veillance is the core of Human-in-the-loop Intelligence (Humanistic Intelligence rather than Artificial Intelligence), leading us to the concept of “Sousveillant Systems” which are forms of Human–Computer Interaction in which internal computational states are made visible to end users, allowing users (but not requiring them) to “jump” into the computational feedback loop whenever or wherever they want. An important special case of Sousveillant Systems is that of scientific exploration: not only is (big/little) data considered, but also due consideration must be given to how data is captured, understood, explored, and discovered, and in particular, to the use of scientific instruments to collect data and to make important new discoveries, and learn about the world. Science is a domain where bottom-up transparency is of the utmost importance, and scientists have the right and responsibility to be able to understand the instruments that they use to make their discoveries. Such instruments must be sousveillant systems!
+SN - 2053-9517
+M3  - doi: 10.1177/2053951717691550
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951717691550
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Characterising the compressive anisotropic properties of analogue bone using optical strain measurement
+AU  - Marter, Alex D.
+AU  - Dickinson, Alexander S.
+AU  - Pierron, Fabrice
+AU  - Fong, Yin Ki (Kiki)
+AU  - Browne, Martin
+Y1  - 2019/06/18
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1177/0954411919855150
+DO  - 10.1177/0954411919855150
+T2  - Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+JF  - Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+JO  - Proc Inst Mech Eng H
+SP  -954
+EP - 960
+VL - 233
+IS - 9
+PB - IMECHE
+N2 - The validity of conclusions drawn from pre-clinical tests on orthopaedic devices depends upon accurate characterisation of the support materials: frequently, polymer foam analogues. These materials often display anisotropic mechanical behaviour, which may considerably influence computational modelling predictions and interpretation of experiments. Therefore, this study sought to characterise the anisotropic mechanical properties of a range of commonly used analogue bone materials, using non-contact multi-point optical extensometry method to account for the effects of machine compliance and uneven loading. Testing was conducted on commercially available ‘cellular’, ‘solid’ and ‘open-cell’ Sawbone blocks with a range of densities. Solid foams behaved largely isotropically. However, across the available density range of cellular foams, the average Young’s modulus was 23%–31% lower (p < 0.005) perpendicular to the foaming direction than parallel to it, indicating elongation of cells with foaming. The average Young’s modulus of open-celled foams was 25%–59% higher (p < 0.05) perpendicular to the foaming direction than parallel to it. This is thought to result from solid planes of material that were observed perpendicular to the foaming direction, stiffening the bulk material. The presented data represent a reference to help researchers design, model and interpret tests using these materials.
+SN - 0954-4119
+M3  - doi: 10.1177/0954411919855150
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954411919855150
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A meta-analysis and modeling study for green synthesized ZnO nanoparticles effect on UV-protection for cotton fabrics
+AU  - Nasirzadeh, Nafiseh
+AU  - Golbabaei, Farideh
+AU  - Monazzam Esmaielpour, Mohammad Reza
+AU  - Omari Shekaftik, Soqrat
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/15280837241289141
+DO  - 10.1177/15280837241289141
+T2  - Journal of Industrial Textiles
+JF  - Journal of Industrial Textiles
+SP  -15280837241289140
+VL - 54
+PB - SAGE Publications Ltd STM
+N2 - Despite enormous benefits of UV radiation, exposure to it stimulates skin and eye damages. In occupational health sciences, modification of cotton fabrics by biodegradable nanomaterials is a new approach to overcome this problem. So, the aim of this study is to investigate green synthesized ZnO nanoparticles effect on UV-protection for nano-cotton fabrics using meta-analysis, computational method and simulation. This study was conducted based on Cochrane systematic review guideline. Meta-analysis was provided by CMA Software. Regression Model was applied to describe the relationship between the size of nanoparticles and Ultraviolet Protection Factor (UPF). Also, Crystal Ball software was used for simulation. After screening, 15 studies were regarded as appropriate, until Jun 2023. Pearson’s coefficient confirmed a good correlation between UPF and size of nanoparticles (p = 0.013). The results of meta-analysis showed that odd ratio (UPF) was 11.29 (confidence interval 95%) for treated cotton fabrics. Regression model for nanoparticles whose size ranges from 3.98 to 107 nm was predicted with UPF between 52.76 and 53.17 (Excellent protection), with a certainty of 78.015%. Estimations show that the nano-cotton fabrics have an excellent UPF value, and by optimizing the particle size in the synthesis process, the highest level of UPF can be achieved.
+SN - 1528-0837
+M3  - doi: 10.1177/15280837241289141
+UR  - https://doi-org.crai.referencistas.com/10.1177/15280837241289141
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Identifying Driver Genes in Cancer by Triangulating Gene Expression, Gene Location, and Survival Data
+AU  - Rouam, Sigrid
+AU  - Miller, Lance D.
+AU  - Karuturi, R. Krishna Murthy
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CIN.S18302
+DO  - 10.4137/CIN.S18302
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S18302
+VL - 13s6
+PB - SAGE Publications Ltd STM
+N2 - Driver genes are directly responsible for oncogenesis and identifying them is essential in order to fully understand the mechanisms of cancer. However, it is difficult to delineate them from the larger pool of genes that are deregulated in cancer (ie, passenger genes). In order to address this problem, we developed an approach called TRIAngulating Gene Expression (TRIAGE through clinico-genomic intersects). Here, we present a refinement of this approach incorporating a new scoring methodology to identify putative driver genes that are deregulated in cancer. TRIAGE triangulates - or integrates -three levels of information: gene expression, gene location, and patient survival. First, TRIAGE identifies regions of deregulated expression (ie, expression footprints) by deriving a newly established measure called the Local Singular Value Decomposition (LSVD) score for each locus. Driver genes are then distinguished from passenger genes using dual survival analyses. Incorporating measurements of gene expression and weighting them according to the LSVD weight of each tumor, these analyses are performed using the genes located in significant expression footprints. Here, we first use simulated data to characterize the newly established LSVD score. We then present the results of our application of this refined version of TRIAGE to gene expression data from five cancer types. This refined version of TRIAGE not only allowed us to identify known prominent driver genes, such as MMP1, IL8, and COL1A2, but it also led us to identify several novel ones. These results illustrate that TRIAGE complements existing tools, allows for the identification of genes that drive cancer and could perhaps elucidate potential future targets of novel anticancer therapeutics.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S18302
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S18302
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,250 @@
+TY  - JOUR
+T1  - The Intersections between Sociology and STS: A Big Data Approach
+AU  - Amuchastegui, Maria
+AU  - Birch, Kean
+AU  - Kaltenbrunner, Wolfgang
+Y1  - 2023/05/11
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1177/07311214231167170
+DO  - 10.1177/07311214231167170
+T2  - Sociological Perspectives
+JF  - Sociological Perspectives
+SP  -868
+EP - 887
+VL - 66
+IS - 5
+PB - SAGE Publications Inc
+N2 - This paper charts the changing intersections between sociology and science and technology studies (STS) using computational textual analysis. We characterize this “quali-quantitative” approach as a Big Data method, as this calls attention to the commixture of textual and numeric data that characterizes Big Data. The term Big Data, too, calls attention to the increasing privatization of both data and data analytics tools. The data mining was done using a commercial analytics tool, IBM SPSS Modeler, that to the best of our knowledge has not yet been used for STS or sociological research. The identification of intersections occurred as part of a larger project to analyze political-economic and epistemic changes within STS, focusing on academic publishing. These epistemic changes were identified qualitatively, through 76 interviews with STS scholars, and quantitatively, through a computational analysis of three decades of STS journals (1990–2019).
+SN - 0731-1214
+M3  - doi: 10.1177/07311214231167170
+UR  - https://doi-org.crai.referencistas.com/10.1177/07311214231167170
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Platelet preservation in cardiac surgery using minimally invasive extracorporeal circulation versus optimized cardiopulmonary bypass
+AU  - Beairsto, Brian
+AU  - Serrick, Cyril
+AU  - Fernandez, Amanda
+AU  - Lafreniere-Roula, Myriam
+AU  - Badiwala, Mitesh
+AU  - Karkouti, Keyvan
+AU  - Rao, Vivek
+Y1  - 2022/09/29
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1177/02676591221130173
+DO  - 10.1177/02676591221130173
+T2  - Perfusion
+JF  - Perfusion
+JO  - Perfusion
+SP  -1705
+EP - 1713
+VL - 38
+IS - 8
+PB - SAGE Publications Ltd STM
+N2 - Background Minimally invasive extracorporeal circulation (MiECC) is employed as a strategy to attenuate the physiologic disturbance caused by cardiopulmonary bypass. The aim of this study was to compare the coagulation profile of MiECC to an optimized conventional extracorporeal circuit (OpECC) with regards to platelet function, rotational thromboelastometry and blood product usage. Methods A retrospective analysis of coronary artery bypass grafting operations using either MiECC or OpECC was performed at a single institution. Results A total of 112 patients were included, with 61 receiving MiECC and 51 OpECC patients. OpECC patients had a significantly larger BSA (1.95+/- 0.22m2 vs 1.88 +/- 0.18m2, p = 0.034), than those who received MiECC. No difference between groups was observed regarding red blood cell, plasma, and platelet transfusions. Functional platelet count during the warming phase of cardiopulmonary bypass was found to be higher in the MiECC group ((136 (102–171) x109/L vs 109 (94–136) x109/L), p = 0.027), as were functional platelets as a percent of total platelet count ((86 (77–91)% vs 76 (63–82)%), p = 0.003). There were no significant differences between other outcomes such as operative mortality, incidence of stroke, and intensive care unit length of stay. Conclusion While we did not see a difference in blood transfusions, MiECC resulted in a statistically significant advantage over OpECC with regards to preservation of functional platelets.
+SN - 0267-6591
+M3  - doi: 10.1177/02676591221130173
+UR  - https://doi-org.crai.referencistas.com/10.1177/02676591221130173
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Model abstraction for discrete-event systems by binary linear programming with applications to manufacturing systems
+AU  - Cheng, Lihong
+AU  - Feng, Lei
+AU  - Li, Zhiwu
+Y1  - 2021/07/01
+PY  - 2021
+DA  - 2021/07/01
+N1  - doi: 10.1177/00368504211030833
+DO  - 10.1177/00368504211030833
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504211030833
+VL - 104
+IS - 3
+PB - SAGE Publications Ltd
+N2 - Model abstraction for finite state automata is helpful for decreasing computational complexity and improving comprehensibility for the verification and control synthesis of discrete-event systems (DES). Supremal quasi-congruence equivalence is an effective method for reducing the state space of DES and its effective algorithms based on graph theory have been developed. In this paper, a new method is proposed to convert the supremal quasi-congruence computation into a binary linear programming problem which can be solved by many powerful integer linear programming and satisfiability (SAT) solvers. Partitioning states to cosets is considered as allocating states to an unknown number of cosets and the requirement of finding the coarsest quasi-congruence is equivalent to using the least number of cosets. The novelty of this paper is to solve the optimal partitioning problem as an optimal state-to-coset allocation problem. The task of finding the coarsest quasi-congruence is equivalent to the objective of finding the least number of cosets. Then the problem can be solved by optimization methods, which are respectively implemented by mixed integer linear programming (MILP) in MATLAB and binary linear programming (BLP) in CPLEX. To reduce the computation time, the translation process is first optimized by introducing fewer decision variables and simplifying constraints in the programming problem. Second, the translation process formulates a few techniques of converting logic constraints on finite automata into binary linear constraints. These techniques will be helpful for other researchers exploiting integer linear programming and SAT solvers for solving partitioning or grouping problems. Third, the computational efficiency and correctness of the proposed method are verified by two different solvers. The proposed model abstraction approach is applied to simplify the large-scale supervisor model of a manufacturing system with five automated guided vehicles. The proposed method is not only a new solution for the coarsest quasi-congruence computation, but also provides us a more intuitive understanding of the quasi-congruence relation in the supervisory control theory. A future research direction is to apply more computationally efficient solvers to compute the optimal state-to-coset allocation problem.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504211030833
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504211030833
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Defeasible logic programming: DeLP-servers, contextual queries, and explanations for answers
+AU  - García, Alejandro J.
+AU  - Simari, Guillermo R.
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1080/19462166.2013.869767
+DO  - 10.1080/19462166.2013.869767
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -63
+EP - 88
+VL - 5
+IS - 1
+PB - SAGE Publications
+N2 - Argumentation represents a way of reasoning over a knowledge base containing possibly incomplete and/or inconsistent information, to obtain useful conclusions. As a reasoning mechanism, the way an argumentation reasoning engine reaches these conclusions resembles the cognitive process that humans follow to analyse their beliefs; thus, unlike other computationally reasoning systems, argumentation offers an intellectually friendly alternative to other defeasible reasoning systems. Logic Programming is a computational paradigm that has produced computationally attractive systems with remarkable success in many applications. Merging ideas from both areas, Defeasible Logic Programming offers a computational reasoning system that uses an argumentation engine to obtain answers from a knowledge base represented using a logic programming language extended with defeasible rules. This combination of ideas brings about a computationally effective system together with a human-like reasoning model facilitating its use in applications.
+SN - 1946-2166
+M3  - doi: 10.1080/19462166.2013.869767
+UR  - https://doi-org.crai.referencistas.com/10.1080/19462166.2013.869767
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - APOE ε4 Modulation of Training Outcomes in Several Cognitive Domains in a Sample of Cognitively Intact Older Adults
+AU  - López-Higes, Ramón
+AU  - Rodríguez-Rojo, Inmaculada C.
+AU  - Prados, José M.
+AU  - Montejo, Pedro
+AU  - Del-Río, David
+AU  - Delgado-Losada, María Luisa
+AU  - Montenegro, Mercedes
+AU  - López-Sanz, David
+AU  - Barabash, Ana
+Y1  - 2017/01/01
+PY  - 2017
+DA  - 2017/01/01
+N1  - doi: 10.3233/JAD-161014
+DO  - 10.3233/JAD-161014
+T2  - Journal of Alzheimer’s Disease
+JF  - Journal of Alzheimer’s Disease
+SP  -1201
+EP - 1215
+VL - 58
+IS - 4
+PB - SAGE Publications
+N2 - Background: Most research points to the ɛ4 allele of the apolipoprotein E (APOE) gene as the most recognizable genetic risk factor associated with Alzheimer’s disease pathogenesis. It has been also suggested that the APOE ɛ4 allele has a negative influence on cognitive functioning, which begins long before cognitive impairment becomes manifest. However, still, little is known about the APOE ɛ4 interaction with cognitive intervention programs. Objective: The main goal of this study was to explore whether there was a differential APOE genotype modulation effect after cognitive training in different domains, such as language comprehension, executive functions, and memory. Contrary to other studies, hippocampal volume was controlled for. Methods: Fifty older adults (65+ years; 30 women and 20 men) participated in a multi-domain cognitive training that involved 30 sessions taking place over 12 weeks. Half of the participants were APOE ɛ4 carriers. The control group was matched in age, gender, normalized hippocampal volume, cognitive reserve, Mini-Mental State Examination score, and Geriatric Depression Scale-Short Version. Results: The study revealed that there were consistent treatment benefits in complex sentence comprehension (noncanonical sentences and sentences with two propositions), a domain that was not directly trained, but only in the A POE ɛ4 noncarrier group. Conclusion: Genetic profile modulates training outcomes in sentence comprehension.
+SN - 1387-2877
+M3  - doi: 10.3233/JAD-161014
+UR  - https://doi-org.crai.referencistas.com/10.3233/JAD-161014
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Article Commentary: Neuroinformatics: From Bioinformatics to Databasing the Brain
+AU  - Morse, Thomas M.
+Y1  - 2008/01/01
+PY  - 2008
+DA  - 2008/01/01
+N1  - doi: 10.4137/BBI.S540
+DO  - 10.4137/BBI.S540
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S540
+VL - 2
+PB - SAGE Publications Ltd STM
+N2 - Neuroinformatics seeks to create and maintain web-accessible databases of experimental and computational data, together with innovative software tools, essential for understanding the nervous system in its normal function and in neurological disorders. Neuroinformatics includes traditional bioinformatics of gene and protein sequences in the brain; atlases of brain anatomy and localization of genes and proteins; imaging of brain cells; brain imaging by positron emission tomography (PET), functional magnetic resonance imaging (fMRI), electroencephalography (EEG), magnetoencephalography (MEG) and other methods; many electrophysiological recording methods; and clinical neurological data, among others. Building neuroinformatics databases and tools presents difficult challenges because they span a wide range of spatial scales and types of data stored and analyzed. Traditional bioinformatics, by comparison, focuses primarily on genomic and proteomic data (which of course also presents difficult challenges). Much of bioinformatics analysis focus on sequences (DNA, RNA, and protein molecules), as the type of data that are stored, compared, and sometimes modeled. Bioinformatics is undergoing explosive growth with the addition, for example, of databases that catalog interactions between proteins, of databases that track the evolution of genes, and of systems biology databases which contain models of all aspects of organisms. This commentary briefly reviews neuroinformatics with clarification of its relationship to traditional and modern bioinformatics.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S540
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S540
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Ontologies for Bioinformatics
+AU  - Schuurman, Nadine
+AU  - Leszczynski, Agnieszka
+Y1  - 2008/01/01
+PY  - 2008
+DA  - 2008/01/01
+N1  - doi: 10.4137/BBI.S451
+DO  - 10.4137/BBI.S451
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S451
+VL - 2
+PB - SAGE Publications Ltd STM
+N2 - The past twenty years have witnessed an explosion of biological data in diverse database formats governed by heterogeneous infrastructures. Not only are semantics (attribute terms) different in meaning across databases, but their organization varies widely. Ontologies are a concept imported from computing science to describe different conceptual frameworks that guide the collection, organization and publication of biological data. An ontology is similar to a paradigm but has very strict implications for formatting and meaning in a computational context. The use of ontologies is a means of communicating and resolving semantic and organizational differences between biological databases in order to enhance their integration. The purpose of interoperability (or sharing between divergent storage and semantic protocols) is to allow scientists from around the world to share and communicate with each other. This paper describes the rapid accumulation of biological data, its various organizational structures, and the role that ontologies play in interoperability.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S451
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S451
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Evolution of Clinical Phenotypes of COVID-19 Patients During Intensive Care Treatment: An Unsupervised Machine Learning Analysis
+AU  - Siepel, Sander
+AU  - Dam, Tariq A.
+AU  - Fleuren, Lucas M.
+AU  - Girbes, Armand R.J.
+AU  - Hoogendoorn, Mark
+AU  - Thoral, Patrick J.
+AU  - Elbers, Paul W.G.
+AU  - Bennis, Frank C.
+Y1  - 2023/02/06
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1177/08850666231153393
+DO  - 10.1177/08850666231153393
+T2  - Journal of Intensive Care Medicine
+JF  - Journal of Intensive Care Medicine
+JO  - J Intensive Care Med
+SP  -612
+EP - 629
+VL - 38
+IS - 7
+PB - SAGE Publications Inc STM
+N2 - Background Identification of clinical phenotypes in critically ill COVID-19 patients could improve understanding of the disease heterogeneity and enable prognostic and predictive enrichment. However, previous attempts did not take into account temporal dynamics with high granularity. By including the dimension of time, we aim to gain further insights into the heterogeneity of COVID-19. Methods We used granular data from 3202 adult COVID patients in the Dutch Data Warehouse that were admitted to one of 25 Dutch ICUs between February 2020 and March 2021. Parameters including demographics, clinical observations, medications, laboratory values, vital signs, and data from life support devices were selected. Twenty-one datasets were created that each covered 24 h of ICU data for each day of ICU treatment. Clinical phenotypes in each dataset were identified by performing cluster analyses. Both evolution of the clinical phenotypes over time and patient allocation to these clusters over time were tracked. Results The final patient cohort consisted of 2438 COVID-19 patients with a ICU mortality outcome. Forty-one parameters were chosen for cluster analysis. On admission, both a mild and a severe clinical phenotype were found. After day 4, the severe phenotype split into an intermediate and a severe phenotype for 11 consecutive days. Heterogeneity between phenotypes appears to be driven by inflammation and dead space ventilation. During the 21-day period, only 8.2% and 4.6% of patients in the initial mild and severe clusters remained assigned to the same phenotype respectively. The clinical phenotype half-life was between 5 and 6 days for the mild and severe phenotypes, and about 3 days for the medium severe phenotype. Conclusions Patients typically do not remain in the same cluster throughout intensive care treatment. This may have important implications for prognostic or predictive enrichment. Prominent dissimilarities between clinical phenotypes are predominantly driven by inflammation and dead space ventilation.
+SN - 0885-0666
+M3  - doi: 10.1177/08850666231153393
+UR  - https://doi-org.crai.referencistas.com/10.1177/08850666231153393
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using Random Forest Model Combined With Gabor Feature to Predict Protein-Protein Interaction From Protein Sequence
+AU  - Zhan, Xin-Ke
+AU  - You, Zhu-Hong
+AU  - Li, Li-Ping
+AU  - Li, Yang
+AU  - Wang, Zheng
+AU  - Pan, Jie
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176934320934498
+DO  - 10.1177/1176934320934498
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934320934498
+VL - 16
+PB - SAGE Publications Ltd STM
+N2 - Protein-protein interactions (PPIs) play a crucial role in the life cycles of living cells. Thus, it is important to understand the underlying mechanisms of PPIs. Although many high-throughput technologies have generated large amounts of PPI data in different organisms, the experiments for detecting PPIs are still costly and time-consuming. Therefore, novel computational methods are urgently needed for predicting PPIs. For this reason, developing a new computational method for predicting PPIs is drawing more and more attention. In this study, we proposed a novel computational method based on texture feature of protein sequence for predicting PPIs. Especially, the Gabor feature is used to extract texture feature and protein evolutionary information from Position-Specific Scoring Matrix, which is generated by Position-Specific Iterated Basic Local Alignment Search Tool. Then, random forest–based classifiers are used to infer the protein interactions. When performed on PPI data sets of yeast, human, and Helicobacter pylori, we obtained good results with average accuracies of 92.10%, 97.03%, and 86.45%, respectively. To better evaluate the proposed method, we compared Gabor feature, Discrete Cosine Transform, and Local Phase Quantization. Our results show that the proposed method is both feasible and stable and the Gabor feature descriptor is reliable in extracting protein sequence information. Furthermore, additional experiments have been conducted to predict PPIs of other 4 species data sets. The promising results indicate that our proposed method is both powerful and robust.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934320934498
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934320934498
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - “It’s All About US vs THEM!”: Comparing Chinese Populist Discourses on Weibo and Twitter
+AU  - Zhang, Yuan
+AU  - Schroeder, Ralph
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/20563051241229659
+DO  - 10.1177/20563051241229659
+T2  - Social Media + Society
+JF  - Social Media + Society
+SP  -20563051241229660
+VL - 10
+IS - 1
+PB - SAGE Publications Ltd
+N2 - The recent resurgence of populism has led to renewed interest in the phenomenon, but it remains unclear how this phenomenon has manifested itself in non-Western settings like China. This article analyses Chinese populism and provides a systematic categorization of online discourses related to this phenomenon, including ideas about “the people,” “corrupt elites,” and “enemies.” The article is based on a collection of more than 100,000 Chinese online posts, collected from both Weibo and Twitter, that were classified as populist or not using natural language processing (NLP) models. We show how populism has manifested itself in Chinese online venues, and how populist discourses on Weibo and Twitter differ in topics, semantic content, and in who posts (agenda setters) and shares posts (audiences). The comparison demonstrates that different Chinese netizens take competing approaches to define the place of a rising China, and this also puts populism into the context of the peculiar Chinese way of rallying “the people” on behalf of the nation. Findings from this study contribute new insights into understanding populism in Chinese cyberspaces and provide a cross-platform perspective for understanding populist discourses in national and transnational contexts. The study also adds to computational methods in empirical research of populism in a comparative perspective.
+SN - 2056-3051
+M3  - doi: 10.1177/20563051241229659
+UR  - https://doi-org.crai.referencistas.com/10.1177/20563051241229659
+Y2  - 2024/10/01
+ER  - 
+

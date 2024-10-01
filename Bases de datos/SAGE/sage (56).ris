@@ -1,0 +1,251 @@
+TY  - JOUR
+T1  - Acute Stress Eliminates Female Advantage in Detection of Ambiguous Negative Affect
+AU  - DeDora, Daniel J.
+AU  - Carlson, Joshua M.
+AU  - Mujica-Parodi, Lilianne R.
+Y1  - 2011/10/01
+PY  - 2011
+DA  - 2011/10/01
+N1  - doi: 10.1177/147470491100900406
+DO  - 10.1177/147470491100900406
+T2  - Evolutionary Psychology
+JF  - Evolutionary Psychology
+JO  - Evol Psychol
+SP  -532
+EP - 542
+VL - 9
+IS - 4
+PB - SAGE Publications Inc
+N2 - The human stress response evolved to maximize an individual’s probability of survival when threatened. The present study addressed whether physical danger modulates perception of an unrelated ambiguous threat and, if so, to what extent this response is sex-specific. The authors utilized a first-time tandem skydive as a stressor, which had been previously validated as producing a highly-controlled, genuinely stressful environment. In a counter-balanced within-subjects design, participants wore a virtual reality helmet to complete an emotion-identification task during the plane’s ascent (stress condition) and in the laboratory (control condition). Participants were presented static male faces morphed between 20–80% aggression, which gradually emerged from degraded images. Using a binary forced-choice design, participants identified each ambiguous face as aggressive or neutral. Results showed that participants characterized emotion more rapidly under stress versus control conditions. Unexpectedly, the results also show that while women were more sensitive to affect ambiguity than men under control conditions, they exhibited a marked decrease in sensitivity equivalent to men while under stress.
+SN - 1474-7049
+M3  - doi: 10.1177/147470491100900406
+UR  - https://doi-org.crai.referencistas.com/10.1177/147470491100900406
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Semi-Lagrangian 4d, 5d, and 6d kinetic plasma simulation on large-scale GPU-equipped supercomputers
+AU  - Einkemmer, Lukas
+AU  - Moriggl, Alexander
+Y1  - 2022/12/16
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1177/10943420221137599
+DO  - 10.1177/10943420221137599
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -180
+EP - 196
+VL - 37
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - Running kinetic plasma physics simulations using grid-based solvers is very demanding both in terms of memory as well as computational cost. This is primarily due to the up to six-dimensional phase space and the associated unfavorable scaling of the computational cost as a function of grid spacing (often termed the curse of dimensionality). In this article, we present 4d, 5d, and 6d simulations of the Vlasov–Poisson equation with a split-step semi-Lagrangian discontinuous Galerkin scheme on graphic processing units (GPUs). The local communication pattern of this method allows an efficient implementation on large-scale GPU-based systems and emphasizes the importance of considering algorithmic and high-performance computing aspects in unison. We demonstrate a single node performance above 2 TB/s effective memory bandwidth (on a node with four A100 GPUs) and show excellent scaling (parallel efficiency between 30% and 67%) for up to 1536 A100 GPUs on JUWELS Booster.
+SN - 1094-3420
+M3  - doi: 10.1177/10943420221137599
+UR  - https://doi-org.crai.referencistas.com/10.1177/10943420221137599
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Laminar-turbulent transition in a constricted tube: Comparison of Reynolds-averaged Navier–Stokes turbulence models and large eddy simulation with experiments
+AU  - Elcner, Jakub
+AU  - Lizal, Frantisek
+AU  - Jedelsky, Jan
+AU  - Tuhovcak, Jan
+AU  - Jicha, Miroslav
+Y1  - 2019/05/01
+PY  - 2019
+DA  - 2019/05/01
+N1  - doi: 10.1177/1687814019852261
+DO  - 10.1177/1687814019852261
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019852261
+VL - 11
+IS - 5
+PB - SAGE Publications
+N2 - Constricted tubes appear in many engineering as well as biological systems such as blood vessels or pulmonary airways. The aim of this article is to test the ability of different turbulence models to predict the flow field and deposition of particles in a constricted tube. The constricted geometry of Ahmed and Giddens was employed to compare various numerical approaches. Two large eddy simulations and several Reynolds-averaged Navier–Stokes models were used for calculations using the Star-CCM+ commercial solver. The performance of these models was compared with the experiments and other published studies. For selected turbulence models, deposition of particles with different Stokes numbers using Lagrangian multiphase model was enabled. The results show that large eddy simulation best predicts the transition from laminar to turbulent flow in terms of mean axial velocity, and similarly does also standard low-Reynolds k–ε model. The comparison of deposition fractions shows substantial differences among the models, especially for the smallest particles. It was demonstrated that even a simple stenosed smooth tube is a very intricate problem for the present computational fluid dynamics models; therefore, to get reliable results, numerical models need to be validated for the same geometry and similar conditions.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019852261
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019852261
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - CFD modelling of the off-gas system HIsarna iron making process part 2: reflux chamber geometry modification and effects on flow behaviour
+AU  - Hosseini, Ashkan
+AU  - Dhiman, Vinod
+AU  - Meijer, Koen
+AU  - Zeilstra, Christiaan
+AU  - Hage, Johannes
+AU  - Peeters, Tim
+AU  - Offerman, Erik
+AU  - Yang, Yongxiang
+Y1  - 2022/09/01
+PY  - 2022
+DA  - 2022/09/01
+N1  - doi: 10.1080/03019233.2022.2060457
+DO  - 10.1080/03019233.2022.2060457
+T2  - Ironmaking & Steelmaking
+JF  - Ironmaking & Steelmaking
+SP  -783
+EP - 794
+VL - 49
+IS - 8
+PB - SAGE Publications
+N2 - A three-dimensional computational fluid dynamics (CFD) model for the HIsarna off-gas system is set up and validated by real plant data. In the model detailed reaction mechanism and kinetic data for post-combustion of CO-H2 mixture and carbon particles are incorporated. The results are presented and discussed in another study (Part 1) by the same authors. In the present paper, the focus will be on geometry modification of the off-gas system and the effects on the operating parameters. The effect of this modification on heat loss, temperature profile, carbon conversion and gaseous phase composition across the off-gas system is investigated. It is shown that the modified geometry leads to a higher heat loss through the reflux chamber walls which can change the temperature profile and consequently species composition. The modified geometry also offers possibility of higher CO-H2 mixture and carbon particles conversion rate and reduce unwanted emission from the reflux chamber.
+SN - 0301-9233
+M3  - doi: 10.1080/03019233.2022.2060457
+UR  - https://doi-org.crai.referencistas.com/10.1080/03019233.2022.2060457
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Fate of Exhaled Droplets From Breathing and Coughing in Supermarket Checkouts and Passenger Cars
+AU  - Nishandar, Sanika Ravindra
+AU  - He, Yucheng
+AU  - Princevac, Marko
+AU  - Edwards, Rufus D.
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/11786302221148274
+DO  - 10.1177/11786302221148274
+T2  - Environmental Health Insights
+JF  - Environmental Health Insights
+JO  - Environ�Health�Insights
+SP  -11786302221148274
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - The global pandemic of COVID-19 has highlighted the importance of understanding the role that exhaled droplets play in virus transmission in community settings. Computational Fluid Dynamics (CFD) enables systematic examination of roles the exhaled droplets play in the spread of SARS-CoV-2 in indoor environments. This analysis uses published exhaled droplet size distributions combined with terminal aerosol droplet size based on measured peak concentrations for SARS-CoV-2 RNA in aerosols to simulate exhaled droplet dispersion, evaporation, and deposition in a supermarket checkout area and rideshare car where close proximity with other individuals is common. Using air inlet velocity of 2 m/s in the passenger car and ASHRAE recommendations for ventilation and comfort in the supermarket, simulations demonstrate that exhaled droplets <20 μm that contain the majority of viral RNA evaporated leaving residual droplet nuclei that remain aerosolized in the air. Subsequently ~ 70% of these droplet nuclei deposited in the supermarket and the car with the reminder vented from the space. The maximum surface deposition of droplet nuclei/m2 for speaking and coughing were 2 and 819, 18 and 1387 for supermarket and car respectively. Approximately 15% of the total exhaled droplets (aerodynamic diameters 20-700 µm) were deposited on surfaces in close proximity to the individual. Due to the non-linear distribution of viral RNA across droplet sizes, however, these larger exhaled droplets that deposit on surfaces have low viral content. Maximum surface deposition of viral RNA was 70 and 1.7 × 103 virions/m2 for speaking and 2.3 × 104 and 9.3 × 104 virions/m2 for coughing in the supermarket and car respectively while the initial airborne concentration of viral RNA was 7 × 106 copies per ml. Integrating the droplet size distributions with viral load distributions, this study helps explain the apparent importance of inhalation exposures compared to surface contact observed in the pandemic.
+SN - 1178-6302
+M3  - doi: 10.1177/11786302221148274
+UR  - https://doi-org.crai.referencistas.com/10.1177/11786302221148274
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Efficient Acceleration of the Pair-HMMs Forward Algorithm for GATK HaplotypeCaller on Graphics Processing Units
+AU  - Ren, Shanshan
+AU  - Bertels, Koen
+AU  - Al-Ars, Zaid
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1176934318760543
+DO  - 10.1177/1176934318760543
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934318760543
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - GATK HaplotypeCaller (HC) is a popular variant caller, which is widely used to identify variants in complex genomes. However, due to its high variants detection accuracy, it suffers from long execution time. In GATK HC, the pair-HMMs forward algorithm accounts for a large percentage of the total execution time. This article proposes to accelerate the pair-HMMs forward algorithm on graphics processing units (GPUs) to improve the performance of GATK HC. This article presents several GPU-based implementations of the pair-HMMs forward algorithm. It also analyzes the performance bottlenecks of the implementations on an NVIDIA Tesla K40 card with various data sets. Based on these results and the characteristics of GATK HC, we are able to identify the GPU-based implementations with the highest performance for the various analyzed data sets. Experimental results show that the GPU-based implementations of the pair-HMMs forward algorithm achieve a speedup of up to 5.47× over existing GPU-based implementations.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934318760543
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934318760543
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Theory Before the Test: How to Build High-Verisimilitude Explanatory Theories in Psychological Science
+AU  - van Rooij, Iris
+AU  - Baggio, Giosuè
+Y1  - 2021/01/06
+PY  - 2021
+DA  - 2021/07/01
+N1  - doi: 10.1177/1745691620970604
+DO  - 10.1177/1745691620970604
+T2  - Perspectives on Psychological Science
+JF  - Perspectives on Psychological Science
+JO  - Perspect Psychol Sci
+SP  -682
+EP - 697
+VL - 16
+IS - 4
+PB - SAGE Publications Inc
+N2 - Drawing on the philosophy of psychological explanation, we suggest that psychological science, by focusing on effects, may lose sight of its primary explananda: psychological capacities. We revisit Marr’s levels-of-analysis framework, which has been remarkably productive and useful for cognitive psychological explanation. We discuss ways in which Marr’s framework may be extended to other areas of psychology, such as social, developmental, and evolutionary psychology, bringing new benefits to these fields. We then show how theoretical analyses can endow a theory with minimal plausibility even before contact with empirical data: We call this the theoretical cycle. Finally, we explain how our proposal may contribute to addressing critical issues in psychological science, including how to leverage effects to understand capacities better.
+SN - 1745-6916
+M3  - doi: 10.1177/1745691620970604
+UR  - https://doi-org.crai.referencistas.com/10.1177/1745691620970604
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Adolescent Victimization and Early-Adult Psychopathology: Approaching Causal Inference Using a Longitudinal Twin Study to Rule Out Noncausal Explanations
+AU  - Schaefer, Jonathan D.
+AU  - Moffitt, Terrie E.
+AU  - Arseneault, Louise
+AU  - Danese, Andrea
+AU  - Fisher, Helen L.
+AU  - Houts, Renate
+AU  - Sheridan, Margaret A.
+AU  - Wertz, Jasmin
+AU  - Caspi, Avshalom
+Y1  - 2017/12/12
+PY  - 2018
+DA  - 2018/05/01
+N1  - doi: 10.1177/2167702617741381
+DO  - 10.1177/2167702617741381
+T2  - Clinical Psychological Science
+JF  - Clinical Psychological Science
+SP  -352
+EP - 371
+VL - 6
+IS - 3
+PB - SAGE Publications Inc
+N2 - Adolescence is the peak age for both victimization and mental disorder onset. Previous research has reported associations between victimization exposure and many psychiatric conditions. However, causality remains controversial. Within the Environmental Risk Longitudinal Twin Study, we tested whether seven types of adolescent victimization increased risk of multiple psychiatric conditions and approached causal inference by systematically ruling out noncausal explanations. Longitudinal within-individual analyses showed that victimization was followed by increased mental health problems over a childhood baseline of emotional/behavioral problems. Discordant-twin analyses showed that victimization increased risk of mental health problems independent of family background and genetic risk. Both childhood and adolescent victimization made unique contributions to risk. Victimization predicted heightened generalized liability (the “p factor”) to multiple psychiatric spectra, including internalizing, externalizing, and thought disorders. Results recommend violence reduction and identification and treatment of adolescent victims to reduce psychiatric burden.
+SN - 2167-7026
+M3  - doi: 10.1177/2167702617741381
+UR  - https://doi-org.crai.referencistas.com/10.1177/2167702617741381
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Fat stigma and body objectification: A text analysis approach using social media content
+AU  - Wanniarachchi, Vajisha U.
+AU  - Scogings, Chris
+AU  - Susnjak, Teo
+AU  - Mathrani, Anuradha
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/20552076221117404
+DO  - 10.1177/20552076221117404
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076221117404
+VL - 8
+PB - SAGE Publications Ltd
+N2 - This study investigates how female and male genders are positioned in fat stigmatising discourses that are being conducted over social media. Weight-based linguistic data corpus, extracted from three popular social media (SM) outlets, Twitter, YouTube and Reddit, was examined for fat stigmatising content. A mixed-method analysis comprising sentiment analysis, word co-occurrences and qualitative analysis, assisted our investigation of the corpus for body objectification themes and gender-based differences. Objectification theory provided the underlying framework to examine the experiential consequences of being fat across both genders. Five objectifying themes, namely, attractiveness, physical appearance, lifestyle choices, health and psychological well-being, emerged from the analysis. A deeper investigation into more facets of the social interaction data revealed overall positive and negative attitudes towards obesity, which informed on existing notions of gendered body objectification and weight/fat stigmatisation. Our findings have provided a holistic outlook on weight/fat stigmatising content that is posted online which can further inform policymakers in planning suitable props to facilitate more inclusive SM spaces. This study showcases how lexical analytics can be conducted by combining a variety of data mining methods to draw out insightful subject-related themes that add to the existing knowledge base; therefore, has both practical and theoretical implications.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076221117404
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076221117404
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and simulation on speed prediction of bypass pipeline inspection gauge in medium of water and crude oil
+AU  - Zhang, Zengmeng
+AU  - Yang, Yong
+AU  - Hou, Jiaoyi
+AU  - Gong, Yongjun
+Y1  - 2020/08/25
+PY  - 2020
+DA  - 2020/11/01
+N1  - doi: 10.1177/0020294020947123
+DO  - 10.1177/0020294020947123
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -1851
+EP - 1860
+VL - 53
+IS - 9–10
+PB - SAGE Publications Ltd
+N2 - Bypass pipeline inspection gauges have the advantages of low cost and bringing no consumption in transportation efficiency and have been widely used in pipe cleaning, inspecting, and maintaining operations. The moving speed of bypass pipeline inspection gauges will seriously affect the results of the operations, so there are strict requirements on the moving speed of bypass pipeline inspection gauges. Because the moving speed of pipeline inspection gauge is difficult to measure or control in real time, it is important to predict it. This paper studies the influencing factors and their impact methods of pipeline inspection gauges’ motion. Through the combination of computational fluid dynamics simulation and friction mathematical model, the relationship between the value of the bypass hole diameter and the pipeline inspection gauges’ moving speed was studied. Under the selected research conditions, when the diameter of the bypass hole is increased from 0.1 to 0.5 m, the moving speed of pipeline inspection gauge in water and crude oil is, respectively, decreased from 2.779 to 0.589 m/s and from 2.777 to 0.373 m/s, and the relationship between them can be approximately described by a function. Based on this principle, the moving speed of pipeline inspection gauge can be predicted mathematically. The experiments also indicate that the density and dynamic viscosity of the transport medium and the deformation amount of the bypass pipeline inspection gauge sealing disk will affect the movement state of pipeline inspection gauge in the pipeline. This research has guiding significance for the design of the pipeline inspection gauges’ structure size, which is beneficial to the pipeline robot to better meet the needs of cleaning, inspecting, and maintaining operations, and has reference value for related researches.
+SN - 0020-2940
+M3  - doi: 10.1177/0020294020947123
+UR  - https://doi-org.crai.referencistas.com/10.1177/0020294020947123
+Y2  - 2024/10/01
+ER  - 
+

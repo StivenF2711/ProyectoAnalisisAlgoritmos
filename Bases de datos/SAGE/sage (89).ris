@@ -1,0 +1,236 @@
+TY  - JOUR
+T1  - Reinforcement-Learning-Informed Queries Guide Behavioral Change
+AU  - Brown, Vanessa M.
+AU  - Lee, Jacob
+AU  - Wang, John
+AU  - Casas, Brooks
+AU  - Chiu, Pearl H.
+Y1  - 2024/01/24
+PY  - 2024
+N1  - doi: 10.1177/21677026231213368
+DO  - 10.1177/21677026231213368
+T2  - Clinical Psychological Science
+JF  - Clinical Psychological Science
+SP  -21677026231213370
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - Algorithmically defined aspects of reinforcement learning correlate with psychopathology symptoms and change with symptom improvement following cognitive-behavioral therapy (CBT). Separate work in nonclinical samples has shown that varying the structure and statistics of task environments can change learning. Here, we combine these literatures, drawing on CBT-based guided restructuring of thought processes and computationally defined mechanistic targets identified by reinforcement-learning models in depression, to test whether and how verbal queries affect learning processes. Using a parallel-arm design, we tested 1,299 online participants completing a probabilistic reward-learning task while receiving repeated queries about the task environment (11 learning-query arms and one active control arm). Querying participants about reinforcement-learning-related task components altered computational-model-defined learning parameters in directions specific to the target of the query. These effects on learning parameters were consistent across depression-symptom severity, suggesting new learning-based strategies and therapeutic targets for evoking symptom change in mood psychopathology.
+SN - 2167-7026
+M3  - doi: 10.1177/21677026231213368
+UR  - https://doi-org.crai.referencistas.com/10.1177/21677026231213368
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Edge-based secure image denoising scheme supporting flexible user authorization
+AU  - Huang, Yibing
+AU  - Xu, Yongliang
+AU  - Cheng, Hang
+AU  - Chen, Fei
+AU  - Wang, Meiqing
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/17483026241264131
+DO  - 10.1177/17483026241264131
+T2  - Journal of Algorithms & Computational Technology
+JF  - Journal of Algorithms & Computational Technology
+SP  -17483026241264132
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Image denoising is a fundamental tool in the fields of image processing and computer vision. With the rapid development of multimedia and cloud computing, it has become popular for resource-constrained users to outsource the storage and denoising of massive images. However, it may cause privacy concerns and response delays. In this scenario, we propose an efFicient privAcy-preseRving Image deNoising schEme (FARINE) for outsourcing digital images. By introducing a key conversion mechanism, FARINE allows removing noise from a given noisy image using a non-local mean way without leaking any information about the plaintext content. Due to its low computational latency/communication cost, edge computing is considered to improve the user experience. To achieve a dynamic user set efficiently, we design a fine-grained access control mechanism to support user authorization and revocation in multi-user scenarios. Extensive experiments over several benchmark data sets show that FARINE obtains comparable performance to plaintext image denoising.
+SN - 1748-3018
+M3  - doi: 10.1177/17483026241264131
+UR  - https://doi-org.crai.referencistas.com/10.1177/17483026241264131
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Generalized finite element formulation for efficient first-order plastic hinge analysis
+AU  - Kim, Dae-Jin
+AU  - Son, Hong-Jun
+AU  - Yi, Yousun
+AU  - Hong, Sung-Gul
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/1687814019836366
+DO  - 10.1177/1687814019836366
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019836366
+VL - 11
+IS - 3
+PB - SAGE Publications
+N2 - This article presents generalized finite element formulation for plastic hinge modeling based on lumped plasticity in the classical Euler–Bernoulli beam. In this approach, the plastic hinges are modeled using a special enrichment function, which can describe the weak discontinuity of the solution at the location of the plastic hinge. Furthermore, it is also possible to insert a plastic hinge at an arbitrary location of the element without modifying its connectivity or adding more elements. Instead, the formations of the plastic hinges are achieved by hierarchically adding more degrees of freedom to existing elements. Due to these features, the proposed methodology can efficiently perform the first-order plastic hinge analysis of large-frame structures. A generalized finite element solution technique based on the static condensation scheme is also proposed in order to reduce the computational cost of a series of linear elastic problems, which is in general the most time-consuming portion of the first-order plastic hinge analysis. The effectiveness and accuracy of the proposed method are verified by analyzing several representative numerical examples.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019836366
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019836366
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Coupled simulation of elastohydrodynamics and multi-flexible body dynamics in piston-lubrication system
+AU  - Kim, Seongsu
+AU  - Choi, Juhwan
+AU  - Kim, Jin-Gyun
+AU  - Hatakeyama, Ryo
+AU  - Kuribara, Hiroshi
+AU  - Choi, Jin Hwan
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - doi: 10.1177/1687814019895855
+DO  - 10.1177/1687814019895855
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019895855
+VL - 11
+IS - 12
+PB - SAGE Publications
+N2 - In this work, we propose a robust modeling and analysis technique of the piston-lubrication system considering fluid–structure interaction. The proposed schemes are based on combining the elastohydrodynamic analysis and multi-flexible body dynamics. In particular, multi-flexible body dynamics analysis can offer highly precise numerical results regarding nonlinear deformation of the piston skirt and cylinder bore, which can lead to more accurate results of film thickness for gaps filled with lubricant and of relative velocity of facing surfaces between the piston skirt and the cylinder block. These dynamic analysis results are also used in the elastohydrodynamic analysis to compute the oil film pressure and asperity contact pressure that are used as external forces to evaluate the dynamic motions of the flexible bodies. A series of processes are repeated to accurately predict the lubrication characteristics such as the clearance and oil film pressure. In addition, the Craig–Bampton modal reduction, which is a standard type of component mode synthesis, is employed to accelerate the computational speed. The performance of the proposed modeling schemes implemented in the RecurDynTM multi-flexible body dynamics environment is demonstrated using a well-established numerical example, and the proposed simulation methods are also verified with the experimental results in a motor cycle engine (gasoline) which has a four cycle, single cylinder, overhead camshaft (OHC), air cooled.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019895855
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019895855
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning–assisted real-time container corner casting recognition
+AU  - Lee, Jaecheul
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1550147718824462
+DO  - 10.1177/1550147718824462
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147718824462
+VL - 15
+IS - 1
+PB - SAGE Publications
+N2 - Intelligent automated crane systems are now an integral part of container port automation. Accurate corner casting detection boosts the performance of an automated crane system which ultimately automates ships loading and unloading. Existing techniques use various traditional laser-based and vision-based methods for corner casting detection. Challenging weather conditions, varying lighting conditions, light reflections from ground, and container rusting conditions are the main problems that affect the performance of automated cranes. From this line of research, we propose an end-to-end method that takes a low-quality video input and produces bounding boxes around corner castings by applying a recurrent neural network along with long short-term memory units. The expressive image features from GoogLeNet are used to produce intermediate image representations that are further tuned for our system. The proposed system uses back-propagation to allow joint tuning of all components. At least, four cameras are mounted on each crane and input stream is combined into a single image to reduce the computational cost. The proposed system outperforms all existing methods in terms of precision, recall, and F-measure. The proposed method is implemented in a real-time port and produces more than 98% accuracy in all conditions.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147718824462
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147718824462
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Malaria Vectors Tend to Avoid the Indoor-Based Vector Control Tools in Wonji Sugar Estate, Oromia, Ethiopia
+AU  - Lelisa, Kidane
+AU  - Golassa, Lemu
+AU  - Woldehawariat, Yitbarek
+AU  - Dugassa, Sisay
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/11786302241267186
+DO  - 10.1177/11786302241267186
+T2  - Environmental Health Insights
+JF  - Environmental Health Insights
+JO  - Environ�Health�Insights
+SP  -11786302241267186
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Background: There is a paucity of data regarding resting habits and comparison of the physiological states of Anopheles mosquito populations from indoor and outdoor collection venues in Ethiopia. Therefore, this study aims to investigate resting behavior and age structure of the malaria vectors in Wonji Sugar Estate. Methods: Longitudinal entomological study was conducted at Wonji Sugar Estate from July 2018 to June 2020. Pyrethrum spray catches (PSC), Pit Shelter (PIT), and Oral Aspirators were used to collect adult Anopheles species from various resting sites. Mosquitoes were identified to the species using morphological keys. Finally, the resting behavior of Anopheles mosquitoes were determined using standard protocol. Results: A total of 1406 mosquitoes were collected from indoor and outdoor resting venues, with the outdoor resting population being significantly higher (F = 8.296, P = .04). The number of half-gravid/gravid Anopheles species collected from outdoors was higher than that from indoor resting venues (F = 35.612, P = .00). Eight two percent of the indoor sampled Anopheles species left the indoor venue before completing their gonotrophic cycle. Anopheles pharoensis and An. coustani cx. exhibited exophily rate of 83.4% and 100%, respectively. The overall parity rate of Anopheles gambiae s.l. was 45.7%. The highest parity rate, daily survival rate, and longevity of Anopheles gambiae s.l. was 66.7%, 0.874, and 7.399 days, respectively. Anopheles gambiae s.l. reached the infective stages for Plasmodium falciparum and P. vivax in February 2019. Conlusion: Anopheles mosquitoes, including the major malaria vector Anopheles gambiae s.l., showed predominantly exophilic habits, underscoring the need for outdoor vector control strategies in addition to indoor-based interventions. The increase in the nulliparous population indicates a higher risk of vector-human contact. Meanwhile, the extended lifespan of Anopheles gambiae s.l. observed during the dry season could increase the risk of infectious bites.
+SN - 1178-6302
+M3  - doi: 10.1177/11786302241267186
+UR  - https://doi-org.crai.referencistas.com/10.1177/11786302241267186
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Evolution of Motivated and Modulated Robot Selection
+AU  - Montes-Gonzalez, Fernando
+AU  - Contreras, Carlos M.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - doi: 10.5772/53991
+DO  - 10.5772/53991
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -125
+VL - 10
+IS - 2
+PB - SAGE Publications
+N2 - In this paper we focus on the development of a selection model that allows a robot to select pre-evolved behaviour in a motivated environment. A collection task is set in an arena where the Khepera robot has to collect cylinders, which simulate food. Therefore, two basic motivations, labelled as ‘obesity’ and ‘anorexia’, both affect the selection of the behavioural repertoire. Additionally, in this model is possible to modulate the model to be either more or less selective depending on the tonic value of the simulated ‘mesolimbic/cortical tone’. Next, we use evolution for optimizing the motivated selection network employed for behavioural switching. Finally, we describe the results of varying, by hand and evolution, the levels of reward by the mesolimbic-cortical tone.
+SN - 1729-8806
+M3  - doi: 10.5772/53991
+UR  - https://doi-org.crai.referencistas.com/10.5772/53991
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Statistical and artificial intelligence techniques to identify risk factors for suicide in children and adolescents
+AU  - Servi, Michaela
+AU  - Chiaro, Silvia
+AU  - Mussi, Elisa
+AU  - Castellini, Giovanni
+AU  - Mereu, Alberta
+AU  - Volpe, Yary
+AU  - Pisano, Tiziana
+Y1  - 2023/10/01
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1177/00368504231199663
+DO  - 10.1177/00368504231199663
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504231199663
+VL - 106
+IS - 4
+PB - SAGE Publications Ltd
+N2 - Background: Suicidal Behaviors and Thoughts are a relevant public health issue that includes suicidal ideation, non-suicidal self-harm, attempted suicide, and failed suicides. Since there is a progression of suicidal behaviors, whereby suicide is more likely to be completed if there have already been previous behaviors or attempts to harm oneself, WHO has highlighted the need to detect early predictors of such suicidal behaviors, which can help identify individuals at risk, plan prevention strategies and implement specific therapeutic interventions, particularly in young people, thus reducing the number of deaths. This retrospective observational study aimed to identify early predictors of suicidal risk in 237 inpatients admitted for Suicidal Behaviors and Thoughts at Child and Adolescent Psychiatry Emergency Unit of the Meyer Children’s Hospital, Florence, Italy. Methods: The study was subdivided into three phases: data collection, statistical analysis, and neural network. For each patient, we collected epidemiological and psychopathological data. We stratified the inpatients into two groups: “suicidal volition patients” and “suicidal motivation patients.” Results: The hospitalization rate for suicidal behaviors and thoughts showed a growing trend from 2016 to 2020 (27.69 to 45.28%). Under 12 years of age, diagnosis of disruptive, impulse-control and conduct disorder, previous specialist care, history of attempted suicide, and intoxication as methods of suicide were statistically correlated to an increased risk of suicidal behaviors. Artificial intelligence, with an accuracy of 86.7%, confirmed these risk factors. Limitations: The most important limitation of the study is its retrospective nature. Conclusions: Our study identifies new early predictors of suicidal risk: age less than 12, diagnosis of disruptive, impulse-control and conduct disorder. In addition, suicidal volition behavior emerges as an important and underestimated risk factor. The use of artificial intelligence methods could be supporting the clinician in assessing suicidal risk.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504231199663
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504231199663
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Social Overload Thesis Revisited: Exploring the Mechanisms of Size-Dependent Participation Behavior in Voluntary Communities
+AU  - Shi, Yongren
+AU  - Shi, Qianyi
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/23780231231209140
+DO  - 10.1177/23780231231209140
+T2  - Socius
+JF  - Socius
+SP  -23780231231209140
+VL - 9
+PB - SAGE Publications
+N2 - Sociological and urban studies have consistently reported that human behavior exhibits a discernible correlation with population size, following a power-law function. Individuals residing in larger communities exhibit significantly higher levels of activity in contrast to their counterparts in smaller communities. However, the underlying processes responsible for such behavioral patterns remain unclear. The authors propose that organizational crowding tends to generate competitive pressure that results in social overload for individuals, who in turn divide time and energy among many groups while reducing the time spent in each. The social overload thesis predicts integration, rather than mutual exclusion of groups, when experiencing competition. A large-scale event participation dataset from 11 major U.S. technology clusters over a period of 10 years is used to test these hypotheses. The results support the mediating role of competition in the relationship between population size and participation intensity. The authors demonstrate the impact of competition on network structure.
+SN - 2378-0231
+M3  - doi: 10.1177/23780231231209140
+UR  - https://doi-org.crai.referencistas.com/10.1177/23780231231209140
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive neurorobotics and self in the shared world, a focused review of ongoing research
+AU  - Tani, Jun
+AU  - White, Jeffrey
+Y1  - 2020/10/09
+PY  - 2022
+DA  - 2022/02/01
+N1  - doi: 10.1177/1059712320962158
+DO  - 10.1177/1059712320962158
+T2  - Adaptive Behavior
+JF  - Adaptive Behavior
+SP  -81
+EP - 100
+VL - 30
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - Through brain-inspired modeling studies, cognitive neurorobotics aims to resolve dynamics essential to different emergent phenomena at the level of embodied agency in an object environment shared with human beings. This article is a review of ongoing research focusing on model dynamics associated with human self-consciousness. It introduces the free energy principle and active inference in terms of Bayesian theory and predictive coding, and then discusses how directed inquiry employing analogous models may bring us closer to representing the sense of self in cognitive neurorobots. The first section quickly locates cognitive neurorobotics in the broad field of computational cognitive modeling. The second section introduces principles according to which cognition may be formalized, and reviews cognitive neurorobotics experiments employing such formalizations. The third section interprets the results of these and other experiments in the context of different senses of self, both “minimal” and “narrative” self. The fourth section considers model validity and discusses what we may expect ongoing cognitive neurorobotics studies to contribute to scientific explanation of cognitive phenomena including the senses of minimal and narrative self.
+SN - 1059-7123
+M3  - doi: 10.1177/1059712320962158
+UR  - https://doi-org.crai.referencistas.com/10.1177/1059712320962158
+Y2  - 2024/10/01
+ER  - 
+

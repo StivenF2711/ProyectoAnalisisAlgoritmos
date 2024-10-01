@@ -1,0 +1,247 @@
+TY  - JOUR
+T1  - Introduction to Metamodeling for Reducing Computational Burden of Advanced Analyses with Health Economic Models: A Structured Overview of Metamodeling Methods in a 6-Step Application Process
+AU  - Degeling, Koen
+AU  - IJzerman, Maarten J.
+AU  - Lavieri, Mariel S.
+AU  - Strong, Mark
+AU  - Koffijberg, Hendrik
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/0272989X20912233
+DO  - 10.1177/0272989X20912233
+T2  - Medical Decision Making
+JF  - Medical Decision Making
+JO  - Med Decis Making
+SP  -348
+EP - 363
+VL - 40
+IS - 3
+PB - SAGE Publications Inc STM
+N2 - Metamodels can be used to reduce the computational burden associated with computationally demanding analyses of simulation models, although applications within health economics are still scarce. Besides a lack of awareness of their potential within health economics, the absence of guidance on the conceivably complex and time-consuming process of developing and validating metamodels may contribute to their limited uptake. To address these issues, this article introduces metamodeling to the wider health economic audience and presents a process for applying metamodeling in this context, including suitable methods and directions for their selection and use. General (i.e., non–health economic specific) metamodeling literature, clinical prediction modeling literature, and a previously published literature review were exploited to consolidate a process and to identify candidate metamodeling methods. Methods were considered applicable to health economics if they are able to account for mixed (i.e., continuous and discrete) input parameters and continuous outcomes. Six steps were identified as relevant for applying metamodeling methods within health economics: 1) the identification of a suitable metamodeling technique, 2) simulation of data sets according to a design of experiments, 3) fitting of the metamodel, 4) assessment of metamodel performance, 5) conducting the required analysis using the metamodel, and 6) verification of the results. Different methods are discussed to support each step, including their characteristics, directions for use, key references, and relevant R and Python packages. To address challenges regarding metamodeling methods selection, a first guide was developed toward using metamodels to reduce the computational burden of analyses of health economic models. This guidance may increase applications of metamodeling in health economics, enabling increased use of state-of-the-art analyses (e.g., value of information analysis) with computationally burdensome simulation models.
+SN - 0272-989X
+M3  - doi: 10.1177/0272989X20912233
+UR  - https://doi-org.crai.referencistas.com/10.1177/0272989X20912233
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Computational reparations as generative justice: Decolonial transitions to unalienated circular value flow
+AU  - Eglash, Ron
+AU  - Robinson, Kwame P.
+AU  - Bennett, Audrey
+AU  - Robert, Lionel
+AU  - Garvin, Mathew
+Y1  - 2024/01/08
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1177/20539517231221732
+DO  - 10.1177/20539517231221732
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517231221732
+VL - 11
+IS - 1
+PB - SAGE Publications Ltd
+N2 - The Latin roots of the word reparations are “re” (again) plus “parere” which means “to give birth to, bring into being, produce”. Together they mean “to make generative once again”. In this sense, the extraction processes that cause labor injustice, ecological devastation, and social degradation cannot be repaired by simply transferring money. Reparations need to take on the full sense of “restorative”: the transition to a decolonial system that can support value generators in the control of their own systems of production, protect the value they create from extraction, and circulate value in unalienated forms that benefit the human and non-human communities that produced that value. With funding from the National Science Foundation, we have developed a research framework for this process that starts with “artisanal labor”: employee-owned business and worker collectives that have people doing what they love, despite low incomes. Focusing primarily on Detroit’s Black-owned urban farms, artisanal textile businesses, Black hair salons, worker collectives, and other community-based production, with additional connections to Indigenous and other communities, we have introduced digital fabrication technologies, sensors, artificial intelligence, server-side apps and other computational support for a transition to unalienated circular value flow. We will report on our investigations with the challenges at multiple scales. At each level, we show how computational supports can act as restorative mechanisms for lost circular value flows, and thus address both past and ongoing disenfranchisement.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517231221732
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517231221732
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Exploiting stoichiometric redundancies for computational efficiency and           network reduction
+AU  - Ingalls, Brian P.
+AU  - Bembenek, Eric
+Y1  - 2015/07/03
+PY  - 2015
+DA  - 2015/07/03
+N1  - doi: 10.3233/ISB-140464
+DO  - 10.3233/ISB-140464
+T2  - In Silico Biology
+JF  - In Silico Biology
+SP  -55
+EP - 67
+VL - 12
+IS - 1–2
+PB - SAGE Publications
+N2 - Abstract Analysis of metabolic networks typically begins with construction of the stoichiometry matrix, which characterizes the network topology. This matrix provides, via the balance equation, a description of the potential steady-state flow distribution. This paper begins with the observation that the balance equation depends only on the structure of linear redundancies in the network, and so can be stated in a succinct manner, leading to computational efficiencies in steady-state analysis. This alternative description of steady-state behaviour is then used to provide a novel method for network reduction, which complements existing algorithms for describing intracellular networks in terms of input-output macro-reactions (to facilitate bioprocess optimization and control). Finally, it is demonstrated that this novel reduction method can be used to address elementary mode analysis of large networks: the modes supported by a reduced network can capture the input-output modes of a metabolic module with significantly reduced computational effort.
+SN - 1386-6338
+M3  - doi: 10.3233/ISB-140464
+UR  - https://doi-org.crai.referencistas.com/10.3233/ISB-140464
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effects of the Anterolateral Ligament and Anterior Cruciate Ligament on Knee Joint Mechanics: A Biomechanical Study Using Computational Modeling
+AU  - Kang, Kyoung-Tak
+AU  - Koh, Yong-Gon
+AU  - Park, Kyoung-Mi
+AU  - Choi, Chong-Hyuk
+AU  - Jung, Min
+AU  - Cho, Hyunik
+AU  - Kim, Sung-Hwan
+Y1  - 2022/04/01
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/23259671221084970
+DO  - 10.1177/23259671221084970
+T2  - Orthopaedic Journal of Sports Medicine
+JF  - Orthopaedic Journal of Sports Medicine
+SP  -23259671221084970
+VL - 10
+IS - 4
+PB - SAGE Publications Inc
+N2 - Background: Recent studies on lateral knee anatomy have reported the presence of a true ligament structure, the anterolateral ligament (ALL), in the anterolateral region of the knee joint. However, its biomechanical effects have not been fully elucidated. Purpose: To investigate, by using computer simulation, the association between the ALL and anterior cruciate ligament (ACL) under dynamic loading conditions. Study Design: Descriptive laboratory study; Level of evidence, 5. Methods: The authors combined medical imaging from 5 healthy participants with motion capture to create participant-specific knee models that simulated the entire 12 degrees of freedom of tibiofemoral (TF) and patellofemoral (PF) joint behaviors. These dynamic computational models were validated using electromyographic data, muscle activation data, and data from previous experimental studies. Forces exerted on the ALL with ACL deficiency and on the ACL with ALL deficiency, as well as TF and PF contact forces with deficiencies of the ACL, ALL, and the entire ligament structure, were evaluated under gait and squat loading. A single gait cycle and squat cycle were divided into 11 time points (periods 0.0-1.0). Simulated ligament forces and contact forces were compared using nonparametric repeated-measures Friedman tests. Results: Force exerted on the ALL significantly increased with ACL deficiency under both gait- and squat-loading conditions. With ACL deficiency, the mean force on the ALL increased by 129.7% under gait loading in the 0.4 period (P < .05) and increased by 189% under high flexion during the entire cycle of squat loading (P < .05). A similar trend of significantly increased force on the ACL was observed with ALL deficiency. Contact forces on the TF and PF joints with deficiencies of the ACL, ALL, and entire ligament structure showed a complicated pattern. However, contact force exerted on TF and PF joints with respect to deficiencies of ACL and ALL significantly increased under both gait- and squat-loading conditions. Conclusion: The results of this computer simulation study indicate that the ACL and the ALL of the lateral knee joint act as secondary stabilizers to each other under dynamic load conditions.
+SN - 2325-9671
+M3  - doi: 10.1177/23259671221084970
+UR  - https://doi-org.crai.referencistas.com/10.1177/23259671221084970
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Stability and economy analysis based on computational fluid dynamics and field testing of hybrid-driven underwater glider with the water quality sensor in Danjiangkou Reservoir
+AU  - Li, Chao
+AU  - Wang, Yanhui
+AU  - Wu, Zhiliang
+Y1  - 2015/12/01
+PY  - 2015
+DA  - 2015/12/01
+N1  - doi: 10.1177/1687814015620570
+DO  - 10.1177/1687814015620570
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015620570
+VL - 7
+IS - 12
+PB - SAGE Publications
+N2 - Hybrid-driven underwater glider is a new kind of unmanned platform for water quality monitoring. It has advantages such as high controllability and maneuverability, low cost, easy operation, and ability to carry multiple sensors. This article develops a hybrid-driven underwater glider, PETRELII, and integrates a water quality monitoring sensor. Considering stability and economy, an optimal layout scheme is selected from four candidates by simulation using computational fluid dynamics method. Trials were carried out in Danjiangkou Reservoir—important headwaters of the Middle Route of the South-to-North Water Diversion Project. In the trials, a monitoring strategy with polygonal mixed-motion was adopted to make full use of the advantages of the unmanned platform. The measuring data, including temperature, dissolved oxygen, conductivity, pH, turbidity, chlorophyll, and ammonia nitrogen, are obtained. These data validate the practicability of the theoretical layout obtained using computational fluid dynamics method and the practical performance of PETRELII with sensor.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015620570
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015620570
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Centrifugal pump wear for solid–liquid two-phase flows based on computational fluid dynamics–discrete element method coupling
+AU  - Li, Yi
+AU  - Zeng, Xiaodong
+AU  - Lv, Wenshuai
+AU  - He, Zhaohui
+Y1  - 2014/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1177/1687814020937951
+DO  - 10.1177/1687814020937951
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814020937951
+VL - 12
+IS - 7
+PB - SAGE Publications
+N2 - In the conveying process of a solid–liquid two-phase medium, the wear of the flow passage components is unavoidable. In this study, the solid–liquid two-phase flow in a centrifugal pump was numerically simulated by computational fluid dynamics–discrete element method coupling. For particle diameters up to 3 mm, the particle–particle and particle–wall interactions were considered in the simulation. Two-phase performance and wear experiments for different flow rates and particle concentrations were conducted. The wear experiment was carried out for 48 h at each mass concentration. In these experiments, a paint film method was used to display the wear position, and the wall thickness of the flow passage was measured using an ultrasonic thickness gauge. The results show that the instantaneous wear rate of the impeller, volute, and wear plate in the pump changed periodically with the impeller rotation. The volute wall wear was related to the particle movement. With the increase in the particle mass concentration, the wear rate increased. However, the rate of increase of the wear rate decreased because the particles moved to the wall in the volute to form a particle layer. Increasing the concentration did not linearly increase the effect of the particles on the wall.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814020937951
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814020937951
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Computational Semantics in Clinical Text Supplement
+AU  - Pestian, John P.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.4137/BII.S11868
+DO  - 10.4137/BII.S11868
+T2  - Biomedical Informatics Insights
+JF  - Biomedical Informatics Insights
+JO  - Biomed Inform Insights
+SP  -BII.S11868
+VL - 6s1
+PB - SAGE Publications Ltd STM
+N2 - As scientists, we create and disseminate knowledge. Resources from various benefactors open the doors of discovery. Likewise, we are obliged to disseminate our finding where they will have an impact. We want our thoughts and words to be heard. Yet, neither creation nor dissemination of newfound knowledge is easy. Some facts are more stubborn than others; prying them loose and describing them takes effort and discipline. In the 1980’s some of challenges to dissemination were reduced when open-access journals emerged. While the hallowed peer-review process remained, these journals provided access to knowledge without financial, legal or technical constraints to the reader. They provided an innovative venue to disseminate findings by using the world wide web as the main source of distribution.1 The impact of these journals is growing. In 2000 there were 740 open-access journals that produced 19,500 articles. In 2009, this grew to 4769 journals and 191,850 articles; this represents 20% of scholarly publications.2 In the open access world, the journal increasingly assumes the distribution role formerly undertaken by institutional libraries, while maintaining essential editorial quality. Intuitively, the increased accessibility of open access journals ought to lead to a greater number of citations. Numerous studies have verified this.3 Multiple studies have shown that articles published in an open access journal are referenced more frequently than those published elsewhere.3,4 I acknowledge that other factors influence whether a paper is cited aside from its publication in an open access journal: it must be widely accessible through the channels that researchers employ and–-at the risk of making a trite argument–-the paper must have sufficient merit to justify being cited. All of this supports the emerging importance of Biomedical Informatics Insights as a vehicle for disseminating scientific findings. In this special issue we present a second series of conference proceedings. The first, Sentiment Analysis of Suicide Notes: A Shared Task,5 produced over 20 manuscripts and was published soon after the conference. This issue reviews the scientific productivity of the first Computational Semantics in Clinical Text conference. This conference, chaired by Drs. Stephen Wu, Nigam Shah, and Kevin Bretonnel Cohen is described elsewhere, but it is an honor for Biomedical Informatics Insights to be the repository of the proceedings.
+SN - 1178-2226
+M3  - doi: 10.4137/BII.S11868
+UR  - https://doi-org.crai.referencistas.com/10.4137/BII.S11868
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An appreciation of John Pollock’s work on the computational study of argument
+AU  - Prakken, Henry
+AU  - Horty, John
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - doi: 10.1080/19462166.2012.663409
+DO  - 10.1080/19462166.2012.663409
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -1
+EP - 19
+VL - 3
+IS - 1
+PB - SAGE Publications
+N2 - John Pollock (1940–2009) was an influential American philosopher who made important contributions to various fields, including epistemology and cognitive science. In the last 25 years of his life, he also contributed to the computational study of defeasible reasoning and practical cognition in artificial intelligence. He developed one of the first formal systems for argumentation-based inference and he put many issues on the research agenda that are still relevant for the argumentation community today. This paper presents an appreciation of Pollock’s work on defeasible reasoning and its relevance for the computational study of argument. In our opinion, Pollock deserves to be remembered as one of the founding fathers of the field of computational argument, while, moreover, his work contains important lessons for current research in this field, reminding us of the richness of its object of study.
+SN - 1946-2166
+M3  - doi: 10.1080/19462166.2012.663409
+UR  - https://doi-org.crai.referencistas.com/10.1080/19462166.2012.663409
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Research on operating parameters of T-groove cylindrical gas film seal based on computational fluid dynamics
+AU  - Sun, Junfeng
+AU  - Liu, Meihong
+AU  - Xu, Zhen
+AU  - Liao, Taohong
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/0963693519864373
+DO  - 10.1177/0963693519864373
+T2  - Advanced Composites Letters
+JF  - Advanced Composites Letters
+SP  -0963693519864373
+VL - 28
+PB - SAGE Publications Ltd
+N2 - Cylindrical gas film sealing technology is a new type of dry gas sealing technology. Compared with the face gas film sealing technology, the cylindrical gas film seal presents a strong floating property, which can reduce the vibration and thermal deformation of the rotor system. In this article, the effect of operating parameters such as speed, pressure difference and viscosity on the T-groove gas cylindrical film seal performance are studied in detail by the method of control variable in computational fluid dynamics software, and pressure distribution, gas film stiffness, leakage, leakage stiffness ratio and hydrodynamic force are analysed. Results show that with the increase of the rotational speed, static pressure, hydrodynamic force and film stiffness increase, but leakage decreases first and then increases. Furthermore, the results indicate that with the increase of pressure difference, the static pressure, leakage and hydrodynamic force increase. In addition, the simulations show that when the viscosity increases, the maximum pressure and film stiffness increase, but the leakage decreases. This indicates that as the rotational speed increases, the hydrodynamic effect and the amount of gas overflow in the axial direction increase, resulting in an increase of leakage. Lastly, the results also show that when the pressure difference increases, both the radial and axial gas flow rates increase, resulting in an increase in both the film stiffness and the leakage. With the increase of viscosity, the viscous shear force and fluid hydrodynamic force increase, resulting in the increase of the gas film stiffness. This study can provide a theoretical basis in industrial applications for setting the operating parameters and serving as a reference.
+SN - 0963-6935
+M3  - doi: 10.1177/0963693519864373
+UR  - https://doi-org.crai.referencistas.com/10.1177/0963693519864373
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Potentiality of Organosulfur Compounds Against SARS-CoV-2-Coinfected Bacteria Streptococcus pyogenes and S pneumoniae: A Cross-Platform Analysis from Computational Chemistry
+AU  - AU  - Thai, Nguyen Minh
+AU  - Bui, Thanh Q.
+AU  - Quy, Phan Tu
+AU  - Thanh Hai, Nguyen Thi
+AU  - To, Dao-Cuong
+AU  - Quang, Duong Tuan
+AU  - Co, Nguyen Quang
+AU  - Triet, Nguyen Thanh
+AU  - Ai Thuan, Nguyen Thi
+AU  - To Nhi, Nguyen Thanh
+et al.
+Y1  - 2023/08/01
+PY  - 2023
+DA  - 2023/08/01
+N1  - doi: 10.1177/1934578X231194440
+DO  - 10.1177/1934578X231194440
+T2  - Natural Product Communications
+JF  - Natural Product Communications
+SP  -1934578X231194440
+VL - 18
+IS - 8
+PB - SAGE Publications Inc
+N2 - Objective SARS-CoV-2 coinfection with Streptococcus pyogenes and S pneumoniae increases disease severity, thus deserving more in-depth understanding. Methods The potential of garlic extract against the bacteria has been theoretically examined and extended to synergic predictions on SARS-CoV-2 Delta and Omicron variants. Results Gas chromatography–mass spectrometry characterized five main components in the extract: benzeneacetaldehyde (A1; 5.65%), diallyl disulfide (A2; 19.27%), 1-allyl-3-methyltrisulfane (A3; 21.30%), methyl salicylate (A4; 7.49%), and diallyl trisulfide (A5; 39.26%). Bioassay-based inhibition zones were 8 ± 2 mm, and MIC values 64 mg·mL−1 (S pneumoniae) and 128 mg·mL−1 (S pyogenes). Density functional theory suggested the organosulfur components as the most promising inhibitors with electrophilic sites at their sulfur atoms. Molecular docking simulation agreed with their potential against S pneumoniae/S pyogenes luxS proteins and Delta/Omicron SARS-CoV-2 spike proteins, given by all docking score values being <−13 kcal·mol−1. QSARIS and ADMET predicted their bio- and pharma-favored properties. Conclusion The consistency of a variety of computational outputs justifies the dietary–supplemental potential of garlic essential oil based on its organosulfur ingredients.
+SN - 1934-578X
+M3  - doi: 10.1177/1934578X231194440
+UR  - https://doi-org.crai.referencistas.com/10.1177/1934578X231194440
+Y2  - 2024/10/01
+ER  - 
+

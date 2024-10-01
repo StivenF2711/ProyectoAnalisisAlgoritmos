@@ -1,0 +1,231 @@
+TY  - JOUR
+T1  - Perceived Determinants of Smallholder Households’ Resilience to Livelihood Insecurity in Goncha District, Northwest Highlands of Ethiopia
+AU  - Debie, Ermias
+AU  - Ayele, Amare Wubishet
+Y1  - 2023/07/01
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1177/21582440231184861
+DO  - 10.1177/21582440231184861
+T2  - Sage Open
+JF  - Sage Open
+SP  -21582440231184860
+VL - 13
+IS - 3
+PB - SAGE Publications
+N2 - Climate change, hazards to productive assets, social-related shocks, and land productivity reduction are all likely to make poor households less resilient. In Ethiopia’s highlands, the ability to deal with household resilience against poverty in the face of uncertainty is minimal. In the Goncha district of Ethiopia’s Northwest highlands, the study attempts to identify factors of household resilience to livelihood insecurity under crop-livestock mixed agricultural systems. Face-to-face interviews with 280 households were conducted using a structured questionnaire to acquire primary data. The data were analyzed using descriptive statistics, and structural equation modeling. The results revealed that household resilience to livelihood insecurity was significantly influenced by perceptions of sustainable farming practices, the cultivation of more fertile farmland, savings performance, diversification of income-generating activities, intensification of livestock husbandry practices, access to irrigation practice, and familiarity with practical technologies. Hence, scaling up sustainable farming systems and practical technologies, improving saving habits, increasing income diversification, and intensifying agroforestry are perceived to be significant to increase smallholder household resilience to livelihood insecurity over agroecologies.
+SN - 2158-2440
+M3  - doi: 10.1177/21582440231184861
+UR  - https://doi-org.crai.referencistas.com/10.1177/21582440231184861
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Stochastic time-dependent vehicle routing problem: Mathematical models and ant colony algorithm
+AU  - Duan, Zhengyu
+AU  - Sun, Shichao
+AU  - Sun, Shuo
+AU  - Li, Weifeng
+Y1  - 2015/11/01
+PY  - 2015
+DA  - 2015/11/01
+N1  - doi: 10.1177/1687814015618631
+DO  - 10.1177/1687814015618631
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015618631
+VL - 7
+IS - 11
+PB - SAGE Publications
+N2 - This article addresses the stochastic time-dependent vehicle routing problem. Two mathematical models named robust optimal schedule time model and minimum expected schedule time model are proposed for stochastic time-dependent vehicle routing problem, which can guarantee delivery within the time windows of customers. The robust optimal schedule time model only requires the variation range of link travel time, which can be conveniently derived from historical traffic data. In addition, the robust optimal schedule time model based on robust optimization method can be converted into a time-dependent vehicle routing problem. Moreover, an ant colony optimization algorithm is designed to solve stochastic time-dependent vehicle routing problem. As the improvements in initial solution and transition probability, ant colony optimization algorithm has a good performance in convergence. Through computational instances and Monte Carlo simulation tests, robust optimal schedule time model is proved to be better than minimum expected schedule time model in computational efficiency and coping with the travel time fluctuations. Therefore, robust optimal schedule time model is applicable in real road network.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015618631
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015618631
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Semantically Linking in Silico Cancer Models
+AU  - Johnson, David
+AU  - Connor, Anthony J.
+AU  - Mckeever, Steve
+AU  - Wang, Zhihui
+AU  - Deisboeck, Thomas S.
+AU  - Quaiser, Tom
+AU  - Shochat, Eliezer
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CIN.S13895
+DO  - 10.4137/CIN.S13895
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S13895
+VL - 13s1
+PB - SAGE Publications Ltd STM
+N2 - Multiscale models are commonplace in cancer modeling, where individual models acting on different biological scales are combined within a single, cohesive modeling framework. However, model composition gives rise to challenges in understanding interfaces and interactions between them. Based on specific domain expertise, typically these computational models are developed by separate research groups using different methodologies, programming languages, and parameters. This paper introduces a graph-based model for semantically linking computational cancer models via domain graphs that can help us better understand and explore combinations of models spanning multiple biological scales. We take the data model encoded by TumorML, an XML-based markup language for storing cancer models in online repositories, and transpose its model description elements into a graph-based representation. By taking such an approach, we can link domain models, such as controlled vocabularies, taxonomic schemes, and ontologies, with cancer model descriptions to better understand and explore relationships between models. The union of these graphs creates a connected property graph that links cancer models by categorizations, by computational compatibility, and by semantic interoperability, yielding a framework in which opportunities for exploration and discovery of combinations of models become possible.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S13895
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S13895
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A new nonlinear lifting line method for aerodynamic analysis and deep learning modeling of small unmanned aerial vehicles
+AU  - Karali, Hasan
+AU  - Inalhan, Gokhan
+AU  - Umut Demirezen, M.
+AU  - Adil Yukselen, M.
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/17568293211016817
+DO  - 10.1177/17568293211016817
+T2  - International Journal of Micro Air Vehicles
+JF  - International Journal of Micro Air Vehicles
+SP  -17568293211016816
+VL - 13
+PB - SAGE Publications Ltd STM
+N2 - In this work, a computationally efficient and high-precision nonlinear aerodynamic configuration analysis method is presented for both design optimization and mathematical modeling of small unmanned aerial vehicles. First, we have developed a novel nonlinear lifting line method which (a) provides very good match for the pre- and post-stall aerodynamic behavior in comparison to experiments and computationally intensive tools, (b) generates these results in order of magnitudes less time in comparison to computationally intensive methods such as computational fluid dynamics. This method is further extended to a complete configuration analysis tool that incorporates the effects of basic fuselage geometries. Moreover, a deep learning based surrogate model is developed using data generated by the new aerodynamic tool that can characterize the nonlinear aerodynamic performance of unmanned aerial vehicles. The major novel feature of this model is that it can predict the aerodynamic properties of unmanned aerial vehicle configurations by using only geometric parameters without the need for any special input data or pre-process phase as needed by other computational aerodynamic analysis tools. The obtained black-box function can calculate the performance of an unmanned aerial vehicle over a wide angle of attack range on the order of milliseconds, whereas computational fluid dynamics solutions take several days/weeks in a similar computational environment. The aerodynamic model predictions show an almost 1-1 coincidence with the numerical data even for configurations with different airfoils that are not used in model training. The developed model provides a highly capable aerodynamic solver for design optimization studies as demonstrated through an illustrative profile design example.
+SN - 1756-8293
+M3  - doi: 10.1177/17568293211016817
+UR  - https://doi-org.crai.referencistas.com/10.1177/17568293211016817
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A novel optimization approach for rural development based on sustainable agriculture planning, considering the energy and water consumption nexus
+AU  - Luo, Jing
+AU  - Chang, Ya-Ping
+AU  - Kaliyaperumal, Karthikeyan
+Y1  - 2023/05/30
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/01445987231177472
+DO  - 10.1177/01445987231177472
+T2  - Energy Exploration & Exploitation
+JF  - Energy Exploration & Exploitation
+SP  -1724
+EP - 1745
+VL - 41
+IS - 5
+PB - SAGE Publications Ltd STM
+N2 - In today’s world, there are many changes and transformations in different sectors of the economy, and today’s world economy has become more dependent on each other. The economy of many developing countries is highly dependent on agriculture. In addition, in developed countries, the agricultural sector is of special importance, so they are currently turning to the production of more organic and healthy products. One of the reasons that caused the agricultural sector to receive more attention in the economy is the existential importance of this sector in providing the raw materials of a part of the industry and the food industry needed in that country. Accordingly, in this research, the optimal cultivation pattern is determined using a linear multi-objective mathematical model, including economic, social, and environmental objectives. Moreover, the uncertainty in the input parameters of the proposed model is considered, and a robust optimization approach is applied to deal with this uncertainty. After collecting the research data for the crop year 2021-2022, the proposed robust counterpart formulation is optimized using GAMS software. The numerical results show that increasing the level of conservatism in the robust model cause to decrease in the profit of agriculture as well as increasing the total consumed water. Moreover, the results of the current research can help the decision-makers of the agricultural sector in achieving the goal of obtaining the highest profit.
+SN - 0144-5987
+M3  - doi: 10.1177/01445987231177472
+UR  - https://doi-org.crai.referencistas.com/10.1177/01445987231177472
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Who set the narrative? Assessing the influence of Chinese global media on news coverage of COVID-19 in 30 African countries
+AU  - Madrid-Morales, Dani
+Y1  - 2021/05/13
+PY  - 2021
+DA  - 2021/06/01
+N1  - doi: 10.1177/20594364211013714
+DO  - 10.1177/20594364211013714
+T2  - Global Media and China
+JF  - Global Media and China
+SP  -129
+EP - 151
+VL - 6
+IS - 2
+PB - SAGE Publications Ltd
+N2 - The size of China’s State-owned media’s operations in Africa has grown significantly since the early 2000s. Previous research on the impact of increased Sino-African mediated engagements has been inconclusive. Some researchers hold that public opinion toward China in African nations has been improving because of the increased media presence. Others argue that the impact is rather limited, particularly when it comes to affecting how African media cover China-related stories. This article contributes to this debate by exploring the extent to which news media in 30 African countries relied on Chinese news sources to cover China and the COVID-19 outbreak during the first-half of 2020. By computationally analyzing a corpus of 500,000 written news stories, this paper shows that, compared to other major global players (e.g. Reuters, AFP), content distributed by Chinese media (e.g. Xinhua, China Daily) is much less likely to be used by African news organizations, both in English and French speaking countries. The analysis also reveals a gap in the prevailing themes in Chinese and African media’s coverage of the pandemic. The implications of these findings for the sub-field of Sino-African media relations, and the study of global news flows are discussed.
+SN - 2059-4364
+M3  - doi: 10.1177/20594364211013714
+UR  - https://doi-org.crai.referencistas.com/10.1177/20594364211013714
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Low-cycle fatigue in ultra-high-strength steel welded joints in the as-welded and post-weld-treated conditions
+AU  - Riski, Jani
+AU  - Ahola, Antti
+AU  - Skriko, Tuomas
+AU  - Björk, Timo
+Y1  - 2023/06/05
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/13694332231178977
+DO  - 10.1177/13694332231178977
+T2  - Advances in Structural Engineering
+JF  - Advances in Structural Engineering
+SP  -2292
+EP - 2306
+VL - 26
+IS - 12
+PB - SAGE Publications Ltd STM
+N2 - This study investigates four different joints under fluctuating tension cycles in the low-cycle fatigue (LCF) regime. The selected material was S960 ultra-high-strength steel, manufactured via the direct-quenching manufacturing route. Based on typical engineering solutions, the following joints were chosen to be investigated in the experimental tests: metal active gas and laser welded butt joints, fillet-welded load-carrying cruciform joints, and non-load-carrying double-sided transverse attachment joints. To evaluate the improvement gained by the post-weld treatment, both as-welded condition and high-frequency mechanical impact treated joints from all joint types were tested. In addition to the experimental tests, some of the joints were analyzed using finite element (FE) models, with the aim of comparing the accuracy of the different fatigue assessment methods and the effect of the toe radius on the computational fatigue lives. The results obtained from the experimental tests and FE analyses were compared with each other and with IIW recommendations using the nominal stress, structural hot-spot (HS) stress, effective notch stress (ENS) and 4R methods. Based on the results, the structural HS and 4R methods are very suitable for the fatigue strength assessment in the LCF regime. With the nominal stress method, the computational fatigue lives remained uniformly conservative, while with the ENS method, the results varied depending on the calculation method. Using the value r = 1 mm as the weld toe rounding is justified in the FE analysis.
+SN - 1369-4332
+M3  - doi: 10.1177/13694332231178977
+UR  - https://doi-org.crai.referencistas.com/10.1177/13694332231178977
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Determinants of Antenatal Care Visit Utilization of Child-Bearing Mothers in Kaffa, Sheka, and Bench Maji Zones of SNNPR, Southwestern Ethiopia
+AU  - Terefe, Abiyot Negash
+AU  - Gelaw, Assaye Belay
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/2333392819866620
+DO  - 10.1177/2333392819866620
+T2  - Health Services Research and Managerial Epidemiology
+JF  - Health Services Research and Managerial Epidemiology
+SP  -2333392819866620
+VL - 6
+PB - SAGE Publications Inc
+N2 - Background: Antenatal care (ANC) is a preventive obstetric health-care program aimed at optimizing maternal fetal outcome through regular monitoring of pregnancy. Even if World Health Organization recommends a minimum of 4 ANC visits for normal pregnancy, existing evidence from developing countries including Ethiopia indicates there are few women who utilize it due to different reasons. The purpose of this article is to identify determinants significantly influencing the ANC visit utilization of child-bearing mothers in the Kaffa, Sheka, and Bench-Maji zones of Southern Nation Nationalities and Peoples Region, Ethiopia. Methods: A total of 1715 child-bearing mothers were selected. Several count models such as Poisson, negative binomial, zero-inflated Poisson, zero-inflated negative binomial, hurdle Poisson, and hurdle negative binomial regression models were fitted to select the model which best fits the data. The parameters were estimated by maximum likelihood. Measures of goodness of fit were based on the Rootogram. Results: The data were found zeros (8.1%); the variance (3.794), which is less than its mean (3.91). Hurdle Poisson regression model was found to be better fitted with the data given. Variables are selected by backward selection method, through the analysis, zones, residence, age at first pregnancy, source of information, knowledge during danger sin, willingness, time of visit, and satisfaction, which were major predictors of ANC service utilization. The estimated odds that the number of ANC visits those child-bearing mothers made (mothers who lived in urban) are 3.52 times more likely than mothers who lived in rural keeping others variables constant and the like. Conclusion: Based on our findings, a lot of effort needs to be made by health offices to create awareness, maternal health-care programs should be expanded and intensified in rural areas, improve women’s knowledge and awareness about the risk factor of late visit, the necessary investigations and follow-up throughout the antenatal period to promote regular attendance for ANC, and fulfill the client’s satisfaction.
+SN - 2333-3928
+M3  - doi: 10.1177/2333392819866620
+UR  - https://doi-org.crai.referencistas.com/10.1177/2333392819866620
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Pragmatist’s Guide to Using Prediction in the Social Sciences
+AU  - Verhagen, Mark D.
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/23780231221081702
+DO  - 10.1177/23780231221081702
+T2  - Socius
+JF  - Socius
+SP  -23780231221081704
+VL - 8
+PB - SAGE Publications
+N2 - Prediction is an underused tool in the social sciences, often for the wrong reasons. Many social scientists confuse prediction with unnecessarily complicated methods or with narrowly predicting the future. This is unfortunate. When we view prediction as the simple process of evaluating a model’s ability to approximate an outcome of interest, it becomes a more generally applicable and disarmingly simple technique. For all its simplicity, the value of prediction should not be underestimated. Prediction can address enduring sources of criticism plaguing the social sciences, like a lack of assessing a model’s ability to reflect the real world, or the use of overly simplistic models to capture social life. The author illustrates these benefits with empirical examples that merely skim the surface of the many and varied ways in which prediction can be applied, staking the claim that prediction is a truly illustrious “free lunch” that can greatly benefit social scientists in their empirical work.
+SN - 2378-0231
+M3  - doi: 10.1177/23780231221081702
+UR  - https://doi-org.crai.referencistas.com/10.1177/23780231221081702
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numeric Simulation on the Performance of an Undulating Fin in the Wake of a Periodic Oscillating Plate
+AU  - Yong-Hua, Zhang
+AU  - Jian-Hui, He
+AU  - Kin-Huat, Low
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/10/01
+N1  - doi: 10.5772/56439
+DO  - 10.5772/56439
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -352
+VL - 10
+IS - 10
+PB - SAGE Publications
+N2 - A two-dimensional unsteady computational fluid dynamics (CFD) method using an unstructured, grid-based and unsteady Navier-Stokes solver with automatic adaptive re-meshing to compute the unsteady flow was adopted to study the hydrodynamic interaction between a periodic oscillating plate and a rigid undulating fin in tandem arrangement. The user-defined function (UDF) program was compiled to define the undulating and oscillating motion. First, the influence of the distance between the anterior oscillating plate and the posterior undulating fin on the non-dimensional drag coefficient of the fin was investigated. Ten different distances, D=0.2L, 0.4L, 0.6L, 0.8L, 1.0L, 1.2L, 1.4L, 1.6L, 1.8L and 2.0L, were considered. The performance of the fin for different distances (D) is different. Second, the plate oscillating angle (5.7°, 10°, 20°, 30°, 40°, 45°, 50°) and frequency (0.5 Hz, 1.0 Hz, 1.5 Hz, 2.0 Hz, 2.5 Hz, 3.0 Hz, 3.5 Hz, 4.0 Hz) effects on the non-dimensional drag coefficient of the fin were also implemented. The pressure distribution on the fin was computed and integrated to provide fin forces, which were decomposed into lift and thrust. Meanwhile, the flow field was demonstrated and analysed. Based on the flow structures, the reasons for different undulating performances were discussed. It shows that the results largely depend on the distance between the two objects. The plate oscillating angle and frequency also make a certain contribution to the performance of the posterior undulating fin. The results are similar to the interaction between two undulating objects in tandem arrangement and they may provide a physical insight into the understanding of fin interaction in fishes or bio-robotic underwater propulsors that are propelled by multi fins.
+SN - 1729-8806
+M3  - doi: 10.5772/56439
+UR  - https://doi-org.crai.referencistas.com/10.5772/56439
+Y2  - 2024/10/01
+ER  - 
+

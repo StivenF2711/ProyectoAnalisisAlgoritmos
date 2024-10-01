@@ -1,0 +1,237 @@
+TY  - JOUR
+T1  - Computational Analysis of IDH1, IDH2, and TP53 Mutations in Low-Grade Gliomas Including Oligodendrogliomas and Astrocytomas
+AU  - Bendahou, Mohammed Amine
+AU  - Arrouchi, Housna
+AU  - Lakhlili, Wiame
+AU  - Allam, Loubna
+AU  - Aanniz, Tarik
+AU  - Cherradi, Nadia
+AU  - Ibrahimi, Azeddine
+AU  - Boutarbouch, Mahjouba
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176935120915839
+DO  - 10.1177/1176935120915839
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -1176935120915839
+VL - 19
+PB - SAGE Publications Ltd STM
+N2 - Introduction: The emergence of new omics approaches, such as genomic algorithms to identify tumor mutations and molecular modeling tools to predict the three-dimensional structure of proteins, has facilitated the understanding of the dynamic mechanisms involved in the pathogenesis of low-grade gliomas including oligodendrogliomas and astrocytomas. Methods: In this study, we targeted known mutations involved in low-grade gliomas, starting with the sequencing of genomic regions encompassing exon 4 of isocitrate dehydrogenase 1 (IDH1) and isocitrate dehydrogenase 2 (IDH2) and the four exons (5-6 and 7-8) of TP53 from 32 samples, followed by computational analysis to study the impact of these mutations on the structure and function of 3 proteins IDH1, IDH2, and p53. Results: We obtain a mutation that has an effect on the catalytic site of the protein IDH1 as R132H and on the catalytic site of the protein IDH2 as R172M. Other mutations at p53 have been identified as K305N, which is a pathogenic mutation; R175 H, which is a benign mutation; and R158G, which disrupts the structural conformation of the tumor suppressor protein. Conclusion: In low-grade gliomas, mutations in IDH1, IDH2, and TP53 may be the key to tumor progression because they have an effect on the function of the protein such as mutations R132H in IDH1 and R172M in IDH2, which change the function of the enzyme alpha-ketoglutarate, or R158G in TP53, which affects the structure of the generated protein, thus their importance in understanding gliomagenesis and for more accurate diagnosis complementary to the anatomical pathology tests.
+SN - 1176-9351
+M3  - doi: 10.1177/1176935120915839
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176935120915839
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Publication Bias in Methodological Computational Research
+AU  - Boulesteix, Anne-Laure
+AU  - Stierle, Veronika
+AU  - Hapfelmeier, Alexander
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/CIN.S30747
+DO  - 10.4137/CIN.S30747
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S30747
+VL - 14s5
+PB - SAGE Publications Ltd STM
+N2 - The problem of publication bias has long been discussed in research fields such as medicine. There is a consensus that publication bias is a reality and that solutions should be found to reduce it. In methodological computational research, including cancer informatics, publication bias may also be at work. The publication of negative research findings is certainly also a relevant issue, but has attracted very little attention to date. The present paper aims at providing a new formal framework to describe the notion of publication bias in the context of methodological computational research, facilitate and stimulate discussions on this topic, and increase awareness in the scientific community. We report an exemplary pilot study that aims at gaining experiences with the collection and analysis of information on unpublished research efforts with respect to publication bias, and we outline the encountered problems. Based on these experiences, we try to formalize the notion of publication bias.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S30747
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S30747
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A branching algorithm to reduce computational time of batch models: Application for blast analyses
+AU  - Dennis, Adam A.
+AU  - Smyl, Danny J.
+AU  - Stirling, Chris G.
+AU  - Rigby, Samuel E.
+Y1  - 2022/05/16
+PY  - 2023
+DA  - 2023/06/01
+N1  - doi: 10.1177/20414196221085720
+DO  - 10.1177/20414196221085720
+T2  - International Journal of Protective Structures
+JF  - International Journal of Protective Structures
+SP  -135
+EP - 167
+VL - 14
+IS - 2
+PB - SAGE Publications
+N2 - Numerical analysis is increasingly used for batch modelling runs, with each individual model possessing a unique combination of input parameters sampled from a range of potential values. Whilst such an approach can help to develop a comprehensive understanding of the inherent unpredictability and variability of explosive events, or populate training/validation data sets for machine learning approaches, the associated computational expense is relatively high. Furthermore, any given model may share a number of common solution steps with other models in the batch, and simulating all models from birth to termination may result in large amounts of repetition. This paper presents a new branching algorithm that ensures calculation steps are only computed once by identifying when the parameter fields of each model in the batch becomes unique. This enables informed data mapping to take place, leading to a reduction in the required computation time. The branching algorithm is explained using a conceptual walk-through for a batch of 9 models, featuring a blast load acting on a structural panel in 2D. By eliminating repeat steps, approximately 50% of the run time can be saved. This is followed by the development and use of the algorithm in 3D for a practical application involving 20 complex containment structure models. In this instance, a ∼20% reduction in computational costs is achieved.
+SN - 2041-4196
+M3  - doi: 10.1177/20414196221085720
+UR  - https://doi-org.crai.referencistas.com/10.1177/20414196221085720
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Utility of Computational Methods to Identify the Apoptosis Machinery in Unicellular Eukaryotes
+AU  - Durand, Pierre Marcel
+AU  - Coetzer, Theresa Louise
+Y1  - 2008/01/01
+PY  - 2008
+DA  - 2008/01/01
+N1  - doi: 10.4137/BBI.S430
+DO  - 10.4137/BBI.S430
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S430
+VL - 2
+PB - SAGE Publications Ltd STM
+N2 - Apoptosis is the phenotypic result of an active, regulated process of self-destruction. Following various cellular insults, apoptosis has been demonstrated in numerous unicellular eukaryotes, but very little is known about the genes and proteins that initiate and execute this process in this group of organisms. A bioinformatic approach presents an array of powerful methods to direct investigators in the identification of the apoptosis machinery in protozoans. In this review, we discuss some of the available computational methods and illustrate how they may be applied using the identification of a Plasmodium falciparum metacaspase gene as an example.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S430
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S430
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Computational Approach to Examining Team Coordination Breakdowns During Crisis Situations
+AU  - van Eijndhoven, Kyana H.J.
+AU  - Wiltshire, Travis J.
+AU  - Hałgas, Elwira A.
+AU  - Gevers, Josette M.P.
+Y1  - 2023/02/20
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/15553434231156417
+DO  - 10.1177/15553434231156417
+T2  - Journal of Cognitive Engineering and Decision Making
+JF  - Journal of Cognitive Engineering and Decision Making
+SP  -256
+EP - 278
+VL - 17
+IS - 3
+PB - SAGE Publications
+N2 - During crisis situations, teams are more prone to coordination breakdowns that are characterized by a temporary, diminished ability to function effectively as a team. However, team research currently lacks robust approaches for identifying transitions from effective team functioning to coordination breakdowns. With the current study, we aimed to develop such robust approaches, and to deepen our understanding of how team coordination dynamics across various physiological signals reflect coordination breakdowns. Consequently, we used audiovisual data from four-person teams involved in a stressful collaborative game task to manually identify coordination breakdowns. Next, we set out to computationally identify coordination breakdowns by applying continuous measures of team coordination (windowed synchronization coefficient and multidimensional recurrence quantification analysis) to photoplethysmogram and electrodermal activity data obtained during the task, and identifying transitions therein with change point and nonlinear prediction algorithms. We found that our computational coordination breakdown identification approaches can identify up to 96% of the manually identified coordination breakdowns although our results also show that the precision of our approaches falls far behind. Our findings contribute theoretically and methodologically to the systematic investigation of coordination breakdowns, which may ultimately facilitate the support of teams in responding to and mitigating negative consequences of crisis situations.
+SN - 1555-3434
+M3  - doi: 10.1177/15553434231156417
+UR  - https://doi-org.crai.referencistas.com/10.1177/15553434231156417
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Computational Assay to Design an Epitope-Based Peptide Vaccine against Saint Louis Encephalitis Virus
+AU  - Hasan, Anayet
+AU  - Hossain, Mehjabeen
+AU  - Alam, Jibran
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.4137/BBI.S13402
+DO  - 10.4137/BBI.S13402
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S13402
+VL - 7
+PB - SAGE Publications Ltd STM
+N2 - Saint Louis encephalitis virus, a member of the flaviviridae subgroup, is a culex mosquito-borne pathogen. Despite severe epidemic outbreaks on several occasions, not much progress has been made with regard to an epitope-based vaccine designed for Saint Louis encephalitis virus. The envelope proteins were collected from a protein database and analyzed with an in silico tool to identify the most immunogenic protein. The protein was then verified through several parameters to predict the T-cell and B-cell epitopes. Both T-cell and B-cell immunity were assessed to determine that the protein can induce humoral as well as cell-mediated immunity. The peptide sequence from 330–336 amino acids and the sequence REYCYEATL from the position 57 were found as the most potential B-cell and T-cell epitopes, respectively. Furthermore, as an RNA virus, one important thing was to establish the epitope as a conserved one; this was also done by in silico tools, showing 63.51% conservancy. The epitope was further tested for binding against the HLA molecule by computational docking techniques to verify the binding cleft epitope interaction. However, this is a preliminary study of designing an epitope-based peptide vaccine against Saint Louis encephalitis virus; the results awaits validation by in vitro and in vivo experiments.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S13402
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S13402
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Computational modelling of turbulent Taylor–Couette flow for bearing chamber applications: A comparison of unsteady Reynolds-averaged Navier–Stokes models
+AU  - Nicoli, Andrew
+AU  - Johnson, Kathy
+AU  - Jefferson-Loveday, Richard
+Y1  - 2022/04/04
+PY  - 2022
+DA  - 2022/08/01
+N1  - doi: 10.1177/09576509221075516
+DO  - 10.1177/09576509221075516
+T2  - Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy
+JF  - Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy
+SP  -985
+EP - 1005
+VL - 236
+IS - 5
+PB - IMECHE
+N2 - The capability to accurately model fluid flow within rotating Taylor–Couette systems has a primary role in informing computational investigations of rotating machinery. There is considerable uncertainty regarding selection of modelling approach, including a suitable turbulence model, that can accurately resolve turbulence within such complex flows while remaining computationally feasible for industrially relevant applications. This paper presents a numerical comparison of axisymmetric and three-dimensional unsteady Reynolds-averaged Navier–Stokes (URANS) turbulence models within ANSYS Fluent. The CFD geometries are representative of ones for which there are published experimental measurements. For the Taylor–Couette study, investigation into inner cylinder start-up procedure, based on previous published findings, confirmed that the final state of the flow is highly dependent on the initial conditions and acceleration rate. Once Taylor vortices form and stabilise, they are not disrupted by small steps in inner cylinder speed, allowing computationally efficient accelerations. Investigations into applying rotational periodicity were unsuccessful, resulting in a significantly reduced core velocity. Axisymmetric predictions provided reasonable agreement with experimental data only at low rotation rates. A good prediction of the velocity flow field was obtained for three-dimensional simulations of the full 360° domain with differences of less than 5% for radial velocities. Among the URANS models, the standard k-ω model and baseline Reynolds stress model (BSL-RSM) provided the closest agreement to published experimental data. In the paper, the developed Taylor–Couette turbulence modelling methodology is extended to a bearing chamber geometry. Analysis of the secondary vortex flow field is compared both qualitatively and quantitatively to published bearing chamber experimental measurements. Overall, whilst a good agreement is still found using the standard k-ω turbulence model, discrepancies arise with the BSL-RSM. However, for this more complex bearing chamber environment compared to a Taylor–Couette flow, the shear stress transport k-ω turbulence model provided the closest agreement and is recommended for future bearing chamber modelling.
+SN - 0957-6509
+M3  - doi: 10.1177/09576509221075516
+UR  - https://doi-org.crai.referencistas.com/10.1177/09576509221075516
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Toward improving student motivation and performance in introductory programming learning by Scratch: The role of achievement emotions
+AU  - Wen, Fu-Hsiang
+AU  - Wu, Tienhua
+AU  - Hsu, Wei-Chih
+Y1  - 2023/10/01
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1177/00368504231205985
+DO  - 10.1177/00368504231205985
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504231205985
+VL - 106
+IS - 4
+PB - SAGE Publications Ltd
+N2 - This study investigated the differences in programming novices’ intrinsic motivation and performance within a Scratch-based programming learning environment using a pretest–posttest intervention design. Specifically, this study aimed to examine what and how achievement emotions were aroused to impact learners’ academic success during Scratch implementation processes by employing regression analyses. One hundred and seventy-two undergraduates (Mage = 20.44, SDage = 1.09, 55.8% female) were voluntarily recruited to participate in a Scratch-based instruction workshop during a 6-week period. The workshop was structured with regard to preparation, Scratch-based programming learning and projects, and assessment activities and questionnaire implemented both before the instructional period and after the workshop. The results suggested that the Scratch-based intervention significantly increased students’ overall motivation and examination performance. Concerning achievement emotions, the outcome emotion of hopelessness first negatively predicted students’ motivation and performance. Anxiety then replaced hopelessness as a negative predictor, while enjoyment was the strongest predictor of motives and performance. Taking eight emotions together, the arousal of activity and outcome emotions within visual programming environments facilitated students’ emotion dynamics that impacted motivation and performance. The discussion and contributions concerning the mechanism behind the effectiveness of visualization and the emotion-performance relationship are presented herein.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504231205985
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504231205985
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Examining Factors That Influence Learner Retention in MOOCs During the COVID-19 Pandemic Time
+AU  - Yu, Zhonggen
+AU  - Yu, Liheng
+Y1  - 2023/04/01
+PY  - 2023
+DA  - 2023/04/01
+N1  - doi: 10.1177/21582440231175371
+DO  - 10.1177/21582440231175371
+T2  - Sage Open
+JF  - Sage Open
+SP  -21582440231175372
+VL - 13
+IS - 2
+PB - SAGE Publications
+N2 - Massive Open Online Courses have become a frequent platform for learners to acquire knowledge. This study aims to explore multiple factors influencing learner retention in MOOCs during the COVID-19 pandemic. To address this, we collected quantitative and qualitative data from questionnaires and qualitative data from interviews and then analyzed them through the Partial Least Square–Structural Equation Modeling to test 14 research hypotheses. The proposed research model and research hypotheses are empirically tested with 243 participants across the world. According to the results, support is found for all of the 14 research hypotheses. We confirmed 14 factors influencing learner retention in MOOCs. The result is beneficial for designers and manufacturers of MOOCs to improve the quality of the products and facilitate online or blended learning during this special time. It could also help students improve their learning experiences. Future research could examine influencing factors of learner retention in MOOCs with interdisciplinary cooperation.
+SN - 2158-2440
+M3  - doi: 10.1177/21582440231175371
+UR  - https://doi-org.crai.referencistas.com/10.1177/21582440231175371
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Emotional thinking as the foundation of consciousness in artificial intelligence
+AU  - Zhou, Zhenhua
+Y1  - 2021/09/01
+PY  - 2021
+DA  - 2021/09/01
+N1  - doi: 10.1177/20966083211052651
+DO  - 10.1177/20966083211052651
+T2  - Cultures of Science
+JF  - Cultures of Science
+SP  -112
+EP - 123
+VL - 4
+IS - 3
+PB - SAGE Publications
+N2 - Current theories of artificial intelligence (AI) generally exclude human emotions. The idea at the core of such theories could be described as ‘cognition is computing’; that is, that human psychological and symbolic representations and the operations involved in structuring such representations in human thinking and intelligence can be converted by AI into a series of cognitive symbolic representations and calculations in a manner that simulates human intelligence. However, after decades of development, the cognitive computing doctrine has encountered many difficulties, both in theory and in practice; in particular, it is far from approaching real human intelligence. Real human intelligence runs through the whole process of the emotions. The core and motivation of rational thinking are derived from the emotions. Intelligence without emotion neither exists nor is meaningful. For example, the idea of ‘hot thinking’ proposed by Paul Thagard, a philosopher of cognitive science, discusses the mechanism of the emotions in human cognition and the thinking process. Through an analysis from the perspectives of cognitive neurology, cognitive psychology and social anthropology, this article notes that there may be a type of thinking that could be called ‘emotional thinking’. This type of thinking includes complex emotional factors during the cognitive processes. The term is used to refer to the capacity to process information and use emotions to integrate information in order to arrive at the right decisions and reactions. This type of thinking can be divided into two types according to the role of cognition: positive and negative emotional thinking. That division reflects opposite forces in the cognitive process. In the future, ‘emotional computing’ will cause an important acceleration in the development of AI consciousness. The foundation of AI consciousness is emotional computing based on the simulation of emotional thinking.
+SN - 2096-6083
+M3  - doi: 10.1177/20966083211052651
+UR  - https://doi-org.crai.referencistas.com/10.1177/20966083211052651
+Y2  - 2024/10/01
+ER  - 
+

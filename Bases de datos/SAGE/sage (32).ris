@@ -1,0 +1,248 @@
+TY  - JOUR
+T1  - Analysis of high-order quadrilateral plate elements based on the absolute nodal coordinate formulation for three-dimensional elasticity
+AU  - Ebel, Henrik
+AU  - Matikainen, Marko K.
+AU  - Hurskainen, Vesa-Ville
+AU  - Mikkola, Aki
+Y1  - 2017/06/01
+PY  - 2017
+DA  - 2017/06/01
+N1  - doi: 10.1177/1687814017705069
+DO  - 10.1177/1687814017705069
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017705069
+VL - 9
+IS - 6
+PB - SAGE Publications
+N2 - The absolute nodal coordinate formulation is a computational approach to analyze the dynamic performance of flexible bodies experiencing large deformations in multibody system dynamics applications. In the absolute nodal coordinate formulation, full three-dimensional elasticity can be used in the definition of the elastic forces. This approach makes it straightforward to implement advanced material models known from general continuum mechanics in the absolute nodal coordinate formulation. As, however, pointed out in the literature, the use of full three-dimensional elasticity can lead to severe locking problems, already present in simple, static tests. To overcome these drawbacks and to get a better understanding of these behaviors in the case of absolute nodal coordinate formulation elements, this study introduces and carefully analyses several high-order three-dimensional plate elements based on the absolute nodal coordinate formulation, primarily in meaningful static scenarios. The proposed elements are put to test in various numerical experiments intended to bring forward possible locking phenomena and to evaluate the accuracy attainable with the considered element formulations. The proposed eight- and nine-node elements that incorporate polynomial approximations of second order in all three directions prove to be advantageous both with respect to the actual performance and with regard to the numerical efficiency when compared to other absolute nodal coordinate formulation plate elements. A comparison with a four-node high-order element corroborates the supposition that the usage of in-plane slopes as nodal coordinates has a negative effect on numerical convergence properties in thin-plate use cases. An additional example showcases the functioning of two of the higher-order elements in a dynamic simulation.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017705069
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017705069
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - SPR Distance Computation for Unrooted Trees
+AU  - Hickey, Glenn
+AU  - Dehne, Frank
+AU  - Rau-Chaplin, Andrew
+AU  - Blouin, Christian
+Y1  - 2008/01/01
+PY  - 2008
+DA  - 2008/01/01
+N1  - doi: 10.4137/EBO.S419
+DO  - 10.4137/EBO.S419
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S419
+VL - 4
+PB - SAGE Publications Ltd STM
+N2 - The subtree prune and regraft distance (dSPR) between phylogenetic trees is important both as a general means of comparing phylogenetic tree topologies as well as a measure of lateral gene transfer (LGT). Although there has been extensive study on the computation of dSPR and similar metrics between rooted trees, much less is known about SPR distances for unrooted trees, which often arise in practice when the root is unresolved. We show that unrooted SPR distance computation is NP-Hard and verify which techniques from related work can and cannot be applied. We then present an efficient heuristic algorithm for this problem and benchmark it on a variety of synthetic datasets. Our algorithm computes the exact SPR distance between unrooted tree, and the heuristic element is only with respect to the algorithm’s computation time. Our method is a heuristic version of a fixed parameter tractability (FPT) approach and our experiments indicate that the running time behaves similar to FPT algorithms. For real data sets, our algorithm was able to quickly compute dSPR for the majority of trees that were part of a study of LGT in 144 prokaryotic genomes. Our analysis of its performance, especially with respect to searching and reduction rules, is applicable to computing many related distance measures.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S419
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S419
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An edge cloud–based body data sensing architecture for artificial intelligence computation
+AU  - Kim, TaeYoung
+AU  - Lim, JongBeom
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1177/1550147719839014
+DO  - 10.1177/1550147719839014
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719839014
+VL - 15
+IS - 4
+PB - SAGE Publications
+N2 - As various applications and workloads move to the cloud computing system, traditional approaches of processing sensor data cannot be applied. Specifically, tenants may experience incompatibility and unpredictable performance variation due to inefficient implementations. In this article, we present an edge cloud–based body data sensing architecture for artificial intelligence computation. The main rationale for designing the edge cloud–based sensing architecture is as follows. By analyzing physical body data on the edge cloud computing system, we can identify the relationship between body activities and health conditions for persons. In addition, we can support real-time applications without catastrophic failures by our efficient and stable implementation of the sensing architecture. Our cloud storage architecture is designed to support both stateful and stateless applications, which are compatible with traditional infrastructures and provide server consolidation with a CPU-aware scheduling of virtual machines. Performance results show that our edge cloud–based architecture outperforms the previous architecture in terms of failures, processing time, and scalability.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719839014
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719839014
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A CUDA fast multipole method with highly efficient M2L far field evaluation
+AU  - Kohnke, Bartosz
+AU  - Kutzner, Carsten
+AU  - Beckmann, Andreas
+AU  - Lube, Gert
+AU  - Kabadshow, Ivo
+AU  - Dachsel, Holger
+AU  - Grubmüller, Helmut
+Y1  - 2020/10/12
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/1094342020964857
+DO  - 10.1177/1094342020964857
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -97
+EP - 117
+VL - 35
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - Solving an N-body problem, electrostatic or gravitational, is a crucial task and the main computational bottleneck in many scientific applications. Its direct solution is an ubiquitous showcase example for the compute power of graphics processing units (GPUs). However, the naïve pairwise summation has computational complexity. The fast multipole method (FMM) can reduce runtime and complexity to for any specified precision. Here, we present a CUDA-accelerated, C++ FMM implementation for multi particle systems with potential that are found, e.g. in biomolecular simulations. The algorithm involves several operators to exchange information in an octree data structure. We focus on the Multipole-to-Local (M2L) operator, as its runtime is limiting for the overall performance. We propose, implement and benchmark three different M2L parallelization approaches. Approach (1) utilizes Unified Memory to minimize programming and porting efforts. It achieves decent speedups for only little implementation work. Approach (2) employs CUDA Dynamic Parallelism to significantly improve performance for high approximation accuracies. The presorted list-based approach (3) fits periodic boundary conditions particularly well. It exploits FMM operator symmetries to minimize both memory access and the number of complex multiplications. The result is a compute-bound implementation, i.e. performance is limited by arithmetic operations rather than by memory accesses. The complete CUDA parallelized FMM is incorporated within the GROMACS molecular dynamics package as an alternative Coulomb solver.
+SN - 1094-3420
+M3  - doi: 10.1177/1094342020964857
+UR  - https://doi-org.crai.referencistas.com/10.1177/1094342020964857
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Strategies for Efficient Computation of the Expected Value of Partial Perfect Information
+AU  - Madan, Jason
+AU  - Ades, Anthony E.
+AU  - Price, Malcolm
+AU  - Maitland, Kathryn
+AU  - Jemutai, Julie
+AU  - Revill, Paul
+AU  - Welton, Nicky J.
+Y1  - 2014/01/21
+PY  - 2014
+DA  - 2014/04/01
+N1  - doi: 10.1177/0272989X13514774
+DO  - 10.1177/0272989X13514774
+T2  - Medical Decision Making
+JF  - Medical Decision Making
+JO  - Med Decis Making
+SP  -327
+EP - 342
+VL - 34
+IS - 3
+PB - SAGE Publications Inc STM
+N2 - Expected value of information methods evaluate the potential health benefits that can be obtained from conducting new research to reduce uncertainty in the parameters of a cost-effectiveness analysis model, hence reducing decision uncertainty. Expected value of partial perfect information (EVPPI) provides an upper limit to the health gains that can be obtained from conducting a new study on a subset of parameters in the cost-effectiveness analysis and can therefore be used as a sensitivity analysis to identify parameters that most contribute to decision uncertainty and to help guide decisions around which types of study are of most value to prioritize for funding. A common general approach is to use nested Monte Carlo simulation to obtain an estimate of EVPPI. This approach is computationally intensive, can lead to significant sampling bias if an inadequate number of inner samples are obtained, and incorrect results can be obtained if correlations between parameters are not dealt with appropriately. In this article, we set out a range of methods for estimating EVPPI that avoid the need for nested simulation: reparameterization of the net benefit function, Taylor series approximations, and restricted cubic spline estimation of conditional expectations. For each method, we set out the generalized functional form that net benefit must take for the method to be valid. By specifying this functional form, our methods are able to focus on components of the model in which approximation is required, avoiding the complexities involved in developing statistical approximations for the model as a whole. Our methods also allow for any correlations that might exist between model parameters. We illustrate the methods using an example of fluid resuscitation in African children with severe malaria.
+SN - 0272-989X
+M3  - doi: 10.1177/0272989X13514774
+UR  - https://doi-org.crai.referencistas.com/10.1177/0272989X13514774
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Hardware Architecture for Real-Time Computation of Image Component Feature Descriptors on a FPGA
+AU  - Malik, Abdul Waheed
+AU  - Thörnberg, Benny
+AU  - Imran, Muhammad
+AU  - Lawal, Najeem
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/815378
+DO  - 10.1155/2014/815378
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -815378
+VL - 10
+IS - 1
+PB - SAGE Publications
+N2 - This paper describes a hardware architecture for real-time image component labeling and the computation of image component feature descriptors. These descriptors are object related properties used to describe each image component. Embedded machine vision systems demand a robust performance and power efficiency as well as minimum area utilization, depending on the deployed application. In the proposed architecture, the hardware modules for component labeling and feature calculation run in parallel. A CMOS image sensor (MT9V032), operating at a maximum clock frequency of 27 MHz, was used to capture the images. The architecture was synthesized and implemented on a Xilinx Spartan-6 FPGA. The developed architecture is capable of processing 390 video frames per second of size 640 × 480 pixels. Dynamic power consumption is 13 mW at 86 frames per second.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/815378
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/815378
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Computationally Efficient Method for Probabilistic Parameter Threshold Analysis for Health Economic Evaluations
+AU  - Pieters, Zoë
+AU  - Strong, Mark
+AU  - Pitzer, Virginia E.
+AU  - Beutels, Philippe
+AU  - Bilcke, Joke
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1177/0272989X20937253
+DO  - 10.1177/0272989X20937253
+T2  - Medical Decision Making
+JF  - Medical Decision Making
+JO  - Med Decis Making
+SP  -669
+EP - 679
+VL - 40
+IS - 5
+PB - SAGE Publications Inc STM
+N2 - Background. Threshold analysis is used to determine the threshold value of an input parameter at which a health care strategy becomes cost-effective. Typically, it is performed in a deterministic manner, in which inputs are varied one at a time while the remaining inputs are each fixed at their mean value. This approach will result in incorrect threshold values if the cost-effectiveness model is nonlinear or if inputs are correlated. Objective. To propose a probabilistic method for performing threshold analysis, which accounts for the joint uncertainty in all input parameters and makes no assumption about the linearity of the cost-effectiveness model. Methods. Three methods are compared: 1) deterministic threshold analysis (DTA); 2) a 2-level Monte Carlo approach, which is considered the gold standard; and 3) a regression-based method using a generalized additive model (GAM), which identifies threshold values directly from a probabilistic sensitivity analysis sample. Results. We applied the 3 methods to estimate the minimum probability of hospitalization for typhoid fever at which 3 different vaccination strategies become cost-effective in Uganda. The threshold probability of hospitalization at which routine vaccination at 9 months with catchup campaign to 5 years becomes cost-effective is estimated to be 0.060 and 0.061 (95% confidence interval [CI], 0.058–0.064), respectively, for 2-level and GAM. According to DTA, routine vaccination at 9 months with catchup campaign to 5 years would never become cost-effective. The threshold probability at which routine vaccination at 9 months with catchup campaign to 15 years becomes cost-effective is estimated to be 0.092 (DTA), 0.074 (2-level), and 0.072 (95% CI, 0.069–0.075) (GAM). GAM is 430 times faster than the 2-level approach. Conclusions. When the cost-effectiveness model is nonlinear, GAM provides similar threshold values to the 2-level Monte Carlo approach and is computationally more efficient. DTA provides incorrect results and should not be used.
+SN - 0272-989X
+M3  - doi: 10.1177/0272989X20937253
+UR  - https://doi-org.crai.referencistas.com/10.1177/0272989X20937253
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Periodicity Detection Method for Small-Sample Time Series Datasets
+AU  - Tominaga, Daisuke
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.4137/BBI.S5983
+DO  - 10.4137/BBI.S5983
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S5983
+VL - 4
+PB - SAGE Publications Ltd STM
+N2 - Time series of gene expression often exhibit periodic behavior under the influence of multiple signal pathways, and are represented by a model that incorporates multiple harmonics and noise. Most of these data, which are observed using DNA microarrays, consist of few sampling points in time, but most periodicity detection methods require a relatively large number of sampling points. We have previously developed a detection algorithm based on the discrete Fourier transform and Akaike’s information criterion. Here we demonstrate the performance of the algorithm for small-sample time series data through a comparison with conventional and newly proposed periodicity detection methods based on a statistical analysis of the power of harmonics. We show that this method has higher sensitivity for data consisting of multiple harmonics, and is more robust against noise than other methods. Although “combinatorial explosion” occurs for large datasets, the computational time is not a problem for small-sample datasets. The MATLAB/GNU Octave script of the algorithm is available on the author’s web site: http://www.cbrc.jp/%7Etominaga/piccolo/.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S5983
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S5983
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Can the WRAT-4 Math Computation Subtest Predict the Final Grade in a College-Level Math Course?
+AU  - Zagar, Robert John
+AU  - Basile, Benjamin
+AU  - Kovach, Joseph W.
+AU  - Stahl, James
+AU  - Busch, Kenneth G.
+AU  - Zagar, Agata Karolina
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.2466/10.04.IT.2.8
+DO  - 10.2466/10.04.IT.2.8
+T2  - Comprehensive Psychology
+JF  - Comprehensive Psychology
+SP  -10.04.IT.2.8
+VL - 2
+PB - SAGE Publications Inc
+N2 - 121 freshman through graduate college students (68 men, 53 women; M age = 23.3 yr., SD = 7.8) in 10 different math classes were administered the Wide Range Achievement Test Fourth Edition (WRAT-4) Math Computation Test in their first (pre-course) class. Predictive validity coefficients were calculated relative to the criterion of the final class grade. The validity coefficient for the pre-course WRAT score was statistically significant. The WRAT-4 Math subtest can be used by instructors to examine performance on specific items to judge the appropriateness of a student’s placement in either entry-level math courses. However, high school grades are a better predictor of completing the college curriculum.
+SN - 2165-2228
+M3  - doi: 10.2466/10.04.IT.2.8
+UR  - https://doi-org.crai.referencistas.com/10.2466/10.04.IT.2.8
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Fast geometry-based computation of grasping points on three-dimensional point clouds
+AU  - Zapata-Impata, Brayan S.
+AU  - Gil, Pablo
+AU  - Pomares, Jorge
+AU  - Torres, Fernando
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1729881419831846
+DO  - 10.1177/1729881419831846
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881419831846
+VL - 16
+IS - 1
+PB - SAGE Publications
+N2 - Industrial and service robots deal with the complex task of grasping objects that have different shapes and which are seen from diverse points of view. In order to autonomously perform grasps, the robot must calculate where to place its robotic hand to ensure that the grasp is stable. We propose a method to find the best pair of grasping points given a three-dimensional point cloud with the partial view of an unknown object. We use a set of straightforward geometric rules to explore the cloud and propose grasping points on the surface of the object. We then adapt the pair of contacts to a multi-fingered hand used in experimentation. We prove that, after performing 500 grasps of different objects, our approach is fast, taking an average of 17.5 ms to propose contacts, while attaining a grasp success rate of 85.5%. Moreover, the method is sufficiently flexible and stable to work with objects in changing environments, such as those confronted by industrial or service robots.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881419831846
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881419831846
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,252 @@
+TY  - JOUR
+T1  - Explainable machine learning for predicting conversion to neurological disease: Results from 52,939 medical records
+AU  - Felix, Christina
+AU  - Johnston, Joshua D.
+AU  - Owen, Kelsey
+AU  - Shirima, Emil
+AU  - Hinds, Sidney R.
+AU  - Mandl, Kenneth D.
+AU  - Milinovich, Alex
+AU  - Alberts, Jay L.
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/20552076241249286
+DO  - 10.1177/20552076241249286
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076241249290
+VL - 10
+PB - SAGE Publications Ltd
+N2 - Objective This study assesses the application of interpretable machine learning modeling using electronic medical record data for the prediction of conversion to neurological disease. Methods A retrospective dataset of Cleveland Clinic patients diagnosed with Alzheimer’s disease, amyotrophic lateral sclerosis, multiple sclerosis, or Parkinson’s disease, and matched controls based on age, sex, race, and ethnicity was compiled. Individualized risk prediction models were created using eXtreme Gradient Boosting for each neurological disease at four timepoints in patient history. The prediction models were assessed for transparency and fairness. Results At timepoints 0-months, 12-months, 24-months, and 60-months prior to diagnosis, Alzheimer’s disease models achieved the area under the receiver operating characteristic curve on a holdout test dataset of 0.794, 0.742, 0.709, and 0.645; amyotrophic lateral sclerosis of 0.883, 0.710, 0.658, and 0.620; multiple sclerosis of 0.922, 0.877, 0.849, and 0.781; and Parkinson’s disease of 0.809, 0.738, 0.700, and 0.651, respectively. Conclusions The results demonstrate that electronic medical records contain latent information that can be used for risk stratification for neurological disorders. In particular, patient-reported outcomes, sleep assessments, falls data, additional disease diagnoses, and longitudinal changes in patient health, such as weight change, are important predictors.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076241249286
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076241249286
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - ExSurv: A Web Resource for Prognostic Analyses of Exons across Human Cancers Using Clinical Transcriptomes
+AU  - Hashemikhabir, Seyedsasan
+AU  - Budak, Gungor
+AU  - Janga, Sarath Chandra
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/CIN.S39367
+DO  - 10.4137/CIN.S39367
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S39367
+VL - 15s2
+PB - SAGE Publications Ltd STM
+N2 - Survival analysis in biomedical sciences is generally performed by correlating the levels of cellular components with patients’ clinical features as a common practice in prognostic biomarker discovery. While the common and primary focus of such analysis in cancer genomics so far has been to identify the potential prognostic genes, alternative splicing – a posttranscriptional regulatory mechanism that affects the functional form of a protein due to inclusion or exclusion of individual exons giving rise to alternative protein products, has increasingly gained attention due to the prevalence of splicing aberrations in cancer transcriptomes. Hence, uncovering the potential prognostic exons can not only help in rationally designing exon-specific therapeutics but also increase specificity toward more personalized treatment options. To address this gap and to provide a platform for rational identification of prognostic exons from cancer transcriptomes, we developed ExSurv (https://exsurv.soic.iupui.edu), a web-based platform for predicting the survival contribution of all annotated exons in the human genome using RNA sequencing-based expression profiles for cancer samples from four cancer types available from The Cancer Genome Atlas. ExSurv enables users to search for a gene of interest and shows survival probabilities for all the exons associated with a gene and found to be significant at the chosen threshold. ExSurv also includes raw expression values across the cancer cohort as well as the survival plots for prognostic exons. Our analysis of the resulting prognostic exons across four cancer types revealed that most of the survival-associated exons are unique to a cancer type with few processes such as cell adhesion, carboxylic, fatty acid metabolism, and regulation of T-cell signaling common across cancer types, possibly suggesting significant differences in the posttranscriptional regulatory pathways contributing to prognosis.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S39367
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S39367
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Sensorimotor Challenges in Minimally Invasive Surgery: A Theoretically-Oriented Review
+AU  - Hewitson, Christopher L.
+AU  - Crossley, Matthew J.
+AU  - Cartmill, John
+AU  - Kaplan, David M.
+Y1  - 2024/07/22
+PY  - 2024
+N1  - doi: 10.1177/00187208241263684
+DO  - 10.1177/00187208241263684
+T2  - Human Factors
+JF  - Human Factors
+JO  - Hum Factors
+SP  -00187208241263684
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - Objective This review surveys the literature on sensorimotor challenges impacting performance in laparoscopic minimally invasive surgery (MIS). Background Despite its well-known benefits for patients, achieving proficiency in MIS can be challenging for surgeons due to many factors including altered visual perspectives and fulcrum effects in instrument handling. Research on these and other sensorimotor challenges has been hindered by imprecise terminology and the lack of a unified theoretical framework to guide research questions in the field. Method We conducted a systematic survey of the MIS literature, focusing on studies investigating sensorimotor challenges affecting laparoscopic performance. To provide a common foundation for cross-study comparisons, we propose a standardized taxonomy that distinguishes between different experimental paradigms used in the literature. We then show how the computational motor learning perspective provides a unifying theoretical framework for the field that can facilitate progress and motivate future research along clearer, hypothesis-driven lines. Results The survey identified diverse sensorimotor perturbations in MIS, which can be effectively categorized according to our proposed taxonomy. Studies investigating monitor-, camera-, and tool-based perturbations were systematically analyzed, elucidating their impact on surgical performance. We also show how the computational motor learning perspective provides deeper insights and potential strategies to mitigate challenges. Conclusion Sensorimotor challenges significantly impact MIS, necessitating a systematic, empirically informed approach. Our proposed taxonomy and theoretical framework shed light on the complexities involved, paving the way for more structured research and targeted training approaches to enhance surgical proficiency. Application Understanding the sensorimotor challenges inherent to MIS can guide the design of improved training curricula and inform the configuration of setups in the operating room to enhance surgeon performance and ultimately patient outcomes. This review offers key insights for surgeons, educators, and researchers in surgical performance and technology development.
+SN - 0018-7208
+M3  - doi: 10.1177/00187208241263684
+UR  - https://doi-org.crai.referencistas.com/10.1177/00187208241263684
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effect of a Flared Renal Stent on the Performance of Fenestrated Stent-Grafts at Rest and Exercise Conditions
+AU  - Kandail, Harkamaljot
+AU  - Hamady, Mohamad
+AU  - Xu, Xiao Yun
+Y1  - 2016/05/25
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.1177/1526602816651425
+DO  - 10.1177/1526602816651425
+T2  - Journal of Endovascular Therapy
+JF  - Journal of Endovascular Therapy
+JO  - J Endovasc Ther
+SP  -809
+EP - 820
+VL - 23
+IS - 5
+PB - SAGE Publications Inc
+N2 - Purpose: To quantify the hemodynamic impact of a flared renal stent on the performance of fenestrated stent-grafts (FSGs) by analyzing flow patterns and wall shear stress–derived parameters in flared and nonflared FSGs in different physiologic scenarios. Methods: Hypothetical models of FSGs were created with and without flaring of the proximal portion of the renal stent. Flared FSGs with different dilation angles and protrusion lengths were examined, as well as a nonplanar flared FSG to account for lumbar curvature. Laminar and pulsatile blood flow was simulated by numerically solving Navier-Stokes equations. A physiologically realistic flow rate waveform was prescribed at the inlet, while downstream vasculature was modeled using a lumped parameter 3-element windkessel model. No slip boundary conditions were imposed at the FSG walls, which were assumed to be rigid. While resting simulations were performed on all the FSGs, exercise simulations were also performed on a flared FSG to quantify the effect of flaring in different physiologic scenarios. Results: For cycle-averaged inflow of 2.94 L/min (rest) and 4.63 L/min (exercise), 27% of blood flow was channeled into each renal branch at rest and 21% under exercise for all the flared FSGs examined. Although the renal flow waveform was not affected by flaring, flow within the flared FSGs was disturbed. This flow disturbance led to high endothelial cell activation potential (ECAP) values at the renal ostia for all the flared geometries. Reducing the dilation angle or protrusion length and exercise lowered the ECAP values for flared FSGs. Conclusion: Flaring of renal stents has a negligible effect on the time dependence of renal flow rate waveforms and can maintain sufficient renal perfusion at rest and exercise. Local flow patterns are, however, strongly dependent on renal flaring, which creates a local flow disturbance and may increase the thrombogenicity at the renal ostia. Smaller dilation angles, shorter protrusion lengths, and moderate lower limb exercise are likely to reduce the risk of thrombosis in flared geometries.
+SN - 1526-6028
+M3  - doi: 10.1177/1526602816651425
+UR  - https://doi-org.crai.referencistas.com/10.1177/1526602816651425
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Racial formations as data formations
+AU  - Phan, Thao
+AU  - Wark, Scott
+Y1  - 2021/07/01
+PY  - 2021
+DA  - 2021/07/01
+N1  - doi: 10.1177/20539517211046377
+DO  - 10.1177/20539517211046377
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517211046376
+VL - 8
+IS - 2
+PB - SAGE Publications Ltd
+N2 - This commentary uses Paul Gilroy’s controversial claim that new technoscientific processes are instituting an ‘end to race’ as a provocation to discuss the epistemological transformation of race in algorithmic culture. We situate Gilroy’s provocation within the context of an abolitionist agenda against racial-thinking, underscoring the relationship between his post-race polemic and a post-visual discourse. We then discuss the challenges of studying race within regimes of computation, which rely on structures that are, for the most part, opaque; in particular, modes of classification that operate through proxies and abstractions and that figure racialized bodies not as single, coherent subjects, but as shifting clusters of data. We argue that in this new regime, race emerges as an epiphenomenon of processes of classifying and sorting – what we call ‘racial formations as data formations’. This discussion is significant because it raises new theoretical, methodological and political questions for scholars of media and critical algorithmic studies. It asks: how are we supposed to think, to identify and to confront race and racialisation when they vanish into algorithmic systems that are beyond our perception? What becomes of racial formations in post-visual regimes?
+SN - 2053-9517
+M3  - doi: 10.1177/20539517211046377
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517211046377
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Material characterisation of biaxial glass-fibre non-crimp fabrics as a function of ply orientation, stitch pattern, stitch length and stitch tension
+AU  - Quenzel, Philipp
+AU  - Kröger, Hauke
+AU  - Manin, Boris
+AU  - Ngoc Vu, Khiêm
+AU  - Duong, Thang Xuan
+AU  - Gries, Thomas
+AU  - Itskov, Mikhail
+AU  - Sauer, Roger A.
+Y1  - 2022/09/14
+PY  - 2022
+DA  - 2022/11/01
+N1  - doi: 10.1177/00219983221127005
+DO  - 10.1177/00219983221127005
+T2  - Journal of Composite Materials
+JF  - Journal of Composite Materials
+SP  -3971
+EP - 3991
+VL - 56
+IS - 26
+PB - SAGE Publications Ltd STM
+N2 - Due to their high density-specific stiffnesses and strength, fibre reinforced plastic (FRP) composites are particularly interesting for mobility and transport applications. Warp-knitted non-crimp fabrics (NCF) are one possible way to produce such FRP composites. They are advantageous because of their low production costs and the ability to tailor the properties of the textile to the reinforcement and drape requirements of the application. Based on their specific production parameters, their draping properties can vary significantly. Draping simulations are used to predict the forming behaviour without relying on costly and time consuming trial and error experiments. However, these simulations require a broad material dataset to make accurate predictions. Previous studies have investigated the relationships between production parameters and drape behaviour only in isolation for a limited number of material parameters at a time. In this study, a comprehensive material characterisation is carried out. The influence of ply orientation, stitch pattern, stitch length and stitch tension on the tensile and bending properties and the friction, shear and drape behaviour of NCFs are investigated on a meso and macro scale. Furthermore, the inter-ply sliding phenomena in bias extension tests are analysed and the results of bias extension and picture frame tests are compared.
+SN - 0021-9983
+M3  - doi: 10.1177/00219983221127005
+UR  - https://doi-org.crai.referencistas.com/10.1177/00219983221127005
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Frequency Synchronization Algorithms for MIMO-OFDM Systems with Periodic Preambles
+AU  - Sun, Jian
+AU  - Li, Fudong
+AU  - Wang, Cheng-Xiang
+AU  - Hong, Xuemin
+AU  - Yuan, Dongfeng
+Y1  - 2014/05/01
+PY  - 2014
+DA  - 2014/05/01
+N1  - doi: 10.1155/2014/740906
+DO  - 10.1155/2014/740906
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -740906
+VL - 10
+IS - 5
+PB - SAGE Publications
+N2 - This paper addresses the problem of frequency synchronization in multiple-input multiple-output (MIMO) orthogonal frequency-division multiplexing (OFDM) systems with periodic preambles. Two Maximum Likelihood Estimators (MLEs) and four low complexity Best Linear Unbiased Estimators (BLUEs) are proposed. When cyclic shift delay is applied to periodic preambles, MLEs can adopt a unique structure which employs diversity and correlation calculation in the estimator. We first propose a multiple-antenna estimator named as MLE-MA, which has an estimation range of the entire signal bandwidth. MLE-MAS is a simplified version of MLE-MA, which reduces the computational load at the cost of a narrower estimation range. Moreover, phases or differential phases obtained from the autocorrelation of periodic sequences with different delays can be used to estimate carrier frequency offset (CFO). The weighting coefficients of all BLUEs are derived in closed form and shown to be independent from the signal-to-noise ratio (SNR). BLUEs have asymptotically consistent variances. Theoretical and simulation results demonstrate that all estimators can asymptotically approach the theoretical Cramer Rao Lower bound (CRLB) at different SNRs.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/740906
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/740906
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Domain information transfer method and its application in quasi-brittle failure analysis
+AU  - Sun, Xiaoxiao
+AU  - Guo, Xiaoming
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - doi: 10.1177/1687814019895736
+DO  - 10.1177/1687814019895736
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019895736
+VL - 11
+IS - 12
+PB - SAGE Publications
+N2 - This article presents a domain information transfer method for the purpose of quasi-brittle failure analysis. It contains two separated computational levels. On macroscopic level, the material domains are viewed as elementary substances which construct the whole structure. The macroscopic governing equations are established based on this point of view and the boundary displacements of material domains are defined as basic unknowns. Each damaged material domain will be assigned a mesoscale model and the information transfer mechanism from a mesoscale domain to a macroscale domain is established. The damage localization phenomenon is equivalently represented on macroscopic level by boundary deformation of material domains and the macroscale meshes are invariant during analysis. The information exchange element based on nonlocal quadrature scheme is proposed and the efficient upscaling is realized. The proposed method is an efficient and flexible way for quasi-brittle failure analysis.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019895736
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019895736
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Injury Rate in TackleBar Football
+AU  - Toninato, Joseph
+AU  - Healy, Tim
+AU  - Samadani, Uzma
+AU  - Christianson, Eric
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - doi: 10.1177/2325967119874065
+DO  - 10.1177/2325967119874065
+T2  - Orthopaedic Journal of Sports Medicine
+JF  - Orthopaedic Journal of Sports Medicine
+SP  -2325967119874065
+VL - 7
+IS - 10
+PB - SAGE Publications Inc
+N2 - Background: As football comes under greater scrutiny because of concussions and other injuries, many people are searching for safer alternatives, especially for youth athletes. The injury rate in TackleBar football, one such alternative, is not currently known. Purpose: To describe TackleBar football and calculate its injury rate over a single season to compare it with both traditional tackle and flag football. Study Design: Descriptive epidemiology study. Methods: TackleBar football was described, and injuries of male athletes (age range, 9-14 years) participating in TackleBar football were tracked over the course of a season (August 5 through October 27, 2018) and compared with published injury rates for traditional tackle and flag football. Results: The overall injury rate of TackleBar football was found to be 0.31 per 1000 athlete-exposures (AEs), which is lower than youth tackle (2.25-2.60/1000 AEs) and flag (5.77/1000 AEs) football. Conclusion: TackleBar football may represent a reasonable alternative to tackle and flag football with regard to injuries.
+SN - 2325-9671
+M3  - doi: 10.1177/2325967119874065
+UR  - https://doi-org.crai.referencistas.com/10.1177/2325967119874065
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cerebral arterial pulsatility is linked to hippocampal microvascular function and episodic memory in healthy older adults
+AU  - Vikner, Tomas
+AU  - Eklund, Anders
+AU  - Karalija, Nina
+AU  - Malm, Jan
+AU  - Riklund, Katrine
+AU  - Lindenberger, Ulman
+AU  - Bäckman, Lars
+AU  - Nyberg, Lars
+AU  - Wåhlin, Anders
+Y1  - 2021/01/14
+PY  - 2021
+DA  - 2021/07/01
+N1  - doi: 10.1177/0271678X20980652
+DO  - 10.1177/0271678X20980652
+T2  - Journal of Cerebral Blood Flow & Metabolism
+JF  - Journal of Cerebral Blood Flow & Metabolism
+JO  - J Cereb Blood Flow Metab
+SP  -1778
+EP - 1790
+VL - 41
+IS - 7
+PB - SAGE Publications Ltd STM
+N2 - Microvascular damage in the hippocampus is emerging as a central cause of cognitive decline and dementia in aging. This could be a consequence of age-related decreases in vascular elasticity, exposing hippocampal capillaries to excessive cardiac-related pulsatile flow that disrupts the blood-brain barrier and the neurovascular unit. Previous studies have found altered intracranial hemodynamics in cognitive impairment and dementia, as well as negative associations between pulsatility and hippocampal volume. However, evidence linking features of the cerebral arterial flow waveform to hippocampal function is lacking. We used a high-resolution 4D flow MRI approach to estimate global representations of the time-resolved flow waveform in distal cortical arteries and in proximal arteries feeding the brain in healthy older adults. Waveform-based clustering revealed a group of individuals featuring steep systolic onset and high amplitude that had poorer hippocampus-sensitive episodic memory (p = 0.003), lower whole-brain perfusion (p = 0.001), and weaker microvascular low-frequency oscillations in the hippocampus (p = 0.035) and parahippocampal gyrus (p = 0.005), potentially indicating compromised neurovascular unit integrity. Our findings suggest that aberrant hemodynamic forces contribute to cerebral microvascular and hippocampal dysfunction in aging.
+SN - 0271-678X
+M3  - doi: 10.1177/0271678X20980652
+UR  - https://doi-org.crai.referencistas.com/10.1177/0271678X20980652
+Y2  - 2024/10/01
+ER  - 
+

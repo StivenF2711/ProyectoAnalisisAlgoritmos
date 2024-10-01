@@ -1,0 +1,246 @@
+TY  - JOUR
+T1  - The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization
+AU  - Chatton, Arthur
+AU  - Rohrer, Julia M.
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/25152459241236149
+DO  - 10.1177/25152459241236149
+T2  - Advances in Methods and Practices in Psychological Science
+JF  - Advances in Methods and Practices in Psychological Science
+SP  -25152459241236148
+VL - 7
+IS - 1
+PB - SAGE Publications Inc
+N2 - Recent developments in the causal-inference literature have renewed psychologists’ interest in how to improve causal conclusions based on observational data. A lot of the recent writing has focused on concerns of causal identification (under which conditions is it, in principle, possible to recover causal effects?); in this primer, we turn to causal estimation (how do researchers actually turn the data into an effect estimate?) and modern approaches to it that are commonly used in epidemiology. First, we explain how causal estimands can be defined rigorously with the help of the potential-outcomes framework, and we highlight four crucial assumptions necessary for causal inference to succeed (exchangeability, positivity, consistency, and noninterference). Next, we present three types of approaches to causal estimation and compare their strengths and weaknesses: propensity-score methods (in which the independent variable is modeled as a function of controls), g-computation methods (in which the dependent variable is modeled as a function of both controls and the independent variable), and doubly robust estimators (which combine models for both independent and dependent variables). A companion R Notebook is available at github.com/ArthurChatton/CausalCookbook. We hope that this nontechnical introduction not only helps psychologists and other social scientists expand their causal toolbox but also facilitates communication across disciplinary boundaries when it comes to causal inference, a research goal common to all fields of research.
+SN - 2515-2459
+M3  - doi: 10.1177/25152459241236149
+UR  - https://doi-org.crai.referencistas.com/10.1177/25152459241236149
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Repression and Dissent: How Tit-for-Tat Leads to Violent and Nonviolent Resistance
+AU  - Dornschneider-Elkink, Stephanie
+AU  - Henderson, Nick
+Y1  - 2023/05/27
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1177/00220027231179102
+DO  - 10.1177/00220027231179102
+T2  - Journal of Conflict Resolution
+JF  - Journal of Conflict Resolution
+SP  -756
+EP - 785
+VL - 68
+IS - 4
+PB - SAGE Publications Inc
+N2 - Much research examines the state-dissident nexus by large-n studies and rational choice theories. This article contributes an analysis of dissident reasoning through a computational evaluation of ethnographic interviews. The analysis shows that dissident decision-making is based on tit-for-tat deliberations: Dissidents choose violent means primarily in response to violent repression, and nonviolent means in response to nonviolent repression. Ordinary citizens not participating in dissent consider positive state behavior or safety concerns instead. Consistent with arguments that state-dissident interactions are reciprocal, these findings reveal unexpected cognitive similarities between political dissent and cooperation, which is often associated with tit-for-tat deliberations. They also show the importance of state repression compared with other motivators of dissent, including perceived relative deprivation and social contagion. The findings identify heuristic patterns of reasoning which suggest that dissidents may be more open to change and, ultimately, cooperation with state authorities than what is argued by repressive states.
+SN - 0022-0027
+M3  - doi: 10.1177/00220027231179102
+UR  - https://doi-org.crai.referencistas.com/10.1177/00220027231179102
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modelling of combustion acoustics sources and their dynamics in the PRECCINSTA burner test case
+AU  - Grimm, Felix
+AU  - Dierke, Jürgen
+AU  - Ewert, Roland
+AU  - Noll, Berthold
+AU  - Aigner, Manfred
+Y1  - 2017/07/07
+PY  - 2017
+DA  - 2017/12/01
+N1  - doi: 10.1177/1756827717717390
+DO  - 10.1177/1756827717717390
+T2  - International Journal of Spray and Combustion Dynamics
+JF  - International Journal of Spray and Combustion Dynamics
+SP  -330
+EP - 348
+VL - 9
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - A stochastic, hybrid computational fluid dynamics/computational combustion acoustics approach for combustion noise prediction is applied to the PRECCINSTA laboratory scale combustor (prediction and control of combustion instabilities in industrial gas turbines). The numerical method is validated for its ability to accurately reproduce broadband combustion noise levels from measurements. The approach is based on averaged flow field and turbulence statistics from computational fluid dynamics simulations. The three-dimensional fast random particle method for combustion noise prediction is employed for the modelling of time-resolved dynamics of sound sources and sound propagation via linearised Euler equations. A comprehensive analysis of simulated sound source dynamics is carried out in order to contribute to the understanding of combustion noise formation mechanisms. Therefrom gained knowledge can further on be incorporated for the investigation of onset of thermoacoustic phenomena. The method-inherent stochastic Langevin ansatz for the realisation of turbulence related source decay is analysed in terms of reproduction ability of local one- and two-point statistical input and therefore its applicability to complex test cases. Furthermore, input turbulence statistics are varied, in order to investigate the impact of turbulence on the resulting sound pressure spectra for a swirl stabilised, technically premixed combustor.
+SN - 1756-8277
+M3  - doi: 10.1177/1756827717717390
+UR  - https://doi-org.crai.referencistas.com/10.1177/1756827717717390
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Reviews: Sensorimotor Control of Grasping: Physiology and Pathophysiology, Computation, Cognition, and Pylyshyn
+AU  - Hesse, Constanze
+AU  - Jaswal, Snehlata
+Y1  - 2009/11/01
+PY  - 2009
+DA  - 2009/11/01
+N1  - doi: 10.1068/p3811rvw
+DO  - 10.1068/p3811rvw
+T2  - Perception
+JF  - Perception
+JO  - Perception
+SP  -1735
+EP - 1738
+VL - 38
+IS - 11
+PB - SAGE Publications Ltd STM
+SN - 0301-0066
+M3  - doi: 10.1068/p3811rvw
+UR  - https://doi-org.crai.referencistas.com/10.1068/p3811rvw
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning
+AU  - Mühlhoff, Rainer
+Y1  - 2019/11/06
+PY  - 2020
+DA  - 2020/10/01
+N1  - doi: 10.1177/1461444819885334
+DO  - 10.1177/1461444819885334
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -1868
+EP - 1884
+VL - 22
+IS - 10
+PB - SAGE Publications
+N2 - Today, artificial intelligence (AI), especially machine learning, is structurally dependent on human participation. Technologies such as deep learning (DL) leverage networked media infrastructures and human-machine interaction designs to harness users to provide training and verification data. The emergence of DL is therefore based on a fundamental socio-technological transformation of the relationship between humans and machines. Rather than simulating human intelligence, DL-based AIs capture human cognitive abilities, so they are hybrid human-machine apparatuses. From a perspective of media philosophy and social-theoretical critique, I differentiate five types of “media technologies of capture” in AI apparatuses and analyze them as forms of power relations between humans and machines. Finally, I argue that the current hype about AI implies a relational and distributed understanding of (human/artificial) intelligence, which I categorize under the term “cybernetic AI.” This form of AI manifests in socio-technological apparatuses that involve new modes of subjectivation, social control, and digital labor.
+SN - 1461-4448
+M3  - doi: 10.1177/1461444819885334
+UR  - https://doi-org.crai.referencistas.com/10.1177/1461444819885334
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Data Visualization Using R for Researchers Who Do Not Use R
+AU  - Nordmann, Emily
+AU  - McAleer, Phil
+AU  - Toivo, Wilhelmiina
+AU  - Paterson, Helena
+AU  - DeBruine, Lisa M.
+Y1  - 2022/04/01
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/25152459221074654
+DO  - 10.1177/25152459221074654
+T2  - Advances in Methods and Practices in Psychological Science
+JF  - Advances in Methods and Practices in Psychological Science
+SP  -25152459221074656
+VL - 5
+IS - 2
+PB - SAGE Publications Inc
+N2 - In addition to benefiting reproducibility and transparency, one of the advantages of using R is that researchers have a much larger range of fully customizable data visualizations options than are typically available in point-and-click software because of the open-source nature of R. These visualization options not only look attractive but also can increase transparency about the distribution of the underlying data rather than relying on commonly used visualizations of aggregations, such as bar charts of means. In this tutorial, we provide a practical introduction to data visualization using R specifically aimed at researchers who have little to no prior experience of using R. First, we detail the rationale for using R for data visualization and introduce the “grammar of graphics” that underlies data visualization using the ggplot package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software, such as histograms and box plots, and shows how the code for these “basic” plots can be easily extended to less commonly available options, such as violin box plots. The data set and code used in this tutorial and an interactive version with activity solutions, additional resources, and advanced plotting options are available at https://osf.io/bj83f/.
+SN - 2515-2459
+M3  - doi: 10.1177/25152459221074654
+UR  - https://doi-org.crai.referencistas.com/10.1177/25152459221074654
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Computationally Efficient Approach to Fully Bayesian Benchmarking
+AU  - Okonek, Taylor
+AU  - Wakefield, Jon
+Y1  - 2024/05/27
+PY  - 2024
+DA  - 2024/06/01
+N1  - doi: 10.1177/0282423X241244670
+DO  - 10.1177/0282423X241244670
+T2  - Journal of Official Statistics
+JF  - Journal of Official Statistics
+SP  -283
+EP - 316
+VL - 40
+IS - 2
+PB - SAGE Publications
+N2 - In small area estimation, it is sometimes necessary to use model-based methods to produce estimates in areas with little or no data. In official statistics, we often require that aggregates of small area estimates agree with national estimates for internal consistency purposes. Enforcing this agreement is referred to as benchmarking, and while methods currently exist to perform benchmarking, few are ideal for applications with non-normal outcomes and benchmarks with uncertainty. Fully Bayesian benchmarking is a theoretically appealing approach insofar as we can obtain posterior distributions conditional on a benchmarking constraint. However, existing implementations may be computationally prohibitive. In this paper, we critically review benchmarking methods in the context of small area estimation in low- and middle-income countries with binary outcomes and uncertain benchmarks, and propose a novel approach in which posterior samples of small area characteristics from an unbenchmarked model can be combined with a rejection sampler or Metropolis-Hastings algorithm to produce benchmarked posterior distributions in a computationally efficient way. To illustrate the flexibility and efficiency of our approach, we provide comparisons to an existing benchmarking approach in a simulation, and applications to HIV prevalence and under-5 mortality estimation. Code implementing our methodology is available in the R package stbench.
+SN - 0282-423X
+M3  - doi: 10.1177/0282423X241244670
+UR  - https://doi-org.crai.referencistas.com/10.1177/0282423X241244670
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Editorial introduction: Towards a machinic anthropology
+AU  - Pedersen, Morten Axel
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20539517231153803
+DO  - 10.1177/20539517231153803
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517231153804
+VL - 10
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Bringing together a motley crew of social scientists and data scientists, the aim of this special theme issue is to explore what an integration or even fusion between anthropology and data science might look like. Going beyond existing work on the complementarity between ‘thick’ qualitative and ‘big’ quantitative data, the ambition is to unsettle and push established disciplinary, methodological and epistemological boundaries by creatively and critically probing various computational methods for augmenting and automatizing the collection, processing and analysis of ethnographic data, and vice versa. Can ethnographic and other qualitative data and methods be integrated with natural language processing tools and other machine-learning techniques, and if so, to what effect? Does the rise of data science allow for the realization of Levi-Strauss’ old dream of a computational structuralism, and even if so, should it? Might one even go as far as saying that computers are now becoming agents of social scientific analysis or even thinking: are we about to witness the birth of distinctly anthropological forms of artificial intelligence? By exploring these questions, the hope is not only to introduce scholars and students to computational anthropological methods, but also to disrupt predominant norms and assumptions among computational social scientists and data science writ large.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517231153803
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517231153803
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - SARS-CoV-2 Infection and the Risk of Suicidal and Self-Harm Thoughts and Behaviour: A Systematic Review
+AU  - AU  - Sinyor, Mark
+AU  - Zaheer, Rabia
+AU  - Webb, Roger T.
+AU  - Knipe, Duleeka
+AU  - Eyles, Emily
+AU  - Higgins, Julian P.T.
+AU  - McGuinness, Luke
+AU  - Schmidt, Lena
+AU  - Macleod-Hall, Catherine
+AU  - Dekel, Dana
+et al.
+Y1  - 2022/05/09
+PY  - 2022
+DA  - 2022/11/01
+N1  - doi: 10.1177/07067437221094552
+DO  - 10.1177/07067437221094552
+T2  - The Canadian Journal of Psychiatry
+JF  - The Canadian Journal of Psychiatry
+JO  - Can J Psychiatry
+SP  -813
+EP - 828
+VL - 67
+IS - 11
+PB - SAGE Publications Inc
+N2 - Objective The COVID-19 pandemic has had a complex impact on risks of suicide and non-fatal self-harm worldwide with some evidence of increased risk in specific populations including women, young people, and people from ethnic minority backgrounds. This review aims to systematically address whether SARS-CoV-2 infection and/or COVID-19 disease confer elevated risk directly. Method As part of a larger Living Systematic Review examining self-harm and suicide during the pandemic, automated daily searches using a broad list of keywords were performed on a comprehensive set of databases with data from relevant articles published between January 1, 2020 and July 18, 2021. Eligibility criteria for our present review included studies investigating suicide and/or self-harm in people infected with SARS-CoV-2 with or without manifestations of COVID-19 disease with a comparator group who did not have infection or disease. Suicidal and self-harm thoughts and behaviour (STBs) were outcomes of interest. Studies were excluded if they reported data for people who only had potential infection/disease without a confirmed exposure, clinical/molecular diagnosis or self-report of a positive SARS-CoV-2 test result. Studies of news reports, treatment studies, and ecological studies examining rates of both SARS-CoV-2 infections and suicide/self-harm rates across a region were also excluded. Results We identified 12 studies examining STBs in nine distinct samples of people with SARS-CoV-2. These studies, which investigated STBs in the general population and in subpopulations, including healthcare workers, generally found positive associations between SARS-CoV-2 infection and/or COVID-19 disease and subsequent suicidal/self-harm thoughts and suicidal/self-harm behaviour. Conclusions This review identified some evidence that infection with SARS-CoV-2 and/or COVID-19 disease may be associated with increased risks for suicidal and self-harm thoughts and behaviours but a causal link cannot be inferred. Further research with longer follow-up periods is required to confirm these findings and to establish whether these associations are causal.
+SN - 0706-7437
+M3  - doi: 10.1177/07067437221094552
+UR  - https://doi-org.crai.referencistas.com/10.1177/07067437221094552
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Some Thoughts on Official Statistics and its Future (with discussion)
+AU  - Tillé, Yves
+AU  - Debusschere, Marc
+AU  - Luomaranta, Henri
+AU  - Axelson, Martin
+AU  - Elvers, Eva
+AU  - Holmberg, Anders
+AU  - Valliant, Richard
+Y1  - 2022/06/01
+PY  - 2022
+DA  - 2022/06/14
+N1  - doi: 10.2478/jos-2022-0026
+DO  - 10.2478/jos-2022-0026
+T2  - Journal of Official Statistics
+JF  - Journal of Official Statistics
+SP  -557
+EP - 598
+VL - 38
+IS - 2
+PB - SAGE Publications
+N2 - In this article, we share some reflections on the state of statistical science and its evolution in the production systems of official statistics. We first try to make a synthesis of the evolution of statistical thinking. We then examine the evolution of practices in official statistics, which had to face very early on a diversification of sou rces: first with the use of censuses, then sample surveys and finally administrative files. At each stage, a profound revision of methods was necessary. We show that since the middle of the 20th century, one of the major challenges of statistics has been to produce estimates from a variety of sources. To do this, a large number of methods have been proposed which are based on very different f oundations. The term “big data” encompasses a set of sources and new statistical methods. We first examine the potential of valorization of big data in official statistics. Some applications such as image analysis for agricultural prediction are very old and will be further developed. However, we report our skepticism towards web-scrapping methods. Then we examine the use of new deep learning methods. With access to more and more sources, the great challenge will remain the valorization and harmonization of these sources.
+SN - 0282-423X
+M3  - doi: 10.2478/jos-2022-0026
+UR  - https://doi-org.crai.referencistas.com/10.2478/jos-2022-0026
+Y2  - 2024/10/01
+ER  - 
+

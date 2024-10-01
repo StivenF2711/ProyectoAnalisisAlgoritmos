@@ -1,0 +1,253 @@
+TY  - JOUR
+T1  - Inferring Transcriptional Interactions by the Optimal Integration of ChIp-chip and Knock-out Data
+AU  - Cheng, Haoyu
+AU  - Jiang, Lihua
+AU  - Wu, Maoying
+AU  - Liu, Qi
+Y1  - 2009/01/01
+PY  - 2009
+DA  - 2009/01/01
+N1  - doi: 10.4137/BBI.S3445
+DO  - 10.4137/BBI.S3445
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S3445
+VL - 3
+PB - SAGE Publications Ltd STM
+N2 - How to combine heterogeneous data sources for reliable prediction of transcriptional regulation is a challenge. Here we present an easy but powerful method to integrate Chromatin immunoprecipitation (ChIP)-chip and knock-out data. Since these two types of data provide complementary (physical and functional) information about transcription, the method combining them is expected to achieve high detection rates and very low false positive rates. We try to seek the optimal integration of these two data using hypergeometric distribution. We evaluate our method on yeast data and compare our predictions with YEASTRACT, high-quality ChIP-chip data, and literature. The results show that even using low-quality ChIP-chip data, our method uncovers more relations than those inferred before from high-quality data. Furthermore our method achieves a low false positive rate. We find experimental and computational evidence in literature for most transcription factor (TF)-gene relations uncovered by our method.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S3445
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S3445
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Multilevel and Quasi Monte Carlo Methods for the Calculation of the Expected Value of Partial Perfect Information
+AU  - Fang, Wei
+AU  - Wang, Zhenru
+AU  - Giles, Michael B.
+AU  - Jackson, Chris H.
+AU  - Welton, Nicky J.
+AU  - Andrieu, Christophe
+AU  - Thom, Howard
+Y1  - 2021/07/07
+PY  - 2022
+DA  - 2022/02/01
+N1  - doi: 10.1177/0272989X211026305
+DO  - 10.1177/0272989X211026305
+T2  - Medical Decision Making
+JF  - Medical Decision Making
+JO  - Med Decis Making
+SP  -168
+EP - 181
+VL - 42
+IS - 2
+PB - SAGE Publications Inc STM
+N2 - The expected value of partial perfect information (EVPPI) provides an upper bound on the value of collecting further evidence on a set of inputs to a cost-effectiveness decision model. Standard Monte Carlo estimation of EVPPI is computationally expensive as it requires nested simulation. Alternatives based on regression approximations to the model have been developed but are not practicable when the number of uncertain parameters of interest is large and when parameter estimates are highly correlated. The error associated with the regression approximation is difficult to determine, while MC allows the bias and precision to be controlled. In this article, we explore the potential of quasi Monte Carlo (QMC) and multilevel Monte Carlo (MLMC) estimation to reduce the computational cost of estimating EVPPI by reducing the variance compared with MC while preserving accuracy. We also develop methods to apply QMC and MLMC to EVPPI, addressing particular challenges that arise where Markov chain Monte Carlo (MCMC) has been used to estimate input parameter distributions. We illustrate the methods using 2 examples: a simplified decision tree model for treatments for depression and a complex Markov model for treatments to prevent stroke in atrial fibrillation, both of which use MCMC inputs. We compare the performance of QMC and MLMC with MC and the approximation techniques of generalized additive model (GAM) regression, Gaussian process (GP) regression, and integrated nested Laplace approximations (INLA-GP). We found QMC and MLMC to offer substantial computational savings when parameter sets are large and correlated and when the EVPPI is large. We also found that GP and INLA-GP were biased in those situations, whereas GAM cannot estimate EVPPI for large parameter sets.
+SN - 0272-989X
+M3  - doi: 10.1177/0272989X211026305
+UR  - https://doi-org.crai.referencistas.com/10.1177/0272989X211026305
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Decentralized Scheme for Cooperative Compressed Spectrum Sensing in Distributed Networks
+AU  - Jijun, Huang
+AU  - Song, Zha
+Y1  - 2015/08/01
+PY  - 2015
+DA  - 2015/08/01
+N1  - doi: 10.1155/2015/785143
+DO  - 10.1155/2015/785143
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -785143
+VL - 11
+IS - 8
+PB - SAGE Publications
+N2 - Compressed sensing (CS) recently turns out to be an effective approach to alleviate the sampling bottleneck in wideband spectrum sensing. However, the computation overhead incurred by compressed reconstruction is nontrivial, especially in a power-constrained cognitive radio (CR). Moreover, additional information, which is generally unavailable in practice, is needed in conventional CS-based wideband spectrum sensing schemes to improve the reconstruction quality as well as the detection performance. To address these issues, this paper proposes a novel decentralized scheme for cooperative compressed spectrum sensing in distributed CR networks. Our key observation is that the sparse signals are unnecessary to be reconstructed since the task of spectrum sensing is only interested in the spectrum occupancy status. The major novelty of the proposed scheme relates to the use of Karcher mean as a statistic indicating the spectrum occupancy status, thereby eliminating the compressed reconstruction stage and significantly reducing the computational complexity. Considering limited communication resources per CR, a decentralized implementation based on alternating direction method of multipliers is presented to calculate the Karcher mean via one-hop communications only. The superior performance of the proposed scheme is demonstrated by comparing with several existing decentralized schemes in terms of detection performance, communication overhead, and computational complexity.
+SN - 1550-1329
+M3  - doi: 10.1155/2015/785143
+UR  - https://doi-org.crai.referencistas.com/10.1155/2015/785143
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Recent Enhancements to the Genetic Risk Prediction Model BRCAPRO
+AU  - Mazzola, Emanuele
+AU  - Blackford, Amanda
+AU  - Parmigiani, Giovanni
+AU  - Biswas, Swati
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/CIN.S17292
+DO  - 10.4137/CIN.S17292
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S17292
+VL - 14s2
+PB - SAGE Publications Ltd STM
+N2 - BRCAPRO is a widely used model for genetic risk prediction of breast cancer. It is a function within the R package BayesMendel and is used to calculate the probabilities of being a carrier of a deleterious mutation in one or both of the BRCA genes, as well as the probability of being affected with breast and ovarian cancer within a defined time window. Both predictions are based on information contained in the counselee’s family history of cancer. During the last decade, BRCAPRO has undergone several rounds of successive refinements: the current version is part of release 2.1 of BayesMendel. In this review, we showcase some of the most notable features of the software resulting from these recent changes. We provide examples highlighting each feature, using artificial pedigrees motivated by complex clinical examples. We illustrate how BRCAPRO is a comprehensive software for genetic risk prediction with many useful features that allow users the flexibility to incorporate varying amounts of available information.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S17292
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S17292
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Trial Prospector: Matching Patients with Cancer Research Studies Using an Automated and Scalable Approach
+AU  - Sahoo, Satya S.
+AU  - Tao, Shiqiang
+AU  - Parchman, Andrew
+AU  - Luo, Zhihui
+AU  - Cui, Licong
+AU  - Mergler, Patrick
+AU  - Lanese, Robert
+AU  - Barnholtz-Sloan, Jill S.
+AU  - Meropol, Neal J.
+AU  - Zhang, Guo-Qiang
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CIN.S19454
+DO  - 10.4137/CIN.S19454
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S19454
+VL - 13
+PB - SAGE Publications Ltd STM
+N2 - Cancer is responsible for approximately 7.6 million deaths per year worldwide. A 2012 survey in the United Kingdom found dramatic improvement in survival rates for childhood cancer because of increased participation in clinical trials. Unfortunately, overall patient participation in cancer clinical studies is low. A key logistical barrier to patient and physician participation is the time required for identification of appropriate clinical trials for individual patients. We introduce the Trial Prospector tool that supports end-to-end management of cancer clinical trial recruitment workflow with (a) structured entry of trial eligibility criteria, (b) automated extraction of patient data from multiple sources, (c) a scalable matching algorithm, and (d) interactive user interface (UI) for physicians with both matching results and a detailed explanation of causes for ineligibility of available trials. We report the results from deployment of Trial Prospector at the National Cancer Institute (NCI)-designated Case Comprehensive Cancer Center (Case CCC) with 1,367 clinical trial eligibility evaluations performed with 100% accuracy.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S19454
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S19454
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Design and Implementation of File Deduplication Framework on HDFS
+AU  - Sheu, Ruey-Kai
+AU  - Yuan, Shyan-Ming
+AU  - Lo, Win-Tsung
+AU  - Ku, Chan-I.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - doi: 10.1155/2014/561340
+DO  - 10.1155/2014/561340
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -561340
+VL - 10
+IS - 4
+PB - SAGE Publications
+N2 - File systems are designed to control how files are stored and retrieved. Without knowing the context and semantics of file contents, file systems often contain duplicate copies and result in redundant consumptions of storage space and network bandwidth. It has been a complex and challenging issue for enterprises to seek deduplication technologies to reduce cost and increase the storage efficiency. To solve such problem, researchers proposed in-line or offline solutions for primary storages or backup systems at the subfile or whole-file level. Some of the technologies are used for file servers and database systems. Fewer studies focus on the cloud file system deduplication technologies at the application level, especially for the Hadoop distributed file system. It is the goal of this paper to design a file deduplication framework on Hadoop distributed file system for cloud application developers. The architecture, interface, and implementation experiences are also shared in this paper.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/561340
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/561340
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Brain Activity Response to Visual Cues for Gait Impairment in Parkinson’s Disease: An EEG Study
+AU  - Stuart, Samuel
+AU  - Wagner, Johanna
+AU  - Makeig, Scott
+AU  - Mancini, Martina
+Y1  - 2021/09/10
+PY  - 2021
+DA  - 2021/11/01
+N1  - doi: 10.1177/15459683211041317
+DO  - 10.1177/15459683211041317
+T2  - Neurorehabilitation and Neural Repair
+JF  - Neurorehabilitation and Neural Repair
+JO  - Neurorehabil Neural Repair
+SP  -996
+EP - 1009
+VL - 35
+IS - 11
+PB - SAGE Publications Inc STM
+N2 - Background. Gait impairments are common in Parkinson’s disease (PD) and increase falls risk. Visual cues can improve gait in PD, particularly freezing of gait (FOG), but mechanisms involved in visual cue response are unknown. This study aimed to examine brain activity in response to visual cues in people with PD who do (PD+FOG) and do not report FOG (PD-FOG) and explore relationships between attention, brain activity and gait. Methods. Mobile EEG measured brain activity during gait in 20 healthy older adults and 43 PD participants (n=22 PD+FOG, n=21 PD-FOG). Participants walked for 2-minutes with and without visual cues (transverse lines to step over). We report power spectral density (PSD) in Delta (1-4 Hz), Theta (4-7 Hz), Alpha (8-12 Hz), Beta (14-24 Hz) and Gamma (30-50 Hz) bands within clusters of similarly brain localized independent component sources. Results. PSDs within the parietal and occipital lobes were altered when walking with visual cues in PD, particularly in PD+FOG. Between group, differences suggested that parietal sources in PD, particularly with PD+FOG, had larger activity compared to healthy older adults when walking. Within group, visual cues altered brain activity in PD, particularly in PD+FOG, within visual processing brain regions. In PD participants, brain activity differences with cues correlated with gait improvements, and in PD+FOG those with worse attention required more visual attentional processing (reduced alpha PSD) in the occipital lobe. Conclusions. Visual cues improve gait and influence brain activity during walking in PD, particularly in PD+FOG. Findings may allow development of more effective therapeutics.
+SN - 1545-9683
+M3  - doi: 10.1177/15459683211041317
+UR  - https://doi-org.crai.referencistas.com/10.1177/15459683211041317
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cluster-based efficient information dissemination in dynamic networks
+AU  - Yang, Zhiwei
+AU  - Wu, Weigang
+AU  - Li, Yong
+AU  - Chen, Yishun
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1177/1550147718762086
+DO  - 10.1177/1550147718762086
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147718762086
+VL - 14
+IS - 3
+PB - SAGE Publications
+N2 - Dynamic network is an abstraction of networks with frequent topology changes arising from node mobility or other reasons. In this article, we first propose a dynamic network model, named (T, L)-HiNet, to extend existing dynamic network models with clusters. (T, L)-HiNet includes several properties defining the stability of cluster hierarchy in a dynamic network, including cluster head set, cluster member set and the connections among them. Based on (T, L)-HiNet, we design several hierarchical information dissemination algorithms for different scenarios of dynamics. Furthermore, we extend the (T, L)-HiNet model and corresponding algorithms in two directions, that is, stability of cluster head set and cluster size. The correctness of our algorithms is proved rigorously, and their performance is evaluated via both numerical analysis and simulations. The results show that compared with the algorithm recently proposed by Kuhn et al., our design can significantly reduce communication cost and also time cost.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147718762086
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147718762086
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical investigation on the solid particle erosion in elbow with water–hydrate–solid flow
+AU  - Zhang, Liang
+AU  - Zhou, JiaWei
+AU  - Zhang, Bo
+AU  - Gong, Wei
+Y1  - 2019/12/25
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/0036850419897245
+DO  - 10.1177/0036850419897245
+T2  - Science Progress
+JF  - Science Progress
+SP  -0036850419897245
+VL - 103
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Erosion in pipeline caused by solid particles, which may lead to premature failure of the pipe system, is regarded as one of the most important concerns in the field of oil and gas. Therefore, the Euler–Lagrange, erosion model, and discrete phase model are applied for the purpose of simulating the erosion of water–hydrate–solid flow in submarine hydrate transportation pipeline. In this article, the flow and erosion characteristics are well verified on the basis of experiments. Moreover, analysis is conducted to have a good understanding of the effects of hydrate volume, mean curvature radius/pipe diameter (R/D) rate, flow velocity, and particle diameter on elbow erosion. It is finally obtained that the hydrate volume directly affects the Reynolds number through viscosity and the trend of the Reynolds number is consistent with the trend of erosion rate. Taking into account different R/D rates, the same Stokes number reflects different dynamic transforms of the maximum erosion zone. However, the outmost wall (zone D) will be the final erosion zone when the value of the Stokes number increases to a certain degree. In addition, the erosion rate increases sharply along with the increase of flow velocity and particle diameter. The effect of flow velocity on the erosion zone can be ignored in comparison with the particle diameter. Moreover, it is observed that flow velocity is deemed as the most sensitive factor on erosion rate among these factors employed in the orthogonal experiment.
+SN - 0036-8504
+M3  - doi: 10.1177/0036850419897245
+UR  - https://doi-org.crai.referencistas.com/10.1177/0036850419897245
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A framework for simulating snow accumulation and ice accretion on high-speed trains
+AU  - Zhao, Fanzhou
+AU  - Chen, Dawei
+AU  - Liu, Jiali
+AU  - Wang, Weibin
+AU  - Vahdati, Mehdi
+Y1  - 2023/07/17
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/09544097231190242
+DO  - 10.1177/09544097231190242
+T2  - Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit
+JF  - Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit
+SP  -73
+EP - 88
+VL - 238
+IS - 1
+PB - IMECHE
+N2 - A simulation framework for three-dimensional particle trajectory tracking, snow accumulation and ice accretion modelling on solid bodies in high-speed air flow is presented. The framework, named HADICE, solves the aerodynamic flow field as Reynolds averaged Navier-Stokes (RANS), with optional hybrid RANS/LES capabilities for modelling complex turbulent flows. Particle trajectory tracking is performed in an Eulerian-Lagrangian approach and wall collision is modelled using a hard collision model with reflect condition and a momentum based trap condition. A novel accurate and robust iterative evaluation method for the local collection efficiency is proposed for arbitrary 3D geometry and flow. Ice accretion is modelled in a multi-step approach and iced geometry is updated through mesh deformation using a radial basis function (RBF) interpolation method. Snow accumulation and ice accretion predictions based on the framework are validated against climatic wind tunnel experimental measurements. A full 3D simulation is demonstrated for snow accumulation and ice accretion on a 1:8 scaled high-speed train model. Using the presented framework, snow accumulation and icing simulation for high-speed trains can be conducted in an accurate and efficient manner, which is of great importance for physical investigations and the design of anti-snow and ice protection systems.
+SN - 0954-4097
+M3  - doi: 10.1177/09544097231190242
+UR  - https://doi-org.crai.referencistas.com/10.1177/09544097231190242
+Y2  - 2024/10/01
+ER  - 
+

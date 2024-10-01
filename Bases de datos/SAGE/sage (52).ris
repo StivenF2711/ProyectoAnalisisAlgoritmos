@@ -1,0 +1,257 @@
+TY  - JOUR
+T1  - Becoming E-Petition: An Assemblage-Based Framework for Analysis and Research
+AU  - Briassoulis, Helen
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/21582440211001354
+DO  - 10.1177/21582440211001354
+T2  - Sage Open
+JF  - Sage Open
+SP  -21582440211001350
+VL - 11
+IS - 1
+PB - SAGE Publications
+N2 - Ε-petitions, the digital version of printed petitions, are increasingly being used as complimentary means of nonconfrontational, online citizen mobilization/protest. They attract considerable research interest because they provide (big) data to study e-petitioning and the political and other aspects of socio-spatial issues. E-petition studies lack discussion of ontology, of “what is an e-petition,” implicitly treating e-petitions as “systems-as-a-whole” or, seldom, as relational formations. Acknowledging the foundational role of ontology, Assemblage Thinking (AT) is argued to beget a more judicious approach when e-petitions are employed as research instruments to study the “who-what-when-where-and-how” of a socio-spatial issue and, concurrently, their situated contribution to issue-related decision-making. After presenting the reductionist/essentialist and the nonreductionist/relational approaches to the study of e-petitions and introducing ΑΤ, an assemblage-based framework is proposed that conceptualizes e-petitions as multiplicities comprising assemblages, dynamic compositions emerging from processes of heterogeneous components coming together to serve a purpose. A concomitant methodology is outlined and an illustrative example is offered. The advantages of assemblage-based over reductionist/essentialist approaches for the situated co-analysis of socio-spatial issues and e-petitions are discussed, indicating how they address prominent concerns of the literature, and future research directions are suggested.
+SN - 2158-2440
+M3  - doi: 10.1177/21582440211001354
+UR  - https://doi-org.crai.referencistas.com/10.1177/21582440211001354
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Alternative Factors Leading to Replication Crisis: Prediction and Evaluation
+AU  - Chernov, Gregory
+Y1  - 2024/02/20
+PY  - 2024
+N1  - doi: 10.1177/0193841X241229106
+DO  - 10.1177/0193841X241229106
+T2  - Evaluation Review
+JF  - Evaluation Review
+JO  - Eval Rev
+SP  -0193841X241229106
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - Most existing solutions to the current replication crisis in science address only the factors stemming from specific poor research practices. We introduce a novel mechanism that leverages the experts’ predictive abilities to analyze the root causes of replication failures. It is backed by the principle that the most accurate predictor is the most qualified expert. This mechanism can be seamlessly integrated into the existing replication prediction market framework with minimal implementation costs. It relies on an objective rather than subjective process and unstructured expert opinions to effectively identify various influences contributing to the replication crisis.
+SN - 0193-841X
+M3  - doi: 10.1177/0193841X241229106
+UR  - https://doi-org.crai.referencistas.com/10.1177/0193841X241229106
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Incompressible versus compressible large eddy simulation for the identification of premixed flame dynamics
+AU  - Eder, Alexander J.
+AU  - Silva, Camilo F.
+AU  - Haeringer, Matthias
+AU  - Kuhlmann, Johannes
+AU  - Polifke, Wolfgang
+Y1  - 2023/03/01
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1177/17568277231154204
+DO  - 10.1177/17568277231154204
+T2  - International Journal of Spray and Combustion Dynamics
+JF  - International Journal of Spray and Combustion Dynamics
+SP  -16
+EP - 32
+VL - 15
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The present work compares the respective advantages and disadvantages of compressible and incompressible computational fluid dynamics (CFD) formulations when used for the estimation of the acoustic flame response. The flame transfer function of a turbulent premixed swirl-stabilized burner is determined by applying system identification (SI) to time series data extracted from large eddy simulation (LES). By analyzing the quality of the results, the present study shows that incompressible simulations exhibit several advantages over their compressible counterpart with equal prediction of the flame dynamics. On the one hand, the forcing signals can be designed in such a way that desired statistical properties can be enhanced, while maintaining optimal values in the amplitude. On the other hand, computational costs are reduced and the implementation is fundamentally simpler due to the absence of acoustic wave propagation and corresponding resonances in the flame response or even self-excited acoustic oscillations. Such an increase in efficiency makes the incompressible CFD/SI modeling approach very appealing for the study of a wide variety of systems that rely on premixed combustion. In conclusion, the present study reveals that both methodologies predict the same flame dynamics, which confirms that incompressible simulation can be used for thermoacoustic analyses of acoustically compact velocity-sensitive flames.
+SN - 1756-8277
+M3  - doi: 10.1177/17568277231154204
+UR  - https://doi-org.crai.referencistas.com/10.1177/17568277231154204
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cooperative differential evolution framework with utility-based adaptive grouping for large-scale optimization
+AU  - Ge, Hongwei
+AU  - Sun, Liang
+AU  - Zhang, Kai
+AU  - Wu, Chunguo
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/1687814019834161
+DO  - 10.1177/1687814019834161
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019834161
+VL - 11
+IS - 3
+PB - SAGE Publications
+N2 - Decomposing the large-scale problem into small-scale subproblems and optimizing them cooperatively are critical steps for solving large-scale optimization problem. This article proposes a cooperative differential evolution with utility-based adaptive grouping. The problem decomposition is adaptively executed by the two mechanisms of circular sliding controller and relation matrix, which consider the variable interactions on the basis of the short-term and long-term utilities, respectively. The circular sliding controller provides baselines for the subproblem optimizer. The size of the sliding window and the sliding speed in the controller are adjusted adaptively so that the variables with higher activeness can be optimized extensively. The relation matrix–based grouping strategy enables interacted variables to be grouped into the same subproblem with higher probabilities. The novelty is that decomposition is conducted as the optimization process without extra computational burden. For subproblem optimization, we use a self-adaptive differential evolution operator that adaptively adjusts the parameters to guide the search to the optimum solutions of the subproblems. Experiments on the benchmarks of CEC2008 and CEC2010, and practical problems show the effectiveness of the proposed algorithm.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019834161
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019834161
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Investigation into the flow details of runner region in a pump turbine at off-design conditions
+AU  - Gong, Ruzhi
+AU  - Li, Deyou
+AU  - Wang, Hongjie
+AU  - Wei, Xianzhu
+AU  - Qin, Daqing
+Y1  - 2016/02/01
+PY  - 2016
+DA  - 2016/02/01
+N1  - doi: 10.1177/1687814016630727
+DO  - 10.1177/1687814016630727
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016630727
+VL - 8
+IS - 2
+PB - SAGE Publications
+N2 - Due to the rapid development of large thermal power stations and nuclear power stations, it requires that the power grid should provide greater capability and flexibility. Security, stability, and economy in operation should also be taken into consideration. The pumped storage power station which has double peak regulating capability is a good choice to realize this goal. However, the existence of S shape characteristic of a pump turbine in generating mode at off-design condition makes it difficult to connect to the power grid. So it is necessary to analyze the reason of S shape characteristic in pump turbine by experimental investigation and numerical simulations. To achieve the above-mentioned object, numerical simulations of a pump turbine’s internal flow field were performed. The generating mode was analyzed by unsteady computational fluid dynamics simulation. The evolution of flow details in runner regions under the S shape characteristic conditions was observed by changing the guide vane opening. The unsteady flow structure and load on the blades in regions of S shape characteristic were obtained, which will contribute to the design of hydro-turbine.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016630727
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016630727
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Validation of a structural model of an aircraft cockpit panel: An industrial case study
+AU  - Patterson, Eann A.
+AU  - Diamantakos, Ioannis
+AU  - Dvurecenska, Ksenija
+AU  - Greene, Richard J.
+AU  - Hack, Erwin
+AU  - Lampeas, George
+AU  - Lomnitz, Marek
+AU  - Siebert, Thorsten
+Y1  - 2021/11/19
+PY  - 2022
+DA  - 2022/11/01
+N1  - doi: 10.1177/03093247211059084
+DO  - 10.1177/03093247211059084
+T2  - The Journal of Strain Analysis for Engineering Design
+JF  - The Journal of Strain Analysis for Engineering Design
+SP  -714
+EP - 723
+VL - 57
+IS - 8
+PB - IMECHE
+N2 - Computational models of structures are widely used to inform decisions about design, maintenance and operational life of engineering infrastructure, including airplanes. Confidence in the predictions from models is provided via validation processes that assess the extent to which predictions represent the real world, where the real world is often characterised by measurements made in experiments of varying sophistication dependent on the importance of the decision that the predictions will inform. There has been steady progress in developing validation processes that compare fields of predictions and measurements in a quantitative manner using the uncertainty in measurements as a basis for assessing the importance of differences between the fields of data. In this case study, three recent advances in a validation process, which was evaluated in an inter-laboratory study 5 years ago, are implemented using a ground-test on a fuselage at the aircraft manufacturer’s site for the first time. The results show that the advances successfully address the issues raised by the inter-laboratory study, that the enhanced validation process can be implemented in an industrial environment on a complex structure, and that the model was an excellent representation of the measurements made using digital image correlation.
+SN - 0309-3247
+M3  - doi: 10.1177/03093247211059084
+UR  - https://doi-org.crai.referencistas.com/10.1177/03093247211059084
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Clinical decision support for ExtraCorporeal Membrane Oxygenation: Will we fly by wire?
+AU  - Pladet, Lara
+AU  - Luijken, Kim
+AU  - Fresiello, Libera
+AU  - Miranda, Dinis Dos Reis
+AU  - Hermens, Jeannine A.
+AU  - Smeden, Maarten van
+AU  - Cremer, Olaf
+AU  - Donker, Dirk W.
+AU  - Meuwese, Christiaan L.
+Y1  - 2023/04/20
+PY  - 2023
+DA  - 2023/05/01
+N1  - doi: 10.1177/02676591231163688
+DO  - 10.1177/02676591231163688
+T2  - Perfusion
+JF  - Perfusion
+JO  - Perfusion
+SP  -68
+EP - 81
+VL - 38
+IS - 1_suppl
+PB - SAGE Publications Ltd STM
+N2 - Prognostic modelling techniques have rapidly evolved over the past decade and may greatly benefit patients supported with ExtraCorporeal Membrane Oxygenation (ECMO). Epidemiological and computational physiological approaches aim to provide more accurate predictive assessments of ECMO-related risks and benefits. Implementation of these approaches may produce predictive tools that can improve complex clinical decisions surrounding ECMO allocation and management. This Review describes current applications of prognostic models and elaborates on upcoming directions for their clinical applicability in decision support tools directed at improved allocation and management of ECMO patients. The discussion of these new developments in the field will culminate in a futuristic perspective leaving ourselves and the readers wondering whether we may “fly ECMO by wire” someday.
+SN - 0267-6591
+M3  - doi: 10.1177/02676591231163688
+UR  - https://doi-org.crai.referencistas.com/10.1177/02676591231163688
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An investigation into the design of a device to treat haemorrhagic stroke
+AU  - Randhawa, Hardeep Singh
+AU  - Pearce, Gillian
+AU  - Hepton, Rachel
+AU  - Wong, Julian
+AU  - Zidane, Iham F.
+AU  - Ma, Xianghong
+Y1  - 2019/11/27
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/0954411919890698
+DO  - 10.1177/0954411919890698
+T2  - Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+JF  - Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+JO  - Proc Inst Mech Eng H
+SP  -323
+EP - 336
+VL - 234
+IS - 4
+PB - IMECHE
+N2 - In this study, we present the design considerations of a device to assist in the potential treatment of hemorrhagic stroke with the aim of stopping blood from flowing out into brain tissue. We present and model three designs for the clinical scenarios when saccular aneurysms rupture in the middle cerebral artery in the brain. We evaluate and model these three designs using computer aided design software, SolidWorks, which allows the devices to be tested using finite element analysis and also enables us to justify that the materials chosen were suitable for potential use. Computational fluid dynamics modelling were used to demonstrate and analyse the flow of blood through the artery under conditions of normal and ruptured states. We conclude that our device could potentially be useful in the treatment of hemorrhagic stroke, and the modelling process is useful in assisting in determining the performance of our devices.
+SN - 0954-4119
+M3  - doi: 10.1177/0954411919890698
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954411919890698
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Experimental and numerical investigation of heat evolution inside the autoclave for composite manufacturing
+AU  - Rangapuram, M.
+AU  - Dasari, SK
+AU  - Abutunis, A.
+AU  - Chandrashekhara, K.
+AU  - Lua, J.
+AU  - Li, R.
+Y1  - 2024/02/01
+PY  - 2024
+DA  - 2024/02/01
+N1  - doi: 10.1177/26349833241273506
+DO  - 10.1177/26349833241273506
+T2  - Composites and Advanced Materials
+JF  - Composites and Advanced Materials
+SP  -26349833241273504
+VL - 33
+PB - SAGE Publications Ltd
+N2 - Temperature uniformity inside the autoclave and in the manufactured thermoset composite part is the key to enhancing curing performance. The present study incorporated experimental setup, multiphysics and computational fluid dynamics (CFD) models to provide insight into the gas flow pattern and temperature distribution inside the autoclave besides temperature and curing evolution in composite parts during the manufacturing process. The ultimate goal is to help improve the uniformity of the degree of curing and produce robust composite parts. The used numerical models were validated by experiment and the predicted results were in agreement with experimental efforts with a difference of 5%. A maximum temperature difference of 3 K was observed for panel 1, 1 K for panel 2, and 4 K for panel 3 during the curing stages. The variation was more pronounced during the post-curing stage, especially at the center. Correspondingly, less degree of curing (DOC) occurred at the center. The DOC variation between the center and the sides at the base of the panel is 2.5%. Variation in DOC across the thickness of the composite panels was also observed due to thermal spikes and uneven heat transfer. The DOC variation between upper surface and midplane is about 11%. Regions of high turbulence intensity lead to better heat transfer while regions of low speed such as confined regions under the tooling table had the poorest heat transfer. The study provided some practical implications to reduce the non-uniformity in temperature distribution and improve part curing.
+SN - 2634-9833
+M3  - doi: 10.1177/26349833241273506
+UR  - https://doi-org.crai.referencistas.com/10.1177/26349833241273506
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - On the use of particle image velocimetry (PIV) data for the validation of Reynolds averaged Navier-Stokes (RANS) simulations during the intake process of a spark ignition direct injection (SIDI) engine
+AU  - Shen, Li
+AU  - Willman, Christopher
+AU  - Stone, Richard
+AU  - Lockyer, Tom
+AU  - Magnanon, Rachel
+AU  - Virelli, Giuseppe
+Y1  - 2021/09/28
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/14680874211001257
+DO  - 10.1177/14680874211001257
+T2  - International Journal of Engine Research
+JF  - International Journal of Engine Research
+SP  -1061
+EP - 1081
+VL - 23
+IS - 6
+PB - SAGE Publications
+N2 - Computational fluid dynamics (CFD) simulations of the in-cylinder flow field are widely used in the design of internal combustion engines (ICEs) and must be validated against experimental measurements to enable a robust predictive capability. Such validation is complicated by the presence of both large-scale cycle-to-cycle variations and small-scale turbulent fluctuations in experimental measurements of in-cylinder flow fields. Reynolds averaged Navier-Stokes (RANS) simulations provide overall flow structures with acceptable accuracy and affordable computational cost for widespread industrial applications. Due to the nature of averaging physical parameters in RANS, its validation against experimental results obtained by particle image velocimetry (PIV) requires consideration of how best to average or filter the measured turbulent flows. In this paper, PIV measurements on the cross-tumble plane were recorded every five crank angle degrees for cycles during the intake process of a motored, optically accessible spark ignition direct injection (SIDI) engine. Several methods including ensemble averaging, speed-based averaging and low-order proper orthogonal decomposition (POD) reconstruction were applied to remove the fluctuations from experimental PIV vector fields and thus enable comparison to RANS simulations. Quantitative comparison metrics were used to evaluate the performances of each method in representing the intake jet. Recommendations are made on how to provide a fair validation between measured data and simulation results in highly fluctuating flow fields such as the engine intake jet.
+SN - 1468-0874
+M3  - doi: 10.1177/14680874211001257
+UR  - https://doi-org.crai.referencistas.com/10.1177/14680874211001257
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,262 @@
+TY  - JOUR
+T1  - Combining classical molecular docking with self-consistent charge density-functional tight-binding computations for the efficient and quality prediction of ligand binding structure
+AU  - Al-Ansi, Amar Y.
+AU  - Lu, Haorui
+AU  - Lin, Zijing
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1177/17475198221101999
+DO  - 10.1177/17475198221101999
+T2  - Journal of Chemical Research
+JF  - Journal of Chemical Research
+SP  -17475198221102000
+VL - 46
+IS - 3
+PB - SAGE Publications Ltd
+N2 - To improve the successful prediction rate of the existing molecular docking methods, a new docking approach is proposed that consists of three steps: generating an ensemble of docked poses with a conventional docking method, performing clustering analysis of the ensemble to select the representative poses, and optimizing the representative structures with a low-cost quantum mechanics method. Three quantum mechanics methods, self-consistent charge density-functional tight-binding, ONIOM(DFT:PM6), and ONIOM(SCC-DFTB:PM6), are tested on 18 ligand-receptor bio-complexes. The rate of successful binding pose predictions by the proposed self-consistent charge density-functional tight-binding docking method is the highest, at 67%. The self-consistent charge density-functional tight-binding docking method should be useful for the structure-based drug design.
+SN - 1747-5198
+M3  - doi: 10.1177/17475198221101999
+UR  - https://doi-org.crai.referencistas.com/10.1177/17475198221101999
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence approaches to predict coronary stenosis severity using non-invasive fractional flow reserve
+AU  - Carson, Jason M.
+AU  - Chakshu, Neeraj Kavan
+AU  - Sazonov, Igor
+AU  - Nithiarasu, Perumal
+Y1  - 2020/08/03
+PY  - 2020
+DA  - 2020/11/01
+N1  - doi: 10.1177/0954411920946526
+DO  - 10.1177/0954411920946526
+T2  - Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+JF  - Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+JO  - Proc Inst Mech Eng H
+SP  -1337
+EP - 1350
+VL - 234
+IS - 11
+PB - IMECHE
+N2 - Fractional flow reserve is the current reference standard in the assessment of the functional impact of a stenosis in coronary heart disease. In this study, three models of artificial intelligence of varying degrees of complexity were compared to fractional flow reserve measurements. The three models are the multivariate polynomial regression, which is a statistical method used primarily for correlation; the feed-forward neural network; and the long short-term memory, which is a type of recurrent neural network that is suited to modelling sequences. The models were initially trained using a virtual patient database that was generated from a validated one-dimensional physics-based model. The feed-forward neural network performed the best for all test cases considered, which were a single vessel case from a virtual patient database, a multi-vessel network from a virtual patient database, and 25 clinically invasive fractional flow reserve measurements from real patients. The feed-forward neural network model achieved around 99% diagnostic accuracy in both tests involving virtual patients, and a respectable 72% diagnostic accuracy when compared to the invasive fractional flow reserve measurements. The multivariate polynomial regression model performed well in the single vessel case, but struggled on network cases as the variation of input features was much larger. The long short-term memory performed well for the single vessel cases, but tended to have a bias towards a positive fractional flow reserve prediction for the virtual multi-vessel case, and for the patient cases. Overall, the feed-forward neural network shows promise in successfully predicting fractional flow reserve in real patients, and could be a viable option if trained using a large enough data set of real patients.
+SN - 0954-4119
+M3  - doi: 10.1177/0954411920946526
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954411920946526
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Performance of explicit and IMEX MRI multirate methods on complex reactive flow problems within modern parallel adaptive structured grid frameworks
+AU  - Loffeld, John J.
+AU  - Nonaka, Andy
+AU  - Reynolds, Daniel R.
+AU  - Gardner, David J.
+AU  - Woodward, Carol S.
+Y1  - 2024/02/25
+PY  - 2024
+DA  - 2024/07/01
+N1  - doi: 10.1177/10943420241227914
+DO  - 10.1177/10943420241227914
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -263
+EP - 281
+VL - 38
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Large-scale multiphysics simulations are computationally challenging due to the coupling of multiple processes with widely disparate time scales. The advent of exascale computing systems exacerbates these challenges since these systems enable ever-increasing size and complexity. In recent years, there has been renewed interest in developing multirate methods as a means to handle the large range of time scales, as these methods may afford greater accuracy and efficiency than more traditional approaches of using implicit-explicit (IMEX) and low-order operator splitting schemes. However, to date there have been few performance studies that compare different classes of multirate integrators on complex application problems. In this work, we study the performance of several newly developed multirate infinitesimal (MRI) methods, implemented in the SUNDIALS solver package, on two reacting flow model problems built on structured mesh frameworks. The first model revisits prior work on a compressible reacting flow problem with complex chemistry that is implemented using BoxLib but where we now include comparisons between a new explicit MRI scheme with the multirate spectral deferred correction (SDC) methods in the original paper. The second problem uses the same complex chemistry as the first problem, combined with a simplified flow model, but runs at a large spatial scale where explicit methods become infeasible due to stability constraints. Two recently developed IMEX MRI multirate methods are tested. These methods rely on advanced features of the AMReX framework on which the model is built, such as multilevel grids and multilevel preconditioners. The results from these two problems show that MRI multirate methods can offer significant performance benefits on complex multiphysics application problems and that these methods may be combined with advanced spatial discretization to compound the advantages of both.
+SN - 1094-3420
+M3  - doi: 10.1177/10943420241227914
+UR  - https://doi-org.crai.referencistas.com/10.1177/10943420241227914
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Bioinformatics-based Characterization of the Sequence Variability of Zika Virus Polyprotein and Envelope Protein (E)
+AU  - Polanco, Carlos
+AU  - Uversky, Vladimir N.
+AU  - Huberman, Alberto
+AU  - Vargas-Alarcón, Gilberto
+AU  - Castañón González, Jorge Alberto
+AU  - Buhse, Thomas
+AU  - Hernández Lemus, Enrique
+AU  - Rios Castro, Martha
+AU  - López Oliva, Erika Jeannette
+AU  - Solís Nájera, Sergio Enrique
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/11769343221130730
+DO  - 10.1177/11769343221130730
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -11769343221130730
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Background: Zika virus, which is widely spread and infects humans through the bites of Aedes albopictus and Aedes aegypti female mosquitoes, represents a serious global health issue. Objective: The objective of the present study is to computationally characterize Zika virus polyproteins (UniProt Name: PRO_0000443018 [residues 1-3423], PRO_0000445659 [residues 1-3423] and PRO_0000435828 [residues 1-3419]) and their envelope proteins using their physico-chemical properties. Methods: To achieve this, the Polarity Index Method (PIM) profile and the Protein Intrinsic Disorder Predisposition (PIDP) profile of 3 main groups of proteins were evaluated: structural proteins extracted from specific Databases, Zika virus polyproteins, and their envelope proteins (E) extracted from UniProt Database. Once the PIM profile of the Zika virus envelope proteins (E) was obtained and since the Zika virus polyproteins were also identified with this profile, the proteins defined as “reviewed proteins” extracted from the UniProt Database were searched for the similar PIM profile. Finally, the difference between the PIM profiles of the Zika virus polyproteins and their envelope proteins (E) was tested using 2 non-parametric statistical tests. Results: It was found and tested that the PIM profile is an efficient discriminant that allows obtaining a “computational fingerprint” of each Zika virus polyprotein from its envelope protein (E). Conclusion: PIM profile represents a computational tool, which can be used to effectively discover Zika virus polyproteins from Databases, from their envelope proteins (E) sequences.
+SN - 1176-9343
+M3  - doi: 10.1177/11769343221130730
+UR  - https://doi-org.crai.referencistas.com/10.1177/11769343221130730
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and stability analysis of a sliding bead from a problem-based learning perspective
+AU  - Roccia, Bruno A.
+AU  - Bossio, Guillermo R.
+AU  - Mazzone, Fernando D.
+AU  - Gebhardt, Cristian G.
+Y1  - 2023/06/19
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1177/03064190231178881
+DO  - 10.1177/03064190231178881
+T2  - International Journal of Mechanical Engineering Education
+JF  - International Journal of Mechanical Engineering Education
+SP  -172
+EP - 204
+VL - 52
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - In this work, we adopt a problem-based learning approach to develop an integrative bachelor project that relies on competences acquired from basic courses in mathematics, mechanics and computation. In this sense, the proposed project tries to pave the way from “apparently disconnected” concepts gained through previous studies toward the field of computational mechanics. On this basis, we study the motion of a particle along an arbitrary curve in space subject only to the gravitational field, the so-called sliding bead. Although this is a classic problem in mechanics, it has a substantial richness from a theoretical and practical point of view where the student reinforcing abstract skills and exploring different aspects of its numerical solution are allowed. Along this path, we start with the modeling process. This is followed by a stability analysis of the governing differential equations. Later on, we present a moderate introduction to classical numerical time integration by considering several numerical schemes and the well-known Matlab add-on Simulink. Finally, we present a brief discussion about how the proposed project allows articulating concepts of mathematics, mechanics, and computation in engineering programs of studies at horizontal and vertical levels.
+SN - 0306-4190
+M3  - doi: 10.1177/03064190231178881
+UR  - https://doi-org.crai.referencistas.com/10.1177/03064190231178881
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A chemo-mechano-thermodynamical contact theory for adhesion, friction, and (de)bonding reactions
+AU  - Sauer, Roger A.
+AU  - Duong, Thang X.
+AU  - Mandadapu, Kranthi K.
+Y1  - 2021/08/03
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/10812865211032723
+DO  - 10.1177/10812865211032723
+T2  - Mathematics and Mechanics of Solids
+JF  - Mathematics and Mechanics of Solids
+SP  -711
+EP - 745
+VL - 27
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - This work presents a self-contained continuum formulation for coupled chemical, mechanical, and thermal contact interactions. The formulation is very general and, hence, admits arbitrary geometry, deformation, and material behavior. All model equations are derived rigorously from the balance laws of mass, momentum, energy, and entropy in the framework of irreversible thermodynamics, thus exposing all the coupling present in the field equations and constitutive relations. In the process, the conjugated kinematic and kinetic variables for mechanical, thermal, and chemical contact are identified, and the analogies between mechanical, thermal, and chemical contact are highlighted. Particular focus is placed on the thermodynamics of chemical bonding distinguishing between exothermic and endothermic contact reactions. Distinction is also made between long-range, non-touching surface interactions and short-range, touching contact. For all constitutive relations, examples are proposed and discussed comprehensively with particular focus on their coupling. Finally, three analytical test cases are presented that illustrate the thermo-chemo-mechanical contact coupling and are useful for verifying computational models. Although the main novelty is the extension of existing contact formulations to chemical contact, the presented formulation also sheds new light on thermo-mechanical contact, because it is consistently derived from basic principles using only a few assumptions.
+SN - 1081-2865
+M3  - doi: 10.1177/10812865211032723
+UR  - https://doi-org.crai.referencistas.com/10.1177/10812865211032723
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Blade shape optimization of an aircraft propeller using space mapping surrogates
+AU  - Toman, Usama T.
+AU  - Hassan, Abdel-Karim SO
+AU  - Owis, Farouk M.
+AU  - Mohamed, Ahmed SA
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.1177/1687814019865071
+DO  - 10.1177/1687814019865071
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019865071
+VL - 11
+IS - 7
+PB - SAGE Publications
+N2 - Propeller performance greatly influences the overall efficiency of the turboprop engines. The aim of this study is to perform a propeller blade shape optimization for maximum aerodynamic efficiency with a minimal number of high-fidelity model evaluations. A physics-based surrogate approach exploiting space mapping is employed for the design process. A space mapping algorithm is utilized, for the first time in the field of propeller design, to link two of the most common propeller analysis models: the classical blade-element momentum theory to be the coarse model; and the high-fidelity computational fluid dynamics tool as the fine model. The numerical computational fluid dynamics simulations are performed using the finite-volume discretization of the Reynolds-averaged Navier–Stokes equations on an adaptive unstructured grid. The optimum design is obtained after few iterations with only 56 computationally expensive computational fluid dynamics simulations. Furthermore, an optimization method based on design of experiments and kriging response surface is used to validate the results and compare the computational efficiency of the two techniques. The results show that space mapping is more computationally efficient.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019865071
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019865071
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Toward a multiscale modeling framework for understanding serotonergic function
+AU  - Wong-Lin, KongFatt
+AU  - Wang, Da-Hui
+AU  - Moustafa, Ahmed A.
+AU  - Cohen, Jeremiah Y.
+AU  - Nakamura, Kae
+Y1  - 2017/04/18
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1177/0269881117699612
+DO  - 10.1177/0269881117699612
+T2  - Journal of Psychopharmacology
+JF  - Journal of Psychopharmacology
+JO  - J Psychopharmacol
+SP  -1121
+EP - 1136
+VL - 31
+IS - 9
+PB - SAGE Publications Ltd STM
+N2 - Despite its importance in regulating emotion and mental wellbeing, the complex structure and function of the serotonergic system present formidable challenges toward understanding its mechanisms. In this paper, we review studies investigating the interactions between serotonergic and related brain systems and their behavior at multiple scales, with a focus on biologically-based computational modeling. We first discuss serotonergic intracellular signaling and neuronal excitability, followed by neuronal circuit and systems levels. At each level of organization, we will discuss the experimental work accompanied by related computational modeling work. We then suggest that a multiscale modeling approach that integrates the various levels of neurobiological organization could potentially transform the way we understand the complex functions associated with serotonin.
+SN - 0269-8811
+M3  - doi: 10.1177/0269881117699612
+UR  - https://doi-org.crai.referencistas.com/10.1177/0269881117699612
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Optimization and experimental verification of the vibro-impact capsule system in fluid pipeline
+AU  - Yan, Yao
+AU  - Liu, Yang
+AU  - Jiang, Haibo
+AU  - Peng, Zhike
+AU  - Crawford, Alasdair
+AU  - Williamson, James
+AU  - Thomson, Jamie
+AU  - Kerins, Gearoid
+AU  - Yusupov, Azat
+AU  - Islam, Sheikh
+Y1  - 2018/05/03
+PY  - 2019
+DA  - 2019/02/01
+N1  - doi: 10.1177/0954406218766200
+DO  - 10.1177/0954406218766200
+T2  - Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+JF  - Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+SP  -880
+EP - 894
+VL - 233
+IS - 3
+PB - IMECHE
+N2 - This paper studies the prototype development of the vibro-impact capsule system aiming for autonomous mobile sensing for pipeline inspection. Self-propelled progression of the system is obtained by employing a vibro-impact oscillator encapsuled in the capsule without the requirement of any external mechanisms, such as wheels, arms, or legs. A dummy capsule prototype is designed, and the best geometric parameters, capsule and cap arc lengths, for minimizing fluid resistance forces are obtained through two-dimensional and three-dimensional computational fluid dynamics analyses, which are confirmed by wind tunnel tests. In order to verify the concept of self-propulsion, both original and optimized capsule prototypes are tested in a fluid pipe. Experimental results are compared with computational fluid dynamics simulations to confirm the efficacy of the vibro-impact self-propelled driving.
+SN - 0954-4062
+M3  - doi: 10.1177/0954406218766200
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954406218766200
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Hormesis and Adaptive Cellular Control Systems
+AU  - Zhang, Qiang
+AU  - Pi, Jingbo
+AU  - Woods, Courtney G.
+AU  - Jarabek, Annie M.
+AU  - Clewell, Harvey J.
+AU  - Andersen, Melvin E.
+Y1  - 2008/03/19
+PY  - 2008
+DA  - 2008/04/01
+N1  - doi: 10.2203/dose-response.07-028.Zhang
+DO  - 10.2203/dose-response.07-028.Zhang
+T2  - Dose-Response
+JF  - Dose-Response
+SP  -dose-response.07-028.Zhang
+VL - 6
+IS - 2
+PB - SAGE Publications Inc
+N2 - Hormetic dose response occurs for many endpoints associated with exposures of biological organisms to environmental stressors. Cell-based U- or inverted U-shaped responses may derive from common processes involved in activation of adaptive responses required to protect cells from stressful environments. These adaptive pathways extend the region of cellular homeostasis and are protective against ultimate cell, organ, and system toxicity. However, the activation of stress responses carries a significant energetic cost to the cell, leading to alterations of a variety of basal cellular functions in adapted or stressed cells. This tradeoff of resources between the unstressed and adapted states may lead to U-or inverted U-shaped dose response curves for some precursor endpoints. We examine this general hypothesis with chlorine, a prototype oxidative stressor, using a combination of cellular studies with gene expression analysis of response pathways and with computational modeling of activation of control networks. Discrete cellular states are expected as a function of exposure concentration and duration. These cellular states include normal functioning state, adaptive and stressed states at mild to intermediate exposures, and overt toxicity in the presence of an overwhelming concentration of stressors. These transitions can be used to refine default risk assessment practices that do not currently accommodate adaptive responses.
+SN - 1559-3258
+M3  - doi: 10.2203/dose-response.07-028.Zhang
+UR  - https://doi-org.crai.referencistas.com/10.2203/dose-response.07-028.Zhang
+Y2  - 2024/10/01
+ER  - 
+
