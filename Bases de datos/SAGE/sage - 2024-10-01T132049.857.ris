@@ -1,0 +1,244 @@
+TY  - JOUR
+T1  - Meta-heuristic-based offloading task optimization in mobile edge computing
+AU  - Abbas, Aamir
+AU  - Raza, Ali
+AU  - Aadil, Farhan
+AU  - Maqsood, Muazzam
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2021/06/01
+N1  - doi: 10.1177/15501477211023021
+DO  - 10.1177/15501477211023021
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -15501477211023020
+VL - 17
+IS - 6
+PB - SAGE Publications
+N2 - With the recent advancements in communication technologies, the realization of computation-intensive applications like virtual/augmented reality, face recognition, and real-time video processing becomes possible at mobile devices. These applications require intensive computations for real-time decision-making and better user experience. However, mobile devices and Internet of things have limited energy and computational power. Executing such computationally intensive tasks on edge devices either leads to high computation latency or high energy consumption. Recently, mobile edge computing has been evolved and used for offloading these complex tasks. In mobile edge computing, Internet of things devices send their tasks to edge servers, which in turn perform fast computation. However, many Internet of things devices and edge server put an upper limit on concurrent task execution. Moreover, executing a very small size task (1 KB) over an edge server causes increased energy consumption due to communication. Therefore, it is required to have an optimal selection for tasks offloading such that the response time and energy consumption will become minimum. In this article, we proposed an optimal selection of offloading tasks using well-known metaheuristics, ant colony optimization algorithm, whale optimization algorithm, and Grey wolf optimization algorithm using variant design of these algorithms according to our problem through mathematical modeling. Executing multiple tasks at the server tends to provide high response time that leads to overloading and put additional latency at task computation. We also graphically represent the tradeoff between energy and delay that, how both parameters are inversely proportional to each other, using values from simulation. Results show that Grey wolf optimization outperforms the others in terms of optimizing energy consumption and execution latency while selected optimal set of offloading tasks.
+SN - 1550-1329
+M3  - doi: 10.1177/15501477211023021
+UR  - https://doi-org.crai.referencistas.com/10.1177/15501477211023021
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A lightweight deep learning approach for COVID-19 detection using X-ray images with edge federation
+AU  - Alvi, Sohaib Bin Khalid
+AU  - Nayyer, Muhammad Ziad
+AU  - Jamal, Muhammad Hasan
+AU  - Raza, Imran
+AU  - de la Torre Diez, Isabel
+AU  - Velasco, Carmen Lili Rodriguez
+AU  - Brenosa, Jose Manuel
+AU  - Ashraf, Imran
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20552076231203604
+DO  - 10.1177/20552076231203604
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076231203604
+VL - 9
+PB - SAGE Publications Ltd
+N2 - Objective This study aims to develop a lightweight convolutional neural network-based edge federated learning architecture for COVID-19 detection using X-ray images, aiming to minimize computational cost, latency, and bandwidth requirements while preserving patient privacy. Method The proposed method uses an edge federated learning architecture to optimize task allocation and execution. Unlike in traditional edge networks where requests from fixed nodes are handled by nearby edge devices or remote clouds, the proposed model uses an intelligent broker within the federation to assess member edge cloudlets’ parameters, such as resources and hop count, to make optimal decisions for task offloading. This approach enhances performance and privacy by placing tasks in closer proximity to the user. DenseNet is used for model training, with a depth of 60 and 357,482 parameters. This resource-aware distributed approach optimizes computing resource utilization within the edge-federated learning architecture. Results The experimental results demonstrate significant improvements in various performance metrics. The proposed method reduces training time by 53.1%, optimizes CPU and memory utilization by 17.5% and 33.6%, and maintains accurate COVID-19 detection capabilities without compromising the F1 score, demonstrating the efficiency and effectiveness of the lightweight convolutional neural network-based edge federated learning architecture. Conclusion Existing studies predominantly concentrate on either privacy and accuracy or load balancing and energy optimization, with limited emphasis on training time. The proposed approach offers a comprehensive performance-centric solution that simultaneously addresses privacy, load balancing, and energy optimization while reducing training time, providing a more holistic and balanced solution for optimal system performance.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076231203604
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076231203604
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Extended framework of Hamilton’s principle for single-degree-of-freedom nonlinear damping systems
+AU  - Kim, Jinkyu
+Y1  - 2020/10/01
+PY  - 2021
+DA  - 2021/09/01
+N1  - doi: 10.1177/1461348420961611
+DO  - 10.1177/1461348420961611
+T2  - Journal of Low Frequency Noise, Vibration and Active Control
+JF  - Journal of Low Frequency Noise, Vibration and Active Control
+SP  -1437
+EP - 1452
+VL - 40
+IS - 3
+PB - SAGE Publications Ltd STM
+N2 - The paper explores application of the variational formalism called extended framework of Hamilton’s principle to nonlinear damping systems. Single-degree-of-freedom systems with dominant source of nonlinearity from polynomial powers of the velocity are initially considered. Appropriate variational formulation is provided, and then the corresponding weak form is discretized to produce a novel computational method. The resulting low-order temporal finite element method utilizes non-iterative algorithm, and some examples are provided to verify its performance. The present temporal finite element method using small time step is equivalent to the adaptive Runge–Kutta–Fehlberg method with default error tolerances in MATLAB, and additional simulation shows its good convergence characteristics.
+SN - 1461-3484
+M3  - doi: 10.1177/1461348420961611
+UR  - https://doi-org.crai.referencistas.com/10.1177/1461348420961611
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Influence of magnetorheological lubricant behavior on the performance of annular recessed orifice compensated non-textured/textured thrust pad bearing
+AU  - Kumar, Narendra
+AU  - Sharma, Satish C.
+Y1  - 2021/10/06
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/13506501211048308
+DO  - 10.1177/13506501211048308
+T2  - Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology
+JF  - Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology
+SP  -1133
+EP - 1154
+VL - 236
+IS - 6
+PB - IMECHE
+N2 - Fluid film bearings operated with smart lubricants have been successfully used to enhance the lubricating performance. This article proposes a computational model to analyze the influence of magnetorheological lubricant on the performance of an annular recessed hybrid thrust bearing system. The governing modified Reynolds equation for circular thrust pad orifice compensated bearing is solved by finite element method. Further, for simulating the flow behavior of magnetorheological lubricant, a constitutive relation for the Bingham model Dave equation, has been used. The numerical results reveal that using magnetorheological lubricant improves the loading carrying capacity and damping coefficient of both annular and circular recess hybrid thrust bearings. Additionally, bearing lubricated with magnetorheological lubricant requires a lesser quantity of flow and hence less pumping power.
+SN - 1350-6501
+M3  - doi: 10.1177/13506501211048308
+UR  - https://doi-org.crai.referencistas.com/10.1177/13506501211048308
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A novel two-stage optimization method for beam–plate structure design
+AU  - Li, Kai
+AU  - Wang, Yunlong
+AU  - Lin, Yan
+AU  - Xu, Wei
+AU  - Liu, Manting
+Y1  - 2016/11/01
+PY  - 2016
+DA  - 2016/11/01
+N1  - doi: 10.1177/1687814016679567
+DO  - 10.1177/1687814016679567
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016679567
+VL - 8
+IS - 11
+PB - SAGE Publications
+N2 - In this article, a novel optimization method for beam–plate structure is proposed based on two optimization levels, including the topology optimization and the section optimization. First, the optimal topology of structure with fixed material and dimensions of design domain is obtained using bidirectional evolutionary structure optimization method, and then, the section optimization is made to produce final optimal solution based on response surface model. In order to deal with beam–plate structures, the traditional bidirectional evolutionary structure optimization method is improved using cubic box as the unit cell instead of solid unit to construct periodic lattice structure. To handle irregular structural element layout produced in bidirectional evolutionary structure optimization method, section conversion process is employed to smooth the edges of sections; in this way, the manufacturability of optimal solution will be significantly improved. To determine the section parameters, response surface method is used to perform the section optimization, and the structure mass is further reduced. One example of cantilever beam structure design is provided and discussed. The applied two-stage optimization procedure resulted in 86 iteration steps to obtain the optimal topology, and a further decrease in 2.65% mass on the basis of optimal topology, which shows that the proposed method has advantages on convergence rate and computational cost.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016679567
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016679567
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A methodology for semiautomatic generation of finite element models: Application to mechanical devices
+AU  - López, Jesús
+AU  - Artés, Mariano
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.1177/1687814015571042
+DO  - 10.1177/1687814015571042
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015571042
+VL - 7
+IS - 2
+PB - SAGE Publications
+N2 - In this work, a methodology to create parameterized finite element models is presented, particularly focusing on the development of suitable algorithms in order to generate models and meshes with high computational efficiency. The methodology is applied to the modeling of two common mechanical devices: an optical linear encoder and a gear transmission. This practical application constitutes a tough test to the methodology proposed, given the complexity and the large number of components that set up this high-precision measurement device and the singularity of the internal gears. The geometrical and mechanical particularities of the components lead to multidimensional modeling, seeking to ensure proper interaction between the different types of finite elements. Besides, modeling criteria to create components such as compression and torsion springs, sheet springs, bearings, or adhesive joints are also presented in the article. The last part of the work aims to validate the simulation results obtained with the methodology proposed with those derived from experimental tests through white noise base-driven vibration and hammer impact excitation modal analysis.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015571042
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015571042
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Human induced pluripotent stem cells technology in treatment resistant depression: novel strategies and opportunities to unravel ketamine’s fast-acting antidepressant mechanisms
+AU  - Marcatili, Matteo
+AU  - Sala, Carlo
+AU  - Dakanalis, Antonios
+AU  - Colmegna, Fabrizia
+AU  - D’Agostino, Armando
+AU  - Gambini, Orsola
+AU  - Dell’Osso, Bernardo
+AU  - Benatti, Beatrice
+AU  - Conti, Luciano
+AU  - Clerici, Massimo
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/2045125320968331
+DO  - 10.1177/2045125320968331
+T2  - Therapeutic Advances in Psychopharmacology
+JF  - Therapeutic Advances in Psychopharmacology
+SP  -2045125320968331
+VL - 10
+PB - SAGE Publications Ltd STM
+N2 - Approximately 30% of Major Depressive Disorder (MDD) patients develop treatment-resistant depression (TRD). Among the different causes that make TRD so challenging in both clinical and research contexts, major roles are played by the inadequate understanding of MDD pathophysiology and the limitations of current pharmacological treatments. Nevertheless, the field of psychiatry is facing exciting times. Combined with recent advances in genome editing techniques, human induced pluripotent stem cell (hiPSC) technology is offering novel and unique opportunities in both disease modelling and drug discovery. This technology has allowed innovative disease-relevant patient-specific in vitro models to be set up for many psychiatric disorders. Such models hold great potential in enhancing our understanding of MDD pathophysiology and overcoming many of the well-known practical limitations inherent to animal and post-mortem models. Moreover, the field is approaching the advent of (es)ketamine, a glutamate N-methyl-d-aspartate (NMDA) receptor antagonist, claimed as one of the first and exemplary agents with rapid (in hours) antidepressant effects, even in TRD patients. Although ketamine seems poised to transform the treatment of depression, its exact mechanisms of action are still unclear but greatly demanded, as the resulting knowledge may provide a model to understand the mechanisms behind rapid-acting antidepressants, which may lead to the discovery of novel compounds for the treatment of depression. After reviewing insights into ketamine’s mechanisms of action (derived from preclinical animal studies) and depicting the current state of the art of hiPSC technology below, we will consider the implementation of an hiPSC technology-based TRD model for the study of ketamine’s fast acting antidepressant mechanisms of action.
+SN - 2045-1253
+M3  - doi: 10.1177/2045125320968331
+UR  - https://doi-org.crai.referencistas.com/10.1177/2045125320968331
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Predictive Dynamics of Happiness and Well-Being
+AU  - Miller, Mark
+AU  - Kiverstein, Julian
+AU  - Rietveld, Erik
+Y1  - 2021/12/29
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/17540739211063851
+DO  - 10.1177/17540739211063851
+T2  - Emotion Review
+JF  - Emotion Review
+SP  -15
+EP - 30
+VL - 14
+IS - 1
+PB - SAGE Publications
+N2 - We offer an account of mental health and well-being using the predictive processing framework (PPF). According to this framework, the difference between mental health and psychopathology can be located in the goodness of the predictive model as a regulator of action. What is crucial for avoiding the rigid patterns of thinking, feeling and acting associated with psychopathology is the regulation of action based on the valence of affective states. In PPF, valence is modelled as error dynamics—the change in prediction errors over time. Our aim in this paper is to show how error dynamics can account for both momentary happiness and longer term well-being. What will emerge is a new neurocomputational framework for making sense of human flourishing.
+SN - 1754-0739
+M3  - doi: 10.1177/17540739211063851
+UR  - https://doi-org.crai.referencistas.com/10.1177/17540739211063851
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - “Big data see through you”: Sexual identifications in an age of algorithmic recommendation
+AU  - Wang, Shuaishuai
+AU  - Spronk, Rachel
+Y1  - 2023/07/01
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1177/20539517231215358
+DO  - 10.1177/20539517231215358
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517231215360
+VL - 10
+IS - 2
+PB - SAGE Publications Ltd
+N2 - On Douyin, China’s domestic version of TikTok, straight users are being recommended queer content, and videos created by straight men are being recommended to queer viewers. As Douyin recommends videos based on users’ online activities (e.g., liking, sharing, or spending time watching a video) and networks (e.g., connections made on the platform), sexuality comes to be algorithmically interpreted and defined. This process differs from an understanding of gender and sexuality as more or less fixed classifications that are the result of what people register when entering a platform concerning their gender and sexual identifications. This article analyzes viewers’ and creators’ experiences and reflections on the algorithmic grouping of sexual orientation and erotic curiosity through the relational lens of configurations. Using two years of online observational data and in-depth interviews with 18 Douyin users, both straight and same-sex orientated, we found that a language-centered, semiotic approach alone cannot assist in capturing the reconfiguration of sexual identifications presently occurring in China, and most likely elsewhere. Sexual identifications are the result of a relational process in which desires (regardless of sexual orientation) and intimacy, content creation and consumption, platform vernaculars and affordances, and data and algorithms converge and clash. This process allows for an erotic curiosity that has not yet been named or normalized in language systems and therefore reconfigures how sexual identity or orientation come to be understood in relation to the ever-increasing presence of computational power.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517231215358
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517231215358
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Resource Management Based on Security Satisfaction Ratio with Fairness-Aware in Two-Way Relay Networks
+AU  - Zhao, Jun
+AU  - Lu, Zhaoming
+AU  - Wen, Xiangming
+AU  - Zhang, Haijun
+AU  - He, Shenghua
+AU  - Jing, Wenpeng
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - doi: 10.1155/2015/819195
+DO  - 10.1155/2015/819195
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -819195
+VL - 11
+IS - 7
+PB - SAGE Publications
+N2 - Information security has been received more and more attention for next-generation wireless sensor networks. In this paper, we consider the problem of resource management based on security satisfaction ratio with fairness-aware in two-way relay networks. Multiple source nodes exchange information with the help of relay node in the presence of an eavesdropper, and diverse security requirements are taken into account with coexistence of security users and normal users. The joint problem of power allocation, and subchannel pairing and allocation aims to maximize the security satisfaction ratio for legitimate users subject to limited power and subchannel constraints. We model the security resource management problem as a mixed integer programming problem, which is decomposed into three subproblems, distributed power allocation, distributed subchannel allocation, and distributed subchannel pairing, and then solved it in constraint particle swarm optimization (CPSO), binary CPSO (B_CPSO), and classic Hungarian algorithm (CHA) method, respectively. Moreover, a suboptimal subchannel pairing algorithm is proposed to reduce the computational complexity compared with the CHA. Simulations are conducted to evaluate the effectiveness of the proposed algorithms.
+SN - 1550-1329
+M3  - doi: 10.1155/2015/819195
+UR  - https://doi-org.crai.referencistas.com/10.1155/2015/819195
+Y2  - 2024/10/01
+ER  - 
+

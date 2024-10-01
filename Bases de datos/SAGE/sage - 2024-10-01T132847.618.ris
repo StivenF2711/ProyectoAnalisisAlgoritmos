@@ -1,0 +1,256 @@
+TY  - JOUR
+T1  - Population size influence on the energy consumption of genetic programming
+AU  - Díaz-Álvarez, Josefa
+AU  - Castillo, Pedro A.
+AU  - Fernández de Vega, Francisco
+AU  - Chávez, Francisco
+AU  - Alvarado, Jorge
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/00202940211064471
+DO  - 10.1177/00202940211064471
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -102
+EP - 115
+VL - 55
+IS - 1–2
+PB - SAGE Publications Ltd
+N2 - Evolutionary Algorithms (EAs) are routinely applied to solve a large set of optimization problems. Traditionally, their performance in solving those problems is analyzed using the fitness quality and computing time, and the effect of evolutionary operators on both metrics is routinely used to compare different versions of EAs. Nevertheless, scientists face nowadays the challenge of considering the energy efficiency in addition to computational time, which requires studying the energy consumption of algorithms. This paper discusses the interest of introducing power consumption as a new metric to analyze the performance of standard genetic programming (GP). Two well-studied benchmark problems are addressed on three different computing platforms, and two different approaches to measure the power consumption have been tested. Analyzing the population size, the results demonstrates its influence on the energy consumed: a non-linear relationship was found between size and energy required to complete an experiment. This analysis was extended to the cache memory and results show an exponential growth in the number of cache misses as the population size increases, which affects the energy consumed. This study shows that not only computing time or solution quality must be analyzed, but also the energy required to find a solution. Summarizing, this paper shows that when GP is applied, specific considerations on how to select parameter values must be taken into account if the goal is to obtain solutions while searching for energy efficiency. Although the study has been performed using GP, we foresee that it could be similarly extended to EAs.
+SN - 0020-2940
+M3  - doi: 10.1177/00202940211064471
+UR  - https://doi-org.crai.referencistas.com/10.1177/00202940211064471
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Robot Grasp Learning by Demonstration without Predefined Rules
+AU  - Fernández, César
+AU  - Vicente, María Asunción
+AU  - Ñeco, Ramón Pedro
+AU  - Puerto, Rafael
+Y1  - 2011/12/01
+PY  - 2011
+DA  - 2011/12/01
+N1  - doi: 10.5772/50908
+DO  - 10.5772/50908
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -75
+VL - 8
+IS - 6
+PB - SAGE Publications
+N2 - A learning-based approach to autonomous robot grasping is presented. Pattern recognition techniques are used to measure the similarity between a set of previously stored example grasps and all the possible candidate grasps for a new object. Two sets of features are defined in order to characterize grasps: point attributes describe the surroundings of a contact point; point-set attributes describe the relationship between the set of n contact points (assuming an n-fingered robot gripper is used). In the experiments performed, the nearest neighbour classifier outperforms other approaches like multilayer perceptrons, radial basis functions or decision trees, in terms of classification accuracy, while computational load is not excessive for a real time application (a grasp is fully synthesized in 0.2 seconds). The results obtained on a synthetic database show that the proposed system is able to imitate the grasping behaviour of the user (e.g. the system learns to grasp a mug by its handle). All the code has been made available for testing purposes.
+SN - 1729-8806
+M3  - doi: 10.5772/50908
+UR  - https://doi-org.crai.referencistas.com/10.5772/50908
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Unbiased Phenotype Detection Using Negative Controls
+AU  - Janosch, Antje
+AU  - Kaffka, Carolin
+AU  - Bickle, Marc
+Y1  - 2019/01/07
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/2472555218818053
+DO  - 10.1177/2472555218818053
+T2  - SLAS DISCOVERY: Advancing the Science of Drug Discovery
+JF  - SLAS DISCOVERY: Advancing the Science of Drug Discovery
+SP  -234
+EP - 241
+VL - 24
+IS - 3
+PB - SAGE Publications Inc STM
+N2 - Phenotypic screens using automated microscopy allow comprehensive measurement of the effects of compounds on cells due to the number of markers that can be scored and the richness of the parameters that can be extracted. The high dimensionality of the data is both a rich source of information and a source of noise that might hide information. Many methods have been proposed to deal with this complex data in order to reduce the complexity and identify interesting phenotypes. Nevertheless, the majority of laboratories still only use one or two parameters in their analysis, likely due to the computational challenges of carrying out a more sophisticated analysis. Here, we present a novel method that allows discovering new, previously unknown phenotypes based on negative controls only. The method is compared with L1-norm regularization, a standard method to obtain a sparse matrix. The analytical pipeline is implemented in the open-source software KNIME, allowing the implementation of the method in many laboratories, even ones without advanced computing knowledge.
+SN - 2472-5552
+M3  - doi: 10.1177/2472555218818053
+UR  - https://doi-org.crai.referencistas.com/10.1177/2472555218818053
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Reduced order modeling of hybrid soft-rigid robots using global, local, and state-dependent strain parameterization
+AU  - Mathew, Anup Teejo
+AU  - Feliu-Talegon, Daniel
+AU  - Alkayas, Abdulaziz Y.
+AU  - Boyer, Frederic
+AU  - Renda, Federico
+Y1  - 2024/07/25
+PY  - 2024
+N1  - doi: 10.1177/02783649241262333
+DO  - 10.1177/02783649241262333
+T2  - The International Journal of Robotics Research
+JF  - The International Journal of Robotics Research
+SP  -02783649241262333
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - The need for fast and accurate analysis of soft robots calls for reduced order models (ROM). Among these, the relative reduction of strain-based ROMs follows the discretization of the strain to capture the configurations of the robot. Based on the geometrically exact variable strain parametrization of the Cosserat rod, we developed a ROM that necessitates a minimal number of degrees of freedom to represent the state of the robot: the Geometric Variable Strain (GVS) model. This model allows the static and dynamic analysis of open-, branched-, or closed-chain soft-rigid hybrid robots, all under the same mathematical framework. This paper presents for the first time the complete GVS modeling framework for a generic hybrid soft-rigid robot. Based on the Magnus expansion of the variable strain field, we developed an efficient recursive algorithm for computing the Lagrangian dynamics of the system. To discretize the soft link, we introduce state- and time-dependent basis, which is the most general form of strain basis. We classify the independent bases into global and local bases. We propose “FEM-like” local strain bases with nodal values as their generalized coordinates. Finally, using four real-world applications, we illustrate the potential of the model developed. We think that the soft robotics community will use the comprehensive framework presented in this work to analyze a wide range of specific robotic systems.
+SN - 0278-3649
+M3  - doi: 10.1177/02783649241262333
+UR  - https://doi-org.crai.referencistas.com/10.1177/02783649241262333
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effect of Electrode Distance in Grid Electrode: Numerical Models and In Vitro Tests
+AU  - AU  - Ongaro, Alessia
+AU  - Campana, Luca Giovanni
+AU  - De Mattei, Monica
+AU  - Di Barba, Paolo
+AU  - Dughiero, Fabrizio
+AU  - Forzan, Michele
+AU  - Mognaschi, Maria Evelina
+AU  - Pellati, Agnese
+AU  - Rossi, Carlo Riccardo
+AU  - Bernardello, Clara
+et al.
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1533033818764498
+DO  - 10.1177/1533033818764498
+T2  - Technology in Cancer Research & Treatment
+JF  - Technology in Cancer Research & Treatment
+JO  - Technol Cancer Res Treat
+SP  -1533033818764498
+VL - 17
+PB - SAGE Publications Inc
+N2 - Electrochemotherapy is an emerging local treatment for the management of superficial tumors and, among these, also chest wall recurrences from breast cancer. Generally, the treatment of this peculiar type of tumor requires the coverage of large skin areas. In these cases, electrochemotherapy treatment by means of standard small size needle electrodes (an array of 0.73 cm spaced needles, which covers an area of 1.5 cm2) is time-consuming and can allow an inhomogeneous coverage of the target area. We have previously designed grid devices suitable for treating an area ranging from 12 to 200 cm2. In this study, we propose different approaches to study advantages and drawbacks of a grid device with needles positioned 2 cm apart. The described approach includes a numerical evaluation to estimate electric field intensity, followed by an experimental quantification of electroporation on a cell culture. The electric field generated in a conductive medium has been studied by means of 3-dimensional numerical models with varying needle pair distance from 1 to 2 cm. In particular, the electric field evaluation shows that the electric field intensity with varying needle distance is comparable in the area in the middle of the 2 electrodes. Differently, near needles, the electric field intensity increases with the increasing electrode distance and supply voltage. The computational results have been correlated with experimental ones obtained in vitro on cell culture. In particular, electroporation effect has been assessed on human breast cancer cell line MCF7, cultured in monolayer. The use of 2-cm distant needles, supplied by 2000 V, produced an electroporation effect in the whole area comprised between the electrodes. Areas of cell culture where reversible and irreversible electroporation occurred were identified under microscope by using fluorescent dyes. The coupling of computation and experimental results could be helpful to evaluate the effect of the needle distance on the electric field intensity in cell cultures in terms of reversible or irreversible electroporation.
+SN - 1533-0346
+M3  - doi: 10.1177/1533033818764498
+UR  - https://doi-org.crai.referencistas.com/10.1177/1533033818764498
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Investigation of nozzle flow in high altitude test facility
+AU  - Prashana ANL, Kavin
+AU  - Sundararaj, Aldin Justin
+AU  - Khan, Mukit Azad
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1177/16878140211047724
+DO  - 10.1177/16878140211047724
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878140211047724
+VL - 14
+IS - 5
+PB - SAGE Publications
+N2 - A high altitude test facility was developed for the experimental studies on nozzles for various levels of vacuum. The current study is focused on the performance of the nozzle under various altitude condition and to characterized the high altitude test facility. A supersonic nozzle designed for Mach 2.5 is used for the study. Compressed air is taped from the high pressure plenum having a pressure of 20 bar and is regulated and expanded through the nozzle. The inlet pressures for the study is varied from 4.5 to 10 bar. The nozzle is within the enclosure which is evacuated to 0.7–0.02 bar. Schlieren is used to view the flow condition at the end of the nozzle. A nozzle for 2.5 Mach is designed and tested in HAT facility. The nozzle design is validated with the CFD for various NPR. The high altitude test facility is characterized for various NPR and is found to be optimum flow at 14 NPR for 33 s at an inlet pressure of 4.5.
+SN - 1687-8132
+M3  - doi: 10.1177/16878140211047724
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878140211047724
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Rapid Vector-Based Peak Fitting and Resolution Enhancement for Correlation Analyses of Raman Hyperspectra
+AU  - Schulze, H. Georg
+AU  - Rangan, Shreyas
+AU  - Vardaki, Martha Z.
+AU  - Blades, Michael W.
+AU  - Turner, Robin F.B.
+AU  - Piret, James M.
+Y1  - 2023/05/30
+PY  - 2023
+DA  - 2023/08/01
+N1  - doi: 10.1177/00037028231176805
+DO  - 10.1177/00037028231176805
+T2  - Applied Spectroscopy
+JF  - Applied Spectroscopy
+JO  - Appl Spectrosc
+SP  -957
+EP - 969
+VL - 77
+IS - 8
+PB - SAGE Publications Ltd STM
+N2 - Spectroscopic peak parameters are important since they provide information about the analyte under study. Besides obtaining these parameters, peak fitting also resolves overlapped peaks. Thus, the obtained parameters should permit the construction of a higher-resolution version of the original spectrum. However, peak fitting is not an easy task due to computational reasons and because the true nature of the analyte is often unknown. These difficulties are major impediments when large hyperspectral data sets need to be processed rapidly, such as for manufacturing process control. We have developed a novel and relatively fast two-part algorithm to perform peak fitting and resolution enhancement on such data sets. In the first part of the algorithm, estimates of the total number of bands and their parameters were obtained from a representative spectrum in the data set, using a combination of techniques. Starting with these parameter estimates, all the spectra were then iteratively and rapidly fitted with Gaussian bands, exploiting intrinsic features of the Gaussian distribution with vector operations. The best fits for each spectrum were retained. By reducing the obtained bandwidths and commensurately increasing their amplitudes, high-resolution spectra were constructed that greatly improved correlation-based analyses. We tested the performance of the algorithm on synthetic spectra to confirm that this method could recover the ground truth correlations between highly overlapped peaks. To assess effective peak resolution, the method was applied to low-resolution spectra of glucose and compared to results from high-resolution spectra. We then processed a larger spectral data set from mammalian cells, fixed with methanol or air drying, to demonstrate the resolution enhancement of the algorithm on complex spectra and the effects of resolution-enhanced spectra on two-dimensional correlation spectroscopy and principal component analyses. The results indicated that the algorithm would allow users to obtain high-resolution spectra relatively fast and permit the recovery of important aspects of the data’s intrinsic correlation structure.
+SN - 0003-7028
+M3  - doi: 10.1177/00037028231176805
+UR  - https://doi-org.crai.referencistas.com/10.1177/00037028231176805
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - On the Flow Instabilities and Turbulent Kinetic Energy of Large-Scale Francis Hydroturbine Model at Low Flow Rate Conditions
+AU  - Su, Wen-Tao
+AU  - Li, Xiao-Bin
+AU  - Li, Feng-Chen
+AU  - Wei, Xian-Zhu
+AU  - Liu, Jin-Tao
+AU  - Wu, Yu-Lin
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/786891
+DO  - 10.1155/2014/786891
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -786891
+VL - 6
+PB - SAGE Publications
+N2 - This paper is to make a better understanding of the flow instabilities and turbulent kinetic energy (TKE) features in a large-scale Francis hydroturbine model. The flow instability with aspect of pressure oscillation and pressure-velocity correlation was investigated using large eddy simulation (LES) method along with two-phase cavitation model. The numerical simulation procedures were validated by the existing experimental result, and further the TKE evolution was analyzed in a curvilinear coordinates. By monitoring the fluctuating pressure and velocities in the vanes’ wake region, the local pressure and velocity variations were proven to have a phase difference approaching π/2, with a reasonable cross-correlation coefficient. Also the simultaneous evolution of pressure fluctuations at the opposite locations possessed a clear phase difference of π, indicating the stresses variations on the runner induced by pressure oscillation were in an odd number of nodal diameter. Considering the TKE generation, the streamwise velocity component us′2 contributed the most to the TKE, and thus the normal stress production term and shear stress production term imparted more instability to the flow than other production terms.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/786891
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/786891
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Server consolidation: A technique to enhance cloud data center power efficiency and overall cost of ownership
+AU  - Uddin, Mueen
+AU  - Hamdi, Mohammed
+AU  - Alghamdi, Abdullah
+AU  - Alrizq, Mesfer
+AU  - Memon, Mohammad Sulleman
+AU  - Abdelhaq, Maha
+AU  - Alsaqour, Raed
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1177/1550147721997218
+DO  - 10.1177/1550147721997218
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147721997218
+VL - 17
+IS - 3
+PB - SAGE Publications
+N2 - Cloud computing is a well-known technology that provides flexible, efficient, and cost-effective information technology solutions for multinationals to offer improved and enhanced quality of business services to end-users. The cloud computing paradigm is instigated from grid and parallel computing models as it uses virtualization, server consolidation, utility computing, and other computing technologies and models for providing better information technology solutions for large-scale computational data centers. The recent intensifying computational demands from multinationals enterprises have motivated the magnification for large complicated cloud data centers to handle business, monetary, Internet, and commercial applications of different enterprises. A cloud data center encompasses thousands of millions of physical server machines arranged in racks along with network, storage, and other equipment that entails an extensive amount of power to process different processes and amenities required by business firms to run their business applications. This data center infrastructure leads to different challenges like enormous power consumption, underutilization of installed equipment especially physical server machines, CO2 emission causing global warming, and so on. In this article, we highlight the data center issues in the context of Pakistan where the data center industry is facing huge power deficits and shortcomings to fulfill the power demands to provide data and operational services to business enterprises. The research investigates these challenges and provides solutions to reduce the number of installed physical server machines and their related device equipment. In this article, we proposed server consolidation technique to increase the utilization of already existing server machines and their workloads by migrating them to virtual server machines to implement green energy-efficient cloud data centers. To achieve this objective, we also introduced a novel Virtualized Task Scheduling Algorithm to manage and properly distribute the physical server machine workloads onto virtual server machines. The results are generated from a case study performed in Pakistan where the proposed server consolidation technique and virtualized task scheduling algorithm are applied on a tier-level data center. The results obtained from the case study demonstrate that there are annual power savings of 23,600 W and overall cost savings of US$78,362. The results also highlight that the utilization ratio of already existing physical server machines has increased to 30% compared to 10%, whereas the number of server machines has reduced to 50% contributing enormously toward huge power savings.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147721997218
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147721997218
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Use of functional respiratory imaging to characterize the effect of inhalation profile and particle size on lung deposition of inhaled corticosteroid/long-acting β2-agonists delivered via a pressurized metered-dose inhaler
+AU  - Van Holsbeke, Cedric
+AU  - De Backer, Jan
+AU  - Vos, Wim
+AU  - Marshall, Jonathan
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1753466618760948
+DO  - 10.1177/1753466618760948
+T2  - Therapeutic Advances in Respiratory Disease
+JF  - Therapeutic Advances in Respiratory Disease
+JO  - Ther Adv Respir Dis
+SP  -1753466618760948
+VL - 12
+PB - SAGE Publications Ltd STM
+N2 - Background: Functional respiratory imaging (FRI) uses three-dimensional models of human lungs and computational fluid dynamics to simulate functional changes within airways and predict the deposition of inhaled drugs. This study used FRI to model the effects of different patient inhalation and drug formulation factors on lung deposition of an inhaled corticosteroid/long-acting β2-agonist (ICS/LABA) combination, administered by a pressurized metered-dose inhaler. Methods: Three-dimensional models of the lungs of six patients with asthma (mean forced expiratory volume in 1 s, 83%), treated with an ICS/LABA, were included. FRI modelling was used to simulate (1) the effects on lung deposition of inhalation duration and particle size [fine particle fraction (FPF), proportion of particles <5 µm; and mass median aerodynamic diameter (MMAD), average size of inhalable particles]; (2) deposition of fluticasone propionate/formoterol (FP/FORM) 125/5 µg; and (3) how inhalation profiles and flow rates affected FP/FORM deposition. Results: Total lung depositions (TLDs) following 1-, 3- and 5-s inhalations were 22.8%, 36.1% and 41.6% (metered dose), respectively, and central-to-peripheral deposition (C:P) ratios were 1.81, 0.86 and 0.61, respectively. TLD increased with increasing FPF, from ~8% at 10% FPF to ~36% at 40% FPF (metered dose); by contrast, MMAD had little effect on TLD, which was similar across MMADs (1.5–4.5 µm) at each FPF. FP/FORM deposited throughout central and peripheral airways with gradual (sinusoidal) and sharp (rapid) inhalations. TLD ranged from 35.8 to 44.0% (metered dose) for gradual and sharp inhalations at 30 and 60 L/min mean flow rates. Conclusions: These data provide important insights into the potential effects of inhalation characteristics (inhalation profile and duration) and aerosol formulation (FPF) on lung deposition of inhaled therapies. FRI thus represents a useful alternative to scintigraphy techniques. Future FRI studies will further our understanding of the deposition of inhaled drugs and help improve the management of asthma.
+SN - 1753-4666
+M3  - doi: 10.1177/1753466618760948
+UR  - https://doi-org.crai.referencistas.com/10.1177/1753466618760948
+Y2  - 2024/10/01
+ER  - 
+

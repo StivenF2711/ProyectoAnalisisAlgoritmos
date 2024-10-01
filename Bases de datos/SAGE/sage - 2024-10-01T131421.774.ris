@@ -1,0 +1,242 @@
+TY  - JOUR
+T1  - Predicting Self-Interacting Proteins Using a Recurrent Neural Network and Protein Evolutionary Information
+AU  - An, Ji-Yong
+AU  - Zhou, Yong
+AU  - Yan, Zi-Ji
+AU  - Zhao, Yu-Jun
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176934320924674
+DO  - 10.1177/1176934320924674
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934320924674
+VL - 16
+PB - SAGE Publications Ltd STM
+N2 - Self-interacting proteins (SIPs) play crucial roles in biological activities of organisms. Many high-throughput methods can be used to identify SIPs. However, these methods are both time-consuming and expensive. How to develop effective computational approaches for identifying SIPs is a challenging task. In the article, we present a novel computational method called RRN-SIFT, which combines the recurrent neural network (RNN) with scale invariant feature transform (SIFT) to predict SIPs based on protein evolutionary information. The main advantage of the proposed RNN-SIFT model is that it uses SIFT for extracting key feature by exploring the evolutionary information embedded in Position-Specific Iterated BLAST–constructed position-specific scoring matrix and employs an RNN classifier to perform classification based on extracted features. Extensive experiments show that the RRN-SIFT obtained average accuracy of 94.34% and 97.12% on the yeast and human dataset, respectively. We also compared our performance with the back propagation neural network (BPNN), the state-of-the-art support vector machine (SVM), and other existing methods. By comparing with experimental results, the performance of RNN-SIFT is significantly better than that of the BPNN, SVM, and other previous methods in the domain. Therefore, we conclude that the proposed RNN-SIFT model is a useful tool for predicting SIPs, as well to solve other bioinformatics tasks. To facilitate widely studies and encourage future proteomics research, a freely available web server called RNN-SIFT-SIPs was developed at http://219.219.62.123:8888/RNNSIFT/ including the source code and the SIP datasets.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934320924674
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934320924674
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analysing Trust Transitivity and the Effects of Unknown Dependence
+AU  - Bhuiyan, Touhid
+AU  - Josang, Audun
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.5772/7263
+DO  - 10.5772/7263
+T2  - International Journal of Engineering Business Management
+JF  - International Journal of Engineering Business Management
+SP  -3
+VL - 2
+PB - SAGE Publications Ltd STM
+N2 - Trust can be used to improve online automated recommendation within a given domain. Trust transitivity is used to make it successful. But trust transitivity has different interpretations. Trust and trust transitivity; both are the human mental phenomenon and for this reason, there is no such thing as objective transitivity. Trust transitivity and trust fusion both are important elements in computational trust. This paper analyses the parameter dependence problem in trust transitivity and proposes some definitions considering the effects of base rate. In addition, it also proposes belief functions based on subjective logic to analyse trust transitivity of three specified cases with sensitive and insensitive based rate. Then it presents a quantitative analysis of the effects of unknown dependence problem in an interconnected network environment; such Internet.
+SN - 1847-9790
+M3  - doi: 10.5772/7263
+UR  - https://doi-org.crai.referencistas.com/10.5772/7263
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Mixture Model and a Hidden Markov Model to Simultaneously Detect Recombination Breakpoints and Reconstruct phylogenies
+AU  - Boussau, Bastien
+AU  - Guéguen, Laurent
+AU  - Gouy, Manolo
+Y1  - 2009/01/01
+PY  - 2009
+DA  - 2009/01/01
+N1  - doi: 10.4137/EBO.S2242
+DO  - 10.4137/EBO.S2242
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S2242
+VL - 5
+PB - SAGE Publications Ltd STM
+N2 - Homologous recombination is a pervasive biological process that affects sequences in all living organisms and viruses. In the presence of recombination, the evolutionary history of an alignment of homologous sequences cannot be properly depicted by a single bifurcating tree: some sites have evolved along a specific phylogenetic tree, others have followed another path. Methods available to analyse recombination in sequences usually involve an analysis of the alignment through sliding-windows, or are particularly demanding in computational resources, and are often limited to nucleotide sequences. In this article, we propose and implement a Mixture Model on trees and a phylogenetic Hidden Markov Model to reveal recombination breakpoints while searching for the various evolutionary histories that are present in an alignment known to have undergone homologous recombination. These models are sufficiently efficient to be applied to dozens of sequences on a single desktop computer, and can handle equivalently nucleotide or protein sequences. We estimate their accuracy on simulated sequences and test them on real data.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S2242
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S2242
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Mechanical mechanism and removal effect of efficient vortexing cuttings removal tool
+AU  - Chen, Feng
+AU  - Liu, Zhihu
+AU  - Huo, Yonghao
+AU  - Liu, Ya
+AU  - Di, Qinfeng
+AU  - Wang, Wenchang
+Y1  - 2022/12/01
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1177/16878132221143641
+DO  - 10.1177/16878132221143641
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878132221143640
+VL - 14
+IS - 12
+PB - SAGE Publications
+N2 - In the drilling process of horizontal and highly deviated well sections, cuttings are deposited on the lower side of annulus under the action of gravity during its transport, which affects the normal drilling operation. A variety of cuttings removal tools have emerged and achieved good results, but they are only effective when the drill string is rotating, while it is difficult to ensure the removal effect of cuttings in sliding drilling. In the drilling process of directional well and horizontal well, rotary drilling is sometimes difficult to meet the requirements of wellbore control, and sliding drilling is often used at this time. Therefore, there is an urgent need for a tool that can effectively remove cuttings in sliding drilling. In the present work, an efficient vortexing cuttings removal tool (VCRT) has been developed and the Computational Fluid Dynamics (CFD) simulation technology was used to study the cuttings removal mechanism of VCRT. The cuttings removal effect under the action of VCRT was compared with that of the conventional cuttings removal tool (CCRT) and the conventional drill pipe. The results show that VCRT has good cuttings removal effect in both sliding and rotary drilling conditions. The average cuttings volume fraction under the action of VCRT during sliding drilling is 59% lower than that of the conventional drill pipe, and 26% lower than that of CCRT. The average cuttings volume fraction under the action of VCRT during rotary drilling is 78% lower than that of the conventional drill pipe, the removal efficiency is similar to CCRT, but VCRT can send more cuttings into the annulus. The research reveals the mechanical mechanism of VCRT which provides a scientific basis for the cuttings removal mechanism of VCRT.
+SN - 1687-8132
+M3  - doi: 10.1177/16878132221143641
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878132221143641
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of four machine learning models for signal detection
+AU  - Dauner, Daniel G.
+AU  - Leal, Eleazar
+AU  - Adam, Terrence J.
+AU  - Zhang, Rui
+AU  - Farley, Joel F.
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20420986231219472
+DO  - 10.1177/20420986231219472
+T2  - Therapeutic Advances in Drug Safety
+JF  - Therapeutic Advances in Drug Safety
+SP  -20420986231219470
+VL - 14
+PB - SAGE Publications
+N2 - Background: Logistic regression-based signal detection algorithms have benefits over disproportionality analysis due to their ability to handle potential confounders and masking factors. Feature exploration and developing alternative machine learning algorithms can further strengthen signal detection. Objectives: Our objective was to compare the signal detection performance of logistic regression, gradient-boosted trees, random forest and support vector machine models utilizing Food and Drug Administration adverse event reporting system data. Design: Cross-sectional study. Methods: The quarterly data extract files from 1 October 2017 through 31 December 2020 were downloaded. Due to an imbalanced outcome, two training sets were used: one stratified on the outcome variable and another using Synthetic Minority Oversampling Technique (SMOTE). A crude model and a model with tuned hyperparameters were developed for each algorithm. Model performance was compared against a reference set using accuracy, precision, F1 score, recall, the receiver operating characteristic area under the curve (ROCAUC), and the precision-recall curve area under the curve (PRCAUC). Results: Models trained on the balanced training set had higher accuracy, F1 score and recall compared to models trained on the SMOTE training set. When using the balanced training set, logistic regression, gradient-boosted trees, random forest and support vector machine models obtained similar performance evaluation metrics. The gradient-boosted trees hyperparameter tuned model had the highest ROCAUC (0.646) and the random forest crude model had the highest PRCAUC (0.839) when using the balanced training set. Conclusion: All models trained on the balanced training set performed similarly. Logistic regression models had higher accuracy, precision and recall. Logistic regression, random forest and gradient-boosted trees hyperparameter tuned models had a PRCAUC ⩾ 0.8. All models had an ROCAUC ⩾ 0.5. Including both disproportionality analysis results and additional case report information in models resulted in higher performance evaluation metrics than disproportionality analysis alone.
+SN - 2042-0986
+M3  - doi: 10.1177/20420986231219472
+UR  - https://doi-org.crai.referencistas.com/10.1177/20420986231219472
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Argumentative explanations for pattern-based text classifiers
+AU  - Lertvittayakumjorn, Piyawat
+AU  - Toni, Francesca
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.3233/AAC-220004
+DO  - 10.3233/AAC-220004
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -163
+EP - 234
+VL - 14
+IS - 2
+PB - SAGE Publications
+N2 - Recent works in Explainable AI mostly address the transparency issue of black-box models or create explanations for any kind of models (i.e., they are model-agnostic), while leaving explanations of interpretable models largely underexplored. In this paper, we fill this gap by focusing on explanations for a specific interpretable model, namely pattern-based logistic regression (PLR) for binary text classification. We do so because, albeit interpretable, PLR is challenging when it comes to explanations. In particular, we found that a standard way to extract explanations from this model does not consider relations among the features, making the explanations hardly plausible to humans. Hence, we propose AXPLR, a novel explanation method using (forms of) computational argumentation to generate explanations (for outputs computed by PLR) which unearth model agreements and disagreements among the features. Specifically, we use computational argumentation as follows: we see features (patterns) in PLR as arguments in a form of quantified bipolar argumentation frameworks (QBAFs) and extract attacks and supports between arguments based on specificity of the arguments; we understand logistic regression as a gradual semantics for these QBAFs, used to determine the arguments’ dialectic strength; and we study standard properties of gradual semantics for QBAFs in the context of our argumentative re-interpretation of PLR, sanctioning its suitability for explanatory purposes. We then show how to extract intuitive explanations (for outputs computed by PLR) from the constructed QBAFs. Finally, we conduct an empirical evaluation and two experiments in the context of human-AI collaboration to demonstrate the advantages of our resulting AXPLR method.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-220004
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-220004
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - African Ancestry Individuals with Higher Educational Attainment Are Resilient to Alzheimer’s Disease Measured by pTau181
+AU  - AU  - Rajabli, Farid
+AU  - Seixas, Azizi A.
+AU  - Akgun, Bilcag
+AU  - Adams, Larry D.
+AU  - Inciute, Jovita
+AU  - Hamilton, Kara L.
+AU  - Whithead, Patrice G.
+AU  - Konidari, Ioanna
+AU  - Gu, Tianjie
+AU  - Arvizu, Jamie
+et al.
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.3233/JAD-231116
+DO  - 10.3233/JAD-231116
+T2  - Journal of Alzheimer’s Disease
+JF  - Journal of Alzheimer’s Disease
+SP  -221
+EP - 229
+VL - 98
+IS - 1
+PB - SAGE Publications
+N2 - Background: Cognitive and functional abilities in individuals with Alzheimer’s disease (AD) pathology (ADP) are highly variable. Factors contributing to this variability are not well understood. Previous research indicates that higher educational attainment (EA) correlates with reduced cognitive impairments among those with ADP. While cognitive and functional impairments are correlated, they are distinguishable in their manifestations. Objective: To investigate whether levels of education are associated with functional impairments among those with ADP. Methods: This research involved 410 African American (AA) individuals (Institutional Review Boards 20070307, 01/27/2023) to ascertain whether EA correlates with functional resilience and if this effect varies between APOE ɛ4 carriers and non-carriers. Utilizing EA as a cognitive reserve proxy, CDR-FUNC as a functional difficulties measure, and blood pTau181 as an ADP proxy, the non-parametric Mann-Whitney U test assessed the relationship between EA and CDR-FUNC in individuals with advanced pTau181 levels. Results: The results showed that EA correlated with functional difficulties in AA individuals with high levels of pTau181, such that individuals with high EA are more likely to have better functional ability compared to those with lower EA (W = 730.5, p = 0.0007). Additionally, we found that the effect of high EA on functional resilience was stronger in ɛ4 non-carriers compared to ɛ4 carriers (W = 555.5, p = 0.022). Conclusion: This study extends the role of cognitive reserve and EA to functional performance showing that cognitive reserve influences the association between ADP burden and functional difficulties. Interestingly, this protective effect seems less pronounced in carriers of the strong genetic risk allele ɛ4.
+SN - 1387-2877
+M3  - doi: 10.3233/JAD-231116
+UR  - https://doi-org.crai.referencistas.com/10.3233/JAD-231116
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Can we trust Big Data? Applying philosophy of science to software
+AU  - Symons, John
+AU  - Alvarado, Ramón
+Y1  - 2016/09/02
+PY  - 2016
+DA  - 2016/12/01
+N1  - doi: 10.1177/2053951716664747
+DO  - 10.1177/2053951716664747
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951716664747
+VL - 3
+IS - 2
+PB - SAGE Publications Ltd
+N2 - We address some of the epistemological challenges highlighted by the Critical Data Studies literature by reference to some of the key debates in the philosophy of science concerning computational modeling and simulation. We provide a brief overview of these debates focusing particularly on what Paul Humphreys calls epistemic opacity. We argue that debates in Critical Data Studies and philosophy of science have neglected the problem of error management and error detection. This is an especially important feature of the epistemology of Big Data. In “Error” section we explain the main characteristics of error detection and correction along with the relationship between error and path complexity in software. In this section we provide an overview of conventional statistical methods for error detection and review their limitations when faced with the high degree of conditionality inherent to modern software systems.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951716664747
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951716664747
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Factors affecting the performance of ventilation cavities in highly insulated assemblies
+AU  - Viljanen, Klaus
+AU  - Lü, Xiaoshu
+AU  - Puttonen, Jari
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/07/01
+N1  - doi: 10.1177/1744259121995221
+DO  - 10.1177/1744259121995221
+T2  - Journal of Building Physics
+JF  - Journal of Building Physics
+SP  -67
+EP - 110
+VL - 45
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The article presents experimental studies of typical Finnish highly insulated (HI) envelopes with thermal resistance values (R value) for the wall and roof inside the ventilation cavity between 7.7 and 8.1 m2K/W and 13 m2K/W, respectively. The conditions in the ventilation cavities were studied by using typical and increased R values for the exterior part of the cavity, which were 0.18 m2K/W and 1.57 m2K/W in the walls, and 0.13 m2K/W and 2.13 m2K/W for the roof. With higher exterior R values of 1.57 m2K/W and 2.13 m2K/W, the cavity temperature increased only after closing the inlet gap of the cavities. If the cavity inlet was closed, the restriction of the outlet gap from 20–25 mm to 10 mm had no significant effect on the temperatures. A closed ventilation inlet resulted in increased absolute humidity in the cavity, which indicates that the restriction of cavity ventilation should be made with care to avoid impairing the drying-out ability. The computational analysis showed that the optimal air change rates in the wall and roof cavities of HI structures were 4–40 1/h and 20 1/h, respectively. The conventional 22-mm-thick wood cladding enables safe cavity conditions in HI walls if the vapor barrier is vapor tight and other moisture sources are low. A lower heat flux and additional heat loss caused by cloudless sky at night support the observation that HI roofs have a higher moisture risk. In HI roofs, a conventional exterior R value of 0.13 m2K/W should at least be increased to the range of 0.3–0.4 m2K/W, which is achieved, for example, by a 20-mm-thick mineral wool board under the roofing. The use of mold-resistant materials in the ventilation cavity is recommended to mitigate the possible ramifications of the moisture behavior of HI roofs.
+SN - 1744-2591
+M3  - doi: 10.1177/1744259121995221
+UR  - https://doi-org.crai.referencistas.com/10.1177/1744259121995221
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Biomolecular Chemical Simulations on Enantioselectivity and Reactivity of Lipase Enzymes to Azulene Derivatives
+AU  - Yagi, Yoichiro
+AU  - Kimura, Takatomo
+AU  - Kamezawa, Makoto
+Y1  - 2022/06/01
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/1934578X221108572
+DO  - 10.1177/1934578X221108572
+T2  - Natural Product Communications
+JF  - Natural Product Communications
+SP  -1934578X221108572
+VL - 17
+IS - 6
+PB - SAGE Publications Inc
+N2 - Biomolecular chemical simulations have recently become a useful research method in the fields of organic chemistry and bioscience. In the last few years, we have been focusing on the biomolecular computational simulation on lipase enzyme and ligand complexes to predict the enantioselectivity and reactivity of lipases toward non-natural organic compounds. In this paper, we describe the molecular simulations including molecular dynamics (MD) and fragment molecular orbital (FMO) calculations for the complexes of Candida antarctica lipase type A (CALA) and trifluoromethylazulene alcohol derivatives. From the MD calculations, we found that the fast-reacting enantiomer of esters with high enantioselectivity stays in the vicinity of the active site of CALA, while the slow-reacting enantiomer leaves the active site of CALA. On the other hand, both (R)- and (S)-enantiomers of ester with low ensntioselectivity were found to keep near to near the active site of CALA. Further, for the esters that do not react with lipase enzyme, we found that both (R)- and (S)-enantiomers move away from the active site of lipase enzyme. From the FMO calculations, we found that each fast-reacting enantiomer of esters with high enantioselectivity strongly interacts with certain particular amino acid residues in CALA containing Asp95, while both (R)- and (S)-enantiomers of ester with low enantioselectivity interact with same amino acid residues in CALA including Asp95. These results suggest that it is possible to predict not only the enantioselectivity but also the reactivity of CALA and to identify the amino acid residues important to the enzymatic reaction. Therefore, we consider that our computational simulations would be a useful method for predicting and understanding the reactivity and the enantioselectivity of lipase-catalyzed biotransformations.
+SN - 1934-578X
+M3  - doi: 10.1177/1934578X221108572
+UR  - https://doi-org.crai.referencistas.com/10.1177/1934578X221108572
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,255 @@
+TY  - JOUR
+T1  - Predicting Self-Interacting Proteins Using a Recurrent Neural Network and Protein Evolutionary Information
+AU  - An, Ji-Yong
+AU  - Zhou, Yong
+AU  - Yan, Zi-Ji
+AU  - Zhao, Yu-Jun
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176934320924674
+DO  - 10.1177/1176934320924674
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934320924674
+VL - 16
+PB - SAGE Publications Ltd STM
+N2 - Self-interacting proteins (SIPs) play crucial roles in biological activities of organisms. Many high-throughput methods can be used to identify SIPs. However, these methods are both time-consuming and expensive. How to develop effective computational approaches for identifying SIPs is a challenging task. In the article, we present a novel computational method called RRN-SIFT, which combines the recurrent neural network (RNN) with scale invariant feature transform (SIFT) to predict SIPs based on protein evolutionary information. The main advantage of the proposed RNN-SIFT model is that it uses SIFT for extracting key feature by exploring the evolutionary information embedded in Position-Specific Iterated BLAST–constructed position-specific scoring matrix and employs an RNN classifier to perform classification based on extracted features. Extensive experiments show that the RRN-SIFT obtained average accuracy of 94.34% and 97.12% on the yeast and human dataset, respectively. We also compared our performance with the back propagation neural network (BPNN), the state-of-the-art support vector machine (SVM), and other existing methods. By comparing with experimental results, the performance of RNN-SIFT is significantly better than that of the BPNN, SVM, and other previous methods in the domain. Therefore, we conclude that the proposed RNN-SIFT model is a useful tool for predicting SIPs, as well to solve other bioinformatics tasks. To facilitate widely studies and encourage future proteomics research, a freely available web server called RNN-SIFT-SIPs was developed at http://219.219.62.123:8888/RNNSIFT/ including the source code and the SIP datasets.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934320924674
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934320924674
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A parametrized ranking-based semantics compatible with persuasion principles
+AU  - Bonzon, Elise
+AU  - Delobelle, Jérôme
+AU  - Konieczny, Sébastien
+AU  - Maudet, Nicolas
+AU  - Pigozzi, Gabriella
+AU  - Vesic, Srdjan
+Y1  - 2020/08/13
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.3233/AAC-200905
+DO  - 10.3233/AAC-200905
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -49
+EP - 85
+VL - 12
+IS - 1
+PB - SAGE Publications
+N2 - In this work, we question the ability of existing ranking-based semantics to capture persuasion settings, emphasising in particular the phenomena of procatalepsis (the fact that it is often efficient to anticipate the counter-arguments of the audience) and of fading (the fact that long lines of argumentation become ineffective). Some widely accepted principles of ranking-based semantics (like Void Precedence) are incompatible with a faithful treatment of these phenomena, which means that no existing ranking-based semantics can capture these two principles together. This motivates us to introduce a new parametrized ranking-based semantics based on the notion of propagation which extends the existing propagation semantics (In Proceedings of the 6th International Conference on Computational Models of Argument (COMMA’16) (2016) 139–150) by adding an additional parameter allowing us to gradually decrease the impact of arguments when the length of the path between two arguments increases. We show that this parameter gives the possibility of choosing if one wants to satisfy the property Void Precedence or not (and then capture procatalepsis) and to control the scope of the impact of the arguments (and then to capture fading principle). We also propose an experiment to show that the new semantics remains stable when this parameter varies and an axiomatic evaluation to compare it with existing ranking-based semantics in the literature.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-200905
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-200905
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Parallel Robot Scheduling to Minimize Mean Tardiness with Unequal Release Date and Precedence Constraints Using a Hybrid Intelligent System
+AU  - Çakar, Tarık
+AU  - Köker, Raşit
+AU  - Sarı, Yavuz
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/12/06
+N1  - doi: 10.5772/54381
+DO  - 10.5772/54381
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -252
+VL - 9
+IS - 6
+PB - SAGE Publications
+N2 - This paper considers the problem of scheduling a given number of jobs on a specified number of identical parallel robots with unequal release dates and precedence constraints in order to minimize mean tardiness. This problem is strongly NP-hard. The author proposes a hybrid intelligent solution system, which uses Genetic Algorithms and Simulated Annealing (GA+SA). A genetic algorithm, as is well known, is an efficient tool for the solution of combinatorial optimization problems. Solutions for problems of different scales are found using genetic algorithms, simulated annealing and a Hybrid Intelligent Solution System (HISS). Computational results of empirical experiments show that the Hybrid Intelligent Solution System (HISS) is successful with regards to solution quality and computational time.
+SN - 1729-8806
+M3  - doi: 10.5772/54381
+UR  - https://doi-org.crai.referencistas.com/10.5772/54381
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - How do politicians use Facebook? An applied Social Observatory
+AU  - Caton, Simon
+AU  - Hall, Margeret
+AU  - Weinhardt, Christof
+Y1  - 2015/12/01
+PY  - 2015
+DA  - 2015/12/01
+N1  - doi: 10.1177/2053951715612822
+DO  - 10.1177/2053951715612822
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951715612822
+VL - 2
+IS - 2
+PB - SAGE Publications Ltd
+N2 - In the age of the digital generation, written public data is ubiquitous and acts as an outlet for today’s society. Platforms like Facebook, Twitter, Google+ and LinkedIn have profoundly changed how we communicate and interact. They have enabled the establishment of and participation in digital communities as well as the representation, documentation and exploration of social behaviours, and had a disruptive effect on how we use the Internet. Such digital communications present scholars with a novel way to detect, observe, analyse and understand online communities over time. This article presents the formalization of a Social Observatory: a low latency method for the observation and measurement of social indicators within an online community. Our framework facilitates interdisciplinary research methodologies via tools for data acquisition and analysis in inductive and deductive settings. By focusing our Social Observatory on the public Facebook profiles of 187 federal German politicians we illustrate how we can analyse and measure sentiment, public opinion, and information discourse in advance of the federal elections. To this extent, we analysed 54,665 posts and 231,147 comments, creating a composite index of overall public sentiment and the underlying conceptual discussion themes. Our case study demonstrates the observation of communities at various resolutions: “zooming” in on specific subsets or communities as a whole. The results of the case study illustrate the ability to observe published sentiment and public dialogue as well as the difficulties associated with established methods within the field of sentiment analysis within short informal text.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951715612822
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951715612822
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - From ‘the mind isolated with the body’ to ‘the mind being embodied’: Contemporary approaches to the philosophy of the body
+AU  - Fei, Duoyi
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1177/2096608320960242
+DO  - 10.1177/2096608320960242
+T2  - Cultures of Science
+JF  - Cultures of Science
+SP  -206
+EP - 219
+VL - 3
+IS - 3
+PB - SAGE Publications
+N2 - In the interpretation of the body in the 20th century, philosophy placed less emphasis than before on its natural composition and sought to integrate value judgements from different perspectives. The philosophy of the body addresses the deepest essential problems of human society and culture, it generates a uniquely detailed analysis of human nature and its various roles and performances in social operations, and it reveals contemporary society’s operating mechanisms and deep internal contradictions. Accordingly, philosophy no longer gives the mind any priority or superiority in terms of cognition, and the focus of research has moved away from pure consciousness and towards the body. Contemporary philosophical exploration of the body covers both the concept of belongingness and the feasibility of bodily freedom. It not only foregrounds the impossibility of viewing the body and the mind as separate entities but also leads us to examine the connections between humans and the world, taking meaning, reason and the body as their basis. This paper explores the connections between body and thought in modern philosophy, traces the development of philosophy’s increasing concern with the body, elucidates the main contributions of representative figures in the field of philosophy of the body, and analyses the methodological significance and influence of the philosophy of the body as a contemporary philosophical trend.
+SN - 2096-6083
+M3  - doi: 10.1177/2096608320960242
+UR  - https://doi-org.crai.referencistas.com/10.1177/2096608320960242
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Surface contamination of cars: A review
+AU  - Gaylard, Adrian P.
+AU  - Kirwan, Kerry
+AU  - Lockerby, Duncan A.
+Y1  - 2017/04/09
+PY  - 2017
+DA  - 2017/08/01
+N1  - doi: 10.1177/0954407017695141
+DO  - 10.1177/0954407017695141
+T2  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+JF  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+SP  -1160
+EP - 1176
+VL - 231
+IS - 9
+PB - IMECHE
+N2 - This review surveys the problem of surface contamination of cars, which poses a growing engineering challenge to vehicle manufacturers, operators and users. Both the vision of drivers and the visibility of vehicles need to be maintained under a wide range of environmental conditions. This requires managing the flow of surface water on windscreens and side glazing. The rate of deposition of solid contaminants on glazing, lights, licence plates and external mirrors also needs to be minimised. Maintaining vehicle aesthetics and limiting the transfer of contaminants to the hands and clothes of users from soiled surfaces are also significant issues. Recently, keeping camera lenses clean has emerged as a key concern, as these systems transition from occasional manoeuvring aids to sensors for safety systems. The deposition of water and solid contaminants on to car surfaces is strongly influenced by unsteady vehicle aerodynamic effects. Airborne water droplets falling as rain or lifted as spray by tyres interact with wakes, vortices and shear flows and accumulate on vehicle surfaces as a consequence. The same aerodynamic effects also control the movement of surface water droplets, rivulets and films; hence, particular attention is paid to the management of surface water over the front side glass and the deposition of contaminants on the rear surfaces. The test methods used in the automotive industry are reviewed, as are the numerical simulation techniques.
+SN - 0954-4070
+M3  - doi: 10.1177/0954407017695141
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954407017695141
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Spreading depolarizations in the rat endothelin-1 model of focal cerebellar ischemia
+AU  - Oliveira-Ferreira, Ana I.
+AU  - Major, Sebastian
+AU  - Przesdzing, Ingo
+AU  - Kang, Eun-Jeung
+AU  - Dreier, Jens P.
+Y1  - 2019/07/07
+PY  - 2020
+DA  - 2020/06/01
+N1  - doi: 10.1177/0271678X19861604
+DO  - 10.1177/0271678X19861604
+T2  - Journal of Cerebral Blood Flow & Metabolism
+JF  - Journal of Cerebral Blood Flow & Metabolism
+JO  - J Cereb Blood Flow Metab
+SP  -1274
+EP - 1289
+VL - 40
+IS - 6
+PB - SAGE Publications Ltd STM
+N2 - Focal brain ischemia is best studied in neocortex and striatum. Both show highly vulnerable neurons and high susceptibility to spreading depolarization (SD). Therefore, it has been hypothesized that these two variables generally correlate. However, this hypothesis is contradicted by findings in cerebellar cortex, which contains highly vulnerable neurons to ischemia, the Purkinje cells, but is said to be less susceptible to SD. Here, we found in the rat cerebellar cortex that elevated K+ induced a long-lasting depolarizing event superimposed with SDs. Cerebellar SDs resembled those in neocortex, but negative direct current (DC) shifts and regional blood flow responses were usually smaller. The K+ threshold for SD was higher in cerebellum than in previous studies in neocortex. We then topically applied endothelin-1 (ET-1) to the cerebellum, which is assumed to cause SD via vasoconstriction-induced focal ischemia. Although the blood flow decrease was similar to that in previous studies in neocortex, the ET-1 threshold for SD was higher. Quantitative cell counting found that the proportion of necrotic Purkinje cells was significantly higher in ET-1-treated rats than sham controls even if ET-1 had not caused SDs. Our results suggest that ischemic death of Purkinje cells does not require the occurrence of SD.
+SN - 0271-678X
+M3  - doi: 10.1177/0271678X19861604
+UR  - https://doi-org.crai.referencistas.com/10.1177/0271678X19861604
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Social media and social impact assessment: Evolving methods in a shifting context
+AU  - Sherren, Kate
+AU  - Chen, Yan
+AU  - Mohammadi, Mehrnoosh
+AU  - Zhao, Qiqi
+AU  - Gone, Keshava Pallavi
+AU  - Rahman, HM Tuihedur
+AU  - Smit, Michael
+Y1  - 2023/10/30
+PY  - 2024
+DA  - 2024/07/01
+N1  - doi: 10.1177/00113921231203179
+DO  - 10.1177/00113921231203179
+T2  - Current Sociology
+JF  - Current Sociology
+SP  -629
+EP - 648
+VL - 72
+IS - 4
+PB - SAGE Publications Ltd
+N2 - Among many by-products of Web 2.0 come the wide range of potential image and text datasets within social media and content sharing platforms that speak of how people live, what they do, and what they care about. These datasets are imperfect and biased in many ways, but those flaws make them complementary to data derived from conventional social science methods and thus potentially useful for triangulation in complex decision-making contexts. Yet the online environment is highly mutable, and so the datasets are less reliable than censuses or other standard data types leveraged in social impact assessment. Over the past decade, we have innovated numerous methods for deploying Instagram datasets in investigating management or development alternatives. This article synthesizes work from three Canadian decision contexts – hydroelectric dam construction or removal; dyke realignment or wetland restoration; and integrating renewable energy into vineyard landscapes – to illustrate some of the methods we have applied to social impact assessment questions using Instagram that may be transferrable to other social media platforms and contexts: thematic (manual coding, machine vision, natural language processing/sentiment analysis, statistical analysis), spatial (hotspot mapping, cultural ecosystem modeling), and visual (word clouds, saliency mapping, collage). We conclude with a set of cautions and next steps for the domain.
+SN - 0011-3921
+M3  - doi: 10.1177/00113921231203179
+UR  - https://doi-org.crai.referencistas.com/10.1177/00113921231203179
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An efficient method for network security situation assessment
+AU  - Tao, Xiaoling
+AU  - Kong, Kaichuan
+AU  - Zhao, Feng
+AU  - Cheng, Siyan
+AU  - Wang, Sufang
+Y1  - 2020/11/01
+PY  - 2020
+DA  - 2020/11/01
+N1  - doi: 10.1177/1550147720971517
+DO  - 10.1177/1550147720971517
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720971517
+VL - 16
+IS - 11
+PB - SAGE Publications
+N2 - Network security situational assessment, the core task of network security situational awareness, can obtain security situation by comprehensively analyzing various factors that affect network status. Thus, network security situational assessment can provide accurate security state evaluation and security trend prediction for users. Although plenty of network security situational assessment methods have been proposed, there are still many problems to solve. First, because of high dimensionality of input data, computational complexity in model construction could be very high. Moreover, most of the existing schemes trade computational overhead for accuracy. Second, due to the lack of centralized standard, the weights of indicators are usually determined empirically or by subjective opinions of domain expert. To solve the above problems, we propose a novel network security situation assessment method based on stack autoencoding network and back propagation neural network. In stack autoencoding network and back propagation neural network, to reduce the data storage overhead and improve computational efficiency, we use stack autoencoding network to reduce the dimensions of the indicator data. And the low-dimensional data output by hidden layer of stack autoencoding network will be the input data of the error back propagation neural network. Then, the back propagation neural network algorithm is adopted to perform network security situation assessment. Finally, extensive experiments are conducted to verify the effectiveness of the proposed method.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720971517
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720971517
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Systematic Review of Published Physiologically-based Kinetic Models and an Assessment of their Chemical Space Coverage
+AU  - Thompson, Courtney V.
+AU  - Firman, James W.
+AU  - Goldsmith, Michael R.
+AU  - Grulke, Christopher M.
+AU  - Tan, Yu-Mei
+AU  - Paini, Alicia
+AU  - Penson, Peter E.
+AU  - Sayre, Risa R.
+AU  - Webb, Steven
+AU  - Madden, Judith C.
+Y1  - 2021/09/01
+PY  - 2021
+DA  - 2021/09/01
+N1  - doi: 10.1177/02611929211060264
+DO  - 10.1177/02611929211060264
+T2  - Alternatives to Laboratory Animals
+JF  - Alternatives to Laboratory Animals
+JO  - Altern Lab Anim
+SP  -197
+EP - 208
+VL - 49
+IS - 5
+PB - SAGE Publications Ltd STM
+N2 - Across multiple sectors, including food, cosmetics and pharmaceutical industries, there is a need to predict the potential effects of xenobiotics. These effects are determined by the intrinsic ability of the substance, or its derivatives, to interact with the biological system, and its concentration–time profile at the target site. Physiologically-based kinetic (PBK) models can predict organ-level concentration–time profiles, however, the models are time and resource intensive to generate de novo. Read-across is an approach used to reduce or replace animal testing, wherein information from a data-rich chemical is used to make predictions for a data-poor chemical. The recent increase in published PBK models presents the opportunity to use a read-across approach for PBK modelling, that is, to use PBK model information from one chemical to inform the development or evaluation of a PBK model for a similar chemical. Essential to this process, is identifying the chemicals for which a PBK model already exists. Herein, the results of a systematic review of existing PBK models, compliant with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) format, are presented. Model information, including species, sex, life-stage, route of administration, software platform used and the availability of model equations, was captured for 7541 PBK models. Chemical information (identifiers and physico-chemical properties) has also been recorded for 1150 unique chemicals associated with these models. This PBK model data set has been made readily accessible, as a Microsoft Excel® spreadsheet, providing a valuable resource for those developing, using or evaluating PBK models in industry, academia and the regulatory sectors.
+SN - 0261-1929
+M3  - doi: 10.1177/02611929211060264
+UR  - https://doi-org.crai.referencistas.com/10.1177/02611929211060264
+Y2  - 2024/10/01
+ER  - 
+

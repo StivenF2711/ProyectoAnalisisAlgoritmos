@@ -1,0 +1,233 @@
+TY  - JOUR
+T1  - Fail-safe design and analysis for the guide vane of a hydro turbine
+AU  - Budiman, Bentang Arief
+AU  - Suharto, Djoko
+AU  - Djodikusumo, Indra
+AU  - Aziz, Muhammad
+AU  - Juangsa, Firman Bagja
+Y1  - 2016/07/01
+PY  - 2016
+DA  - 2016/07/01
+N1  - doi: 10.1177/1687814016658178
+DO  - 10.1177/1687814016658178
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016658178
+VL - 8
+IS - 7
+PB - SAGE Publications
+N2 - A design for the fail-safe mechanism of a guide vane in a Francis-type hydro turbine is proposed and analyzed. The mechanism that is based on a shear pin as a sacrificial component was designed to remain simple. Unlike the requirements of conventional designs, a shear pin must be able to withstand static and dynamic loads but must fail under a certain overload that could damage a guide vane. An accurate load determination and selection of the shear pin material were demonstrated. The static load for various opening angles of the guide vane were calculated using the computational fluid dynamics Fluent and finite element method Ansys programs. Furthermore, simulations for overload and dynamic load due to the waterhammer phenomenon were also conducted. The results of load calculations were used to select an appropriate shear pin material. Quasi-static shear tests were performed for two shear pins of aluminum alloy Al2024 subjected to different aging treatments (i.e. artificial and natural aging). The test results indicated that the Al2024 treated by natural aging is an appropriate material for a shear pin designed to function as a fail-safe mechanism for the guide vanes of a Francis-type hydro turbine.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016658178
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016658178
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Design of a Quadruped Robot for Research Purposes
+AU  - Geva, Yam
+AU  - Shapiro, Amir
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/07/01
+N1  - doi: 10.5772/57351
+DO  - 10.5772/57351
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -95
+VL - 11
+IS - 7
+PB - SAGE Publications
+N2 - This paper presents the design of a novel quadruped robot. The proposed design is characterized by a simple, modular design, and easy interfacing capabilities. The robot is built mostly from off-the-shelf components. The design includes four 3-DOF legs, the robot body and its electronics. The proposed robot is able to traverse rough terrain while carrying additional payloads. Such payloads can include both sensors and computational hardware. We present the robot design, the control system, and the forward and inverse kinematics of the robot, as well as experiments that are compared with simulation results.
+SN - 1729-8806
+M3  - doi: 10.5772/57351
+UR  - https://doi-org.crai.referencistas.com/10.5772/57351
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - MAGA: A Supervised Method to Detect Motifs From Annotated Groups in Alignments
+AU  - Mier, Pablo
+AU  - Andrade-Navarro, Miguel A.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176934320916199
+DO  - 10.1177/1176934320916199
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934320916199
+VL - 16
+PB - SAGE Publications Ltd STM
+N2 - Multiple sequence alignments are usually phylogenetically driven. They are studied in the framework of evolution. But sometimes, it is interesting to study residue conservation at positions unconstrained by evolutionary rules. We present a supervised method to access a layer of information difficult to appreciate visually when many protein sequences are aligned. This new tool (MAGA; http://cbdm-01.zdv.uni-mainz.de/~munoz/maga/) locates positions in multiple sequence alignments differentially conserved in manually defined groups of sequences.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934320916199
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934320916199
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Uncertainty-aware visually-attentive navigation using deep neural networks
+AU  - Nguyen, Huan
+AU  - Andersen, Rasmus
+AU  - Boukas, Evangelos
+AU  - Alexis, Kostas
+Y1  - 2023/12/18
+PY  - 2024
+DA  - 2024/05/01
+N1  - doi: 10.1177/02783649231218720
+DO  - 10.1177/02783649231218720
+T2  - The International Journal of Robotics Research
+JF  - The International Journal of Robotics Research
+SP  -840
+EP - 872
+VL - 43
+IS - 6
+PB - SAGE Publications Ltd STM
+N2 - Autonomous navigation and information gathering in challenging environments are demanding since the robot’s sensors may be susceptible to non-negligible noise, its localization and mapping may be subject to significant uncertainty and drift, and performing collision-checking or evaluating utility functions using a map often requires high computational costs. We propose a learning-based method to efficiently tackle this problem without relying on a map of the environment or the robot’s position. Our method utilizes a Collision Prediction Network (CPN) for predicting the collision scores of a set of action sequences, and an Information gain Prediction Network (IPN) for estimating their associated information gain. Both networks assume access to a) the depth image (CPN) or the depth image and the detection mask from any visual method (IPN), b) the robot’s partial state (including its linear velocities, z-axis angular velocity, and roll/pitch angles), and c) a library of action sequences. Specifically, the CPN accounts for the estimation uncertainty of the robot’s partial state and the neural network’s epistemic uncertainty by using the Unscented Transform and an ensemble of neural networks. The outputs of the networks are combined with a goal vector to identify the next-best-action sequence. Simulation studies demonstrate the method’s robustness against noisy robot velocity estimates and depth images, alongside its advantages compared to state-of-the-art methods and baselines in (visually-attentive) navigation tasks. Lastly, multiple real-world experiments are presented, including safe flights at 2.5 m/s in a cluttered corridor, and missions inside a dense forest alongside visually-attentive navigation in industrial and university buildings.
+SN - 0278-3649
+M3  - doi: 10.1177/02783649231218720
+UR  - https://doi-org.crai.referencistas.com/10.1177/02783649231218720
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Lightweight and green design of general bridge crane structure based on multi- specular reflection algorithm
+AU  - Qi, Qisong
+AU  - Yu, Yannan
+AU  - Dong, Qing
+AU  - Xu, Gening
+AU  - Xin, Yunsheng
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1177/16878140211051220
+DO  - 10.1177/16878140211051220
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878140211051220
+VL - 13
+IS - 10
+PB - SAGE Publications
+N2 - At present, there are some problems that need to be solved in crane steel structure design, such as heavy self-weight of finished structure, high production energy consumption, and huge manufacturing costs. In view of this, a lightweight design method that meets the green product design principle is proposed for crane structure. In this method, an improved new swarm intelligence optimization algorithm named the multi-specular reflection algorithm (M-SRA) is proposed. This algorithm combines the specular reflection algorithm (SRA) with the traditional swarm intelligence optimization algorithm, which has higher computational efficiency. After that, M-SRA is applied to crane steel structure optimization. The results show that the improved algorithm has higher global searching ability and computational efficiency than traditional population intelligence optimization algorithms. The research in this paper provides a reliable design method for the green lightweight design of crane steel structure and a reference for the green design of mechanical products.
+SN - 1687-8132
+M3  - doi: 10.1177/16878140211051220
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878140211051220
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical Calculation on Cavitation Pressure Pulsation in Centrifugal Pump
+AU  - Shi, Weidong
+AU  - Wang, Chuan
+AU  - Wang, Wei
+AU  - Pei, Bing
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/367631
+DO  - 10.1155/2014/367631
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -367631
+VL - 6
+PB - SAGE Publications
+N2 - In order to study the internal flow in centrifugal pump when cavitation occurs, numerical calculation of the unsteady flow field in the WP7 automobile centrifugal pump is conducted based on the Navier-Stokes equations with the RNG k – ε turbulence model and Zwart-Gerber-Belamri cavitation model. The distributions of bubble volume fraction and pressure pulsation laws in the pump are analyzed when cavitation occurs. The conclusions are as follows: the bubble volume fraction is larger on the suction side of impeller blade near the inlet edge, which is consistent with the low-pressure region distribution. Bubble volume is determined by the growth rate and collapse rate of every bubble in the bubble group. The cavitation degree changes over time with the impeller rotation and the bubble growth and collapse coexist in the impeller flow channels. The main pulsation results from the cyclic and static coupling between the impeller and the tongue, while the fluctuating amplitude is increased by the cavitation.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/367631
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/367631
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Low Mismatch Key Agreement Based on Wavelet-Transform Trend and Fuzzy Vault in Body Area Network
+AU  - Wu, Yang
+AU  - Sun, Yongmei
+AU  - Zhan, Lei
+AU  - Ji, Yuefeng
+Y1  - 2013/06/01
+PY  - 2013
+DA  - 2013/06/01
+N1  - doi: 10.1155/2013/912873
+DO  - 10.1155/2013/912873
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -912873
+VL - 9
+IS - 6
+PB - SAGE Publications
+N2 - Body area network (BAN) is an emerging branch of wireless sensor networks for personalized applications in many fields, such as health monitoring. The services in BAN usually have a high requirement on security, especially for the medical diagnosis, which involves private information. With limitations of power and computation capabilities, one of the main challenges to ensure security in BAN is how to generate or distribute a shared key between nodes for lightweight symmetric cryptography. The current research almost exploits the randomness and distinctiveness (characteristics) of physiological signals to solve the key generation problem. However, it needs the help of additional hardware support and has the constraint on positions deployment, to acquire vital signals, which will bring the high cost and hardness to implementation of real system. To avoid the above problems, this paper presents a novel key generation scheme and a key distribution protocol, both of which are only based on wireless modules equipped on sensors. By exploiting the high correlation of received signal strength index (RSSI) between peer-to-peer communications, our scheme can provide a shared symmetric cryptographic key under the presence of an eavesdropper. We conduct experiments on the real Telosb nodes, and the results demonstrate that our proposed methods have a good performance on security.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/912873
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/912873
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modelling and characterising FFF process of semi-crystalline polymers: Warpage formation and mechanism analysis
+AU  - Yu, Yuesheng
+AU  - Jiang, Bingnong
+AU  - Chen, Yuan
+AU  - Ye, Lin
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/09673911241273654
+DO  - 10.1177/09673911241273654
+T2  - Polymers and Polymer Composites
+JF  - Polymers and Polymer Composites
+SP  -09673911241273654
+VL - 32
+PB - SAGE Publications Ltd STM
+N2 - Fused filament fabrication (FFF) is commonly utilised for 3D printing of semi-crystalline polymers, i.e., polypropylene (PP), while warpage deformation can often be observed in the printed products, with significantly reduced surface quality and mechanical properties. This study develops computational models for predicting rectangular boxes made of PP with different thicknesses under the FFF process to study the stress concentration and warpage mechanisms during 3D printing. Numerical models were established based on heat transfer, thermoelasticity, and crystallisation kinetics, with an activating elemental approach to calculate the FFF process of PP. The numerical models were validated with repetitive printing tests to study the mechanisms and relationships of stress conditions and warpage formation in PP boxes under FFF. The results show that the boxes with the thinnest thickness exhibited mostly severe warpage deformation (6.8 mm/5.9 mm in experiment and simulation, respectively), which is much more than that of the thickest box (1.3 mm/1.6 mm in experiment and simulation, respectively). The average crystallinity of the three boxes increases as the box thickness increases, but to a lesser extent. In terms of residual stress, the thinner box has a smaller residual stress (25.1 MPa, almost 45% of the thicker box).
+SN - 0967-3911
+M3  - doi: 10.1177/09673911241273654
+UR  - https://doi-org.crai.referencistas.com/10.1177/09673911241273654
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Hydrodynamic Analysis of the Spherical Underwater Robot SUR-II
+AU  - Yue, Chunfeng
+AU  - Guo, Shuxiang
+AU  - Shi, Liwei
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/05/01
+N1  - doi: 10.5772/56524
+DO  - 10.5772/56524
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -247
+VL - 10
+IS - 5
+PB - SAGE Publications
+N2 - Abstract This paper describes the development of the second-generation Spherical Underwater Robot (SUR-II). The new SUR-II has an improved propulsion system structure, resulting in better performance compared with the original design. This paper focuses on the characteristics of the water-jet thruster and the spherical hull of the SUR-II. To analyse its hydrodynamic characteristics, the main hydrodynamic parameters of the SUR-II were estimated based on two reasonable assumptions and a reasonable dynamic equation was proposed to describe the relationship between force and velocity. Drag coefficients were calculated separately for vertical and horizontal motions due to the fin on the robot’s equator and the holes in the robot’s hull. The holes had a particularly adverse effect on the horizontal drag coefficient. A hydrodynamic analysis using computational fluid dynamics was then carried out to verify the estimated parameters. The velocity vectors, pressure contours and drag coefficient for each state of motion were obtained. Finally, the propulsive force was determined experimentally to verify the theoretical calculations and simulation results.
+SN - 1729-8806
+M3  - doi: 10.5772/56524
+UR  - https://doi-org.crai.referencistas.com/10.5772/56524
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The future is (ever) promising: Elected representatives’ promises in routine parliamentary discourse
+AU  - Zalik, Avital
+AU  - Baden, Christian
+Y1  - 2024/08/27
+PY  - 2024
+N1  - doi: 10.1177/13540688241276774
+DO  - 10.1177/13540688241276774
+T2  - Party Politics
+JF  - Party Politics
+SP  -13540688241276774
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd
+N2 - This study investigates how elected representatives make promises to the electorate as part of their routine, everyday parliamentary discourse. Departing from the dominant focus on pre-election pledges in existing scholarship, we examine how representatives’ practices of making promises vary systematically over time (before/after elections/mid-term), by government role (government/opposition), party membership (catch-all/identity-based parties), and addressed electorate (inclusive/exclusive). Drawing upon research in speech acts, political discourse, and corpus pragmatics, we employ manual and computational text analysis on session transcripts from the Israeli parliament to identify variations in representatives’ use of direct or indirect action promises (N = 709), expressing different orientations of commitment. Documenting that promises continue to be prevalent after elections (especially among coalition members), we argue that the practices of making promises fulfill a critical role in representation that extends far beyond the election campaign, maintaining continuous accountability throughout the electoral cycle.
+SN - 1354-0688
+M3  - doi: 10.1177/13540688241276774
+UR  - https://doi-org.crai.referencistas.com/10.1177/13540688241276774
+Y2  - 2024/10/01
+ER  - 
+

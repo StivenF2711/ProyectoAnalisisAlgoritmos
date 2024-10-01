@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Temperature Dependence of Ascending Bubble-Driven Flow Patterns Found in Champagne Glasses as Determined through Numerical Modeling
+AU  - Beaumont, Fabien
+AU  - Popa, Catalin
+AU  - Liger-Belair, Gérard
+AU  - Polidori, Guillaume
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1155/2013/156430
+DO  - 10.1155/2013/156430
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -156430
+VL - 5
+PB - SAGE Publications
+N2 - A numerical modeling of bubble-driven flow patterns in a glass of champagne has been carried out for three champagne temperatures, by using the finite-volume method by CFD (computational fluid dynamics). In order to define source terms for flow regime and to reproduce accurately the bubble nucleation process responsible for champagne effervescence, specific subroutines for the gaseous phase have been added to the main numerical model. These subroutines allow the modeling of bubbles behavior based on semiempirical formulas relating to bubble diameter, mass transfer, velocity, and drag force. Both ascending bubble dynamics and bubble-driven flow patterns dynamics were examined, respectively, 60 s, 180 s, and 300 s after pouring champagne into the glass. Details and development of the various steps of modeling are presented in this paper, showing that the bubble-driven flow patterns velocities of the liquid phase significantly vary with the champagne temperature.
+SN - 1687-8132
+M3  - doi: 10.1155/2013/156430
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/156430
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Regularization approaches in clinical biostatistics: A review of methods and their applications
+AU  - Friedrich, Sarah
+AU  - Groll, Andreas
+AU  - Ickstadt, Katja
+AU  - Kneib, Thomas
+AU  - Pauly, Markus
+AU  - Rahnenführer, Jörg
+AU  - Friede, Tim
+Y1  - 2022/11/16
+PY  - 2023
+DA  - 2023/02/01
+N1  - doi: 10.1177/09622802221133557
+DO  - 10.1177/09622802221133557
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -425
+EP - 440
+VL - 32
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - A range of regularization approaches have been proposed in the data sciences to overcome overfitting, to exploit sparsity or to improve prediction. Using a broad definition of regularization, namely controlling model complexity by adding information in order to solve ill-posed problems or to prevent overfitting, we review a range of approaches within this framework including penalization, early stopping, ensembling and model averaging. Aspects of their practical implementation are discussed including available R-packages and examples are provided. To assess the extent to which these approaches are used in medicine, we conducted a review of three general medical journals. It revealed that regularization approaches are rarely applied in practical clinical applications, with the exception of random effects models. Hence, we suggest a more frequent use of regularization approaches in medical research. In situations where also other approaches work well, the only downside of the regularization approaches is increased complexity in the conduct of the analyses which can pose challenges in terms of computational resources and expertise on the side of the data analyst. In our view, both can and should be overcome by investments in appropriate computing facilities and educational resources.
+SN - 0962-2802
+M3  - doi: 10.1177/09622802221133557
+UR  - https://doi-org.crai.referencistas.com/10.1177/09622802221133557
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A new finite difference method to solve the velocity gradient equation in streamline curvature method
+AU  - Gong, Wu Qi
+AU  - Wu, Ru Kang
+AU  - Zhang, Bin
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1177/1687814016669634
+DO  - 10.1177/1687814016669634
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016669634
+VL - 8
+IS - 9
+PB - SAGE Publications
+N2 - For the inverse proposition design of a three-dimensional centrifugal impeller using the streamline curvature method, the cubic spline curve fitting method is extensively used to solve the velocity gradient equation. Given the deficiency in stability with the cubic spline curve fitting method, a new finite difference method is proposed to solve the velocity gradient equation on the S2m stream surface. In the finite difference scheme, the relative velocity derivative along the streamline direction is decomposed into two terms. One term uses forward difference, and the other uses backward difference. The difference schemes of all other parameter derivatives in the velocity gradient equation adopt forward difference. The method can guarantee the matrix main diagonal elements of the dominant, indicating stable convergence in solving the velocity field. Robustness analysis is performed for both methods, and the new finite difference method shows excellent superiority in stability. Finally, the finite difference method is applied to redesign the Krain impeller. Through computational fluid dynamics, the efficiency of the redesigned impeller at the design operating point is increased by approximately 0.3% and the pressure ratio by approximately 5%. These results show that the difference method is feasible to solve the S2m stream surface velocity gradient equation.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016669634
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016669634
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using Integer Programming for Airport Service Planning in Staff Scheduling
+AU  - Ip, W.H.
+AU  - Chung, Nick
+AU  - Ho, George
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.5772/9716
+DO  - 10.5772/9716
+T2  - International Journal of Engineering Business Management
+JF  - International Journal of Engineering Business Management
+SP  -8
+VL - 2
+PB - SAGE Publications Ltd STM
+N2 - Reliability and safety in flight is extremely necessary and that depend on the adoption of proper maintenance system. Therefore, it is essential for aircraft maintenance companies to perform the manpower scheduling efficiently. One of the objectives of this paper is to provide an Integer Programming approach to determine the optimal solutions to aircraft maintenance planning and scheduling and hence the planning and scheduling processes can become more efficient and effective. Another objective is to develop a set of computational schedules for maintenance manpower to cover all scheduled flights. In this paper, a sequential methodology consisting of 3 stages is proposed. They are initial maintenance demand schedule, the maintenance pairing and the maintenance group(s) assignment. Since scheduling would split up into different stages, different mathematical techniques have been adopted to cater for their own problem characteristics. Microsoft Excel would be used. Results from the first stage and second stage would be inputted into integer programming model using Microsoft Excel Solver to find the optimal solution. Also, Microsoft Excel VBA is used for devising a scheduling system in order to reduce the manual process and provide a user friendly interface. For the results, all can be obtained optimal solution and the computation time is reasonable and acceptable. Besides, the comparison of the peak time and non-peak time is discussed.
+SN - 1847-9790
+M3  - doi: 10.5772/9716
+UR  - https://doi-org.crai.referencistas.com/10.5772/9716
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Investigation on spatial breakup characteristics of low-pressure jets with particle image velocimetry experiment and volume of fluid–level set simulation
+AU  - Jiang, Yue
+AU  - Li, Hong
+AU  - Xiang, Qingjiang
+AU  - Chen, Chao
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - doi: 10.1177/1687814016636796
+DO  - 10.1177/1687814016636796
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016636796
+VL - 8
+IS - 3
+PB - SAGE Publications
+N2 - In order to study the spatial breakup characteristics of the initial section of low-pressure jets, an experiment was performed to investigate the flow fields and concentration fields of jet flows with different nozzle geometric parameters and also the different working pressures using a particle image velocimetry system. The flow field of different axial planes, axial time-average velocity, and the length of the initial sections of jet flows were also analyzed. A numerical simulation was carried out using finite volume method and volume of fluid–level set method to describe the breaking process of the initial section, capturing unstable development of gas–fluid interface, measuring the length of the initial sections of jet flows. Both experiment and simulation results show that the broken degree of jet is more intense for nozzles with smaller aspect ratio; the outlet velocity of jet increases with the working pressure; and the value of decreases with the increase in pressures in the same cross section of jet flow. The experimental values are slightly higher than the simulation values with an error of <8% for the cross-sectional velocity distribution. The initial length of jet increases with pressures, where the experimental values are lower than the simulation values with an error of <5%. The experimental data from particle image velocimetry agreed well with the simulation results. Therefore, the accuracy and reliability of the particle image velocimetry experiment and the computational fluid dynamics result simulation were both validated.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016636796
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016636796
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - New provable data transfer from provable data possession and deletion for secure cloud storage
+AU  - Liu, Yudong
+AU  - Xiao, Shuai
+AU  - Wang, Han
+AU  - Wang, Xu An
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1177/1550147719842493
+DO  - 10.1177/1550147719842493
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719842493
+VL - 15
+IS - 4
+PB - SAGE Publications
+N2 - With the continuous and rapid development of cloud computing, it becomes more popular for users to outsource large-scale data files to cloud servers for storage and computation. However, data outsourcing brings convenience to users while it also causes certain security problems. The integrity of outsourced data needs to be periodically checked by users to protect their data. Also, the secure transfer of cloud data can avoid data losses to users. Aiming at solving these problems in the data outsourcing process, a provable data transfer scheme based on provable data possession and deletion is recently proposed by Xue et al. However, we found a security flaw in Xue et al.’s scheme. Concretely, the block tags can be forged in their scheme. In this article, we first give a brief review of Xue et al.’s scheme and then a detailed attack is shown. To remove the security flaw, an improved scheme is proposed. Furthermore, we replace the integrity checking protocol of their proposal with a more efficient protocol to improve the efficiency of data integrity auditing.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719842493
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719842493
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modeling Flexible Bodies in Multibody Systems in Joint-Coordinates Formulation Using Spatial Algebra
+AU  - Omar, Mohamed A.
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/468986
+DO  - 10.1155/2014/468986
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -468986
+VL - 6
+PB - SAGE Publications
+N2 - This paper presents an efficient approach of using spatial algebra operator to formulate the kinematic and dynamic equations for developing capabilities to model flexible bodies within general purpose multibody dynamics solver. The proposed approach utilizes the joint coordinates and modal elastic coordinates as the system generalized coordinates. The recursive nonlinear equations of motion are initially formulated using the Cartesian body coordinates (CBC) and the joint coordinates (JC) to form an augmented set of differential algebraic equations. The system connectivity matrix is derived from system topological relations and is used to project the Cartesian quantities into the joint subspace leading to minimum set of differential equations. The modal transformation matrix is used to describe the finite element kinematics in terms of a small set of generalized modal coordinates. Although the resulting stiffness matrix is constant, the mass matrix depends on the generalized elastic modal coordinates and needs to be updated at each time step. To reduce the computational efforts, a set of precomputed inertia shape invariants (ISI) can be identified and used to update the flexible body mass matrix. In this proposed joint-coordinates formulation, the transformation operations required for the flexible body inertia matrix are different from those in case of CBC formulation. The necessary ISI and the algorithm to reconstruct the modal mass matrix will be presented in this paper.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/468986
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/468986
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Reliability and Feasibility of Linear Mixed Models in Fully Crossed Experimental Designs
+AU  - Scandola, Michele
+AU  - Tidoni, Emmanuele
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/25152459231214454
+DO  - 10.1177/25152459231214454
+T2  - Advances in Methods and Practices in Psychological Science
+JF  - Advances in Methods and Practices in Psychological Science
+SP  -25152459231214456
+VL - 7
+IS - 1
+PB - SAGE Publications Inc
+N2 - The use of linear mixed models (LMMs) is increasing in psychology and neuroscience research In this article, we focus on the implementation of LMMs in fully crossed experimental designs. A key aspect of LMMs is choosing a random-effects structure according to the experimental needs. To date, opposite suggestions are present in the literature, spanning from keeping all random effects (maximal models), which produces several singularity and convergence issues, to removing random effects until the best fit is found, with the risk of inflating Type I error (reduced models). However, defining the random structure to fit a nonsingular and convergent model is not straightforward. Moreover, the lack of a standard approach may lead the researcher to make decisions that potentially inflate Type I errors. After reviewing LMMs, we introduce a step-by-step approach to avoid convergence and singularity issues and control for Type I error inflation during model reduction of fully crossed experimental designs. Specifically, we propose the use of complex random intercepts (CRIs) when maximal models are overparametrized. CRIs are multiple random intercepts that represent the residual variance of categorical fixed effects within a given grouping factor. We validated CRIs and the proposed procedure by extensive simulations and a real-case application. We demonstrate that CRIs can produce reliable results and require less computational resources. Moreover, we outline a few criteria and recommendations on how and when scholars should reduce overparametrized models. Overall, the proposed procedure provides clear solutions to avoid overinflated results using LMMs in psychology and neuroscience.
+SN - 2515-2459
+M3  - doi: 10.1177/25152459231214454
+UR  - https://doi-org.crai.referencistas.com/10.1177/25152459231214454
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Flutter speed prediction by using deep learning
+AU  - Wang, Yi-Ren
+AU  - Wang, Yi-Jyun
+Y1  - 2021/11/01
+PY  - 2021
+DA  - 2021/11/01
+N1  - doi: 10.1177/16878140211062275
+DO  - 10.1177/16878140211062275
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878140211062276
+VL - 13
+IS - 11
+PB - SAGE Publications
+N2 - Deep learning technology has been widely used in various field in recent years. This study intends to use deep learning algorithms to analyze the aeroelastic phenomenon and compare the differences between Deep Neural Network (DNN) and Long Short-term Memory (LSTM) applied on the flutter speed prediction. In this present work, DNN and LSTM are used to address complex aeroelastic systems by superimposing multi-layer Artificial Neural Network. Under such an architecture, the neurons in neural network can extract features from various flight data. Instead of time-consuming high-fidelity computational fluid dynamics (CFD) method, this study uses the K method to build the aeroelastic flutter speed big data for different flight conditions. The flutter speeds for various flight conditions are predicted by the deep learning methods and verified by the K method. The detailed physical meaning of aerodynamics and aeroelasticity of the prediction results are studied. The LSTM model has a cyclic architecture, which enables it to store information and update it with the latest information at the same time. Although the training of the model is more time-consuming than DNN, this method can increase the memory space. The results of this work show that the LSTM model established in this study can provide more accurate flutter speed prediction than the DNN algorithm.
+SN - 1687-8132
+M3  - doi: 10.1177/16878140211062275
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878140211062275
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A navigation satellite selection algorithm for optimized positioning based on Gibbs sampler
+AU  - Xia, Na
+AU  - Zhi, Qinan
+AU  - He, Menghua
+AU  - Hong, Yunqing
+AU  - Du, Huazheng
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - doi: 10.1177/1550147720929620
+DO  - 10.1177/1550147720929620
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720929620
+VL - 16
+IS - 6
+PB - SAGE Publications
+N2 - In various applications of satellite navigation and positioning, it is a key topic to select suitable satellites for positioning solutions to reduce the computational burden of the receiver in satellite selection system. Moreover, in order to reduce the processing burden of receivers, the satellite selection algorithm based on Gibbs sampler is proposed. First, the visible satellites are randomly sampled and divided into a group. The group is regarded as an initial combination selection scheme. Then, the geometric dilution of precision is chosen as an objective function to evaluate the scheme’s quality. In addition, the scheme is updated by the conditional probability distribution model of the Gibbs sampler algorithm, and it gradually approaches the global optimal solution of the satellite combination with better geometric distribution of the space satellite. Furthermore, an “adaptive perturbation” strategy is introduced to improve the global searching ability of the algorithm. Finally, the extensive experimental results demonstrate that when the number of selected satellite is more than 6, the time that the proposed algorithm with the improvement of “adaptive perturbation” takes to select satellite once is 43.7% of the time that the primitive Gibbs sampler algorithm takes. And its solutions are always 0.1 smaller than the related algorithms in geometric dilution of precision value. Therefore, the proposed algorithm can be considered as a promising candidate for satellite navigation application systems.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720929620
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720929620
+Y2  - 2024/10/01
+ER  - 
+

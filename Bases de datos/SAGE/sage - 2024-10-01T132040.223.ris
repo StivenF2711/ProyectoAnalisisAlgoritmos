@@ -1,0 +1,233 @@
+TY  - JOUR
+T1  - Meta-heuristic-based offloading task optimization in mobile edge computing
+AU  - Abbas, Aamir
+AU  - Raza, Ali
+AU  - Aadil, Farhan
+AU  - Maqsood, Muazzam
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2021/06/01
+N1  - doi: 10.1177/15501477211023021
+DO  - 10.1177/15501477211023021
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -15501477211023020
+VL - 17
+IS - 6
+PB - SAGE Publications
+N2 - With the recent advancements in communication technologies, the realization of computation-intensive applications like virtual/augmented reality, face recognition, and real-time video processing becomes possible at mobile devices. These applications require intensive computations for real-time decision-making and better user experience. However, mobile devices and Internet of things have limited energy and computational power. Executing such computationally intensive tasks on edge devices either leads to high computation latency or high energy consumption. Recently, mobile edge computing has been evolved and used for offloading these complex tasks. In mobile edge computing, Internet of things devices send their tasks to edge servers, which in turn perform fast computation. However, many Internet of things devices and edge server put an upper limit on concurrent task execution. Moreover, executing a very small size task (1 KB) over an edge server causes increased energy consumption due to communication. Therefore, it is required to have an optimal selection for tasks offloading such that the response time and energy consumption will become minimum. In this article, we proposed an optimal selection of offloading tasks using well-known metaheuristics, ant colony optimization algorithm, whale optimization algorithm, and Grey wolf optimization algorithm using variant design of these algorithms according to our problem through mathematical modeling. Executing multiple tasks at the server tends to provide high response time that leads to overloading and put additional latency at task computation. We also graphically represent the tradeoff between energy and delay that, how both parameters are inversely proportional to each other, using values from simulation. Results show that Grey wolf optimization outperforms the others in terms of optimizing energy consumption and execution latency while selected optimal set of offloading tasks.
+SN - 1550-1329
+M3  - doi: 10.1177/15501477211023021
+UR  - https://doi-org.crai.referencistas.com/10.1177/15501477211023021
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Hemispheric Organization for Visual Object Recognition: A Theoretical Account and Empirical Evidence
+AU  - Behrmann, Marlene
+AU  - Plaut, David C.
+Y1  - 2020/01/24
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/0301006619899049
+DO  - 10.1177/0301006619899049
+T2  - Perception
+JF  - Perception
+JO  - Perception
+SP  -373
+EP - 404
+VL - 49
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Abstract Despite the similarity in structure, the hemispheres of the human brain have somewhat different functions. A traditional view of hemispheric organization asserts that there are independent and largely lateralized domain-specific regions in ventral occipitotemporal (VOTC), specialized for the recognition of distinct classes of objects. Here, we offer an alternative account of the organization of the hemispheres, with a specific focus on face and word recognition. This alternative account relies on three computational principles: distributed representations and knowledge, cooperation and competition between representations, and topography and proximity. The crux is that visual recognition results from a network of regions with graded functional specialization that is distributed across both hemispheres. Specifically, the claim is that face recognition, which is acquired relatively early in life, is processed by VOTC regions in both hemispheres. Once literacy is acquired, word recognition, which is co-lateralized with language areas, primarily engages the left VOTC and, consequently, face recognition is primarily, albeit not exclusively, mediated by the right VOTC. We review psychological and neural evidence from a range of studies conducted with normal and brain-damaged adults and children and consider findings which challenge this account. Last, we offer suggestions for future investigations whose findings may further refine this account.
+SN - 0301-0066
+M3  - doi: 10.1177/0301006619899049
+UR  - https://doi-org.crai.referencistas.com/10.1177/0301006619899049
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Measuring the size of a crowd using Instagram
+AU  - Botta, Federico
+AU  - Moat, Helen Susannah
+AU  - Preis, Tobias
+Y1  - 2019/04/22
+PY  - 2020
+DA  - 2020/11/01
+N1  - doi: 10.1177/2399808319841615
+DO  - 10.1177/2399808319841615
+T2  - Environment and Planning B: Urban Analytics and City Science
+JF  - Environment and Planning B: Urban Analytics and City Science
+SP  -1690
+EP - 1703
+VL - 47
+IS - 9
+PB - SAGE Publications Ltd STM
+N2 - Measuring the size of a crowd in a specific location can be of crucial importance for crowd management, in particular in emergency situations. Here, using two football stadiums as case studies, we present evidence that data generated through interactions with the social media platform Instagram can be used to generate estimates of the size of a crowd. We present a detailed analysis of the impact of varying the time period and spatial area considered for the collection of Instagram data. Crucially, we demonstrate how to address issues that arise from changes in the usage of a social media platform such as Instagram. Our findings show how social media datasets carrying location-based information may help provide near to real-time measurements of the size of a crowd.
+SN - 2399-8083
+M3  - doi: 10.1177/2399808319841615
+UR  - https://doi-org.crai.referencistas.com/10.1177/2399808319841615
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - On the genealogy of machine learning datasets: A critical history of ImageNet
+AU  - Denton, Emily
+AU  - Hanna, Alex
+AU  - Amironesei, Razvan
+AU  - Smart, Andrew
+AU  - Nicole, Hilary
+Y1  - 2021/07/01
+PY  - 2021
+DA  - 2021/07/01
+N1  - doi: 10.1177/20539517211035955
+DO  - 10.1177/20539517211035955
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517211035956
+VL - 8
+IS - 2
+PB - SAGE Publications Ltd
+N2 - In response to growing concerns of bias, discrimination, and unfairness perpetuated by algorithmic systems, the datasets used to train and evaluate machine learning models have come under increased scrutiny. Many of these examinations have focused on the contents of machine learning datasets, finding glaring underrepresentation of minoritized groups. In contrast, relatively little work has been done to examine the norms, values, and assumptions embedded in these datasets. In this work, we conceptualize machine learning datasets as a type of informational infrastructure, and motivate a genealogy as method in examining the histories and modes of constitution at play in their creation. We present a critical history of ImageNet as an exemplar, utilizing critical discourse analysis of major texts around ImageNet’s creation and impact. We find that assumptions around ImageNet and other large computer vision datasets more generally rely on three themes: the aggregation and accumulation of more data, the computational construction of meaning, and making certain types of data labor invisible. By tracing the discourses that surround this influential benchmark, we contribute to the ongoing development of the standards and norms around data development in machine learning and artificial intelligence research.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517211035955
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517211035955
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Small decisions with big impact on data analytics
+AU  - Diesner, Jana
+Y1  - 2015/12/01
+PY  - 2015
+DA  - 2015/12/01
+N1  - doi: 10.1177/2053951715617185
+DO  - 10.1177/2053951715617185
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951715617185
+VL - 2
+IS - 2
+PB - SAGE Publications Ltd
+N2 - Big social data have enabled new opportunities for evaluating the applicability of social science theories that were formulated decades ago and were often based on small- to medium-sized samples. Big Data coupled with powerful computing has the potential to replace the statistical practice of sampling and estimating effects by measuring phenomena based on full populations. Preparing these data for analysis and conducting analytics involves a plethora of decisions, some of which are already embedded in previously collected data and built tools. These decisions refer to the recording, indexing and representation of data and the settings for analysis methods. While these choices can have tremendous impact on research outcomes, they are not often obvious, not considered or not being made explicit. Consequently, our awareness and understanding of the impact of these decisions on analysis results and derived implications are highly underdeveloped. This might be attributable to occasional high levels of over-confidence in computational solutions as well as the possible yet questionable assumption that Big Data can wash out minor data quality issues, among other reasons. This article provides examples for how to address this issue. It argues that checking, ensuring and validating the quality of big social data and related auxiliary material is a key ingredient for empowering users to gain reliable insights from their work. Scrutinizing data for accuracy issues, systematically fixing them and diligently documenting these processes can have another positive side effect: Closely interacting with the data, thereby forcing ourselves to understand their idiosyncrasies and patterns, can help us to move from being able to precisely model and formally describe effects in society to also understand and explain them.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951715617185
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951715617185
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Data, information, and knowledge-driven manipulation between strategical planning and technical implementation for wireless sensor network construction
+AU  - Duan, Yucong
+AU  - Shao, Lixu
+AU  - Yang, Xiaoxian
+AU  - Sun, Xiaobing
+AU  - Zhou, Zhangbing
+AU  - Yu, Lifeng
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - doi: 10.1177/1550147717743700
+DO  - 10.1177/1550147717743700
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147717743700
+VL - 13
+IS - 11
+PB - SAGE Publications
+N2 - To provide guidance to and integrate directly with the information technology side implementation to achieve coherent data, information, and knowledge coordination and robust value-oriented adaptability for maximization of business profitability, we propose to leverage the ideology of service economics to achieve bidirectional computational bridging between business planning and technical implementation of ubiquitous services/XaaS in the application program interface economy for promoting the macro-service market, especially in global value chains. Enlightened by value-driven design, we propose a systemic formalization from value calculation to design quality measurement which binds the technical modification and variation on design artifacts with business value strategy through a framework of managed quality properties in a wireless sensor network–based service system creation process. In the process of building a service system, we use data, information, and knowledge flow to abstract various data, information, and knowledge manipulation and usage scenarios. We propose to improve system reliability and robustness by managing data and information reuse, redundancy as well as structure.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147717743700
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147717743700
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - From ranking algorithms to ‘ranking cultures’: Investigating the modulation of visibility in YouTube search results
+AU  - Rieder, Bernhard
+AU  - Matamoros-Fernández, Ariadna
+AU  - Coromina, Òscar
+Y1  - 2018/01/10
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1177/1354856517736982
+DO  - 10.1177/1354856517736982
+T2  - Convergence
+JF  - Convergence
+SP  -50
+EP - 68
+VL - 24
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Algorithms, as constitutive elements of online platforms, are increasingly shaping everyday sociability. Developing suitable empirical approaches to render them accountable and to study their social power has become a prominent scholarly concern. This article proposes an approach to examine what an algorithm does, not only to move closer to understanding how it works, but also to investigate broader forms of agency involved. To do this, we examine YouTube’s search results ranking over time in the context of seven sociocultural issues. Through a combination of rank visualizations, computational change metrics and qualitative analysis, we study search ranking as the distributed accomplishment of ‘ranking cultures’. First, we identify three forms of ordering over time – stable, ‘newsy’ and mixed rank morphologies. Second, we observe that rankings cannot be easily linked back to popularity metrics, which highlights the role of platform features such as channel subscriptions in processes of visibility distribution. Third, we find that the contents appearing in the top 20 results are heavily influenced by both issue and platform vernaculars. YouTube-native content, which often thrives on controversy and dissent, systematically beats out mainstream actors in terms of exposure. We close by arguing that ranking cultures are embedded in the meshes of mutually constitutive agencies that frustrate our attempts at causal explanation and are better served by strategies of ‘descriptive assemblage’.
+SN - 1354-8565
+M3  - doi: 10.1177/1354856517736982
+UR  - https://doi-org.crai.referencistas.com/10.1177/1354856517736982
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Transforming media agency? Approaches to automation in Finnish legacy media
+AU  - Rydenfelt, Henrik
+Y1  - 2021/03/03
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1177/1461444821998705
+DO  - 10.1177/1461444821998705
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -2598
+EP - 2613
+VL - 24
+IS - 12
+PB - SAGE Publications
+N2 - The algorithmic automation of media processes has produced machines that perform in roles that were previously occupied by human beings. Recent research has probed various theoretical approaches to the agency and ethical responsibility of machines and algorithms. However, there is no theoretical consensus concerning many key issues. Rather than setting out with fixed conceptions, this research calls for a closer look at the considerations and attitudes that motivate actual attributions of agency and responsibility. The empirical context of this study is legacy media where the introduction of automation, together with topical considerations of journalistic ethics and responsibility, has given rise to substantial reflection on received conceptions and practices. The results show a continuing resistance to attributions of agency and responsibility to machines. Three lines of thinking that motivate this stance are distinguished, and their potential shortcomings and theoretical implications are considered.
+SN - 1461-4448
+M3  - doi: 10.1177/1461444821998705
+UR  - https://doi-org.crai.referencistas.com/10.1177/1461444821998705
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Coarse-Grained Models Reveal Functional Dynamics - I. Elastic Network Models – Theories, Comparisons and Perspectives
+AU  - Yang, Lee-Wei
+AU  - Chng, Choon-Peng
+Y1  - 2008/01/01
+PY  - 2008
+DA  - 2008/01/01
+N1  - doi: 10.4137/BBI.S460
+DO  - 10.4137/BBI.S460
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S460
+VL - 2
+PB - SAGE Publications Ltd STM
+N2 - In this review, we summarize the progress on coarse-grained elastic network models (CG-ENMs) in the past decade. Theories were formulated to allow study of conformational dynamics in time/space frames of biological interest. Several highlighted models and their underlined hypotheses are introduced in physical depth. Important ENM offshoots, motivated to reproduce experimental data as well as to address the slow-mode-encoded configurational transitions, are also introduced. With the theoretical developments, computational cost is significantly reduced due to simplified potentials and coarse-grained schemes. Accumulating wealth of data suggest that ENMs agree equally well with experiment in describing equilibrium dynamics despite their distinct potentials and levels of coarse-graining. They however do differ in the slowest motional components that are essential to address large conformational changes of functional significance. The difference stems from the dissimilar curvatures of the harmonic energy wells described for each model. We also provide our views on the predictability of ‘open to close’ (open→close) transitions of biomolecules on the basis of conformational selection theory. Lastly, we address the limitations of the ENM formalism which are partially alleviated by the complementary CG-MD approach, to be introduced in the second paper of this two-part series.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S460
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S460
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Comparison of Clock Synchronization in Wireless Sensor Networks
+AU  - Youn, Seongwook
+Y1  - 2013/12/01
+PY  - 2013
+DA  - 2013/12/01
+N1  - doi: 10.1155/2013/532986
+DO  - 10.1155/2013/532986
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -532986
+VL - 9
+IS - 12
+PB - SAGE Publications
+N2 - The recent advances in microelectro devices have led the researchers to an area of developing a large distributed system that consist of small, wireless sensor nodes. These sensor nodes are usually equipped with sensors to perceive the environment. Synchronization is an important component of almost all distributed systems and has been studied by many researchers. There are many solutions for the classical networks, but the traditional synchronization techniques are not suitable for sensor networks because they do not consider the partitioning of the network and message delay. Additionally, limited power, computational capacity, and memory of the sensor nodes make the problem more challenging for wireless sensor networks. This paper examines the clock synchronization issues in wireless sensor networks. Energy efficiency, cost, scalability, lifetime, robustness, and precision are the main problems to be considered in design of a synchronization algorithm. There is no one single system that satisfies all these together. A comparison of different clock synchronization algorithms in wireless sensor networks with a main focus on energy efficiency, scalability, and precision properties of them will be provided here.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/532986
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/532986
+Y2  - 2024/10/01
+ER  - 
+

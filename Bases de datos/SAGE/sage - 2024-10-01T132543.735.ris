@@ -1,0 +1,239 @@
+TY  - JOUR
+T1  - A Multichannel Cross-Layer Architecture for Multimedia Sensor Networks
+AU  - Çevik, Taner
+AU  - Zaim, Abdül Halim
+Y1  - 2013/03/01
+PY  - 2013
+DA  - 2013/03/01
+N1  - doi: 10.1155/2013/457045
+DO  - 10.1155/2013/457045
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -457045
+VL - 9
+IS - 3
+PB - SAGE Publications
+N2 - Depending upon the technological developments, the same fast evolution has occurred in the structures of sensor networks, their composing devices which are sensor nodes, and their application areas. Those tiny, energy-constrained, mostly non-real-time data transmitting sensor nodes have evolved to more energy-containing, camera-adapted, real-time multimedia-data-transmitting devices. Developments in the usage areas and the capabilities have revealed some other problems such as time limited data transmission. In this paper, we propose a multichannel cross-layer architecture for Quality of Service (QoS) constrained multimedia sensor networks. The proposed architecture considers both the time and energy efficiency concepts. Energy efficiency is succeeded by ensuring the fair load distribution among the nodes during a real-time multimedia packet stream transmission. Besides ensuring the fair load distribution, on-time packet transmission is also assured by constructing the paths with a hard reservation technique depending on the predetermined QoS constraints. Simulations show that the proposed architecture provides higher performance than the Greedy approach and the LEERA scheme.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/457045
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/457045
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Design of a Quadruped Robot for Research Purposes
+AU  - Geva, Yam
+AU  - Shapiro, Amir
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/07/01
+N1  - doi: 10.5772/57351
+DO  - 10.5772/57351
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -95
+VL - 11
+IS - 7
+PB - SAGE Publications
+N2 - This paper presents the design of a novel quadruped robot. The proposed design is characterized by a simple, modular design, and easy interfacing capabilities. The robot is built mostly from off-the-shelf components. The design includes four 3-DOF legs, the robot body and its electronics. The proposed robot is able to traverse rough terrain while carrying additional payloads. Such payloads can include both sensors and computational hardware. We present the robot design, the control system, and the forward and inverse kinematics of the robot, as well as experiments that are compared with simulation results.
+SN - 1729-8806
+M3  - doi: 10.5772/57351
+UR  - https://doi-org.crai.referencistas.com/10.5772/57351
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Malivhu: A Comprehensive Bioinformatics Resource for Filtering SARS and MERS Virus Proteins by Their Classification, Family and Species, and Prediction of Their Interactions Against Human Proteins
+AU  - Guevara-Barrientos, David
+AU  - Kaundal, Rakesh
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/11779322241263671
+DO  - 10.1177/11779322241263671
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -11779322241263672
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - COVID 19 pandemic is still ongoing, having taken more than 6 million human lives with it, and it seems that the world will have to learn how to live with the virus around. In consequence, there is a need to develop different treatments against it, not only with vaccines, but also new medicines. To do this, human-virus protein-protein interactions (PPIs) play a key part in drug-target discovery, but finding them experimentally can be either costly or sometimes unreliable. Therefore, computational methods arose as a powerful alternative to predict these interactions, reducing costs and helping researchers confirm only certain interactions instead of trying all possible combinations in the laboratory. Malivhu is a tool that predicts human-virus PPIs through a 4-phase process using machine learning models, where phase 1 filters ssRNA(+) class virus proteins, phase 2 filters Coronaviridae family proteins and phase 3 filters severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) species proteins, and phase 4 predicts human-SARS-CoV/SARS-CoV-2/MERS protein-protein interactions. The performance of the models was measured with Matthews correlation coefficient, F1-score, specificity, sensitivity, and accuracy scores, getting accuracies of 99.07%, 99.83%, and 100% for the first 3 phases, respectively, and 94.24% for human-SARS-CoV PPI, 94.50% for human-SARS-CoV-2 PPI, and 95.45% for human-MERS PPI on independent testing. All the prediction models developed for each of the 4 phases were implemented as web server which is freely available at https://kaabil.net/malivhu/.
+SN - 1177-9322
+M3  - doi: 10.1177/11779322241263671
+UR  - https://doi-org.crai.referencistas.com/10.1177/11779322241263671
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Human-like Upper-limb Motion Planner: Generating naturalistic movements for humanoid robots
+AU  - Gulletta, Gianpaolo
+AU  - Silva, Eliana Costa e
+AU  - Erlhagen, Wolfram
+AU  - Meulenbroek, Ruud
+AU  - Costa, Maria Fernanda Pires
+AU  - Bicho, Estela
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1177/1729881421998585
+DO  - 10.1177/1729881421998585
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881421998585
+VL - 18
+IS - 2
+PB - SAGE Publications
+N2 - As robots are starting to become part of our daily lives, they must be able to cooperate in a natural and efficient manner with humans to be socially accepted. Human-like morphology and motion are often considered key features for intuitive human–robot interactions because they allow human peers to easily predict the final intention of a robotic movement. Here, we present a novel motion planning algorithm, the Human-like Upper-limb Motion Planner, for the upper limb of anthropomorphic robots, that generates collision-free trajectories with human-like characteristics. Mainly inspired from established theories of human motor control, the planning process takes into account a task-dependent hierarchy of spatial and postural constraints modelled as cost functions. For experimental validation, we generate arm-hand trajectories in a series of tasks including simple point-to-point reaching movements and sequential object-manipulation paradigms. Being a major contribution to the current literature, specific focus is on the kinematics of naturalistic arm movements during the avoidance of obstacles. To evaluate human-likeness, we observe kinematic regularities and adopt smoothness measures that are applied in human motor control studies to distinguish between well-coordinated and impaired movements. The results of this study show that the proposed algorithm is capable of planning arm-hand movements with human-like kinematic features at a computational cost that allows fluent and efficient human–robot interactions.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881421998585
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881421998585
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - MSL: A Measure to Evaluate Three-dimensional Patterns in Gene Expression Data
+AU  - Gutiérrez-Avilés, David
+AU  - Rubio-Escudero, Cristina
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/EBO.S25822
+DO  - 10.4137/EBO.S25822
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S25822
+VL - 11
+PB - SAGE Publications Ltd STM
+N2 - Microarray technology is highly used in biological research environments due to its ability to monitor the RNA concentration levels. The analysis of the data generated represents a computational challenge due to the characteristics of these data. Clustering techniques are widely applied to create groups of genes that exhibit a similar behavior. Biclustering relaxes the constraints for grouping, allowing genes to be evaluated only under a subset of the conditions. Triclustering appears for the analysis of longitudinal experiments in which the genes are evaluated under certain conditions at several time points. These triclusters provide hidden information in the form of behavior patterns from temporal experiments with microarrays relating subsets of genes, experimental conditions, and time points. We present an evaluation measure for triclusters called Multi Slope Measure, based on the similarity among the angles of the slopes formed by each profile formed by the genes, conditions, and times of the tricluster.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S25822
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S25822
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Identification of microRNAs and genes as biomarkers of atrial fibrillation using a bioinformatics approach
+AU  - Li, Yingyuan
+AU  - Tan, Wulin
+AU  - Ye, Fang
+AU  - Xue, Faling
+AU  - Gao, Shaowei
+AU  - Huang, Wenqi
+AU  - Wang, Zhongxing
+Y1  - 2019/06/20
+PY  - 2019
+DA  - 2019/08/01
+N1  - doi: 10.1177/0300060519852235
+DO  - 10.1177/0300060519852235
+T2  - Journal of International Medical Research
+JF  - Journal of International Medical Research
+JO  - J Int Med Res
+SP  -3580
+EP - 3589
+VL - 47
+IS - 8
+PB - SAGE Publications Ltd
+N2 - Objective We aimed to explore potential microRNAs (miRNAs) and target genes related to atrial fibrillation (AF). Methods Data for microarrays GSE70887 and GSE68475, both of which include AF and control groups, were downloaded from the Gene Expression Omnibus database. Differentially expressed miRNAs between AF and control groups were identified within each microarray, and the intersection of these two sets was obtained. These miRNAs were mapped to target genes in the miRNet database. Functional annotation and enrichment analysis of these target genes was performed in the DAVID database. The protein-protein interaction (PPI) network from the STRING database and the miRNA-target-gene network were merged into a PPI-miRNA network using Cytoscape software. Modules of this network containing miRNAs were detected and further analyzed. Results Ten differentially expressed miRNAs and 1520 target genes were identified. Three PPI-miRNA modules were constructed, which contained miR-424, miR-15a, miR-542-3p, and miR-421 as well as their target genes, CDK1, CDK6, and CCND3. Conclusion The identified miRNAs and genes may be related to the pathogenesis of AF. Thus, they may be potential biomarkers for diagnosis and targets for treatment of AF.
+SN - 0300-0605
+M3  - doi: 10.1177/0300060519852235
+UR  - https://doi-org.crai.referencistas.com/10.1177/0300060519852235
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - MAGA: A Supervised Method to Detect Motifs From Annotated Groups in Alignments
+AU  - Mier, Pablo
+AU  - Andrade-Navarro, Miguel A.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176934320916199
+DO  - 10.1177/1176934320916199
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934320916199
+VL - 16
+PB - SAGE Publications Ltd STM
+N2 - Multiple sequence alignments are usually phylogenetically driven. They are studied in the framework of evolution. But sometimes, it is interesting to study residue conservation at positions unconstrained by evolutionary rules. We present a supervised method to access a layer of information difficult to appreciate visually when many protein sequences are aligned. This new tool (MAGA; http://cbdm-01.zdv.uni-mainz.de/~munoz/maga/) locates positions in multiple sequence alignments differentially conserved in manually defined groups of sequences.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934320916199
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934320916199
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Stopping Criteria for Log-Domain Diffeomorphic Demons Registration: An Experimental Survey for Radiotherapy Application
+AU  - Peroni, M.
+AU  - Golland, P.
+AU  - Sharp, G.C.
+AU  - Baroni, G.
+Y1  - 2013/01/01
+PY  - 2016
+DA  - 2016/02/01
+N1  - doi: 10.7785/tcrtexpress.2013.600269
+DO  - 10.7785/tcrtexpress.2013.600269
+T2  - Technology in Cancer Research & Treatment
+JF  - Technology in Cancer Research & Treatment
+JO  - Technol Cancer Res Treat
+SP  -77
+EP - 90
+VL - 15
+IS - 1
+PB - SAGE Publications Inc
+N2 - A crucial issue in deformable image registration is achieving a robust registration algorithm at a reasonable computational cost. Given the iterative nature of the optimization procedure an algorithm must automatically detect convergence, and stop the iterative process when most appropriate. This paper ranks the performances of three stopping criteria and six stopping value computation strategies for a Log-Domain Demons Deformable registration method simulating both a coarse and a fine registration. The analyzed stopping criteria are: (a) velocity field update magnitude, (b) mean squared error, and (c) harmonic energy. Each stoping condition is formualted so that the user defines a threshold ∊, which quantifies the residual error that is acceptable for the particular problem and calculation strategy. In this work, we did not aim at assigning a value to e, but to give insights in how to evaluate and to set the threshold on a given exit strategy in a very popular registration scheme. Experi-ments on phantom and patient data demonstrate that comparing the optimization metric minimum over the most recent three iterations with the minimum over the fourth to sixth most recent iterations can be an appropriate algorithm stopping strategy. The harmonic energy was found to provide best trade-off between robustness and speed of convergence for the analyzed registration method at coarse registration, but was outperformed by mean squared error when all the original pixel information is used. This suggests the need of developing mathematically sound new convergence criteria in which both image and vector field information could be used to detect the actual convergence, which could be especially useful when considering multi-resolution registrations. Further work should be also dedicated to study same strategies performances in other deformable registration methods and body districts.
+SN - 1533-0346
+M3  - doi: 10.7785/tcrtexpress.2013.600269
+UR  - https://doi-org.crai.referencistas.com/10.7785/tcrtexpress.2013.600269
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using genetic algorithms to optimize the location of transducers for an active noise barrier
+AU  - Sohrabi, Shahin
+AU  - Pàmies Gómez, Teresa
+AU  - Romeu Garbí, Jordi
+Y1  - 2023/07/31
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1177/14613484231184701
+DO  - 10.1177/14613484231184701
+T2  - Journal of Low Frequency Noise, Vibration and Active Control
+JF  - Journal of Low Frequency Noise, Vibration and Active Control
+SP  -494
+EP - 509
+VL - 43
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The effectiveness of an active noise barrier is heavily dependent on the positioning of secondary sources and error sensors. Typically, these components are located at the edge of the barrier; however, research suggests that alternative distributions may improve the performance of the active barrier. This paper utilizes a genetic optimizer to determine optimal transducer locations based on specific criteria. Two approaches are employed: the Two-step approach which, first identifies optimal control source positions and then seeks the best error microphone locations, and the Multi-parameter approach, which optimizes all active noise control parameters simultaneously. The acoustic fields of primary and secondary sources are analyzed for various numbers of control sources progressively increasing from 2 to 10 units. Results indicate that the Multi-parameter approach achieves higher outcomes and requires less computational effort. This approach is more desirable than the Two-step approach. The best configuration for the active noise barrier is determined to be control sources and error microphones placed at a height below the barrier’s edge and are distributed with an interval between a half and a full wavelength. The number of error sensors should be close to the number of secondary sources and both transducers should be placed at the farthest distance from the barrier surface, but oppositely. Furthermore, the study shows that when the primary noise source is close to the barrier adjacent transducers should not be spaced uniformly.
+SN - 1461-3484
+M3  - doi: 10.1177/14613484231184701
+UR  - https://doi-org.crai.referencistas.com/10.1177/14613484231184701
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical Analysis of Flow Phenomena in a Residual Heat Removal Pump
+AU  - Yuan, Jianping
+AU  - Hong, Feng
+AU  - Zhou, Banglun
+AU  - Zhang, Fan
+Y1  - 2014/12/16
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.1155/2014/871934
+DO  - 10.1155/2014/871934
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -871934
+VL - 7
+IS - 2
+PB - SAGE Publications
+N2 - The hydraulic performances as well as the cavitation phenomena in a scaled residual heat removal pump were investigated by experimental and numerical methods, respectively. In particular, a 3D numerical model of cavitation was adopted to simulate the internal cavitating flow through the model pump. The hydraulic performances of the model pump predicted by numerical simulations were in good agreement with the corresponding experimental data. The main generation and evolution of attached cavitation throughout the blade channels at different cavitating conditions have been investigated using the vapor fraction ISO surface and in-plane velocity vectors. Results show that the low static pressure at the impeller inlet is the main reason for leading edge cavitation by correlation analysis of static pressure on the midspan of impeller. Cavitation proved to occur over a wide range of flow rates, producing a characteristic creeping shape of the head-drop curve and developing in the form of nonaxisymmetric cavities at design flow rate. Moreover, the occurrence of these cavities, attached to the suction surface of blades, was found to depend on the NPSHA value. Numerical and experimental results in this paper can provide better understanding of the origin of leading edge cavitation in residual heat removal pumps.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/871934
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/871934
+Y2  - 2024/10/01
+ER  - 
+

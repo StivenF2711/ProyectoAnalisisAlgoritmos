@@ -1,0 +1,248 @@
+TY  - JOUR
+T1  - AI and the social construction of creativity
+AU  - Atkinson, Dr Paul
+AU  - Barker, Dr Richie
+Y1  - 2023/07/06
+PY  - 2023
+DA  - 2023/08/01
+N1  - doi: 10.1177/13548565231187730
+DO  - 10.1177/13548565231187730
+T2  - Convergence
+JF  - Convergence
+SP  -1054
+EP - 1069
+VL - 29
+IS - 4
+PB - SAGE Publications Ltd
+N2 - Artificial Intelligence (AI) encroaches on new terrains of human activity by dint of its efficacy and an expanding ability to autonomously incorporate information from many disciplines and sources. In this paper, we focus specifically on how AI affects the communicative practices associated with creativity. AI has the capacity to reshape discipline and taste communities by providing new content that competes with human production and by mediating between human activity and information sources. To frame these issues, we turn to the influential systems model of creativity devised by Mihaly Csikszentmihalyi (1996), which Csikszentmihalyi and Daniel Gruner (2018) recently extended to incorporate AI, redubbing it Creativity 4.0. The model assesses how AI affects the social structure of creative practice without overly accentuating the similarity between humans and AI, or questioning whether computational devices will replace creative jobs. The paper examines Gruner and Csikszentmihalyi’s revised systems model, arguing that it does not sufficiently take into account the variety of ways that AI can be incorporated into creative practice. Prompted by a theoretical reflection on the nature of the model and the emerging features of AI, we propose a new version of the model that highlights how embedded AIs play a key role in filtering and gatekeeping, as well as the importance of generative systems in informing creative practice. We propose that any discussion of AI and the future of creative practice should look at where and how AI supported technologies are used. We examine how AI can reduce and shape the qualitative diversity of sources of inspiration drawn into the creative process, with the associated technological biases, as well as provide an emergent platform for the development of novel ideas.
+SN - 1354-8565
+M3  - doi: 10.1177/13548565231187730
+UR  - https://doi-org.crai.referencistas.com/10.1177/13548565231187730
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Large-scale buckling-constrained topology optimization based on assembly-free finite element analysis
+AU  - Bian, Xiang
+AU  - Fang, Zongde
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1177/1687814017715422
+DO  - 10.1177/1687814017715422
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017715422
+VL - 9
+IS - 9
+PB - SAGE Publications
+N2 - In this article, we propose a fast method to solve large-scale three-dimensional topology optimization problems subject to buckling constraints. Buckling analysis entails the solution of a generalized eigenvalue problem. For problems with large degrees of freedom, the current numerical methods tend to be memory-hungry, leading to high computational costs. First, a low-memory assembly-free linear buckling analysis method is proposed. Specifically, this method is based on the voxelization model, an assembly-free version of the deflated conjugate gradient is used to accelerate the iteration solution of linear systems of equations, where neither the stiffness matrix nor the deflation matrix is assembled, and the parallelization of matrix–vector multiplication is achieved by the congruency of voxels. Due to the particularity of the stress stiffness matrix in the buckling analysis, the inverse iteration is used to solve the general eigenvalue problem, which can reduce the operations of stress stiffness matrix considerably. Based on the efficient buckling analysis method, we extend the level-set method for buckling constraints in a semi-analytical manner. Several numerical experiments demonstrate that the proposed method can solve large-scale three-dimensional buckling analysis and topology optimization against buckling constraints effectively.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017715422
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017715422
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Reactive collision-free motion generation in joint space via dynamical systems and sampling-based MPC
+AU  - Koptev, Mikhail
+AU  - Figueroa, Nadia
+AU  - Billard, Aude
+Y1  - 2024/04/12
+PY  - 2024
+N1  - doi: 10.1177/02783649241246557
+DO  - 10.1177/02783649241246557
+T2  - The International Journal of Robotics Research
+JF  - The International Journal of Robotics Research
+SP  -02783649241246557
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - Dynamical system (DS) based motion planning offers collision-free motion, with closed-loop reactivity thanks to their analytical expression. It ensures that obstacles are not penetrated by reshaping a nominal DS through matrix modulation, which is constructed using continuously differentiable obstacle representations. However, state-of-the-art approaches may suffer from local minima induced by non-convex obstacles, thus failing to scale to complex, high-dimensional joint spaces. On the other hand, sampling-based Model Predictive Control (MPC) techniques provide feasible collision-free paths in joint-space, yet are limited to quasi-reactive scenarios due to computational complexity that grows cubically with space dimensionality and horizon length. To control the robot in the cluttered environment with moving obstacles, and to generate feasible and highly reactive collision-free motion in robots’ joint space, we present an approach for modulating joint-space DS using sampling-based MPC. Specifically, a nominal DS representing an unconstrained desired joint space motion to a target is locally deflected with obstacle-tangential velocity components navigating the robot around obstacles and avoiding local minima. Such tangential velocity components are constructed from receding horizon collision-free paths generated asynchronously by the sampling-based MPC. Notably, the MPC is not required to run constantly, but only activated when the local minima is detected. The approach is validated in simulation and real-world experiments on a 7-DoF robot demonstrating the capability of avoiding concave obstacles, while maintaining local attractor stability in both quasi-static and highly dynamic cluttered environments.
+SN - 0278-3649
+M3  - doi: 10.1177/02783649241246557
+UR  - https://doi-org.crai.referencistas.com/10.1177/02783649241246557
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An efficient numerical simulation method for evaluations of uncertainty analysis and sensitivity analysis of system with mixed uncertainties
+AU  - Li, Shun
+AU  - Tang, Zhang-Chun
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - doi: 10.1177/1687814018800533
+DO  - 10.1177/1687814018800533
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814018800533
+VL - 10
+IS - 10
+PB - SAGE Publications
+N2 - This article investigates uncertainty analysis for system with aleatory and epistemic uncertainties and defines a sensitivity analysis indicator to measure the effect of imprecise parameter with epistemic uncertainty on system output, and an efficient numerical simulation methodology is proposed to evaluate the uncertainty analysis and sensitivity analysis indicator. System inputs have aleatory uncertainties defined by probability density functions, and distribution parameters of probability density functions are imprecise due to epistemic uncertainties and are defined by fuzzy sets with membership functions. System will fail to operate when output is less than or equal to zero, and we define membership function of reliability index as system output for uncertainty analysis, and sensitivity analysis indicator associated with an imprecise parameter is defined by absolute difference between original membership function and conditional membership function of reliability index when eliminating epistemic uncertainty relevant to the parameter of interest. Direct evaluation is a time-consuming coupled several-loop Monte Carlo sampling procedure. Thus, we propose an improved importance sampling method for efficient evaluation of uncertainty analysis and sensitivity analysis indicator. Using the proposed improved importance sampling method, only one importance sampling run with a set of input–output importance sampling samples is required to solve uncertainty analysis and sensitivity analysis indicator. Three examples are employed to demonstrate computational efficiency of the proposed method.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814018800533
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814018800533
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Structure-aware sample consensus for robust stereo visual odometry
+AU  - Liu, Chun
+AU  - Li, Zhengning
+AU  - Chen, Zhuo
+AU  - Wu, Hangbin
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.1177/1550147717736655
+DO  - 10.1177/1550147717736655
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147717736655
+VL - 13
+IS - 10
+PB - SAGE Publications
+N2 - With the expansion of underground infrastructure in the urban areas, positioning in such scenario becomes a crucial problem for the ubiquitous urban positioning applications. The visual odometry algorithm can provide an accurate position reference for ground applications. However, it encounters robust estimation problems in the underground because automatic feature matching from the underground structures is difficult and errors are quite frequent. In this article, we present a novel structure-aware sample consensus algorithm to solve the robust estimation problem in stereo visual odometry. Features from the rigid structure provide a static reference and are more likely to be inliers, based on which we introduce a structure feature-guided sampling procedure instead of the random sampling procedure as used in random sample consensus. With this novel procedure, the structure-aware sample consensus gains more possibility to generate a correct motion model and performs as a robust estimator for the underground visual odometry algorithm. The experiments with both synthetic and real-world data show that structure-aware sample consensus outperforms the random sample consensus and its variants in robustness, while maintaining a lower computational cost. In addition, the structure-aware sample consensus–based visual odometry algorithm maintains the same performance level of robustness and accuracy for both ground and underground scenarios, which makes the algorithm applicable for ubiquitous urban positioning systems.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147717736655
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147717736655
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Malignant astrocyte swelling and impaired glutamate clearance drive the expansion of injurious spreading depolarization foci
+AU  - AU  - Menyhárt, Ákos
+AU  - Frank, Rita
+AU  - Farkas, Attila E.
+AU  - Süle, Zoltán
+AU  - Varga, Viktória É.
+AU  - Nyúl-Tóth, Ádám
+AU  - Meiller, Anne
+AU  - Ivánkovits-Kiss, Orsolya
+AU  - Lemale, Coline L.
+AU  - Szabó, Írisz
+et al.
+Y1  - 2021/08/24
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/0271678X211040056
+DO  - 10.1177/0271678X211040056
+T2  - Journal of Cerebral Blood Flow & Metabolism
+JF  - Journal of Cerebral Blood Flow & Metabolism
+JO  - J Cereb Blood Flow Metab
+SP  -584
+EP - 599
+VL - 42
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Spreading depolarizations (SDs) indicate injury progression and predict worse clinical outcome in acute brain injury. We demonstrate in rodents that acute brain swelling upon cerebral ischemia impairs astroglial glutamate clearance and increases the tissue area invaded by SD. The cytotoxic extracellular glutamate accumulation (>15 µM) predisposes an extensive bulk of tissue (4–5 mm2) for a yet undescribed simultaneous depolarization (SiD). We confirm in rat brain slices exposed to osmotic stress that SiD is the pathological expansion of prior punctual SD foci (0.5–1 mm2), is associated with astrocyte swelling, and triggers oncotic neuron death. The blockade of astrocytic aquaporin-4 channels and Na+/K+/Cl− co-transporters, or volume-regulated anion channels mitigated slice edema, extracellular glutamate accumulation (<10 µM) and SiD occurrence. Reversal of slice swelling by hyperosmotic mannitol counteracted glutamate accumulation and prevented SiD. In contrast, inhibition of glial metabolism or inhibition of astrocyte glutamate transporters reproduced the SiD phenotype. Finally, we show in the rodent water intoxication model of cytotoxic edema that astrocyte swelling and altered astrocyte calcium waves are central in the evolution of SiD. We discuss our results in the light of evidence for SiD in the human cortex. Our results emphasize the need of preventive osmotherapy in acute brain injury.
+SN - 0271-678X
+M3  - doi: 10.1177/0271678X211040056
+UR  - https://doi-org.crai.referencistas.com/10.1177/0271678X211040056
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic data-driven prediction of instability in a swirl-stabilized combustor
+AU  - Sarkar, Soumalya
+AU  - Chakravarthy, Satyanarayanan R.
+AU  - Ramanan, Vikram
+AU  - Ray, Asok
+Y1  - 2016/04/21
+PY  - 2016
+DA  - 2016/12/01
+N1  - doi: 10.1177/1756827716642091
+DO  - 10.1177/1756827716642091
+T2  - International Journal of Spray and Combustion Dynamics
+JF  - International Journal of Spray and Combustion Dynamics
+SP  -235
+EP - 253
+VL - 8
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Combustion instability poses a negative impact on the performance and structural durability of both land-based and aircraft gas turbine engines, and early detection of combustion instabilities is of paramount importance not only for performance monitoring and fault diagnosis, but also for initiating efficient decision and control of such engines. Combustion instability is, in general, characterized by self-sustained growth of large-amplitude pressure tones that are caused by a positive feedback arising from complex coupling of localized hydrodynamic perturbations, heat energy release, and acoustics of the combustor. This paper proposes a fast dynamic data-driven method for detecting early onsets of thermo-acoustic instabilities, where the underlying algorithms are built upon the concepts of symbolic time series analysis (STSA) via generalization of D-Markov machine construction. The proposed method captures the spatiotemporal co-dependence among time series from heterogeneous sensors (e.g. pressure and chemiluminescence) to generate an information-theoretic precursor, which is uniformly applicable across multiple operating regimes of the combustion process. The proposed method is experimentally validated on the time-series data, generated from a laboratory-scale swirl-stabilized combustor, while inducing thermo-acoustic instabilities for various protocols (e.g. increasing Reynolds number (Re) at a constant fuel flow rate and reducing equivalence ratio at a constant air flow rate) at varying air-fuel premixing levels. The underlying algorithms are developed based on D-Markov entropy rates, and the resulting instability precursor measure is rigorously compared with the state-of-the-art techniques in terms of its performance of instability prediction, computational complexity, and robustness to sensor noise.
+SN - 1756-8277
+M3  - doi: 10.1177/1756827716642091
+UR  - https://doi-org.crai.referencistas.com/10.1177/1756827716642091
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Commentary on the use of the reproduction number R during the COVID-19 pandemic
+AU  - AU  - Vegvari, Carolin
+AU  - Abbott, Sam
+AU  - Ball, Frank
+AU  - Brooks-Pollock, Ellen
+AU  - Challen, Robert
+AU  - Collyer, Benjamin S.
+AU  - Dangerfield, Ciara
+AU  - Gog, Julia R.
+AU  - Gostic, Katelyn M.
+AU  - Heffernan, Jane M.
+et al.
+Y1  - 2021/09/27
+PY  - 2022
+DA  - 2022/09/01
+N1  - doi: 10.1177/09622802211037079
+DO  - 10.1177/09622802211037079
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -1675
+EP - 1685
+VL - 31
+IS - 9
+PB - SAGE Publications Ltd STM
+N2 - Since the beginning of the COVID-19 pandemic, the reproduction number has become a popular epidemiological metric used to communicate the state of the epidemic. At its most basic, is defined as the average number of secondary infections caused by one primary infected individual. seems convenient, because the epidemic is expanding if and contracting if . The magnitude of indicates by how much transmission needs to be reduced to control the epidemic. Using in a naïve way can cause new problems. The reasons for this are threefold: (1) There is not just one definition of but many, and the precise definition of affects both its estimated value and how it should be interpreted. (2) Even with a particular clearly defined , there may be different statistical methods used to estimate its value, and the choice of method will affect the estimate. (3) The availability and type of data used to estimate vary, and it is not always clear what data should be included in the estimation. In this review, we discuss when is useful, when it may be of use but needs to be interpreted with care, and when it may be an inappropriate indicator of the progress of the epidemic. We also argue that careful definition of , and the data and methods used to estimate it, can make a more useful metric for future management of the epidemic.
+SN - 0962-2802
+M3  - doi: 10.1177/09622802211037079
+UR  - https://doi-org.crai.referencistas.com/10.1177/09622802211037079
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Optimal potential shaping on SE(3) via neural ordinary differential equations on Lie groups
+AU  - Wotte, Yannik P.
+AU  - Califano, Federico
+AU  - Stramigioli, Stefano
+Y1  - 2024/06/14
+PY  - 2024
+N1  - doi: 10.1177/02783649241256044
+DO  - 10.1177/02783649241256044
+T2  - The International Journal of Robotics Research
+JF  - The International Journal of Robotics Research
+SP  -02783649241256044
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - This work presents a novel approach for the optimization of dynamic systems on finite-dimensional Lie groups. We rephrase dynamic systems as so-called neural ordinary differential equations (neural ODEs), and formulate the optimization problem on Lie groups. A gradient descent optimization algorithm is presented to tackle the optimization numerically. Our algorithm is scalable, and applicable to any finite-dimensional Lie group, including matrix Lie groups. By representing the system at the Lie algebra level, we reduce the computational cost of the gradient computation. In an extensive example, optimal potential energy shaping for control of a rigid body is treated. The optimal control problem is phrased as an optimization of a neural ODE on the Lie group SE(3), and the controller is iteratively optimized. The final controller is validated on a state-regulation task.
+SN - 0278-3649
+M3  - doi: 10.1177/02783649241256044
+UR  - https://doi-org.crai.referencistas.com/10.1177/02783649241256044
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A simplified mechanical model with fluid–structure interaction for rectangular tank sloshing under horizontal excitation
+AU  - Zou, Changfang
+AU  - Wang, Deyu
+Y1  - 2015/05/01
+PY  - 2015
+DA  - 2015/05/01
+N1  - doi: 10.1177/1687814015582085
+DO  - 10.1177/1687814015582085
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015582085
+VL - 7
+IS - 5
+PB - SAGE Publications
+N2 - Based on the spring–mass model, a novel mechanical model of sloshing with fluid–structure interaction under a horizontal excitation is proposed, and the coupled dynamic equation of sloshing system is established. Considering the flexibility of bulkhead, the effects of certain factors, such as bulkhead bending stiffness and filling ratios, on the mode of coupled sloshing system are investigated. It is found that these factors have significant influence on the mode. By comparing the present results with the results of ADINA based on the linear potential flow theory and published literatures, the proposed coupled sloshing model is verified. The results show that the simplified rigid mass, , dominates the contributions to bending moment near the bottom of a bulkhead and the spring–mass, , , to bending moment near the liquid-free surface of a bulkhead. Furthermore, the computational cost is greatly reduced by using the proposed mechanical model with fluid–structure interaction for a rectangular tank sloshing.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015582085
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015582085
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,235 @@
+TY  - JOUR
+T1  - Review on Deep Learning-Based CAD Systems for Breast Cancer Diagnosis
+AU  - Arun Kumar, S.
+AU  - Sasikala, S.
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/15330338231177977
+DO  - 10.1177/15330338231177977
+T2  - Technology in Cancer Research & Treatment
+JF  - Technology in Cancer Research & Treatment
+JO  - Technol Cancer Res Treat
+SP  -15330338231177976
+VL - 22
+PB - SAGE Publications Inc
+N2 - Breast Cancer (BC) is a major health issue in women of the age group above 45. Identification of BC at an earlier stage is important to reduce the mortality rate. Image-based noninvasive methods are used for early detection and for providing appropriate treatment. Computer-Aided Diagnosis (CAD) schemes can support radiologists in making correct decisions. Computational intelligence paradigms such as Machine Learning (ML) and Deep Learning (DL) have been used in the recent past in CAD systems to accelerate diagnosis. ML techniques are feature driven and require a high amount of domain expertise. However, DL approaches make decisions directly from the image. The current advancement in DL approaches for early diagnosis of BC is the motivation behind this review. This article throws light on various types of CAD approaches used in BC detection and diagnosis. A survey on DL, Transfer Learning, and DL-based CAD approaches for the diagnosis of BC is presented in detail. A comparative study on techniques, datasets, and performance metrics used in state-of-the-art literature in BC diagnosis is also summarized. The proposed work provides a review of recent advancements in DL techniques for enhancing BC diagnosis.
+SN - 1533-0346
+M3  - doi: 10.1177/15330338231177977
+UR  - https://doi-org.crai.referencistas.com/10.1177/15330338231177977
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cross-platform Analysis of Cancer Biomarkers: A Bayesian Network Approach to Incorporating Mass Spectrometry and Microarray Data
+AU  - Deng, Xutao
+AU  - Geng, Huimin
+AU  - Ali, Hesham H.
+Y1  - 2007/01/01
+PY  - 2007
+DA  - 2007/01/01
+N1  - doi: 10.1177/117693510700300001
+DO  - 10.1177/117693510700300001
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -117693510700300000
+VL - 3
+PB - SAGE Publications Ltd STM
+N2 - Many studies showed inconsistent cancer biomarkers due to bioinformatics artifacts. In this paper we use multiple data sets from microarrays, mass spectrometry, protein sequences, and other biological knowledge in order to improve the reliability of cancer biomarkers. We present a novel Bayesian network (BN) model which integrates and cross-annotates multiple data sets related to prostate cancer. The main contribution of this study is that we provide a method that is designed to find cancer biomarkers whose presence is supported by multiple data sources and biological knowledge. Relevant biological knowledge is explicitly encoded into the model parameters, and the biomarker finding problem is formulated as a Bayesian inference problem. Besides diagnostic accuracy, we introduce reliability as another quality measurement of the biological relevance of biomarkers. Based on the proposed BN model, we develop an empirical scoring scheme and a simulation algorithm for inferring biomarkers. Fourteen genes/proteins including prostate specific antigen (PSA) are identified as reliable serum biomarkers which are insensitive to the model assumptions. The computational results show that our method is able to find biologically relevant biomarkers with highest reliability while maintaining competitive predictive power. In addition, by combining biological knowledge and data from multiple platforms, the number of putative biomarkers is greatly reduced to allow more-focused clinical studies.
+SN - 1176-9351
+M3  - doi: 10.1177/117693510700300001
+UR  - https://doi-org.crai.referencistas.com/10.1177/117693510700300001
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Political Viewpoint Diversity in the News: Market and Ownership Conditions for a Pluralistic Media System
+AU  - Garz, Marcel
+AU  - Ots, Mart
+AU  - Sjøvaag, Helle
+Y1  - 2023/09/20
+PY  - 2024
+DA  - 2024/10/01
+N1  - doi: 10.1177/19401612231178254
+DO  - 10.1177/19401612231178254
+T2  - The International Journal of Press/Politics
+JF  - The International Journal of Press/Politics
+SP  -983
+EP - 1003
+VL - 29
+IS - 4
+PB - SAGE Publications Inc
+N2 - The assumption that ownership has an effect on the diversity of news is based on the forms of control that ownership allows and the market conditions in which ownership is exercised. In this study, we perform a large-scale analysis of the Swedish newspaper market, surveying 130 newspapers and parliamentary speeches over a period of six years (2014–2019), to substantiate to what extent market and for-profit ownership forms impact political viewpoint diversity. Our analysis shows that newspapers with market leadership and chain ownership offer more political viewpoint diversity than number two and single-owned papers. In contrast, the ownership forms surveyed here (private, foundation, and publicly traded ownerships) display little effect on newspapers’ internal diversity. We also find that a greater number of papers in a local market does not imply more external diversity in that market. The analysis thus offers some nuance to the notion that ownership form and market pluralism are prerequisites for viewpoint diversity, highlighting instead the importance of scale effects for pluralistic media systems.
+SN - 1940-1612
+M3  - doi: 10.1177/19401612231178254
+UR  - https://doi-org.crai.referencistas.com/10.1177/19401612231178254
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Will Algorithms Blind People? The Effect of Explainable AI and Decision-Makers’ Experience on AI-supported Decision-Making in Government
+AU  - Janssen, Marijn
+AU  - Hartog, Martijn
+AU  - Matheus, Ricardo
+AU  - Yi Ding, Aaron
+AU  - Kuk, George
+Y1  - 2020/12/28
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/0894439320980118
+DO  - 10.1177/0894439320980118
+T2  - Social Science Computer Review
+JF  - Social Science Computer Review
+SP  -478
+EP - 493
+VL - 40
+IS - 2
+PB - SAGE Publications Inc
+N2 - Computational artificial intelligence (AI) algorithms are increasingly used to support decision making by governments. Yet algorithms often remain opaque to the decision makers and devoid of clear explanations for the decisions made. In this study, we used an experimental approach to compare decision making in three situations: humans making decisions (1) without any support of algorithms, (2) supported by business rules (BR), and (3) supported by machine learning (ML). Participants were asked to make the correct decisions given various scenarios, while BR and ML algorithms could provide correct or incorrect suggestions to the decision maker. This enabled us to evaluate whether the participants were able to understand the limitations of BR and ML. The experiment shows that algorithms help decision makers to make more correct decisions. The findings suggest that explainable AI combined with experience helps them detect incorrect suggestions made by algorithms. However, even experienced persons were not able to identify all mistakes. Ensuring the ability to understand and traceback decisions are not sufficient for avoiding making incorrect decisions. The findings imply that algorithms should be adopted with care and that selecting the appropriate algorithms for supporting decisions and training of decision makers are key factors in increasing accountability and transparency.
+SN - 0894-4393
+M3  - doi: 10.1177/0894439320980118
+UR  - https://doi-org.crai.referencistas.com/10.1177/0894439320980118
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Compressed Biogas-Diesel Dual-Fuel Engine Optimization Study for Ultralow Emission
+AU  - Koten, Hasan
+AU  - Yilmaz, Mustafa
+AU  - Zafer Gul, M.
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/571063
+DO  - 10.1155/2014/571063
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -571063
+VL - 6
+PB - SAGE Publications
+N2 - The aim of this study is to find out the optimum operating conditions in a diesel engine fueled with compressed biogas (CBG) and pilot diesel dual-fuel. One-dimensional (1D) and three-dimensional (3D) computational fluid dynamics (CFD) code and multiobjective optimization code were employed to investigate the influence of CBG-diesel dual-fuel combustion performance and exhaust emissions on a diesel engine. In this paper, 1D engine code and multiobjective optimization code were coupled and evaluated about 15000 cases to define the proper boundary conditions. In addition, selected single diesel fuel (dodecane) and dual-fuel (CBG-diesel) combustion modes were modeled to compare the engine performances and exhaust emission characteristics by using CFD code under various operating conditions. In optimization study, start of pilot diesel fuel injection, CBG-diesel flow rate, and engine speed were optimized and selected cases were compared using CFD code. CBG and diesel fuels were defined as leading reactants using user defined code. The results showed that significantly lower NOx emissions were emitted under dual-fuel operation for all cases compared to single-fuel mode at all engine load conditions.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/571063
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/571063
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The “risky” reading strategy revisited: New simulations using E-Z Reader
+AU  - McGowan, Victoria A.
+AU  - Reichle, Erik D.
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1080/17470218.2017.1307424
+DO  - 10.1080/17470218.2017.1307424
+T2  - Quarterly Journal of Experimental Psychology
+JF  - Quarterly Journal of Experimental Psychology
+SP  -179
+EP - 189
+VL - 71
+IS - 1
+PB - SAGE Publications
+N2 - Eye-movement studies have demonstrated that, relative to college-aged readers, older readers of alphabetic languages like English and German tend to read more slowly, making more frequent and longer fixations and longer saccades, and skipping more words, but also making more frequent regressions. These findings have led to suggestions that older readers either adopt a “risky” strategy of using context to “guess” words as a way of compensating for slower rates of lexical processing, or have a smaller and more asymmetrical perceptual span. Unfortunately, neither of these hypotheses seemingly explains more recent observations that older readers of Chinese seem to adopt a more “conservative” strategy, making shorter saccades and skipping less often. In this paper, we use the E-Z Reader model of eye-movement control to examine several possible accounts of the differences between college-aged and older readers of both alphabetic and non-alphabetic languages. These simulations re-confirm that the “risky” strategy may be sufficient to explain age-related differences in reader’s eye movements, with older readers of English versus Chinese being, respectively, more versus less inclined to guess upcoming words. The implications of these results for aging, reading, and models of eye-movement control are discussed.
+SN - 1747-0218
+M3  - doi: 10.1080/17470218.2017.1307424
+UR  - https://doi-org.crai.referencistas.com/10.1080/17470218.2017.1307424
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Participatory action research in critical data studies: Interrogating AI from a South–North approach
+AU  - Medrado, Andrea
+AU  - Verdegem, Pieter
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1177/20539517241235869
+DO  - 10.1177/20539517241235869
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517241235868
+VL - 11
+IS - 1
+PB - SAGE Publications Ltd
+N2 - In this article, we draw inspiration from participatory action research (PAR) and the work of Latin American thinkers such as Freire and Fals Borda to interrogate artificial intelligence (AI). We propose a South-North flow by utilising PAR approaches that stem from Latin America, challenging how the North’s centrality is taken for granted regarding AI epistemologies, experiences, and understandings. Conducting workshops in London with a diverse group of students, tech workers and activists, we argue that PAR can not only empower marginalised communities in the Global South; we can also learn more from its application in the Global North, in contexts where people deal with different struggles. Our analysis delves into three specific concepts around AI and data (in)justice: autonomy, empathy and dialogue. First, inspired by PAR principles, participants started to problematise what they called an empty interpretation of empathy, establishing parallels with transnational dynamics of data capitalism, which disadvantage marginalised communities in the Global South. Second, PAR offered a critical lens to analyse issues of AI and autonomy in ways that are less individualistic and more collective and politically engaged. Third, PAR’s dialogical spirit enabled participants to locate various intersections between AI and dialogue. Critiquing the idea of a superior AI, participants were reminded of the possibilities offered by human intelligence and the combination of thinking, making and feeling or what Fals Borda (2003. Ante la crisis del país: Ideas acción para el cambio, 1st. Ed. Bogotá: Panamericana) calls our sentipensante nature.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517241235869
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517241235869
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A single-nucleotide-polymorphism in the 5′-flanking region of MSX1 gene as a predictive marker candidate for platinum-based therapy of esophageal carcinoma
+AU  - Mori, Takahiro
+AU  - Ueno, Kazuko
+AU  - Tokunaga, Katsushi
+AU  - Kawai, Yosuke
+AU  - Matsuda, Koichi
+AU  - Nishida, Nao
+AU  - Komine, Keigo
+AU  - Saito, Sakae
+AU  - Nagasaki, Masao
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/17588359221080580
+DO  - 10.1177/17588359221080580
+T2  - Therapeutic Advances in Medical Oncology
+JF  - Therapeutic Advances in Medical Oncology
+JO  - Ther Adv Med Oncol
+SP  -17588359221080580
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Background: Platinum derivatives are important treatment options for patients with esophageal carcinoma (EC), and a predictive marker for platinum-based therapy is needed for precision medicine. Patients and methods: This study contained two cohorts consisting of EC patients treated using platinum-based chemoradiation therapy (CRT) as the first-line and another external cohort of nationwide clinicogenomic data from the BioBank Japan (BBJ). Results: Genome-wide association study (GWAS) of therapeutic outcomes, refractory disease or not, following platinum-based CRT as first-line in 94 patients in the first cohort suggested the association of 89 SNPs using p < 0.0001. The top 10 SNPs selected from each chromosomal region by odds ratio were evaluated for progression-free survival (PFS) and overall survival (OS) hazard ratios in the first cohort, resulting in four candidates (p < 0.0025). The four selected candidates were re-evaluated in another cohort of 24 EC patients, which included patients prospectively enrolled in this study to fulfill the sample size statistically suggested by the results of the first cohort, and of the four, only rs3815544 was replicated (p < 0.0125). Furthermore, this candidate genotype of rs3815544 proceeded to the re-evaluation study in an external cohort consisting of EC patients treated with platinum derivatives and/or by radiation therapy as the first-line treatment in BBJ, which confirmed that the alternative allele (G) of rs3815544 was statistically associated with non-response (SD or PD) to platinum-based therapy in EC patients (odds ratio = 1.801, p = 0.048). The methylation QTL database as well as online clinicogenomic databases suggested that the region including rs3815544 may regulate MSX1 expression through CpG methylation, and this down-regulation was statistically associated with poor prognosis after platinum-based therapies for EC. Conclusion: rs3815544 is a novel candidate predictive marker for platinum-based EC therapy.
+SN - 1758-8359
+M3  - doi: 10.1177/17588359221080580
+UR  - https://doi-org.crai.referencistas.com/10.1177/17588359221080580
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Optimal potential shaping on SE(3) via neural ordinary differential equations on Lie groups
+AU  - Wotte, Yannik P.
+AU  - Califano, Federico
+AU  - Stramigioli, Stefano
+Y1  - 2024/06/14
+PY  - 2024
+N1  - doi: 10.1177/02783649241256044
+DO  - 10.1177/02783649241256044
+T2  - The International Journal of Robotics Research
+JF  - The International Journal of Robotics Research
+SP  -02783649241256044
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - This work presents a novel approach for the optimization of dynamic systems on finite-dimensional Lie groups. We rephrase dynamic systems as so-called neural ordinary differential equations (neural ODEs), and formulate the optimization problem on Lie groups. A gradient descent optimization algorithm is presented to tackle the optimization numerically. Our algorithm is scalable, and applicable to any finite-dimensional Lie group, including matrix Lie groups. By representing the system at the Lie algebra level, we reduce the computational cost of the gradient computation. In an extensive example, optimal potential energy shaping for control of a rigid body is treated. The optimal control problem is phrased as an optimization of a neural ODE on the Lie group SE(3), and the controller is iteratively optimized. The final controller is validated on a state-regulation task.
+SN - 0278-3649
+M3  - doi: 10.1177/02783649241256044
+UR  - https://doi-org.crai.referencistas.com/10.1177/02783649241256044
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Energy-efficient load balancing in wireless sensor network: An application of multinomial regression analysis
+AU  - Zuhairy, Ruwaida M.
+AU  - Al Zamil, Mohammed GH
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1177/1550147718764641
+DO  - 10.1177/1550147718764641
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147718764641
+VL - 14
+IS - 3
+PB - SAGE Publications
+N2 - Wireless sensor networks have become integral components of modern and smart environments. The main challenge for such important data-acquisition tools is the limited amount of available energy. In integrated networks in which cloud systems act as a self-regulatory controller, distributing the computational load among available partitions with rich energy will positively influence the lifetime of the whole network. This article investigates the application of a modified version of multinomial logistic regression model that incorporates spatiotemporal aspects of data collected from smart environments. The contribution of this research is to propose an energy-efficient load balancing strategy based on the proposed prediction model for the purpose of enhancing the lifetime of wireless infrastructure. Our proposed algorithm grows linearly in terms of time complexity. Extensive experiments have been performed to measure the prediction error rate and the energy consumption. The results showed that the proposed model significantly reduces the error rate and distinctly maximizes the lifetime of wireless sensor networks.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147718764641
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147718764641
+Y2  - 2024/10/01
+ER  - 
+

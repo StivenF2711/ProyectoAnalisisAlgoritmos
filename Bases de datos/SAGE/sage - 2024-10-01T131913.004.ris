@@ -1,0 +1,229 @@
+TY  - JOUR
+T1  - Nonlocal spatial attention module for image classification
+AU  - Chen, Bingling
+AU  - Huang, Yan
+AU  - Xia, Qiaoqiao
+AU  - Zhang, Qinglin
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1177/1729881420938927
+DO  - 10.1177/1729881420938927
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881420938927
+VL - 17
+IS - 5
+PB - SAGE Publications
+N2 - To enhance the capability of neural networks, research on attention mechanism have been deepened. In this area, attention modules make forward inference along channel dimension and spatial dimension sequentially, parallelly, or simultaneously. However, we have found that spatial attention modules mainly apply convolution layers to generate attention maps, which aggregate feature responses only based on local receptive fields. In this article, we take advantage of this finding to create a nonlocal spatial attention module (NL-SAM), which collects context information from all pixels to adaptively recalibrate spatial responses in a convolutional feature map. NL-SAM overcomes the limitations of repeating local operations and exports a 2D spatial attention map to emphasize or suppress responses in different locations. Experiments on three benchmark datasets show at least 0.58% improvements on variant ResNets. Furthermore, this module is simple and can be easily integrated with existing channel attention modules, such as squeeze-and-excitation and gather-excite, to exceed these significant models at a minimal additional computational cost (0.196%).
+SN - 1729-8806
+M3  - doi: 10.1177/1729881420938927
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881420938927
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Functional response regression model on correlated longitudinal microbiome sequencing data
+AU  - Chen, Bo
+AU  - Xu, Wei
+Y1  - 2021/12/06
+PY  - 2022
+DA  - 2022/02/01
+N1  - doi: 10.1177/09622802211061634
+DO  - 10.1177/09622802211061634
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -361
+EP - 371
+VL - 31
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - Functional regression has been widely used on longitudinal data, but it is not clear how to apply functional regression to microbiome sequencing data. We propose a novel functional response regression model analyzing correlated longitudinal microbiome sequencing data, which extends the classic functional response regression model only working for independent functional responses. We derive the theory of generalized least squares estimators for predictors’ effects when functional responses are correlated, and develop a data transformation technique to solve the computational challenge for analyzing correlated functional response data using existing functional regression method. We show by extensive simulations that our proposed method provides unbiased estimations for predictors’ effect, and our model has accurate type I error and power performance for correlated functional response data, compared with classic functional response regression model. Finally we implement our method to a real infant gut microbiome study to evaluate the relationship of clinical factors to predominant taxa along time.
+SN - 0962-2802
+M3  - doi: 10.1177/09622802211061634
+UR  - https://doi-org.crai.referencistas.com/10.1177/09622802211061634
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Structural Relationships Among Mental Boundaries, Childhood Imaginary Companions, Creative Experiences, and Entity Encounters
+AU  - Drinkwater, Kenneth
+AU  - Dagnall, Neil
+AU  - Houran, James
+AU  - Denovan, Andrew
+AU  - O’Keeffe, Ciarán
+Y1  - 2022/08/22
+PY  - 2022
+N1  - doi: 10.1177/00332941221123235
+DO  - 10.1177/00332941221123235
+T2  - Psychological Reports
+JF  - Psychological Reports
+JO  - Psychol Rep
+SP  -00332941221123235
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - This study investigated relationships between thin mental boundary functioning, creativity, imaginary companions (ICs), and anomalous ‘(entity) encounter experiences.’ A convenience sample of 389 respondents completed the Revised Transliminality Scale, Oxford-Liverpool Inventory of Feelings and Experiences, Creative Experiences Questionnaire, Survey of Strange Events, and a measure of Childhood Imaginary Companions. Competing testing with path analysis found that the best-fitting model was consistent with the causal chain of ‘Thin Boundaries (transliminality and schizotypy) → Creative Experiences → ICs → (Entity) Encounter Experiences.’ These results suggest that deep-types of ICs (i.e., showing apparent independent agency) are perhaps most accurately characterized as syncretic cognitions versus hallucination-like experiences. The authors examine these findings relative to study limitations, as well as discussing the need for future research that approaches ICs as a special mental state that can facilitate allied altered-anomalous experiences. In this context, this study furthered understanding of relationships between conscious states related to mental boundaries, childhood imaginary companions, creative experiences, and entity encounters.
+SN - 0033-2941
+M3  - doi: 10.1177/00332941221123235
+UR  - https://doi-org.crai.referencistas.com/10.1177/00332941221123235
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Network-Based Identification of Biomarkers Coexpressed with Multiple Pathways
+AU  - Guo, Nancy Lan
+AU  - Wan, Ying-Wooi
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CIN.S14054
+DO  - 10.4137/CIN.S14054
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S14054
+VL - 13s5
+PB - SAGE Publications Ltd STM
+N2 - Unraveling complex molecular interactions and networks and incorporating clinical information in modeling will present a paradigm shift in molecular medicine. Embedding biological relevance via modeling molecular networks and pathways has become increasingly important for biomarker identification in cancer susceptibility and metastasis studies. Here, we give a comprehensive overview of computational methods used for biomarker identification, and provide a performance comparison of several network models used in studies of cancer susceptibility, disease progression, and prognostication. Specifically, we evaluated implication networks, Boolean networks, Bayesian networks, and Pearson’s correlation networks in constructing gene coexpression networks for identifying lung cancer diagnostic and prognostic biomarkers. The results show that implication networks, implemented in Genet package, identified sets of biomarkers that generated an accurate prediction of lung cancer risk and metastases; meanwhile, implication networks revealed more biologically relevant molecular interactions than Boolean networks, Bayesian networks, and Pearson’s correlation networks when evaluated with MSigDB database.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S14054
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S14054
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Sensor Placement for Urban Homeland Security Applications
+AU  - Hamel, David
+AU  - Chwastek, Matthew
+AU  - Garcia, Saturnino
+AU  - Farouk, Bakhtier
+AU  - Kam, Moshe
+AU  - Dandekar, Kapil R.
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.1155/2010/859263
+DO  - 10.1155/2010/859263
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -859263
+VL - 6
+IS - 1
+PB - SAGE Publications
+N2 - We simulated a sensor network that detects and tracks the release of harmful airborne contaminants in an urban environment. The simulation determines sensor placement in that environment. The effort required integration of models from computational fluid dynamics (CFDs), combinatorial optimization, and population mobility dynamics. These CFD models, coupled with population mobility models, facilitate estimation of the effect of released contaminant on civilian populations. We studied the effects of a contaminant, chlorine gas, as a function of urban environment, prevailing winds, and likely attack locations. The models predictions optimized sensor node locations, providing mitigation of contaminant effects on human population. Results show that higher fidelity dispersal predictions increase sensor placement effectiveness. Incorporation of civilian evacuation models helps to minimize the overall impact of an attack when compared to a static population. Moreover, results show the benefits of using seasonal sensor configurations to maximize detection capabilities, taking into account prevailing seasonal wind conditions.
+SN - 1550-1329
+M3  - doi: 10.1155/2010/859263
+UR  - https://doi-org.crai.referencistas.com/10.1155/2010/859263
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Machine visions: A corporate imaginary of artificial sight
+AU  - Hsiao, Wei-Jie
+AU  - Shorey, Samantha
+Y1  - 2023/06/23
+PY  - 2023
+N1  - doi: 10.1177/14614448231176765
+DO  - 10.1177/14614448231176765
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -14614448231176764
+VL - 0
+IS - 0
+PB - SAGE Publications
+N2 - Machine vision is one the most consequential applications of artificial intelligence (AI) in contemporary society. This article analyzes how companies that produce machine vision technology articulate what it means for machines to “see.” Through a thematic analysis of more than 200 corporately produced documents, we examine the companies’ product offerings and identify three discursive techniques that entwine basic explanations of emerging technology with the ideologies of AI producers: dismantling sight into technical action, expanding the parameters of sight, and seeing through data. These recurring corporate narratives organize perceptions of automation, educating outsiders how to value computational outcomes and support them through rearranging the real-world conditions of labor. We argue that the social power of machine vision is not only in how it detects objects, but also in how it arbitrates what work is visible in visions of the industry’s future.
+SN - 1461-4448
+M3  - doi: 10.1177/14614448231176765
+UR  - https://doi-org.crai.referencistas.com/10.1177/14614448231176765
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical and experimental investigation on uniformity of pressure loads in labyrinth seal
+AU  - Jiang, Jie
+AU  - Yang, Yiyong
+AU  - Huang, Weifeng
+AU  - Li, Yongjian
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1177/1687814017728455
+DO  - 10.1177/1687814017728455
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017728455
+VL - 9
+IS - 9
+PB - SAGE Publications
+N2 - The pressure loads acting on the teeth of a labyrinth seal could differ significantly. Sometimes, one of the teeth would take almost half of the total pressure difference. This article makes an analysis of the influence of pressure ratio and seal geometry on the uniformity of pressure loads on labyrinth seal teeth. Therefore, a coefficient to evaluate the uniformity of pressure loads on the teeth is presented. The computational fluid dynamics model and test results show that the pressure ratio is the main important factor that affects the uniformity of pressure loads on the teeth. In order to improve the uniformity of pressure loads on teeth, the non-uniform seal geometry parameters are analyzed. In addition, it is found that the non-uniform clearances and groove width play positive roles in improving the uniformity of pressure loads on the teeth.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017728455
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017728455
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Quali-quantitative methods beyond networks: Studying information diffusion on Twitter with the Modulation Sequencer
+AU  - Moats, David
+AU  - Borra, Erik
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/2053951718772137
+DO  - 10.1177/2053951718772137
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951718772137
+VL - 5
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Although the rapid growth of digital data and computationally advanced methods in the social sciences has in many ways exacerbated tensions between the so-called ‘quantitative’ and ‘qualitative’ approaches, it has also been provocatively argued that the ubiquity of digital data, particularly online data, finally allows for the reconciliation of these two opposing research traditions. Indeed, a growing number of ‘qualitatively’ inclined researchers are beginning to use computational techniques in more critical, reflexive and hermeneutic ways. However, many of these claims for ‘quali-quantitative’ methods hinge on a single technique: the network graph. Networks are relational, allow for the questioning of rigid categories and zooming from individual cases to patterns at the aggregate. While not refuting the use of networks in these studies, this paper argues that there must be other ways of doing quali-quantitative methods. We first consider a phenomenon which falls between quantitative and qualitative traditions but remains elusive to network graphs: the spread of information on Twitter. Through a case study of debates about nuclear power on Twitter, we develop a novel data visualisation called the modulation sequencer which depicts the spread of URLs over time and retains many of the key features of networks identified above. Finally, we reflect on the role of such tools for the project of quali-quantitative methods.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951718772137
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951718772137
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Investigation of the Influence of Hydrocyclone Geometric and Flow Parameters on Its Performance Using CFD
+AU  - Motsamai, Oboetswe Seraga
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.1155/2010/593689
+DO  - 10.1155/2010/593689
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -593689
+VL - 2
+PB - SAGE Publications
+N2 - Effectiveness and efficiency of hydro-cyclone separators are highly dependent on their geometrical parameters and flow characteristics. Performance of the hydro-cyclone can, therefore, be improved by modifying the geometrical parameters or flow characteristics. The mining and chemical industries are faced with problems of separating ore-rich stones from the nonore-rich stones. Due to this problem a certain amount of precious metals is lost to the dumping sites. Plant managers try to solve these problems by stockpiling what could be useless stones, so that they can be reprocessed in the future. Reprocessing is not a sustainable approach, because the reprocessed material would give lower yield as compared to the production costs. Particulate separation in a hydro-cyclone has been investigated in this paper, by using computational fluid dynamics. The paper investigated the influence of various flow and geometric parameters on particulate separation. Optimal parameters for efficient separation have been determined for the density of fluid, diameter of the spigot, and diameter of the vortex finder. The principal contribution of this paper is that key parameters for design optimization of the hydro-cyclone have been investigated.
+SN - 1687-8132
+M3  - doi: 10.1155/2010/593689
+UR  - https://doi-org.crai.referencistas.com/10.1155/2010/593689
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Inferring Orthologs: Open Questions and Perspectives
+AU  - Tekaia, Fredj
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/GEI.S37925
+DO  - 10.4137/GEI.S37925
+T2  - Genomics Insights
+JF  - Genomics Insights
+JO  - Genomics Insights
+SP  -GEI.S37925
+VL - 9
+PB - SAGE Publications Ltd STM
+N2 - With the increasing number of sequenced genomes and their comparisons, the detection of orthologs is crucial for reliable functional annotation and evolutionary analyses of genes and species. Yet, the dynamic remodeling of genome content through gain, loss, transfer of genes, and segmental and whole-genome duplication hinders reliable orthology detection. Moreover, the lack of direct functional evidence and the questionable quality of some available genome sequences and annotations present additional difficulties to assess orthology. This article reviews the existing computational methods and their potential accuracy in the high-throughput era of genome sequencing and anticipates open questions in terms of methodology, reliability, and computation. Appropriate taxon sampling together with combination of methods based on similarity, phylogeny, synteny, and evolutionary knowledge that may help detecting speciation events appears to be the most accurate strategy. This review also raises perspectives on the potential determination of orthology throughout the whole species phylogeny.
+SN - 1178-6310
+M3  - doi: 10.4137/GEI.S37925
+UR  - https://doi-org.crai.referencistas.com/10.4137/GEI.S37925
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,232 @@
+TY  - JOUR
+T1  - Improving stereo matching algorithm with adaptive cross-scale cost aggregation
+AU  - Bai, Cong
+AU  - Ma, Qing
+AU  - Hao, Pengyi
+AU  - Liu, Zhi
+AU  - Zhang, Jinglin
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1729881417751544
+DO  - 10.1177/1729881417751544
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881417751544
+VL - 15
+IS - 1
+PB - SAGE Publications
+N2 - Human beings process stereoscopic correspondence across multiple purposes like robot navigation, automatic driving, and virtual or augmented reality. However, this bioinspiration is ignored by state-of-the-art dense stereo correspondence matching methods. Cost aggregation is one of the critical steps in the stereo matching method. In this article, we propose an optimized cross-scale cost aggregation scheme with coarse-to-fine strategy for stereo matching. This scheme implements cross-scale cost aggregation with the smoothness constraint on neighborhood cost, which essentially extends the idea of the inter-scale and intra-scale consistency constraints to increase the matching accuracy. The neighborhood costs are not only used in the intra-scale consistency to ensure that the regularized costs vary smoothly in an eight-connected neighbors region but also incorporated with inter-scale consistency to optimize the disparity estimation. Additionally, the improved method introduces an adaptive scheme in each scale with different aggregation methods. Finally, experimental results evaluated both on classic Middlebury and Middlebury 2014 data sets show that the proposed method performs better than the cross-scale cost aggregation. The whole stereo correspondence algorithm achieves competitive performance in terms of both matching accuracy and computational efficiency. An extensive comparison, including the KITTI benchmark, illustrates the better performance of the proposed method also.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881417751544
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881417751544
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Finding the future in digitally mediated ruin: #nostalgiacores and the algorithmic culture of digital platforms
+AU  - Brown, Maria Gemma
+AU  - Carah, Nicholas
+AU  - Tan, Xue Ying (Jane)
+AU  - Angus, Daniel
+AU  - Burgess, Jean
+Y1  - 2024/08/01
+PY  - 2024
+N1  - doi: 10.1177/13548565241270669
+DO  - 10.1177/13548565241270669
+T2  - Convergence
+JF  - Convergence
+SP  -13548565241270668
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd
+N2 - The #nostalgiacores are a series of interrelated hashtags on Instagram and TikTok where users recirculate content from the digital and consumer cultures of the 1990s and 2000s – childhood play centres, dead malls, long-gone toys, and superseded game consoles and phones. In this article, we explore these digital cultures using a critical platform studies approach that involves a combination of network analysis and close textual analysis augmented with purpose-built machine vision tools. We scrape a collection of 359,150 images from Instagram that used one or more of 30 ‘-cores’ hashtags (such as #y2kcore, #webcore and #childhoodcore) that we chose following a period of immersive qualitative investigation of #nostalgiacore scenes on Instagram during 2021 and 2022. 10,000 Instagram images were then randomly selected and processed using a purpose-built unsupervised machine vision model that clusters images together based on their similarities. This research is part of a multi-year project where we develop hybrid digital methods for critically simulating and exploring the interplay between our image-making practices and the algorithmic systems that cluster and curate them. By combining computational approaches with critical platform and cultural studies approaches we speculatively explore both practices of curation and their interplay with the algorithmic classification and recommendation models of digital platforms. Our platform-oriented mode of textual analysis helps us to explore how our digital cultures are both symbolically and technically nostalgic. Instagram users in the #nostalgiacore scene recirculate images from the past as part of practices of critically reflecting on digital platforms and consumer cultures. At the same time those images are recuperated as archives used to train the algorithmic models that optimise attention on digital media platforms like Instagram.
+SN - 1354-8565
+M3  - doi: 10.1177/13548565241270669
+UR  - https://doi-org.crai.referencistas.com/10.1177/13548565241270669
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cleaning Up the Neighborhood: White Influx and Differential Requests for Services
+AU  - Dahir, Nima
+AU  - Hwang, Jackelyn
+AU  - Yu, Ang
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/23780231231223436
+DO  - 10.1177/23780231231223436
+T2  - Socius
+JF  - Socius
+SP  -23780231231223436
+VL - 10
+PB - SAGE Publications
+N2 - Visible signs of disorder serve as markers of difference across urban space. Sociological theory suggests that variation in collective social control efforts contributes to variation in physical disorder. However, how structural characteristics shape differences in informal social control remains underexplored because of limited data on disorder and social control. Using city service request data and a novel dataset drawing on Google Street View imagery and computer vision methods, the authors examine the neighborhood characteristics associated with propensities to request trash-related services across five large U.S. cities. The authors find that socioeconomically advantaged neighborhoods and those with fewer minority and foreign-born residents have higher propensities. However, an increase in White residents, but not necessarily an increase in high–socioeconomic status residents, is strongly associated with greater propensities. The authors argue that incoming White residents introduce unique dynamics of social control that are not necessarily collective, thereby affecting spatial inequality and power relations within their new neighborhoods.
+SN - 2378-0231
+M3  - doi: 10.1177/23780231231223436
+UR  - https://doi-org.crai.referencistas.com/10.1177/23780231231223436
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Metrics and Design Tool for Building and Evaluating Probability-Based Online Panels
+AU  - DiSogra, Charles
+AU  - Callegaro, Mario
+Y1  - 2015/03/05
+PY  - 2016
+DA  - 2016/02/01
+N1  - doi: 10.1177/0894439315573925
+DO  - 10.1177/0894439315573925
+T2  - Social Science Computer Review
+JF  - Social Science Computer Review
+SP  -26
+EP - 40
+VL - 34
+IS - 1
+PB - SAGE Publications Inc
+N2 - Probability-based online panels are beginning to replace traditional survey modes for existing established surveys in Europe and the United States. In light of this, current standards for panel response rate calculations are herein reviewed. To populate these panels cost-effectively, more diverse recruitment methods, such as, mail, telephone, and recruitment modules added to existing surveys are being used, either alone or in combinations. This results in panel member cohorts from different modes complicating panel response rate calculations. Also, as a panel ages with inevitable attrition, multiple cohorts result from panel refreshment and growth strategies. Formulas are presented to illustrate how to handle multiple cohorts for panel metrics. Additionally, drawing on relevant metrics used for a panel response rate, we further demonstrate a computational tool to assist planners in building a probability-based panel. This provides a means to estimate the recruitment effort required to build a panel of a predetermined size.
+SN - 0894-4393
+M3  - doi: 10.1177/0894439315573925
+UR  - https://doi-org.crai.referencistas.com/10.1177/0894439315573925
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Epistemologies of predictive policing: Mathematical social science, social physics and machine learning
+AU  - Hälterlein, Jens
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/20539517211003118
+DO  - 10.1177/20539517211003118
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517211003120
+VL - 8
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Predictive policing has become a new panacea for crime prevention. However, we still know too little about the performance of computational methods in the context of predictive policing. The paper provides a detailed analysis of existing approaches to algorithmic crime forecasting. First, it is explained how predictive policing makes use of predictive models to generate crime forecasts. Afterwards, three epistemologies of predictive policing are distinguished: mathematical social science, social physics and machine learning. Finally, it is shown that these epistemologies have significant implications for the constitution of predictive knowledge in terms of its genesis, scope, intelligibility and accessibility. It is the different ways future crimes are rendered knowledgeable in order to act upon them that reaffirm or reconfigure the status of criminological knowledge within the criminal justice system, direct the attention of law enforcement agencies to particular types of crimes and criminals and blank out others, satisfy the claim for the meaningfulness of predictions or break with it and allow professionals to understand the algorithmic systems they shall rely on or turn them into a black box. By distinguishing epistemologies and analysing their implications, this analysis provides insight into the techno-scientific foundations of predictive policing and enables us to critically engage with the socio-technical practices of algorithmic crime forecasting.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517211003118
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517211003118
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - We are all (not) Anonymous: Individual- and country-level correlates of support for and opposition to hacktivism
+AU  - Ireland, Leanna
+Y1  - 2022/09/09
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1177/14614448221122252
+DO  - 10.1177/14614448221122252
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -4429
+EP - 4453
+VL - 26
+IS - 8
+PB - SAGE Publications
+N2 - Hacktivists oftentimes challenge or subvert existing power relations or structures and attempt to promote reform. How the public perceives occurrences of hacktivism can influence the direction and impact of operations, including their potential success. Public support can encompass person power, computational ability, resources and solidarity, among other things. This study examines socio-legal contexts in which an individual is embedded and personal perceptions as predictors for support for hacktivism. Using representative survey data from 23 countries (n = 23,140), the study finds that more effective civic participation mechanisms and more positive views toward alternative actors and hacktivists’ utilitarianism motives were associated with heightened support. In contrast, greater trust in legal and state authorities promoted opposition. Effective justice was not associated with more support but was with less opposition for hacktivism. Implications for campaigns, social movements, and desistance of activity are discussed.
+SN - 1461-4448
+M3  - doi: 10.1177/14614448221122252
+UR  - https://doi-org.crai.referencistas.com/10.1177/14614448221122252
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Joint Access Control and Subchannel Allocation Scheme for Femtocell-Based M2M Network Using a Truthful Mechanism
+AU  - Li, Chengmei
+AU  - Wu, Jianjun
+AU  - Feng, Ziqiang
+AU  - Luan, Xi
+AU  - Xiang, Haige
+Y1  - 2013/12/01
+PY  - 2013
+DA  - 2013/12/01
+N1  - doi: 10.1155/2013/902574
+DO  - 10.1155/2013/902574
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -902574
+VL - 9
+IS - 12
+PB - SAGE Publications
+N2 - A joint access control and subchannel allocation (JACSA) scheme is proposed in this paper for femtocell-based machine-to-machine (M2M) network to provide better communication services. As short-range and cost-beneficial eNodeBs, femtocells can improve indoor coverage and data transmission, and can further be used for M2M communication. There are two challenges for femtocell network, access control and truth-telling. Femtocell machine-type communication devices (FMD) select femtocell access points (FAPs) according to the reported channel capacities, while the true values are private information of each femtocell. Therefore, selfish FAPs have incentive to report larger capacities to win greater opportunity to be selected. To solve the aforementioned two problems, a JACSA scheme based on the Arrow-d’Aspremont-Gerard-Varet (AGV) is proposed both in open access and hybrid access scenarios, and formula derivations are given. We prove that, compared with the optimal subchannel allocation (OSA) scheme, JACSA scheme has the feature of achieving near optimal performances with much lower computational complexity. Furthermore, we compare the allocation results for open access and hybrid access in the proposed JACSA scheme. Finally, simulations are performed, and the results verify the availability of our proposed scheme.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/902574
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/902574
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - We are what we click: Understanding time and content-based habits of online news readers
+AU  - Makhortykh, Mykola
+AU  - de Vreese, Claes
+AU  - Helberger, Natali
+AU  - Harambam, Jaron
+AU  - Bountouridis, Dimitrios
+Y1  - 2020/07/08
+PY  - 2021
+DA  - 2021/09/01
+N1  - doi: 10.1177/1461444820933221
+DO  - 10.1177/1461444820933221
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -2773
+EP - 2800
+VL - 23
+IS - 9
+PB - SAGE Publications
+N2 - The article contributes both conceptually and methodologically to the study of online news consumption by introducing new approaches to measuring user information behaviour and proposing a typology of users based on their click behaviour. Using as a case study two online outlets of large national newspapers, it employs computational approaches to detect patterns in time- and content-based user interactions with news content based on clickstream data. The analysis of interactions detects several distinct timelines of news consumption and scrutinises how users switch between news topics during reading sessions. Using clustering analysis, the article then identifies several types of news readers (e.g. samplers, gourmets) and examines their news diets. The results point out the limited variation in topical composition of the news diets between different types of readers and the tendency of these diets to align with the news supply patterns (i.e. the average distribution of topics covered by the outlet).
+SN - 1461-4448
+M3  - doi: 10.1177/1461444820933221
+UR  - https://doi-org.crai.referencistas.com/10.1177/1461444820933221
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Collaborative Approach to Digital Fabrication: A Case Study for the Design and Production of Concrete ‘Pop-up’ Structures
+AU  - Vazquez, Alicia Nahmad
+AU  - Jabi, Wassim
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - doi: 10.1260/1478-0771.13.2.195
+DO  - 10.1260/1478-0771.13.2.195
+T2  - International Journal of Architectural Computing
+JF  - International Journal of Architectural Computing
+SP  -195
+EP - 216
+VL - 13
+IS - 2
+PB - SAGE Publications
+N2 - The research presented in this paper utilizes industrial robotic arms and new material technologies to model and explore a prototypical workflow for on-site robotic collaboration based on feedback loops. This workflow will ultimately allow for the construction of customized, free-form, on-site concrete structures without the need for complex formwork. The paper starts with an explanation of the relevance of collaborative robotics through history in the industry and in architecture. An argument is put forward for the need to move towards the development of collaborative processes based on feedback loops amongst the designer, the robot and the material, where they all inform each other continuously. This kind of process, with different degrees of autonomy and agency for each actor, is necessary for on-site deployment of robots. A test scenario is described using an innovative material named concrete canvas that exhibits hybrid soft fabric and rigid thin-shell tectonics. This research project illustrates the benefits of integrating information-embedded materials, mass-customization and feedback loops. Geometry scanning, parametric perforation pattern control, computational analysis and simulation, and robotic fabrication were integrated within a digital fabrication deployment scenario. The paper concludes with a detailed report of research findings and an outline for future work.
+SN - 1478-0771
+M3  - doi: 10.1260/1478-0771.13.2.195
+UR  - https://doi-org.crai.referencistas.com/10.1260/1478-0771.13.2.195
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - UEG Week 2016 Poster Presentations
+UEG Week 2016 Poster Presentations
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.1177/2050640616663689
+DO  - 10.1177/2050640616663689
+T2  - United European Gastroenterology Journal
+JF  - United European Gastroenterology Journal
+SP  -A157
+EP - A720
+VL - 4
+IS - 5_suppl
+PB - SAGE Publications
+SN - 2050-6406
+M3  - doi: 10.1177/2050640616663689
+UR  - https://doi-org.crai.referencistas.com/10.1177/2050640616663689
+Y2  - 2024/10/01
+ER  - 
+

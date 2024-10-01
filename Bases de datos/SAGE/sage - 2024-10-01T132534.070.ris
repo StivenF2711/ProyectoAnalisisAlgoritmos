@@ -1,0 +1,243 @@
+TY  - JOUR
+T1  - From Bite to Byte: Dental Structures Resolved at a Single-Cell Resolution
+AU  - Fresia, R.
+AU  - Marangoni, P.
+AU  - Burstyn-Cohen, T.
+AU  - Sharir, A.
+Y1  - 2021/03/25
+PY  - 2021
+DA  - 2021/08/01
+N1  - doi: 10.1177/00220345211001848
+DO  - 10.1177/00220345211001848
+T2  - Journal of Dental Research
+JF  - Journal of Dental Research
+JO  - J Dent Res
+SP  -897
+EP - 905
+VL - 100
+IS - 9
+PB - SAGE Publications Inc
+N2 - The systematic classification of the cells that compose a tissue or an organ is key to understanding how these cells cooperate and interact as a functional unit. Our capacity to detect features that define cell identity has evolved from morphological and chemical analyses, through the use of predefined genetic markers, to unbiased transcriptomic and epigenetic profiling. The innovative technology of single-cell RNA sequencing (scRNA-seq) enables transcriptional profiling of thousands of individual cells. Since its development, scRNA-seq has been extensively applied to numerous organs and tissues in a wide range of animal models and human samples, thereby providing a plethora of fundamental biological insights into their development, homeostasis, and pathology. In this review, we present the findings of 3 recent studies that employed scRNA-seq to unravel the complexity of cellular composition in mammalian teeth. These findings offer an unprecedented catalogue of cell types in the mouse incisor, which is a convenient model system for studying continuous tooth growth. These studies identified novel cell types in the tooth epithelium and mesenchyme, as well as new markers for known cell types. Computational analyses of the data also uncovered the lineage and dynamics of cell states during ameloblast and odontoblast differentiation during both normal homeostasis and injury repair. The transcriptional differences between the mouse incisor and mouse and human molars uncover species-specific as well as shared features in tooth cell composition. Here, we highlight these findings and discuss important similarities and differences between these studies. We also discuss potential future applications of scRNA-seq in dental research and dentistry. Together, these studies demonstrate how the rapidly evolving technology of scRNA-seq can advance the study of tooth development and function and provide putative targets for regenerative approaches.
+SN - 0022-0345
+M3  - doi: 10.1177/00220345211001848
+UR  - https://doi-org.crai.referencistas.com/10.1177/00220345211001848
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A lightweight verifiable outsourced decryption of attribute-based encryption scheme for blockchain-enabled wireless body area network in fog computing
+AU  - Guo, Rui
+AU  - Zhuang, Chaoyuan
+AU  - Shi, Huixian
+AU  - Zhang, Yinghui
+AU  - Zheng, Dong
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - doi: 10.1177/1550147720906796
+DO  - 10.1177/1550147720906796
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720906796
+VL - 16
+IS - 2
+PB - SAGE Publications
+N2 - Wireless body area network includes some tiny wearable sensors for monitoring the physiological data of user, which has been a promising method of promoting the quality and efficiency greatly in healthcare. The collected physical signs are aggregated into the medical documents and uploaded to cloud server for utilizing by the remote user. As these files are highly sensitive privacy data, there is a vital challenge that constructs a secure and efficient communication architecture in this application scenario. Based on this standpoint, we present a lightweight verifiability ciphertext-policy attribute-based encryption protocol with outsourced decryption in this article. Specifically, our construction enjoys the following six features: (1) Although the outsourced decryption enables to save the computation overhead of the data user sharply in an attribute-based encryption scheme, the ciphertext is out of control and the correctness cannot be guaranteed by the data owner. The proposal provides the verifiability of ciphertext that ensures the user to check the correctness efficiently. (2) The size of the ciphertext is constant that is not increased with the complexity of attribute and access structure. (3) For Internet of Things devices, it introduces the fog computing into our protocol for the purpose of low latency and relation interactions, which has virtually saved the bandwidth. (4) With the help of blockchain technique, we encapsulate the hash value of public parameter, original and transformed ciphertext and transformed key into a block, so that the tamper-resistance is facilitated against an adversary from inside and outside the system. (5) In the standard model, we prove that it is selectively chosen-plaintext attack-secure and verifiable provided that the computational bilinear Diffie–Hellman assumption holds. (6) It implements this protocol and shows the result of performance measurement, which indicates a significant reduction on communication and computation costs burden on every entity in wireless body area network.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720906796
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720906796
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cooperative path-planning and tracking controller evaluation using vehicle models of varying complexities
+AU  - Kanchwala, Husain
+AU  - Bezerra Viana, Icaro
+AU  - Aouf, Nabil
+Y1  - 2020/07/28
+PY  - 2021
+DA  - 2021/08/01
+N1  - doi: 10.1177/0954406220945468
+DO  - 10.1177/0954406220945468
+T2  - Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+JF  - Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+SP  -2877
+EP - 2896
+VL - 235
+IS - 16
+PB - IMECHE
+N2 - This paper discusses cooperative path-planning and tracking controller for autonomous vehicles using a distributed model predictive control approach. Mixed-integer quadratic programming approach is used for optimal trajectory generation using a linear model predictive control for path-tracking. Cooperative behaviour is introduced by broadcasting the planned trajectories of two connected automated vehicles. The controller generates steering and torque inputs. The steering and drive motor actuator constraints are incorporated in the control law. Computational simulations are performed to evaluate the controller for vehicle models of varying complexities. A 12-degrees-of-freedom vehicle model is developed and is subsequently linearised to be used as the plant model for the linearised model predictive control-based tracking controller. The model behaviour is compared against the kinematic, bicycle and the sophisticated high-fidelity multi-body dynamics CarSim model of the vehicle. Vehicle trajectories used for tracking are longitudinal and lateral positions, velocities and yaw rate. A cooperative obstacle avoidance manoeuvre is performed at different speeds using a co-simulation between the controller model in Simulink and the high-fidelity vehicle model in CarSim. The simulation results demonstrate the effectiveness of the proposed method.
+SN - 0954-4062
+M3  - doi: 10.1177/0954406220945468
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954406220945468
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Mobile Robot Navigation Based on Q-Learning Technique
+AU  - Khriji, Lazhar
+AU  - Touati, Farid
+AU  - Benhmed, Kamel
+AU  - Al-Yahmedi, Amur
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/03/01
+N1  - doi: 10.5772/10528
+DO  - 10.5772/10528
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -4
+VL - 8
+IS - 1
+PB - SAGE Publications
+N2 - This paper shows how Q-learning approach can be used in a successful way to deal with the problem of mobile robot navigation. In real situations where a large number of obstacles are involved, normal Q-learning approach would encounter two major problems due to excessively large state space. First, learning the Q-values in tabular form may be infeasible because of the excessive amount of memory needed to store the table. Second, rewards in the state space may be so sparse that with random exploration they will only be discovered extremely slowly. In this paper, we propose a navigation approach for mobile robot, in which the prior knowledge is used within Q-learning. We address the issue of individual behavior design using fuzzy logic. The strategy of behaviors based navigation reduces the complexity of the navigation problem by dividing them in small actions easier for design and implementation. The Q-Learning algorithm is applied to coordinate between these behaviors, which make a great reduction in learning convergence times. Simulation and experimental results confirm the convergence to the desired results in terms of saved time and computational resources.
+SN - 1729-8806
+M3  - doi: 10.5772/10528
+UR  - https://doi-org.crai.referencistas.com/10.5772/10528
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Simulation of mode-locking phenomena in a complex nonlinear rotor system using 3D solid finite elements
+AU  - Kiesel, Theo
+AU  - Marburg, Steffen
+Y1  - 2015/12/03
+PY  - 2016
+DA  - 2016/04/01
+N1  - doi: 10.1177/0954406215617196
+DO  - 10.1177/0954406215617196
+T2  - Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+JF  - Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+SP  -959
+EP - 973
+VL - 230
+IS - 6
+PB - IMECHE
+N2 - The most common simulation approach in rotor dynamics is based on beam models. Usually, these models are very compact and come at low computational costs. However, they are afflicted with a number of limitations, making them insufficient for the analysis of more complex rotor systems, which require 3D solid modeling. General purpose FEM codes offer full 3D solid modeling capabilities, but the question still remains, whether they are capable of correctly taking into account all the effects that arise from rotation. This paper provides an example of a complex, highly nonlinear rotor system, which cannot be simulated or even modeled accurately by using beam elements, but rather requires 3D solid modeling. ABAQUS is used-as a representative example for a general purpose FEM code-to build up an appropriate model. By doing so, the paper addresses the question, whether a general purpose FEM code is able to cover the necessary rotor dynamic effects. The model which is derived here takes into account nonlinear stiffness behavior, and includes contact between different components of a rotor assembly. The objective is to simulate a run-up through a bending resonance, using direct time integration. The simulation results are compared with experiments, showing good consistency. During the crossing of the critical speed due to the bending resonance, mode-locking can be observed in the experiment and is well represented by the simulation model.
+SN - 0954-4062
+M3  - doi: 10.1177/0954406215617196
+UR  - https://doi-org.crai.referencistas.com/10.1177/0954406215617196
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Joint stochastic optimisation of stope layout, production scheduling and access network
+AU  - Penadillo, Cristina
+AU  - Dimitrakopoulos, Roussos
+AU  - Kumral, Mustafa
+Y1  - 2024/04/13
+PY  - 2024
+N1  - doi: 10.1177/25726668241242230
+DO  - 10.1177/25726668241242230
+T2  - Mining Technology
+JF  - Mining Technology
+SP  -25726668241242230
+VL - 0
+IS - 0
+PB - SAGE Publications
+N2 - The three main optimisation components of sublevel stoping methods are stope layout, production schedule (or stope sequencing) and access networks. The joint optimisation of these components could further add value to an underground mining project. This potential has not been considered in the literature due to computational difficulties, and the problem was solved sequentially. This paper proposes a new joint optimisation model to integrate these components. In addition, the proposed optimisation model incorporates stochastic simulations to capture uncertainty and variability associated with the grades of the related mineral deposits mined. The optimisation model is based on a two-stage stochastic integer programming (SIP) formulation that maximises the project’s net present value (NPV) and minimises the planned dilution. Applying the proposed method at a small copper deposit shows that the SIP outperforms the results obtained from mixed integer programming. For a seven-year mine life, the SIP model generated ∼20% more NPV, demonstrating the importance of developing a joint optimisation formulation and accounting for grade uncertainty and variability.
+SN - 2572-6668
+M3  - doi: 10.1177/25726668241242230
+UR  - https://doi-org.crai.referencistas.com/10.1177/25726668241242230
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of the sound insulation performance of periodic wall structures by a virtual acoustic laboratory
+AU  - Perras, Elias
+AU  - Mellmann, Marius
+AU  - Zhang, Chuanzeng
+Y1  - 2023/01/26
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1177/1351010X221136709
+DO  - 10.1177/1351010X221136709
+T2  - Building Acoustics
+JF  - Building Acoustics
+SP  -25
+EP - 52
+VL - 30
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The propagation of acoustic waves in periodic structures, also known as phononic crystals or PCs, is prohibited in certain frequency ranges, which are referred to as the frequency band-gaps. The existence, the location and the width of the frequency band-gaps are mainly determined by the geometrical parameters and the material properties of the PCs. In this work, a virtual acoustic laboratory based on a fully coupled fluid-structure interaction (FSI) model is developed to determine the sound insulation capacity of one-dimensional (1D) and two-dimensional (2D) periodic walls. The FSI model is discretized using the frequency-domain spectral element method (FDSEM), which is an advanced finite element method (FEM) using special high-order shape functions. Following the guidelines of the ISO10140, the setup of the developed FSI model allows us to take into account the essential physical phenomena, especially the interaction of the wall structure with the fluid domains (air). The FSI model based on the FDSEM increases the computational efficiency and accuracy in comparison with the standard FEM. Several numerical examples will be presented and discussed to show that the designed periodic walls in certain frequency ranges within the band-gaps may exhibit much better sound insulation capabilities than monolithic walls.
+SN - 1351-010X
+M3  - doi: 10.1177/1351010X221136709
+UR  - https://doi-org.crai.referencistas.com/10.1177/1351010X221136709
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Preliminary injury risk estimation for occupants involved in frontal crashes by combining computer simulations and real crashes
+AU  - Qiu, Jinlong
+AU  - Su, Sen
+AU  - Duan, Aowen
+AU  - Feng, Chengjian
+AU  - Xie, Jingru
+AU  - Li, Kui
+AU  - Yin, Zhiyong
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/0036850420908750
+DO  - 10.1177/0036850420908750
+T2  - Science Progress
+JF  - Science Progress
+SP  -0036850420908750
+VL - 103
+IS - 2
+PB - SAGE Publications Ltd
+N2 - The fatality rate can be dramatically reduced with the help of emergency medical services. The purpose of this study was to establish a computational algorithm to predict the injury severity, so as to improve the timeliness, appropriateness, and efficacy of medical care provided. The computer simulations of full-frontal crashes with rigid wall were carried out using LS-DYNA and MADYMO under different collision speeds, airbag deployment time, and seatbelt wearing condition, in which a total of 84 times simulation was conducted. Then an artificial neural network is adopted to construct relevance between head and chest injuries and the injury risk factors; 37 accident cases with Event Data Recorder data and information on occupant injury were collected to validate the model accuracy through receiver operating characteristic analysis. The results showed that delta-v, seatbelt wearing condition, and airbag deployment time were important factors in the occupant’s head and chest injuries. When delta-v increased, the occupant had significantly higher level of severe injury on the head and chest; there is a significant difference of Head Injury Criterion and Combined Thoracic Index whether the occupant wore seatbelt. When the airbag deployment time was less than 20 ms, the severity of head and chest injuries did not significantly vary with the increase of deployment time. However, when the deployment time exceeded 20 ms, the severity of head and chest injuries significantly increased with increase in deployment time. The validation result of the algorithm showed that area under the curve = 0.747, p < 0.05, indicating a medium level of accuracy, nearly to previous model. The computer simulation and artificial neural network have a great potential for developing injury risk estimation algorithms suitable for Advanced Automatic Crash Notification applications, which could assist in medical decision-making and medical care.
+SN - 0036-8504
+M3  - doi: 10.1177/0036850420908750
+UR  - https://doi-org.crai.referencistas.com/10.1177/0036850420908750
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical Study on the Performance of Double Layer Microchannel with Liquid Gallium and Water
+AU  - Sharma, Deewakar
+AU  - Garg, Harry
+AU  - Singh, Parbar Pratham
+AU  - Karar, Vinod
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1155/2013/324578
+DO  - 10.1155/2013/324578
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -324578
+VL - 5
+PB - SAGE Publications
+N2 - The performance of liquid gallium and water in the double layer microchannel has been analysed using three-dimensional conjugate heat transfer analysis. The effect of flow rate on the counter and parallel arrangement of each fluid is studied for three different lengths. Furthermore, cooling capability of liquid gallium and water is compared at the same length with flow rate and pumping power as governing parameters. The performance of fluid was judged on the basis of maximum temperature attained and minimal temperature variations at the heated region. Interesting results have been found showing the effect of specific heat on the type of arrangement for liquid gallium with similar observation for water for low Reynolds number and relatively longer length. Among liquid gallium and water, above certain pumping power use of liquid gallium is found to be favourable for a shorter length of the double layer microchannel. Furthermore, the range of flow rate and pumping power showing superior performance with water was found to increase with the length.
+SN - 1687-8132
+M3  - doi: 10.1155/2013/324578
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/324578
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Research on associated motion simulation method and platform of control rod driving mechanism
+AU  - Sun, Hongbiao
+AU  - Li, Wenqiang
+AU  - Yu, Tianda
+AU  - Liu, Yanting
+AU  - Zhang, Zhiqiang
+Y1  - 2021/09/01
+PY  - 2021
+DA  - 2021/09/01
+N1  - doi: 10.1177/16878140211043003
+DO  - 10.1177/16878140211043003
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878140211043004
+VL - 13
+IS - 9
+PB - SAGE Publications
+N2 - The motion simulation analysis of the control rod drive mechanism is a typical multi-disciplinary cross-coupling problem covering electromagnetic field, flow field, and dynamic field. Ensuring effective simulation accuracy is an important advance for accurately predicting the reliability of nuclear reactors. In this paper, a multi-disciplinary co-simulation method is proposed based on time unit differentiation, which solves the coupling problem of parameters by micro-element thought. It can avoid affecting the accuracy of simulation results due to the inequality of multi-disciplinary parameters in the co-simulation process. This paper takes the nuclear reactor control rod drive mechanism as the verification object. The multi-disciplinary co-simulation platform in Isight is built based on the co-simulation method. By differentiating the overall process of multidisciplinary co-simulation according to time unit and using the same simulation time interval for each discipline, the Newmark method is used to determine the minimum simulation time integration step of each discipline. The multi-field co-simulation is carried out including electromagnetic field, flow field, gravitational field, and motion field of the driving mechanism in the working process. Through comparison with the actual measurement results, the simulation results have an error within 5%, which is better than existing motion simulation results of driving mechanism.
+SN - 1687-8132
+M3  - doi: 10.1177/16878140211043003
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878140211043003
+Y2  - 2024/10/01
+ER  - 
+

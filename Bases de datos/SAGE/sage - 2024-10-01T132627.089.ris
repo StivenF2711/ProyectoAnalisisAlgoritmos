@@ -1,0 +1,239 @@
+TY  - JOUR
+T1  - Aerodynamic analysis and control for a novel coaxial ducted fan aerial robot in ground effect
+AU  - Ai, Tianfu
+AU  - Xu, Bin
+AU  - Xiang, Changle
+AU  - Fan, Wei
+AU  - Zhang, Yibo
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1177/1729881420953026
+DO  - 10.1177/1729881420953026
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881420953026
+VL - 17
+IS - 4
+PB - SAGE Publications
+N2 - Modeling and control for a novel coaxial ducted fan aerial robot in-ground-effect is presented in this article. Based on experiments using the ducted fan bench test, the fitting curve of the ground effect thrust of the ducted fan aerial robot at different heights is obtained. In addition, the flow field simulation results of the prototype with ground effect at different heights can be obtained using computational fluid dynamics software. A simplified model of the prototype for control can be designed based on several reasonable hypotheses that are established using blade element and momentum theory. To compensate for the disturbance associated with ground effect, a nonlinear disturbance observer is designed to estimate the disturbance, and control structure of the closed-loop system is composed of a nonlinear disturbance observer combined with a double-loop proportion–integration–differentiation controller. The results of several numerical simulations and experiments demonstrate the effectiveness of this controller structure. The performances of tracking trajectory and system stability are improved significantly, compared to the situation that the ground effect is not compensated for.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881420953026
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881420953026
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Development of a semi-empirical physical model for transient NOx emissions prediction from a high-speed diesel engine
+AU  - Bajwa, Abdullah
+AU  - Zou, Gongyi
+AU  - Zhong, Fengyu
+AU  - Fang, Xiaohang
+AU  - Leach, Felix
+AU  - Davy, Martin
+Y1  - 2024/06/18
+PY  - 2024
+DA  - 2024/10/01
+N1  - doi: 10.1177/14680874241255165
+DO  - 10.1177/14680874241255165
+T2  - International Journal of Engine Research
+JF  - International Journal of Engine Research
+SP  -1835
+EP - 1848
+VL - 25
+IS - 10
+PB - SAGE Publications
+N2 - With emissions regulations becoming increasingly restrictive and the advent of real driving emissions limits, control of engine-out NOx emissions remains an important research topic for diesel engines. Progress in experimental engine development and computational modelling has led to the generation of a large amount of high-fidelity emissions and in-cylinder data, making it attractive to use data-driven emissions prediction and control models. While pure data-driven methods have shown robustness in NOx prediction during steady-state engine operation, deficiencies are found under transient operation and at engine conditions far outside the training range. Therefore, physics-based, mean value models that capture cyclic-level changes in in-cylinder thermo-chemical properties appear as an attractive option for transient NOx emissions modelling. Previous experimental studies have highlighted the existence of a very strong correlation between peak cylinder pressure and cyclic NOx emissions. In this study, a cyclic peak pressure-based semi-empirical NOx prediction model is developed. The model is calibrated using high-speed NO and NO2 emissions measurements during transient engine operation and then tested under different transient operating conditions. The transient performance of the physical model is compared to that of a previously developed data-driven (artificial neural network) model, and is found to be superior, with a better dynamic response and low (<10%) errors. The results shown in this study are encouraging for the use of such models as virtual sensors for real-time emissions monitoring and as complimentary models for future physics-guided neural network development.
+SN - 1468-0874
+M3  - doi: 10.1177/14680874241255165
+UR  - https://doi-org.crai.referencistas.com/10.1177/14680874241255165
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Study on the Algorithm for Train Operation Adjustment Based on Ordinal Optimization
+AU  - Chen, Yong-jun
+AU  - Yu, Ji-an
+AU  - Zhou, Lei-shan
+AU  - Tao, Qing
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1155/2013/175347
+DO  - 10.1155/2013/175347
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -175347
+VL - 5
+PB - SAGE Publications
+N2 - It is a crucial and difficult problem in railway transportation dispatch mechanism to automatically compile train operation adjustment (TOA) plan with computer to ensure safe, fast, and punctual running of trains. Based on the proposed model of TOA under the conditions of railway network (RN), we take minimum travel time of train as objective function of optimization, and after fast preliminary evaluation calculation on it, we introduce the theory and method of ordinal optimization (OO) to solve it. This paper discusses in detail the implementation steps of OO algorithm. A practical calculation example of Datong-Qinhuangdao (hereinafter referred to as Da-Qin) heavy haul railway is performed with the proposed algorithm to prove that OO can ensure getting good enough solution with high probability. Particularly, for complex optimization problems with large amount of calculation, OO can greatly increase computational efficiency, and it can save at least one order of magnitude of calculation amount than general heuristic algorithm. Thus, the proposed algorithm can well satisfy the requirements in engineering.
+SN - 1687-8132
+M3  - doi: 10.1155/2013/175347
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/175347
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Experimental Evaluation of RGB-D Visual Odometry Methods
+AU  - Fang, Zheng
+AU  - Zhang, Yu
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - doi: 10.5772/59991
+DO  - 10.5772/59991
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -26
+VL - 12
+IS - 3
+PB - SAGE Publications
+N2 - RGB-D cameras that can provide rich 2D visual and 3D depth information are well suited to the motion estimation of indoor mobile robots. In recent years, several RGB-D visual odometry methods that process data from the sensor in different ways have been proposed. This paper first presents a brief review of recently proposed RGB-D visual odometry methods, and then presents a detailed analysis and comparison of eight state-of-the-art real-time 6DOF motion estimation methods in a variety of challenging scenarios, with a special emphasis on the trade-off between accuracy, robustness and computation speed. An experimental comparison is conducted using publicly available benchmark datasets and author-collected datasets in various scenarios, including long corridors, illumination changing environments and fast motion scenarios. Experimental results present both quantitative and qualitative differences between these methods and provide some guidelines on how to choose the right algorithm for an indoor mobile robot according to the quality of the RGB-D data and environmental characteristics.
+SN - 1729-8806
+M3  - doi: 10.5772/59991
+UR  - https://doi-org.crai.referencistas.com/10.5772/59991
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Data-Specific Functions: A Comment on Kindel et al.
+AU  - Fisher, Jacob C.
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/2378023118822893
+DO  - 10.1177/2378023118822893
+T2  - Socius
+JF  - Socius
+SP  -2378023118822893
+VL - 5
+PB - SAGE Publications
+N2 - In this issue, Kindel et al. describe a new approach to managing survey data in service of the Fragile Families Challenge, which they call “treating metadata as data.” Although the approach they present is a good first step, a more ambitious proposal could improve survey data analysis even more substantially. The author recommends that data collection efforts distribute an open-source set of tools for working with a particular data set the author calls data-specific functions. The goal of these functions is to codify best practices for working with the data in a set of functions for commonly used statistical software. These functions would be jointly developed by the users and distributers of the data. Building such functions would both shorten the learning curve for new users and improve the quality of the data, by making tacit knowledge about problems with the data explicit and easy to act on.
+SN - 2378-0231
+M3  - doi: 10.1177/2378023118822893
+UR  - https://doi-org.crai.referencistas.com/10.1177/2378023118822893
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Forgotten Tides: A Novel Strategy for Bayesian Optimization of Neurostimulation
+AU  - Foutz, Thomas J.
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1177/15357597241254274
+DO  - 10.1177/15357597241254274
+T2  - Epilepsy Currents
+JF  - Epilepsy Currents
+JO  - Epilepsy Curr
+SP  -283
+EP - 285
+VL - 24
+IS - 4
+PB - SAGE Publications Inc
+N2 - From Dawn Till Dusk: Time-Adaptive Bayesian Optimization for Neurostimulation Fleming JE, Pont Sanchis I, Lemmens O, Denison-Smith A, West TO, Denison T, Cagnan H. PLoS Comput Biol. 2023;19(12):e1011674. doi:10.1371/journal.pcbi.1011674. PMID: 38091368 Stimulation optimization has garnered considerable interest in recent years in order to efficiently parametrize neuromodulation-based therapies. To date, efforts focused on automatically identifying settings from parameter spaces that do not change over time. A limitation of these approaches, however, is that they lack consideration for time dependent factors that may influence therapy outcomes. Disease progression and biological rhythmicity are two sources of variation that may influence optimal stimulation settings over time. To account for this, we present a novel time-varying Bayesian optimization (TV-BayesOpt) for tracking the optimum parameter set for neuromodulation therapy. We evaluate the performance of TV-BayesOpt for tracking gradual and periodic slow variations over time. The algorithm was investigated within the context of a computational model of phase-locked deep brain stimulation for treating oscillopathies representative of common movement disorders such as Parkinson’s disease and Essential Tremor. When the optimal stimulation settings changed due to gradual and periodic sources, TV-BayesOpt outperformed standard time-invariant techniques and was able to identify the appropriate stimulation setting. Through incorporation of both a gradual “forgetting” and periodic covariance functions, the algorithm maintained robust performance when a priori knowledge differed from observed variations. This algorithm presents a broad framework that can be leveraged for the treatment of a range of neurological and psychiatric conditions and can be used to track variations in optimal stimulation settings such as amplitude, pulse-width, frequency and phase for invasive and non-invasive neuromodulation strategies.
+SN - 1535-7597
+M3  - doi: 10.1177/15357597241254274
+UR  - https://doi-org.crai.referencistas.com/10.1177/15357597241254274
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - #IStandWithDan versus #DictatorDan: the polarised dynamics of Twitter discussions about Victoria’s COVID-19 restrictions
+AU  - Graham, Timothy
+AU  - Bruns, Axel
+AU  - Angus, Daniel
+AU  - Hurcombe, Edward
+AU  - Hames, Sam
+Y1  - 2020/12/20
+PY  - 2021
+DA  - 2021/05/01
+N1  - doi: 10.1177/1329878X20981780
+DO  - 10.1177/1329878X20981780
+T2  - Media International Australia
+JF  - Media International Australia
+SP  -127
+EP - 148
+VL - 179
+IS - 1
+PB - SAGE Publications Ltd
+N2 - In this article, we examine two interrelated hashtag campaigns that formed in response to the Victorian State Government’s handling of Australia’s most significant COVID-19 second wave of mid-to-late 2020. Through a mixed-methods approach that includes descriptive statistical analysis, qualitative content analysis, network analysis, computational sentiment analysis and social bot detection, we reveal how a small number of hyper-partisan pro- and anti-government campaigners were able to mobilise ad hoc communities on Twitter, and – in the case of the anti-government hashtag campaign – co-opt journalists and politicians through a multi-step flow process to amplify their message. Our comprehensive analysis of Twitter data from these campaigns offers insights into the evolution of political hashtag campaigns, how actors involved in these specific campaigns were able to exploit specific dynamics of Twitter and the broader media and political establishment to progress their hyper-partisan agendas, and the utility of mixed-method approaches in helping render the dynamics of such campaigns visible.
+SN - 1329-878X
+M3  - doi: 10.1177/1329878X20981780
+UR  - https://doi-org.crai.referencistas.com/10.1177/1329878X20981780
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical modeling of unsteady MHD flow of Casson fluid in a vertical surface with chemical reaction and Hall current
+AU  - Rasheed, Haroon Ur
+AU  - Islam, Saeed
+AU  - Zeeshan
+AU  - Khan, Waris
+AU  - Khan, Jahangir
+AU  - Abbas, Tariq
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1177/16878132221085429
+DO  - 10.1177/16878132221085429
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878132221085428
+VL - 14
+IS - 3
+PB - SAGE Publications
+N2 - The non-Newtonian fluid flow plays an important role in industrial and manufacturing processes such as painting, printing, coating, and biomechanical. In the present paper, the steady two-dimensional MHD free convective flow of Casson fluid over a vertical surface is elucidated numerically with the impact of thermal radiation and chemical reaction are offered. The interaction of transverse magnetic field, viscous dissipation, and Hall current are taken into the account. A nonlinear flow system is developed to decompose the heat and mass transmission effects of this liquid, which is done by taking an appropriate extreme boundary condition. Non-dimensional nonlinear ordinary differential equations (ODEs) are diminished from governing partial differential equations (PDEs) via fitting transformations. The fundamental model of nonlinear constitutive flow laws is tackled numerically through the ND-solve technique in a Mathematica 11.0 environment. The computational upshot is also described explicitly to examine the consequences pertinent parameters. The attained sundry parameters are analyzed expediently, which include magnetic factor, radiation, chemical reaction, Prandtl number, heat source, modified Grashof number, and Schmidt number. The features of the governing relevant parameters on the flow frameworks are analyzed correctly via plots and tables. Additionally, the drag force, heat, and mass transference coefficients outlines are examined.
+SN - 1687-8132
+M3  - doi: 10.1177/16878132221085429
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878132221085429
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Network pharmacology and bioinformatics analyses identify the intersection genes and mechanism of Huang Bai for recurrent aphthous stomatitis
+AU  - Tang, Lulu
+AU  - Huang, ling
+AU  - Lai, yingtao
+Y1  - 2022/04/01
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/03946320221129134
+DO  - 10.1177/03946320221129134
+T2  - International Journal of Immunopathology and Pharmacology
+JF  - International Journal of Immunopathology and Pharmacology
+JO  - Int J Immunopathol Pharmacol
+SP  -03946320221129134
+VL - 36
+PB - SAGE Publications Ltd
+N2 - Recurrent aphthous stomatitis (RAS) are complex inflammatory diseases caused by multi-factors, which severely impact patient quality of life. However, there is still no effective treatment method for RAS without side effects. Traditionally, Cortex Phellodendri known as “Huang Bai” was used to treat RAS for antibacterial and anti-inflammatory properties in China. Network pharmacology methods and bioinformatics analysis were utilized to search and fish incorporating target. Network analysis and silico validation were used to discover the pharmacological mechanisms of “Huang Bai” for the treatment of RAS. A total of 25 active ingredients in HB, 200 drug targets, and 578 differentially expressed genes (DEGs) between Recurrent aphthous stomatitis and normal samples were obtained. The Gene Ontology enrichment analysis revealed that the immune response was the most significantly enriched term within the DEGs. The KEGG pathway analysis identified 60 significant pathways, most of which involved in the inhibition of inflammation and regulation of immunological response. The functions are dependent on a multi-pathway, particularly the TNF signaling pathway and the HIF-1 signaling pathway. We identified six hub genes in the PPI network, most of which were validated as highly expressed in oral ulcers by DiseaseMeth databases. In addition, molecular docking displayed that the primary molecule combined well with the key targets. “Huang Bai” contains potential anti-RAS active compounds. This study reflects the multi-component multi-target multi-pathway action characteristics of “Huang Bai.” Our study provides potential biomarkers or treatment targets for further research.
+SN - 0394-6320
+M3  - doi: 10.1177/03946320221129134
+UR  - https://doi-org.crai.referencistas.com/10.1177/03946320221129134
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An efficient cooperative message authentication based on reputation mechanism in vehicular ad hoc networks
+AU  - Xie, Yong
+AU  - Zhang, Songsong
+AU  - Li, Xiang
+AU  - Li, Yanggui
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1177/1550147719854910
+DO  - 10.1177/1550147719854910
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719854910
+VL - 15
+IS - 6
+PB - SAGE Publications
+N2 - Vehicular ad hoc networks have emerged as a promising approach to increasing road safety and efficiency. Vehicles periodically broadcast traffic-related status messages. Message authentication is a common way for ensuring information reliability, but it is an unaffordable computational cost for single vehicle. In this article, we propose an efficient cooperative message authentication based on reputation mechanism. In the proposed scheme, reputation model is used to assess authentication efforts of vehicles, which enhances initiative for cooperative message authentication and inhabits selfish behavior; sequence optimization algorithm solves messages overflowing on condition limited computation of onboard unit and improves the speed of message authentication at the premise of ensuring the reliability of message authentication. Simulation results show that our scheme presents a nice performance of authentication efficiency, packet loss ratio, and missing detection ratio.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719854910
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719854910
+Y2  - 2024/10/01
+ER  - 
+

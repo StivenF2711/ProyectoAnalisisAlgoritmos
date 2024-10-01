@@ -1,0 +1,241 @@
+TY  - JOUR
+T1  - Post quantum proxy signature scheme based on the multivariate public key cryptographic signature
+AU  - Chen, Jiahui
+AU  - Ling, Jie
+AU  - Ning, Jianting
+AU  - Panaousis, Emmanouil
+AU  - Loukas, George
+AU  - Liang, Kaitai
+AU  - Chen, Jiageng
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/1550147720914775
+DO  - 10.1177/1550147720914775
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720914775
+VL - 16
+IS - 4
+PB - SAGE Publications
+N2 - Proxy signature is a very useful technique which allows the original signer to delegate the signing capability to a proxy signer to perform the signing operation. It finds wide applications especially in the distributed environment where the entities such as the wireless sensors are short of computational power and needed to be convinced to the authenticity of the server. Due to less proxy signature schemes in the post-quantum cryptography aspect, in this article, we investigate the proxy signature in the post-quantum setting so that it can resist against the potential attacks from the quantum adversaries. A general multivariate public key cryptographic proxy scheme based on a multivariate public key cryptographic signature scheme is proposed, and a heuristic security proof is given for our general construction. We show that the construction can reach Existential Unforgeability under an Adaptive Chosen Message Attack with Proxy Key Exposure assuming that the underlying signature is Existential Unforgeability under an Adaptive Chosen Message Attack. We then use our general scheme to construct practical proxy signature schemes for three well-known and promising multivariate public key cryptographic signature schemes. We implement our schemes and compare with several previous constructions to show our efficiency advantage, which further indicates the potential application prospect in the distributed network environment.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720914775
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720914775
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Security Analysis in Wireless Sensor Networks
+AU  - Dener, Murat
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - doi: 10.1155/2014/303501
+DO  - 10.1155/2014/303501
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -303501
+VL - 10
+IS - 10
+PB - SAGE Publications
+N2 - In recent years, wireless sensor network (WSN) is employed in many application areas such as monitoring, tracking, and controlling. For many applications of WSN, security is an important requirement. However, security solutions in WSN differ from traditional networks due to resource limitation and computational constraints. This paper analyzes security solutions: TinySec, IEEE 802.15.4, SPINS, MiniSEC, LSec, LLSP, LISA, and LISP in WSN. The paper also presents characteristics, security requirements, attacks, encryption algorithms, and operation modes. This paper is considered to be useful for security designers in WSNs.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/303501
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/303501
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Unraveling Genome Evolution Throughout Visual Analysis: The XCout Portal
+AU  - Diaz-del-Pino, Sergio
+AU  - Perez-Wohlfeil, Esteban
+AU  - Trelles, Oswaldo
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/11779322211021422
+DO  - 10.1177/11779322211021422
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -11779322211021422
+VL - 15
+PB - SAGE Publications Ltd STM
+N2 - Due to major breakthroughs in sequencing technologies throughout the last decades, the time and cost per sequencing experiment have reduced drastically, overcoming the data generation barrier during the early genomic era. Such a shift has encouraged the scientific community to develop new computational methods that are able to compare large genomic sequences, thus enabling large-scale studies of genome evolution. The field of comparative genomics has proven itself invaluable for studying the evolutionary mechanisms and the forces driving genome evolution. In this line, a full genome comparison study between 2 species requires a quadratic number of comparisons in terms of the number of sequences (around 400 chromosome comparisons in the case of mammalian genomes); however, when studying conserved syntenies or evolutionary rearrangements, many sequence comparisons can be skipped for not all will contain significant signals. Subsequently, the scientific community has developed fast heuristics to perform multiple pairwise comparisons between large sequences to determine whether significant sets of conserved similarities exist. The data generation problem is no longer an issue, yet the limitations have shifted toward the analysis of such massive data. Therefore, we present XCout, a Web-based visual analytics application for multiple genome comparisons designed to improve the analysis of large-scale evolutionary studies using novel techniques in Web visualization. XCout enables to work on hundreds of comparisons at once, thus reducing the time of the analysis by identifying significant signals between chromosomes across multiple species. Among others, XCout introduces several techniques to aid in the analysis of large-scale genome rearrangements, particularly (1) an interactive heatmap interface to display comparisons using automatic color scales based on similarity thresholds to ease detection at first sight, (2) an overlay system to detect individual signal contributions between chromosomes, (3) a tracking tool to trace conserved blocks across different species to perform evolutionary studies, and (4) a search engine to search annotations throughout different species.
+SN - 1177-9322
+M3  - doi: 10.1177/11779322211021422
+UR  - https://doi-org.crai.referencistas.com/10.1177/11779322211021422
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A spatiotemporal co-occurrence pattern mining algorithm based on ship trajectory data
+AU  - Feng, Chengxu
+AU  - Xu, Jianghu
+AU  - Zhang, Jianqiang
+AU  - Li, Houpu
+Y1  - 2024/09/01
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1177/16878132241274449
+DO  - 10.1177/16878132241274449
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878132241274448
+VL - 16
+IS - 9
+PB - SAGE Publications
+N2 - Finding the potential spatiotemporal co-occurrence behavior patterns of large groups of ships while sailing is a challenging problem of great importance in many real-world applications. Through spatiotemporal data mining of ship trajectory data, route rules, navigation behavior, and potential anomalies can be mined, providing important support for maritime management, navigation safety, and emergency response. With the analysis and mining of ship trajectory data in some hotspot sea areas, this paper introduced a ship spatiotemporal co-occurrence pattern mining algorithm based on association rules. Based on the research of data model and the judgment criterion of spatio-temporal co-occurrence law, such concepts as candidate set, frequency set, and instance set are introduced together with the key procedure of algorithm, including pruning and pasting of candidate sets, screening of instance sets, definition of association reasoning, and association rule mining. Subsequently, the process of implementing the spatiotemporal co-occurrence pattern mining algorithm is devised. In the end, the algorithm is verified by taking the automatic identification system data of ships in hotspot sea areas as the source data. The proposed algorithm can find several ship combinations with spatiotemporal co-occurrence regularity in these hotspot sea areas, and the association rules on the co-occurrence of several ships. The performance of the proposed algorithms is illustrated on a real-world ship trajectory database and made a detailed comparative analysis. The results are very promising in terms of computational time. The experimental results show that our algorithm can effectively identify the motion patterns and behavior characteristics of ships, which provides an important reference and support for Marine traffic management, ship safety and Marine environment protection. The research results of this paper are of great significance for improving the efficiency and safety of maritime traffic, and also provide new ideas and methods for further research in related fields.
+SN - 1687-8132
+M3  - doi: 10.1177/16878132241274449
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878132241274449
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Pioneer journalism: Conceptualizing the role of pioneer journalists and pioneer communities in the organizational re-figuration of journalism
+AU  - Hepp, Andreas
+AU  - Loosen, Wiebke
+Y1  - 2019/02/19
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1177/1464884919829277
+DO  - 10.1177/1464884919829277
+T2  - Journalism
+JF  - Journalism
+JO  - Journalism
+SP  -577
+EP - 595
+VL - 22
+IS - 3
+PB - SAGE Publications
+N2 - Recent journalism research often argues that it is high time that we moved beyond the newsroom and begin asking who it is that is stimulating transformation and not what it is, as individual journalists, entrepreneurs, technology firms, and startups assume an increasingly critical role in the development of the field. This article introduces the concept of ‘pioneer journalism’ to provide just such an analysis across different organizational contexts. Pioneer journalism is understood as a particular group of journalists that incorporates new organizational forms and experimental practice in pursuit of redefining the field and its structural foundations. To introduce this concept, the article argues along three stages. First, it develops a theoretical basis on which to pin our understanding of pioneering practice by reviewing previous research into journalism’s transformation beyond the newsroom. Second, it extends the theoretical discussion into the empirical realm by looking at five extreme cases of pioneer journalists through an explorative interview analysis. Third, and to conclude, an integrated concept of pioneer journalism is outlined as a point of departure from which to further consider journalism’s re-figuration more generally.
+SN - 1464-8849
+M3  - doi: 10.1177/1464884919829277
+UR  - https://doi-org.crai.referencistas.com/10.1177/1464884919829277
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Argumentation mining: How can a machine acquire common sense and world knowledge?
+AU  - Moens, Marie-Francine
+Y1  - 2017/07/17
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.3233/AAC-170025
+DO  - 10.3233/AAC-170025
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -1
+EP - 14
+VL - 9
+IS - 1
+PB - SAGE Publications
+N2 - Argumentation mining is an advanced form of human language understanding by the machine. This is a challenging task for a machine. When sufficient explicit discourse markers are present in the language utterances, the argumentation can be interpreted by the machine with an acceptable degree of accuracy. However, in many real settings, the mining task is difficult due to the lack or ambiguity of the discourse markers, and the fact that a substantial amount of knowledge needed for the correct recognition of the argumentation, its composing elements and their relationships is not explicitly present in the text, but makes up the background knowledge that humans possess when interpreting language. In this article11 The article is the written version of a keynote lecture given at COMMA 2016, the 6th International Conference on Computational Models of Argument, on September 13, 2016 at Potsdam University, Germany. we focus on how the machine can automatically acquire the needed common sense and world knowledge. As very few research has been done in this respect, many of the ideas proposed in this article are tentative, but start being researched. We give an overview of the latest methods for human language understanding that map language to a formal knowledge representation that facilitates other tasks (for instance, a representation that is used to visualize the argumentation or that is easily shared in a decision or argumentation support system). Most current systems are trained on texts that are manually annotated. Then we go deeper into the new field of representation learning that nowadays is very much studied in computational linguistics. This field investigates methods for representing language as statistical concepts or as vectors, allowing straightforward methods of compositionality. The methods often use deep learning and its underlying neural network technologies to learn concepts from large text collections in an unsupervised way (i.e., without the need for manual annotations). We show how these methods can help the argumentation mining process, but also demonstrate that these methods need further research to automatically acquire the necessary background knowledge and more specifically common sense and world knowledge. We propose a number of ways to improve the learning of common sense and world knowledge by exploiting textual and visual data, and touch upon how we can integrate the learned knowledge in the argumentation mining process.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-170025
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-170025
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A two-level approach to generate synthetic argumentation reports
+AU  - Saint-Dizier, Patrick
+AU  - Grasso, Floriana
+AU  - Green, Nancy L.
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.3233/AAC-180035
+DO  - 10.3233/AAC-180035
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -137
+EP - 154
+VL - 9
+IS - 2
+PB - SAGE Publications
+N2 - Given an issue and related propositions for or against it, a major challenge to make these propositions accessible to readers is to produce a synthesis that is readable, synthetic enough, and relevant for various types of needs and points of view. Based on the Generative Lexicon (GL) Qualia Structure, which is a kind of lexical and knowledge repository, that we have enhanced in different manners and associated with inferences and language patterns, we show, via a number of preliminary experiments, how to construct a synthesis that outlines the typical elements found in propositions for or against a controversial issue. We propose a two-level approach: a synthesis of the propositions that have been mined, and navigation facilities that allow users to access arguments, structured in clusters, in order to get more details. This approach contributes to characterize why and how propositions support or attack an issue or some facets of that issue.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-180035
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-180035
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A potential outcomes approach to defining and estimating gestational age-specific exposure effects during pregnancy
+AU  - Schnitzer, Mireille E.
+AU  - Guerra, Steve Ferreira
+AU  - Longo, Cristina
+AU  - Blais, Lucie
+AU  - Platt, Robert W.
+Y1  - 2022/01/05
+PY  - 2022
+DA  - 2022/02/01
+N1  - doi: 10.1177/09622802211065158
+DO  - 10.1177/09622802211065158
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -300
+EP - 314
+VL - 31
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - Many studies seek to evaluate the effects of potentially harmful pregnancy exposures during specific gestational periods. We consider an observational pregnancy cohort where pregnant individuals can initiate medication usage or become exposed to a drug at various times during their pregnancy. An important statistical challenge involves how to define and estimate exposure effects when pregnancy loss or delivery can occur over time. Without proper consideration, the results of standard analysis may be vulnerable to selection bias, immortal time-bias, and time-dependent confounding. In this study, we apply the “target trials” framework of Hernán and Robins in order to define effects based on the counterfactual approach often used in causal inference. This effect is defined relative to a hypothetical randomized trial of timed pregnancy exposures where delivery may precede and thus potentially interrupt exposure initiation. We describe specific implementations of inverse probability weighting, G-computation, and Targeted Maximum Likelihood Estimation to estimate the effects of interest. We demonstrate the performance of all estimators using simulated data and show that a standard implementation of inverse probability weighting is biased. We then apply our proposed methods to a pharmacoepidemiology study to evaluate the potentially time-dependent effect of exposure to inhaled corticosteroids on birthweight in pregnant people with mild asthma.
+SN - 0962-2802
+M3  - doi: 10.1177/09622802211065158
+UR  - https://doi-org.crai.referencistas.com/10.1177/09622802211065158
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modelling and characterising FFF process of semi-crystalline polymers: Warpage formation and mechanism analysis
+AU  - Yu, Yuesheng
+AU  - Jiang, Bingnong
+AU  - Chen, Yuan
+AU  - Ye, Lin
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/09673911241273654
+DO  - 10.1177/09673911241273654
+T2  - Polymers and Polymer Composites
+JF  - Polymers and Polymer Composites
+SP  -09673911241273654
+VL - 32
+PB - SAGE Publications Ltd STM
+N2 - Fused filament fabrication (FFF) is commonly utilised for 3D printing of semi-crystalline polymers, i.e., polypropylene (PP), while warpage deformation can often be observed in the printed products, with significantly reduced surface quality and mechanical properties. This study develops computational models for predicting rectangular boxes made of PP with different thicknesses under the FFF process to study the stress concentration and warpage mechanisms during 3D printing. Numerical models were established based on heat transfer, thermoelasticity, and crystallisation kinetics, with an activating elemental approach to calculate the FFF process of PP. The numerical models were validated with repetitive printing tests to study the mechanisms and relationships of stress conditions and warpage formation in PP boxes under FFF. The results show that the boxes with the thinnest thickness exhibited mostly severe warpage deformation (6.8 mm/5.9 mm in experiment and simulation, respectively), which is much more than that of the thickest box (1.3 mm/1.6 mm in experiment and simulation, respectively). The average crystallinity of the three boxes increases as the box thickness increases, but to a lesser extent. In terms of residual stress, the thinner box has a smaller residual stress (25.1 MPa, almost 45% of the thicker box).
+SN - 0967-3911
+M3  - doi: 10.1177/09673911241273654
+UR  - https://doi-org.crai.referencistas.com/10.1177/09673911241273654
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical investigation of the effect of injection timing on the in-cylinder activity of a gasoline direct injection engine
+AU  - Zhang, Yu
+AU  - Wang, Qifan
+AU  - Yang, Ruomiao
+AU  - Yan, Yuchao
+AU  - Fu, Jiahong
+AU  - Liu, Zhentao
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1177/16878132221082873
+DO  - 10.1177/16878132221082873
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878132221082872
+VL - 14
+IS - 3
+PB - SAGE Publications
+N2 - GDI (Gasoline direct injection) technology is used in downsized engines for its economy and low emissions. However, if the injection strategy is not set properly, GDI will produce more emissions than conventional gasoline engines. In this paper, the effect of injection timing on GDI engine emissions under optimal phasing conditions was analyzed by using a three-dimensional (3D) computational fluid dynamics (CFD) GDI engine numerical model. The results showed that at medium engine speed and medium load advancing the injection timing from −300 to −290 CAD ATDC resulted in a more efficient and cleaner combustion process, as evidenced by the higher power output, the increased thermal and combustion efficiencies, and the reduced CO, UHC, soot emissions. The raised NOx emissions at advanced injection timing operation corresponded to the high combustion quality. There was a trade-off relation for advancing injection timing strategy. Specifically, an advanced injection timing operation would increase the amount of liquid film formed on the piston and liner, which is not favorable to clean combustion. However, advancing injection timing also provides more time for fuel-air mixing, which is beneficial for the formation of a more homogeneous mixture. The numerical simulations suggested that the advantages of earlier injection timing outweighed the disadvantages and improved engine efficiency, at least for the conditions and the engine investigated here. Moreover, the comparison indicated that changing injection timing also altered the chemical reaction pathways for pollutant species formation. Overall, all of these findings demonstrated that more fundamental work is still needed to understand the effect of injection timing on engine performance.
+SN - 1687-8132
+M3  - doi: 10.1177/16878132221082873
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878132221082873
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,241 @@
+TY  - JOUR
+T1  - Foamwork: Challenges and strategies in using mineral foam 3D printing for a lightweight composite concrete slab
+AU  - Bedarf, Patrick
+AU  - Szabo, Anna
+AU  - Scoccimarro, Enrico
+AU  - Dillenburger, Benjamin
+Y1  - 2023/05/17
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/14780771231174526
+DO  - 10.1177/14780771231174526
+T2  - International Journal of Architectural Computing
+JF  - International Journal of Architectural Computing
+SP  -388
+EP - 403
+VL - 21
+IS - 3
+PB - SAGE Publications
+N2 - This paper presents an innovative design and fabrication workflow for a lightweight composite slab prototype that combines mineral foam 3D printing (F3DP) and concrete casting. Non-standardized concrete elements that are geometrically optimized for resource efficiency often result in complex shapes that are difficult to manufacture. This paper extends the research in earlier studies, showing that F3DP can address this challenge. F3DP is used to construct 24 stay-in-place formwork elements for a lightweight, resource-efficient ribbed concrete element with a 2 × 1.3 m footprint. This advancement highlights the improved robotic F3DP setup, computational design techniques for geometry and print path generation, and strategies to achieve near-net-shape fabrication. The resulting prototype shows how complex geometries that were previously cost-prohibitive can be produced efficiently. Discussing the findings, challenges, and future improvements offers useful perspectives and supports the development of this resourceful and sustainable construction technique.
+SN - 1478-0771
+M3  - doi: 10.1177/14780771231174526
+UR  - https://doi-org.crai.referencistas.com/10.1177/14780771231174526
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Political Viewpoint Diversity in the News: Market and Ownership Conditions for a Pluralistic Media System
+AU  - Garz, Marcel
+AU  - Ots, Mart
+AU  - Sjøvaag, Helle
+Y1  - 2023/09/20
+PY  - 2024
+DA  - 2024/10/01
+N1  - doi: 10.1177/19401612231178254
+DO  - 10.1177/19401612231178254
+T2  - The International Journal of Press/Politics
+JF  - The International Journal of Press/Politics
+SP  -983
+EP - 1003
+VL - 29
+IS - 4
+PB - SAGE Publications Inc
+N2 - The assumption that ownership has an effect on the diversity of news is based on the forms of control that ownership allows and the market conditions in which ownership is exercised. In this study, we perform a large-scale analysis of the Swedish newspaper market, surveying 130 newspapers and parliamentary speeches over a period of six years (2014–2019), to substantiate to what extent market and for-profit ownership forms impact political viewpoint diversity. Our analysis shows that newspapers with market leadership and chain ownership offer more political viewpoint diversity than number two and single-owned papers. In contrast, the ownership forms surveyed here (private, foundation, and publicly traded ownerships) display little effect on newspapers’ internal diversity. We also find that a greater number of papers in a local market does not imply more external diversity in that market. The analysis thus offers some nuance to the notion that ownership form and market pluralism are prerequisites for viewpoint diversity, highlighting instead the importance of scale effects for pluralistic media systems.
+SN - 1940-1612
+M3  - doi: 10.1177/19401612231178254
+UR  - https://doi-org.crai.referencistas.com/10.1177/19401612231178254
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Estimating droplet size and count distributions over a prolonged period of time following a cough in indoor environments
+AU  - Jadidi, Mehdi
+AU  - Karataş, Ahmet E.
+AU  - Dworkin, Seth B.
+Y1  - 2024/04/09
+PY  - 2024
+N1  - doi: 10.1177/1420326X241244721
+DO  - 10.1177/1420326X241244721
+T2  - Indoor and Built Environment
+JF  - Indoor and Built Environment
+SP  -1420326X241244721
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - An empirical correlation and a set of machine learning (ML) models were developed to estimate droplet size and count distributions over an extended duration after a cough at different relative humidities (RHs), air temperatures and locations within an indoor environment. Experiments covered RHs of 20%–80% and air temperatures of 21 °C–26 °C. Droplet count distributions for 4 size bins (0.3–0.5, 0.5–1, 1–3 and 3–5 μm) were recorded for 70 min within the distance of 2 m from the cough source. Different ML models, including decision tree, random forest and artificial neural network, were trained for each size bin to predict the associated count distribution. Amongst these models, random forest showed a slight superiority in performance. The coefficient of determination for the random forest models ranged from 0.912 to 0.989, indicating robust correlations between the features and the response variables. An empirical correlation was established linking the count distribution of 0.3–0.5 μm droplets to time, RH and distance along the cough direction. Both ML models and the correlation accurately predicted the trends and the distributions, providing valuable data for validating computational simulations and informing indoor environment control systems to reduce the risk of virus transmission.
+SN - 1420-326X
+M3  - doi: 10.1177/1420326X241244721
+UR  - https://doi-org.crai.referencistas.com/10.1177/1420326X241244721
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Will Algorithms Blind People? The Effect of Explainable AI and Decision-Makers’ Experience on AI-supported Decision-Making in Government
+AU  - Janssen, Marijn
+AU  - Hartog, Martijn
+AU  - Matheus, Ricardo
+AU  - Yi Ding, Aaron
+AU  - Kuk, George
+Y1  - 2020/12/28
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/0894439320980118
+DO  - 10.1177/0894439320980118
+T2  - Social Science Computer Review
+JF  - Social Science Computer Review
+SP  -478
+EP - 493
+VL - 40
+IS - 2
+PB - SAGE Publications Inc
+N2 - Computational artificial intelligence (AI) algorithms are increasingly used to support decision making by governments. Yet algorithms often remain opaque to the decision makers and devoid of clear explanations for the decisions made. In this study, we used an experimental approach to compare decision making in three situations: humans making decisions (1) without any support of algorithms, (2) supported by business rules (BR), and (3) supported by machine learning (ML). Participants were asked to make the correct decisions given various scenarios, while BR and ML algorithms could provide correct or incorrect suggestions to the decision maker. This enabled us to evaluate whether the participants were able to understand the limitations of BR and ML. The experiment shows that algorithms help decision makers to make more correct decisions. The findings suggest that explainable AI combined with experience helps them detect incorrect suggestions made by algorithms. However, even experienced persons were not able to identify all mistakes. Ensuring the ability to understand and traceback decisions are not sufficient for avoiding making incorrect decisions. The findings imply that algorithms should be adopted with care and that selecting the appropriate algorithms for supporting decisions and training of decision makers are key factors in increasing accountability and transparency.
+SN - 0894-4393
+M3  - doi: 10.1177/0894439320980118
+UR  - https://doi-org.crai.referencistas.com/10.1177/0894439320980118
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Robust optimization approach to emergency mobile facility routing
+AU  - Li, Jianxun
+AU  - Lai, Kin Keung
+AU  - Fu, Yelin
+AU  - Shen, Hai
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/0036850420982685
+DO  - 10.1177/0036850420982685
+T2  - Science Progress
+JF  - Science Progress
+SP  -0036850420982685
+VL - 104
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Emergency events such as natural disasters, environmental events, sudden illness, and social security events pose tremendous threats to people’s lives and property security. In order to meet emergency service demands by rationally allocating mobile facilities, an emergency mobile facility routing model is proposed to maximize the total served demand by the available mobile facilities. Based on the uninterruptible feature of emergency services, the model abstracts emergency events act as a combination of multiple uncertain variables. To overcome the computational difficulty, a robust optimization approach and genetic algorithm are employed to obtain solutions. Illustrative examples show that it provides an effective method for solving the emergency mobile facility routing problem, and that the risk factor and penalty factor of the model can further guide decision-making.
+SN - 0036-8504
+M3  - doi: 10.1177/0036850420982685
+UR  - https://doi-org.crai.referencistas.com/10.1177/0036850420982685
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Understanding the Influence Discrepancy Between Human and Artificial Agent in Advice Interactions: The Role of Stereotypical Perception of Agency
+AU  - Liao, Wang
+AU  - Oh, Yoo Jung
+AU  - Feng, Bo
+AU  - Zhang, Jingwen
+Y1  - 2023/03/27
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1177/00936502221138427
+DO  - 10.1177/00936502221138427
+T2  - Communication Research
+JF  - Communication Research
+SP  -633
+EP - 664
+VL - 50
+IS - 5
+PB - SAGE Publications Inc
+N2 - This paper proposes that artificial agents’ underperformance in interpersonal influence situations can be explained by stereotypical perceptions of such agents’ lack of capacity to act and accomplish goals (i.e., agency), triggered by their non-human identity. In two experiments of text-based conversations (N = 305 and 309), the identity of a human advice giver was manipulated to be either a human or a chatbot. The chatbot identity resulted in less perceived agency of the giver, which then mediated the identity’s effects on the advice seeker’s (a) perceived advice effectiveness and (b) intention to follow advice after the conversation, as well as (c) adherence to advice and (d) trouble relief after a week. A positive correlation between perceived agency of the artificial agent and the seeker’s self-efficacy was identified as part of this mediation. In contrast, perceived emotional capacity (i.e., experience), despite a discrepancy between the two identities, had non-significant mediating effects.
+SN - 0093-6502
+M3  - doi: 10.1177/00936502221138427
+UR  - https://doi-org.crai.referencistas.com/10.1177/00936502221138427
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Thyroid Tumor: Investigating MicroRNA-21 Gene Suppression in FTC and FTA
+AU  - Nwadiugwu, Martin C.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1176935120948474
+DO  - 10.1177/1176935120948474
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -1176935120948474
+VL - 19
+PB - SAGE Publications Ltd STM
+N2 - The follicular thyroid carcinoma (FTC) and follicular thyroid adenoma (FTA) are malignant and benign thyroid neoplasms, respectively. MicroRNA (miRNA) expressions have been touted as an indicator for prognostic outcome in thyroid cancer. The study objective was to explore genes suppressed by miRNA-21-3p and miRNA-21-5p for potential therapeutic insights. Differentially expressed genes and their functional enrichment were obtained from 25 FTA and 27 FTC gene microarray dataset GSE82208 using R and Bioconductor tools. The miRNA target sites were obtained from miR-TarBase database. A unique gene list of differentially expressed FTC and FTA were entered into miR-TarBase database to obtain target genes for both miRNA-21-3p and miRNA-21-5p. The result showed that miRNA-21-3p and miRNA-21-5p downregulated TIMP3, MAT2A, TGFBR2, and PLAT gene in FTC and FTA leading to significant expression of acute phase-response to metallothionein, metal ions, and unfolded protein response (UPR). The computational analysis suggests that the suppression of miRNA-21-3p and miRNA-21-5p could be an intervention strategy for therapeutically targeting FTC and FTA treatments.
+SN - 1176-9351
+M3  - doi: 10.1177/1176935120948474
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176935120948474
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Designing a digital twin for micromanufacturing processes
+AU  - Stavropoulos, Panagiotis
+AU  - Papacharalampopoulos, Alexios
+Y1  - 2022/06/01
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/16878132221096004
+DO  - 10.1177/16878132221096004
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878132221096004
+VL - 14
+IS - 6
+PB - SAGE Publications
+N2 - Micromanufacturing raises some interesting, yet demanding and complex issues regarding modeling and data handling. Since utilizing both of these methods seems to be the key for process optimization, and preferably in real time, their coexistence is not a straightforward task, mainly due to interoperability and computational times. This work is a first step towards creating a roadmap for the design and the implementation of digital twins, provided that the digital twin offers both process optimization and tacit knowledge aggregation towards digital twin reusability. This involves the cooperation of different mathematical tools, an automated information manipulator and a human operator. Towards presenting such a roadmap and illustrating the choice of a workflow, a classification of the potentially useful tools is also presented herein. After that, a method to connect the tools through a software platform is discussed in order for a digital twin to be implemented. Finally, numerical examples are given to prove the fact that information reduction is needed in order for the proposed data manipulation effort (in terms of both processing and storing) to be minimized.
+SN - 1687-8132
+M3  - doi: 10.1177/16878132221096004
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878132221096004
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Epilepsy Benchmarks Area III: Improved Treatment Options for Controlling Seizures and Epilepsy-Related Conditions Without Side Effects
+AU  - Traynelis, Stephen F.
+AU  - Dlugos, Dennis
+AU  - Henshall, David
+AU  - Mefford, Heather C.
+AU  - Rogawski, Michael A.
+AU  - Staley, Kevin J.
+AU  - Dacks, Penny A.
+AU  - Whittemore, Vicky
+AU  - Poduri, Annapurna
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1535759719895279
+DO  - 10.1177/1535759719895279
+T2  - Epilepsy Currents
+JF  - Epilepsy Currents
+JO  - Epilepsy Curr
+SP  -23S
+EP - 30S
+VL - 20
+IS - 1_suppl
+PB - SAGE Publications Inc
+N2 - The goals of Epilepsy Benchmark Area III involve identifying areas that are ripe for progress in terms of controlling seizures and patient symptoms in light of the most recent advances in both basic and clinical research. These goals were developed with an emphasis on potential new therapeutic strategies that will reduce seizure burden and improve quality of life for patients with epilepsy. In particular, we continue to support the proposition that a better understanding of how seizures are initiated, propagated, and terminated in different forms of epilepsy is central to enabling new approaches to treatment, including pharmacological as well as surgical and device-oriented approaches. The stubbornly high rate of treatment-resistant epilepsy—one-third of patients—emphasizes the urgent need for new therapeutic strategies, including pharmacological, procedural, device linked, and genetic. The development of new approaches can be advanced by better animal models of seizure initiation that represent salient features of human epilepsy, as well as humanized models such as induced pluripotent stem cells and organoids. The rapid advances in genetic understanding of a subset of epilepsies provide a path to new and direct patient-relevant cellular and animal models, which could catalyze conceptualization of new treatments that may be broadly applicable across multiple forms of epilepsies beyond those arising from variation in a single gene. Remarkable advances in machine learning algorithms and miniaturization of devices and increases in computational power together provide an enhanced opportunity to detect and mitigate seizures in real time via devices that interrupt electrical activity directly or administer effective pharmaceuticals. Each of these potential areas for advance will be discussed in turn.
+SN - 1535-7597
+M3  - doi: 10.1177/1535759719895279
+UR  - https://doi-org.crai.referencistas.com/10.1177/1535759719895279
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A textile architecture-based discrete modeling approach to simulating fabric draping processes
+AU  - Wei, Qingxuan
+AU  - Zhang, Dianyun
+Y1  - 2023/05/09
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/15280837231159678
+DO  - 10.1177/15280837231159678
+T2  - Journal of Industrial Textiles
+JF  - Journal of Industrial Textiles
+SP  -15280837231159678
+VL - 53
+PB - SAGE Publications Ltd STM
+N2 - Fabric draping, which is referred to as the process of forming of textile reinforcements over a 3D mold, is a critical stage in composites manufacturing since it determines the fiber orientation that affects subsequent infusion and curing processes and the resulting structural performance. The goal of this study is to predict the fabric deformation during the draping process and develop in-depth understanding of fabric deformation through an architecture-based discrete Finite Element Analysis (FEA). A new, efficient discrete fabric modeling approach is proposed by representing textile architecture using virtual fiber tows modeled as Timoshenko beams and connected by the springs and dashpots at the intersections of the interlaced tows. Both picture frame and cantilever beam bending tests were carried out to characterize input model parameters. The predictive capability of the proposed modeling approach is demonstrated by predicting the deformation and shear angles of a fabric subject to hemisphere draping. Key deformation modes, including bending and shearing, are successfully captured using the proposed model. The development of the virtual fiber tow model provides an efficient method to illustrate individual tow deformation during draping while achieving computational efficiency in large-scale fabric draping simulations. Discrete fabric architecture and the inter-tow interactions are considered in the proposed model, promoting a deep understanding of fiber tow deformation modes and their contribution to the overall fabric deformation responses.
+SN - 1528-0837
+M3  - doi: 10.1177/15280837231159678
+UR  - https://doi-org.crai.referencistas.com/10.1177/15280837231159678
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,259 @@
+TY  - JOUR
+T1  - A Human-Like Approach Towards Humanoid Robot Footstep Planning
+AU  - Ayaz, Yasar
+AU  - Konno, Atsushi
+AU  - Munawar, Khalid
+AU  - Tsujita, Teppei
+AU  - Komizunai, Shunsuke
+AU  - Uchiyama, Masaru
+Y1  - 2011/09/01
+PY  - 2011
+DA  - 2011/09/01
+N1  - doi: 10.5772/10671
+DO  - 10.5772/10671
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -41
+VL - 8
+IS - 4
+PB - SAGE Publications
+N2 - Humanoid robots posses the unique ability to cross obstacles by stepping over or upon them. However, conventional 2D methods for robot navigation fail to exploit this ability and thus design trajectories only by circumventing obstacles. Recently, global algorithms have been presented that take into account this feature of humanoids. However, due to high computational complexity, most of them are very time consuming. In this paper, we present a novel approach to footstep planning in obstacle cluttered environments that employs a human-like strategy to terrain traversal. Design methodology for obstacle stepping over motion designed for use with this algorithm is also presented. The paper puts forth simulation results of footstep planning as well as experimental results for the stepping over trajectory designed for use with hardware execution of the footstep plan.
+SN - 1729-8806
+M3  - doi: 10.5772/10671
+UR  - https://doi-org.crai.referencistas.com/10.5772/10671
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - End-to-End Bayesian Segmentation and Similarity Assessment of Performed Music Tempo and Dynamics without Score Information
+AU  - Guichaoua, Corentin
+AU  - Lascabettes, Paul
+AU  - Chew, Elaine
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/20592043241233411
+DO  - 10.1177/20592043241233411
+T2  - Music & Science
+JF  - Music & Science
+SP  -20592043241233412
+VL - 7
+PB - SAGE Publications Ltd
+N2 - Segmenting continuous sensory input into coherent segments and subsegments is an important part of perception. Music is no exception. By shaping the acoustic properties of music during performance, musicians can strongly influence the perceived segmentation. Two main techniques musicians employ are the modulation of tempo and dynamics. Such variations carry important information for segmentation and lend themselves well to numerical analysis methods. In this article, based on tempo or loudness modulations alone, we propose a novel end-to-end Bayesian framework using dynamic programming to retrieve a musician’s expressed segmentation. The method computes the credence of all possible segmentations of the recorded performance. The output is summarized in two forms: as a beat-by-beat profile revealing the posterior credence of plausible boundaries, and as expanded credence segment maps, a novel representation that converts readily to a segmentation lattice but retains information about the posterior uncertainty on the exact position of segments’ endpoints. To compare any two segmentation profiles, we introduce a method based on unbalanced optimal transport. Experimental results on the MazurkaBL dataset show that despite the drastic dimension reduction from the input data, the segmentation recovery is sufficient for deriving musical insights from comparative examination of recorded performances. This Bayesian segmentation method thus offers an alternative to binary boundary detection and finds multiple hypotheses fitting information from recorded music performances.
+SN - 2059-2043
+M3  - doi: 10.1177/20592043241233411
+UR  - https://doi-org.crai.referencistas.com/10.1177/20592043241233411
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Transducer Type and Design Influence on the Hearing Loss Compensation Behaviour of the Electromagnetic Middle Ear Implant in a Finite Element Analysis
+AU  - Liu, Houguang
+AU  - Ge, Shirong
+AU  - Cheng, Gang
+AU  - Yang, Jianhua
+AU  - Rao, Zhushi
+AU  - Huang, Xinsheng
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/867108
+DO  - 10.1155/2014/867108
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -867108
+VL - 6
+PB - SAGE Publications
+N2 - Several types of electromagnetic transducer for the middle ear implants (MEIs) have been developed as an alternative to conventional hearing aids for the rehabilitation of sensorineural hearing loss. Electromagnetic transducer type and design are thought to have a significant influence on their hearing compensation performance. To investigate these effects, a middle ear computational model was constructed based on a complete set of microcomputerized tomography section images of a human ear. Its validity was confirmed by comparing the model predicted motions with published experimental measurements. The result shows that the eardrum driving transducer (EDT) is superior to the floating mass transducer (FMT) in hearing compensation when the transducer mass is small but inferior to the FMT when the mass gets bigger. The incus body driving transducer (IBDT) is the most ineffective type of transducer for hearing compensation. Moreover, the masses of the EDT and the FMT decrease the transducer performance mainly at higher frequencies: the greater the transducer mass, the lower the displacement of the stapes excited by these transducers. On the other hand, the IBDT driving rod stiffness decreases transducer’s performance severely at low frequencies and its adverse effect on transducer performance increases with the decrease of the stiffness of the IBDT driving rod.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/867108
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/867108
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - What Patients Say: Large-Scale Analyses of Replies to the Parkinson’s Disease Patient Report of Problems (PD-PROP)
+AU  - AU  - Marras, Connie
+AU  - Arbatti, Lakshmi
+AU  - Hosamath, Abhishek
+AU  - Amara, Amy
+AU  - Anderson, Karen E.
+AU  - Chahine, Lana M.
+AU  - Eberly, Shirley
+AU  - Kinel, Dan
+AU  - Mantri, Sneha
+AU  - Mathur, Soania
+et al.
+Y1  - 2023/05/24
+PY  - 2023
+DA  - 2023/05/24
+N1  - doi: 10.3233/JPD-225083
+DO  - 10.3233/JPD-225083
+T2  - Journal of Parkinson’s Disease
+JF  - Journal of Parkinson’s Disease
+SP  -757
+EP - 767
+VL - 13
+IS - 5
+PB - SAGE Publications
+N2 - Background: Free-text, verbatim replies in the words of people with Parkinson’s disease (PD) have the potential to provide unvarnished information about their feelings and experiences. Challenges of processing such data on a large scale are a barrier to analyzing verbatim data collection in large cohorts. Objective: To develop a method for curating responses from the Parkinson’s Disease Patient Report of Problems (PD-PROP), open-ended questions that asks people with PD to report their most bothersome problems and associated functional consequences. Methods: Human curation, natural language processing, and machine learning were used to develop an algorithm to convert verbatim responses to classified symptoms. Nine curators including clinicians, people with PD, and a non-clinician PD expert classified a sample of responses as reporting each symptom or not. Responses to the PD-PROP were collected within the Fox Insight cohort study. Results: Approximately 3,500 PD-PROP responses were curated by a human team. Subsequently, approximately 1,500 responses were used in the validation phase; median age of respondents was 67 years, 55% were men and median years since PD diagnosis was 3 years. 168,260 verbatim responses were classified by machine. Accuracy of machine classification was 95% on a held-out test set. 65 symptoms were grouped into 14 domains. The most frequently reported symptoms at first report were tremor (by 46% of respondents), gait and balance problems (>39%), and pain/discomfort (33%). Conclusion: A human-in-the-loop method of curation provides both accuracy and efficiency, permitting a clinically useful analysis of large datasets of verbatim reports about the problems that bother PD patients.
+SN - 1877-7171
+M3  - doi: 10.3233/JPD-225083
+UR  - https://doi-org.crai.referencistas.com/10.3233/JPD-225083
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - High performance in silico virtual drug screening on many-core processors
+AU  - McIntosh-Smith, Simon
+AU  - Price, James
+AU  - Sessions, Richard B.
+AU  - Ibarra, Amaurys A.
+Y1  - 2014/04/09
+PY  - 2015
+DA  - 2015/05/01
+N1  - doi: 10.1177/1094342014528252
+DO  - 10.1177/1094342014528252
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -119
+EP - 134
+VL - 29
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - Drug screening is an important part of the drug development pipeline for the pharmaceutical industry. Traditional, lab-based methods are increasingly being augmented with computational methods, ranging from simple molecular similarity searches through more complex pharmacophore matching to more computationally intensive approaches, such as molecular docking. The latter simulates the binding of drug molecules to their targets, typically protein molecules. In this work, we describe BUDE, the Bristol University Docking Engine, which has been ported to the OpenCL industry standard parallel programming language in order to exploit the performance of modern many-core processors. Our highly optimized OpenCL implementation of BUDE sustains 1.43 TFLOP/s on a single Nvidia GTX 680 GPU, or 46% of peak performance. BUDE also exploits OpenCL to deliver effective performance portability across a broad spectrum of different computer architectures from different vendors, including GPUs from Nvidia and AMD, Intel’s Xeon Phi and multi-core CPUs with SIMD instruction sets.
+SN - 1094-3420
+M3  - doi: 10.1177/1094342014528252
+UR  - https://doi-org.crai.referencistas.com/10.1177/1094342014528252
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Modeling Cumulative Biological Phenomena with Suppes-Bayes Causal Networks
+AU  - Ramazzotti, Daniele
+AU  - Graudenzi, Alex
+AU  - Caravagna, Giulio
+AU  - Antoniotti, Marco
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1176934318785167
+DO  - 10.1177/1176934318785167
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934318785167
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Several diseases related to cell proliferation are characterized by the accumulation of somatic DNA changes, with respect to wild-type conditions. Cancer and HIV are 2 common examples of such diseases, where the mutational load in the cancerous/viral population increases over time. In these cases, selective pressures are often observed along with competition, co-operation, and parasitism among distinct cellular clones. Recently, we presented a mathematical framework to model these phenomena, based on a combination of Bayesian inference and Suppes’ theory of probabilistic causation, depicted in graphical structures dubbed Suppes-Bayes Causal Networks (SBCNs). The SBCNs are generative probabilistic graphical models that recapitulate the potential ordering of accumulation of such DNA changes during the progression of the disease. Such models can be inferred from data by exploiting likelihood-based model selection strategies with regularization. In this article, we discuss the theoretical foundations of our approach and we investigate in depth the influence on the model selection task of (1) the poset based on Suppes’ theory and (2) different regularization strategies. Furthermore, we provide an example of application of our framework to HIV genetic data highlighting the valuable insights provided by the inferred SBCN
+SN - 1176-9343
+M3  - doi: 10.1177/1176934318785167
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934318785167
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Impeller meridional plane optimization of pump as turbine
+AU  - Sen-chun, Miao
+AU  - Zhi-xiao, Shi
+AU  - Xiao-hui, Wang
+AU  - Feng-xia, Shi
+AU  - Guang-tai, Shi
+Y1  - 2019/09/16
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/0036850419876542
+DO  - 10.1177/0036850419876542
+T2  - Science Progress
+JF  - Science Progress
+SP  -0036850419876542
+VL - 103
+IS - 1
+PB - SAGE Publications Ltd
+N2 - How to improve efficiency is still a very active research point for pump as turbine. This article comes up with a method for optimal design of pump as turbine impeller meridional plane. It included the parameterized control impeller meridional plane, the computational fluid dynamics technique, the optimized Latin hypercube sampling experimental design, the back propagation neural network optimized by genetic algorithm and genetic algorithm. Concretely, the impeller meridional plane was parameterized by the Pro/E software, the optimized Latin hypercube sampling was used to obtain the test sample points for back propagation neural network optimized by genetic algorithm, and the model corresponding to each sample point was calculated to obtain the performance values by the computational fluid dynamics techniques. Then, back propagation neural network learning and training are carried out by combining sample points and corresponding model performance values. Last but not least, back propagation neural network optimized by genetic algorithm and genetic algorithm were combined to deal with the optimization problem of impeller meridional plane. According to the aforementioned optimization design method, impeller meridional plane of the pump as turbine was optimized. The result manifests that the optimized pump as turbine energy-conversion efficiency was improved by 2.28% at the optimum operating condition, at the same time meet the pressure head constraint, namely the head difference between initial and optimized model is under the set numeric value. This demonstrates that the optimization method proposed in this article to optimize the impeller meridional plane is practicable.
+SN - 0036-8504
+M3  - doi: 10.1177/0036850419876542
+UR  - https://doi-org.crai.referencistas.com/10.1177/0036850419876542
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Modular Cell-Type Focused Inflammatory Process Network Model for Non-Diseased Pulmonary Tissue
+AU  - AU  - Westra, Jurjen W.
+AU  - Schlage, Walter K.
+AU  - Hengstermann, Arnd
+AU  - Gebel, Stephan
+AU  - Mathis, Carole
+AU  - Thomson, Ty
+AU  - Wong, Ben
+AU  - Hoang, Vy
+AU  - Veljkovic, Emilija
+AU  - Peck, Michael
+et al.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.4137/BBI.S11509
+DO  - 10.4137/BBI.S11509
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S11509
+VL - 7
+PB - SAGE Publications Ltd STM
+N2 - Exposure to environmental stressors such as cigarette smoke (CS) elicits a variety of biological responses in humans, including the induction of inflammatory responses. These responses are especially pronounced in the lung, where pulmonary cells sit at the interface between the body’s internal and external environments. We combined a literature survey with a computational analysis of multiple transcriptomic data sets to construct a computable causal network model (the Inflammatory Process Network (IPN)) of the main pulmonary inflammatory processes. The IPN model predicted decreased epithelial cell barrier defenses and increased mucus hypersecretion in human bronchial epithelial cells, and an attenuated pro-inflammatory (M1) profile in alveolar macrophages following exposure to CS, consistent with prior results. The IPN provides a comprehensive framework of experimentally supported pathways related to CS-induced pulmonary inflammation. The IPN is freely available to the scientific community as a resource with broad applicability to study the pathogenesis of pulmonary disease.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S11509
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S11509
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Assure deletion supporting dynamic insertion for outsourced data in cloud computing
+AU  - Yang, Changsong
+AU  - Liu, Yueling
+AU  - Tao, Xiaoling
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1177/1550147720958294
+DO  - 10.1177/1550147720958294
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720958294
+VL - 16
+IS - 9
+PB - SAGE Publications
+N2 - With the rapid development of cloud computing, an increasing number of data owners are willing to employ cloud storage service. In cloud storage, the resource-constraint data owners can outsource their large-scale data to the remote cloud server, by which they can greatly reduce local storage overhead and computation cost. Despite plenty of attractive advantages, cloud storage inevitably suffers from some new security challenges due to the separation of outsourced data ownership and its management, such as secure data insertion and deletion. The cloud server may maliciously reserve some data copies and return a wrong deletion result to cheat the data owner. Moreover, it is very difficult for the data owner to securely insert some new data blocks into the outsourced data set. To solve the above two problems, we adopt the primitive of Merkle sum hash tree to design a novel publicly verifiable cloud data deletion scheme, which can also simultaneously achieve provable data storage and dynamic data insertion. Moreover, an interesting property of our proposed scheme is that it can satisfy private and public verifiability without requiring any trusted third party. Furthermore, we formally prove that our proposed scheme not only can achieve the desired security properties, but also can realize the high efficiency and practicality.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720958294
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720958294
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Improvement of orthogonal matching pursuit deconvolution beamforming method for acoustic source identification
+AU  - Zhang, Jinyuan
+AU  - Wen, Yiyun
+AU  - Yan, Jiahui
+AU  - Yang, Xiaoguang
+AU  - Chu, Zhigang
+Y1  - 2022/09/08
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1177/14613484221122097
+DO  - 10.1177/14613484221122097
+T2  - Journal of Low Frequency Noise, Vibration and Active Control
+JF  - Journal of Low Frequency Noise, Vibration and Active Control
+SP  -209
+EP - 221
+VL - 42
+IS - 1
+PB - SAGE Publications Ltd STM
+N2 - The deconvolution approach for the mapping of acoustic sources (DAMAS) based on orthogonal matching pursuit (OMP-DAMAS) has attracted much attention due to its advantages of high spatial resolution and excellent capability to suppress spurious sources. In this paper, we propose an improved version of OMP-DAMAS based on fast Fourier transformation (FFT), abbreviated as FFT-OMP-DAMAS. This method assumes that the array point spread functions (PSFs) are spatially shift-invariant. The sum of the product of the acoustic source distribution and PSFs is converted into a convolution form, which is further converted into a product in the wave number domain. With these conversions, FFT can be used to improve the solving speed. Both simulations and experiments show that the proposed method not only inherits the advantages of OMP-DAMAS in terms of spatial resolution and spurious source suppression but also significantly improves the computational efficiency compared with OMP-DAMAS.
+SN - 1461-3484
+M3  - doi: 10.1177/14613484221122097
+UR  - https://doi-org.crai.referencistas.com/10.1177/14613484221122097
+Y2  - 2024/10/01
+ER  - 
+

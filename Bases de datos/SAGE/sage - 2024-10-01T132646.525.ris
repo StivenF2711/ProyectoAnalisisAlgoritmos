@@ -1,0 +1,243 @@
+TY  - JOUR
+T1  - A framework for physics-driven generation of feature data for strain-based damage detection in aerospace sandwich structures
+AU  - Bergmayr, Thomas
+AU  - Höll, Simon
+AU  - Kralovec, Christoph
+AU  - Schagerl, Martin
+Y1  - 2022/09/17
+PY  - 2022
+DA  - 2022/11/01
+N1  - doi: 10.1177/00219983221118632
+DO  - 10.1177/00219983221118632
+T2  - Journal of Composite Materials
+JF  - Journal of Composite Materials
+SP  -4081
+EP - 4099
+VL - 56
+IS - 27
+PB - SAGE Publications Ltd STM
+N2 - In recent years, structural health monitoring has been increasingly applied to composite sandwich structures, as typically used in aerospace applications. In addition, machine learning approaches are increasingly popular for damage detection, localization and size estimation, due to their great advantages in pattern recognition and anomaly detection. However, a major disadvantage of machine learning techniques is that these algorithms generally require large amounts of realistic data. In general, these data are expensive or even impossible to obtain within a feasible time. In order to overcome this hindrance, this work introduces a computationally inexpensive framework for physics-driven feature generation of strain data for the training of ML-based SHM methods using sub-structuring and the concept of reanalysis. First, the global FE model is subdivided into a monitored part, i.e., a smaller submodel, and a global model. Second, the stiffness matrix of the submodel is extracted from the finite element software. Then, static condensation is performed to further reduce the computational effort. Afterwards, selected eigenvectors are derived in terms of displacements of master nodes and the corresponding strains are calculated. Finally, a statistically varied linear combination between the different characteristic eigenvector load cases is performed based on the superposition principle. This procedure enables the efficient generation of a large number of different physics-driven determined strain solutions for a subsequent training of a ML algorithms. The proposed framework is evaluated by means of a damage detection approach, based on an artificial neuronal network classifier algorithm. The applied approach utilizes strain measurements from selected positions as physical quantity and is demonstrated using a composite sandwich structure imitating an aircraft spoiler. The key principle of the damage detection algorithm is based on the fact that a change in the relationship between sensors indicates the presence of damage. Additionally, to the numerical healthy strains resulting from the framework, synthetically generated damage data are used for training the neuronal network classifier. The synthetic data are obtained by statistical modifications of the healthy strains, to avoid time-consuming and expensive damage simulations. The feature generation framework and health monitoring approach are validated using experiments and numerical simulations of a glass fiber reinforced polymer sandwich structure with a hole considered as damage. The presented numerical and the experimental results clearly show the high potential for the efficient approach for damage detection in a sandwich structure.
+SN - 0021-9983
+M3  - doi: 10.1177/00219983221118632
+UR  - https://doi-org.crai.referencistas.com/10.1177/00219983221118632
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Research on cooperative optimization of multiphase pump impeller and diffuser based on adaptive refined response surface method
+AU  - Cancan, Peng
+AU  - Xiaodong, Zhang
+AU  - Zhiguang, Gao
+AU  - Ju, Wu
+AU  - Yan, Gong
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/16878140211072944
+DO  - 10.1177/16878140211072944
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -16878140211072944
+VL - 14
+IS - 1
+PB - SAGE Publications
+N2 - Multiphase pumps play an important role in the exploitation of natural gas hydrate. Compared with ordinary pumps, they can handle fluids with higher gas volume fraction (GVF). Therefore, it is important to improve the performance of the pump under high GVF. A model pump is designed based on the design theory of axial flow pump and centrifugal pump inducer. The hydraulic performance of the model pump is verified by numerical simulation and experiment. The Sparse Grid method is applied to the design of experiment (DOE), and three different adaptive refined response surface methods (RSM) are applied to the build the approximate model. Refinement points and verification points are used to improve and verify the precision of the response surface, respectively. The model with high precision and high computational efficiency is obtained through comparison and analysis. The multi-objective optimization of the optimal response surface model is carried out by MOGA (Multi-Objective Genetic Algorithm) method. The pressure increment of the optimized model is increased by 38 kPa. The efficiency is significantly improved under large mass flow conditions. The hydraulic performance of the optimized model is compared with that of the basic model. And the reasons that affect the performance of the multiphase pump are analyzed.
+SN - 1687-8132
+M3  - doi: 10.1177/16878140211072944
+UR  - https://doi-org.crai.referencistas.com/10.1177/16878140211072944
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Bayesian Covariance Structure Model for Testlets
+AU  - Fox, Jean-Paul
+AU  - Wenzel, Jeremias
+AU  - Klotzke, Konrad
+Y1  - 2020/07/23
+PY  - 2021
+DA  - 2021/04/01
+N1  - doi: 10.3102/1076998620941204
+DO  - 10.3102/1076998620941204
+T2  - Journal of Educational and Behavioral Statistics
+JF  - Journal of Educational and Behavioral Statistics
+SP  -219
+EP - 243
+VL - 46
+IS - 2
+PB - American Educational Research Association
+N2 - Standard item response theory (IRT) models have been extended with testlet effects to account for the nesting of items; these are well known as (Bayesian) testlet models or random effect models for testlets. The testlet modeling framework has several disadvantages. A sufficient number of testlet items are needed to estimate testlet effects, and a sufficient number of individuals are needed to estimate testlet variance. The prior for the testlet variance parameter can only represent a positive association among testlet items. The inclusion of testlet parameters significantly increases the number of model parameters, which can lead to computational problems. To avoid these problems, a Bayesian covariance structure model (BCSM) for testlets is proposed, where standard IRT models are extended with a covariance structure model to account for dependences among testlet items. In the BCSM, the dependence among testlet items is modeled without using testlet effects. This approach does not imply any sample size restrictions and is very efficient in terms of the number of parameters needed to describe testlet dependences. The BCSM is compared to the well-known Bayesian random effects model for testlets using a simulation study. Specifically for testlets with a few items, a small number of test takers, or weak associations among testlet items, the BCSM shows more accurate estimation results than the random effects model.
+SN - 1076-9986
+M3  - doi: 10.3102/1076998620941204
+UR  - https://doi-org.crai.referencistas.com/10.3102/1076998620941204
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Comparison of Localization Methods for a Robot Soccer Team
+AU  - Kose, Hatice
+AU  - Celik, Buluc
+AU  - Akin, H. Levent
+Y1  - 2006/12/01
+PY  - 2006
+DA  - 2006/12/01
+N1  - doi: 10.5772/5727
+DO  - 10.5772/5727
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -41
+VL - 3
+IS - 4
+PB - SAGE Publications
+N2 - In this work, several localization algorithms that are designed and implemented for Cerberus’05 Robot Soccer Team are analyzed and compared. These algorithms are used for global localization of autonomous mobile agents in the robotic soccer domain, to overcome the uncertainty in the sensors, environment and the motion model. The algorithms are Reverse Monte Carlo Localization (R-MCL), Simple Localization (S-Loc) and Sensor Resetting Localization (SRL). R-MCL is a hybrid method based on both Markov Localization (ML) and Monte Carlo Localization (MCL) where the ML module finds the region where the robot should be and MCL predicts the geometrical location with high precision by selecting samples in this region. S-Loc is another localization method where just one sample per percept is drawn, for global localization. Within this method another novel method My Environment (ME) is designed to hold the history and overcome the lack of information due to the drastically decrease in the number of samples in S-Loc. ME together with S-Loc is used in the Technical Challenges in Robocup 2005 and play an important role in ranking the First Place in the Challenges. In this work, these methods together with SRL, which is a widely used successful localization algorithm, are tested with both offline and real-time tests. First they are tested on a challenging data set that is used by many researches and compared in terms of error rate against different levels of noise, and sparsity. Besides time required recovering from kidnapping and speed of the methods are tested and compared. Then their performances are tested with real-time tests with scenarios like the ones in the Technical Challenges in ROBOCUP. The main aim is to find the best method which is very robust and fast and requires less computational power and memory compared to similar approaches and is accurate enough for high level decision making which is vital for robot soccer.
+SN - 1729-8806
+M3  - doi: 10.5772/5727
+UR  - https://doi-org.crai.referencistas.com/10.5772/5727
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Narrative Review of Predictive Analytics of Patient-Reported Outcomes in Adult Spinal Deformity Surgery
+AU  - Lehner, Kurt
+AU  - Ehresman, Jeff
+AU  - Pennington, Zach
+AU  - Ahmed, A. Karim
+AU  - Lubelski, Daniel
+AU  - Sciubba, Daniel M.
+Y1  - 2020/10/09
+PY  - 2021
+DA  - 2021/04/01
+N1  - doi: 10.1177/2192568220963060
+DO  - 10.1177/2192568220963060
+T2  - Global Spine Journal
+JF  - Global Spine Journal
+SP  -89S
+EP - 95S
+VL - 11
+IS - 1_suppl
+PB - SAGE Publications Inc
+N2 - Study Design: Narrative review Objective: Decision making in surgery for adult spinal deformity (ASD) is complex due to the multifactorial etiology, numerous surgical options, and influence of multiple medical and psychosocial factors on patient outcomes. Predictive analytics provide computational tools to analyze large data sets and generate hypotheses regarding new data. In this review, we examine the use of predictive analytics to predict patient-reported outcomes (PROs) in ASD surgery. Methods: A search of PubMed, Web of Science, and Embase databases was performed to identify all potentially relevant studies up to February 1, 2020. Studies were included based on the use of predictive analytics to predict PROs in ASD. Results: Of 57 studies identified and reviewed, 7 studies were included. Multiple algorithms including supervised and unsupervised methods were used. Significant heterogeneity was observed with choice of PROs modeled including ODI, SRS22, and SF36, assessment of model accuracy, and with the model accuracy and area under the receiver operating curve values (ranging from 30% to 86% and 0.57 to 0.96, respectively). Models were built with data sets of patients ranging from 89 to 570 patients with a range of 22 to 267 variables. Conclusions: Predictive analytics makes accurate predictions regarding PROs regarding pain, disability, and work and social function; PROs regarding satisfaction, self-image, and psychologic aspects of ASD were predicted with the lowest accuracy. Our review demonstrates a relative paucity of studies on ASD with limited databases. Future studies should include larger and more diverse databases and provide external validation of preexisting models.
+SN - 2192-5682
+M3  - doi: 10.1177/2192568220963060
+UR  - https://doi-org.crai.referencistas.com/10.1177/2192568220963060
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - United we stand: Accruals in strength-based argumentation
+AU  - Rossit, Julien
+AU  - Mailly, Jean-Guy
+AU  - Dimopoulos, Yannis
+AU  - Moraitis, Pavlos
+AU  - Pigozzi, Gabriella
+AU  - Vesic, Srdjan
+Y1  - 2020/07/17
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.3233/AAC-200904
+DO  - 10.3233/AAC-200904
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -87
+EP - 113
+VL - 12
+IS - 1
+PB - SAGE Publications
+N2 - Argumentation has been an important topic in knowledge representation, reasoning and multi-agent systems during the last twenty years. In this paper, we propose a new abstract framework where arguments are associated with a strength, namely a quantitative information which is used to determine whether an attack between arguments succeeds or not. Our Strength-based Argumentation Framework (StrAF) combines ideas of Preference-based and Weighted Argumentation Frameworks in an original way, which permits to define acceptability semantics sensitive to the existence of accruals between arguments. The question of accruals arises in situations where several arguments defending the same position (but from different points of view) against another argument are unable to individually defeat this argument, but could do it collectively if they combine their strengths. We investigate some of the theoretical and computational properties of our new framework and semantics, and present a reasoning algorithm that is based on a translation of the problem into pseudo-boolean constraint satisfaction. This paper proposes an intuitive framework which allows strength compensations in an argumentation context where attacks may not succeed, completed by an approach which detects accruals throughout the reasoning process without requiring the elicitation of all compensatory combinations of arguments as an input.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-200904
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-200904
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Image deblurring by multi-scale modified U-Net using dilated convolution
+AU  - Shi, Xiao-Pei
+AU  - Lin, Song-Yih
+AU  - Yang, Min-Lang
+AU  - Huang, Chung-Chi
+AU  - Lee, Jen-Chun
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/00368504241231161
+DO  - 10.1177/00368504241231161
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504241231161
+VL - 107
+IS - 1
+PB - SAGE Publications Ltd
+N2 - In modern urban traffic systems, intersection monitoring systems are used to monitor traffic flows and track vehicles by recognizing license plates. However, intersection monitors often produce motion-blurred images because of the rapid movement of cars. If a deep learning network is used for image deblurring, the blurring of the image can be eliminated first, and then the complete vehicle information can be obtained to improve the recognition rate. To restore a dynamic blurred image to a sharp image, this paper proposes a multi-scale modified U-Net image deblurring network using dilated convolution and employs a variable scaling iterative strategy to make the scheme more adaptable to actual blurred images. Multi-scale architecture uses scale changes to learn the characteristics of different scales of images, and the use of dilated convolution can improve the advantages of the receptive field and obtain more information from features without increasing the computational cost. Experimental results are obtained using a synthetic motion-blurred image dataset and a real blurred image dataset for comparison with existing deblurring methods. The experimental results demonstrate that the image deblurring method proposed in this paper has a favorable effect on actual motion-blurred images.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504241231161
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504241231161
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Evolutionary Analysis of Sequence Divergence and Diversity of Duplicate Genes in Aspergillus fumigatus
+AU  - Yang, Ence
+AU  - Hulse, Amanda M.
+AU  - Cai, James J.
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - doi: 10.4137/EBO.S10372
+DO  - 10.4137/EBO.S10372
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S10372
+VL - 8
+PB - SAGE Publications Ltd STM
+N2 - Gene duplication as a major source of novel genetic material plays an important role in evolution. In this study, we focus on duplicate genes in Aspergillus fumigatus, a ubiquitous filamentous fungus causing life-threatening human infections. We characterize the extent and evolutionary patterns of the duplicate genes in the genome of A. fumigatus. Our results show that A. fumigatus contains a large amount of duplicate genes with pronounced sequence divergence between two copies, and approximately 10% of them diverge asymmetrically, i.e. two copies of a duplicate gene pair diverge at significantly different rates. We use a Bayesian approach of the McDonald-Kreitman test to infer distributions of selective coefficients γ (=2Nes) and find that (1) the values of γ for two copies of duplicate genes co-vary positively and (2) the average γ for the two copies differs between genes from different gene families. This analysis highlights the usefulness of combining divergence and diversity data in studying the evolution of duplicate genes. Taken together, our results provide further support and refinement to the theories of gene duplication. Through characterizing the duplicate genes in the genome of A. fumigatus, we establish a computational framework, including parameter settings and methods, for comparative study of genetic redundancy and gene duplication between different fungal species.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S10372
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S10372
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Investigation of the Tail Dihedral Effects on the Aerodynamic Characteristics for the Low Speed Aircraft
+AU  - Zhang, G.Q.
+AU  - Yu, S.C.M.
+AU  - Chien, A.
+AU  - Xu, Y.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1155/2013/308582
+DO  - 10.1155/2013/308582
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -308582
+VL - 5
+PB - SAGE Publications
+N2 - The aerodynamic characteristics for the vee-tail aircraft configuration have been investigated numerically at low Reynolds number (Re < 106). Three types of vee-tails have been adopted to be compared with the conventional tail type (with horizontal and vertical tails). The results show that the effect created by the vee-tail can greatly affect the aerodynamic characteristics of the whole aircraft. If the dihedral angle of the vee-tail is too large, it can directly affect the flight stability. The main reason for the longitudinal moment curve “moving up” at high dihedral angle can be attributed to the serious asymmetric downwash effect. Based on these, the force variation and the corresponding aerodynamic characteristics for three different sizes of aileron with different deflection angles have also been obtained computationally and analyzed in detail.
+SN - 1687-8132
+M3  - doi: 10.1155/2013/308582
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/308582
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - S2M: A Stochastic Simulation Model of Poliovirus Genetic State Transition
+AU  - Zhou, Carol L. Ecale
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/BBI.S38194
+DO  - 10.4137/BBI.S38194
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -BBI.S38194
+VL - 10
+PB - SAGE Publications Ltd STM
+N2 - Modeling the molecular mechanisms that govern genetic variation can be useful in understanding the dynamics that drive genetic state transition in quasispecies viruses. For example, there is considerable interest in understanding how the relatively benign vaccine strains of poliovirus eventually revert to forms that confer neurovirulence and cause disease (ie, vaccine-derived poliovirus). This report describes a stochastic simulation model, S2M, which can be used to generate hypothetical outcomes based on known mechanisms of genetic diversity. S2M begins with predefined genotypes based on the Sabin-1 and Mahoney wild-type sequences, constructs a set of independent cell-based populations, and performs in-cell replication and cell-to-cell infection cycles while quantifying genetic changes that track the transition from Sabin-1 toward Mahoney. Realism is incorporated into the model by assigning defaults for variables that constrain mechanisms of genetic variability based roughly on metrics reported in the literature, yet these values can be modified at the command line in order to generate hypothetical outcomes driven by these parameters. To demonstrate the utility of S2M, simulations were performed to examine the effects of the rates of replication error and recombination and the presence or absence of defective interfering particles, upon reaching the end states of Mahoney resemblance (semblance of a vaccine-derived state), neurovirulence, genome fitness, and cloud diversity. Simulations provide insight into how modeled biological features may drive hypothetical outcomes, independently or in combination, in ways that are not always intuitively obvious.
+SN - 1177-9322
+M3  - doi: 10.4137/BBI.S38194
+UR  - https://doi-org.crai.referencistas.com/10.4137/BBI.S38194
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Algorithmically mediating communication to enhance collective decision-making in online social networks
+AU  - Burton, Jason W.
+AU  - Almaatouq, Abdullah
+AU  - Rahimian, M. Amin
+AU  - Hahn, Ulrike
+Y1  - 2024/04/01
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1177/26339137241241307
+DO  - 10.1177/26339137241241307
+T2  - Collective Intelligence
+JF  - Collective Intelligence
+SP  -26339137241241308
+VL - 3
+IS - 2
+PB - SAGE Publications
+N2 - Digitally enabled means for judgment aggregation have renewed interest in “wisdom of the crowd” effects and kick-started collective intelligence design as an emerging field in the cognitive and computational sciences. A keenly debated question here is whether social influence helps or hinders collective accuracy on estimation tasks, with recent results on the role of network structure hinting at a reconciliation of seemingly contradictory past results. Yet, despite a growing body of literature linking social network structure and collective accuracy, strategies for exploiting network structure to harness crowd wisdom are underexplored. We introduce one such strategy: rewiring algorithms that dynamically manipulate the structure of communicating social networks. Through agent-based simulations and an online multiplayer experiment, we provide a proof of concept showing how rewiring algorithms can increase the accuracy of collective estimations—even in the absence of knowledge of the ground truth. However, we also find that the algorithms’ effects are contingent on the distribution of estimates initially held by individuals before communication occurs. CCS Concepts •Human-centered computing → Collaborative and social computing• Applied computing → Psychology.
+SN - 2633-9137
+M3  - doi: 10.1177/26339137241241307
+UR  - https://doi-org.crai.referencistas.com/10.1177/26339137241241307
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The prediction of autonomous vehicle occupants’ pre-crash motion during emergency braking scenarios
+AU  - Diederich, Alexander
+AU  - Bastien, Christophe
+AU  - Blundell, Mike
+Y1  - 2023/02/12
+PY  - 2023
+DA  - 2023/12/01
+N1  - doi: 10.1177/09544070231153262
+DO  - 10.1177/09544070231153262
+T2  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+JF  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+SP  -3304
+EP - 3312
+VL - 237
+IS - 14
+PB - IMECHE
+N2 - This research investigates a computational method, which can assist the development of occupants’ passive safety in future autonomous vehicles, more particularly in the definition of head kinematics in rotated seat arrangement during emergency braking. To capture these head motions, the methodology utilised an Active Human Model, whose head kinematics were validated in a previous work in three-point and lap-belt restraint configuration scenarios. A sled model was then built where the seat backrest angle (SBA) and the seat orientation, modelled by rotating the acceleration angle (AA), could be adjusted to represent various ‘living room’ seating conditions. A Design of Experiments study was then performed by varying AA from 0° to 360° in steps of 22.5° and SBA from 20° to 60° in steps of 8°. The responses were subsequently converted into a Reduced Order Model (ROM), which was then successfully validated through a comparison with the kinematic responses predicted with simulations. In terms of simulation time, it was found that the ROM was able to calculate the head kinematics in 3 s instead of the 1.5 h taken using Simcenter Madymo, without compromising predicted responses accuracy. This research has provided a unique method to define head kinematics corridors for seated occupants in autonomous vehicle interiors, including maximum head excursion, head kinematics as a function of time and define for the first time (a) the safe “or’ but not both head envelope within the cabin interior, and (b) capture the seated scenarios where head proximity to airbag systems could be of concern, following emergency braking.
+SN - 0954-4070
+M3  - doi: 10.1177/09544070231153262
+UR  - https://doi-org.crai.referencistas.com/10.1177/09544070231153262
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Automated caries detection with smartphone color photography using machine learning
+AU  - Duong, Duc Long
+AU  - Kabir, Malitha Humayun
+AU  - Kuo, Rong Fu
+Y1  - 2021/04/01
+PY  - 2021
+DA  - 2021/04/01
+N1  - doi: 10.1177/14604582211007530
+DO  - 10.1177/14604582211007530
+T2  - Health Informatics Journal
+JF  - Health Informatics Journal
+JO  - Health Informatics J
+SP  -14604582211007530
+VL - 27
+IS - 2
+PB - SAGE Publications Ltd
+N2 - Untreated caries is significant problem that affected billion people over the world. Therefore, the appropriate method and accuracy of caries detection in clinical decision-making in dental practices as well as in oral epidemiology or caries research, are required urgently. The aim of this study was to introduce a computational algorithm that can automate recognize carious lesions on tooth occlusal surfaces in smartphone images according to International Caries Detection and Assessment System (ICDAS). From a group of extracted teeth, 620 unrestored molars/premolars were photographed using smartphone. The obtained images were evaluated for caries diagnosis with the ICDAS II codes, and were labeled into three classes: “No Surface Change” (NSC); “Visually Non-Cavitated” (VNC); “Cavitated” (C). Then, a two steps detection scheme using Support Vector Machine (SVM) has been proposed: “C versus (VNC + NSC)” classification, and “VNC versus NSC” classification. The accuracy, sensitivity, and specificity of best model were 92.37%, 88.1%, and 96.6% for “C versus (VNC + NSC),” whereas they were 83.33%, 82.2%, and 66.7% for “VNC versus NSC.” Although the proposed SVM system required further improvement and verification, with the data only imaged from the smartphone, it performed an auspicious potential for clinical diagnostics with reasonable accuracy and minimal cost.
+SN - 1460-4582
+M3  - doi: 10.1177/14604582211007530
+UR  - https://doi-org.crai.referencistas.com/10.1177/14604582211007530
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Large-eddy spray simulation under direct-injection spark-ignition engine-like conditions with an integrated atomization/breakup model
+AU  - Li, Hongjiang
+AU  - Rutland, Christopher J.
+AU  - Hernández Pérez, Francisco E.
+AU  - Im, Hong G.
+Y1  - 2020/01/30
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1177/1468087419881867
+DO  - 10.1177/1468087419881867
+T2  - International Journal of Engine Research
+JF  - International Journal of Engine Research
+SP  -731
+EP - 754
+VL - 22
+IS - 3
+PB - SAGE Publications
+N2 - In this work, a hybrid breakup model tailored for direct-injection spark-ignition engine sprays is developed and implemented in the OpenFOAM CFD code. The model uses the Lagrangian–Eulerian approach whereby parcels of liquid fuel are injected into the computational domain. Atomization and breakup of the liquid parcels are described by two sub-models based on the breakup mechanisms reported in the literature. Evaluation of the model has been carried out by comparing large-eddy simulation results with experimental measurements under multiple direct-injection spark-ignition engine-like conditions. Spray characteristics including liquid and vapor penetration curves, droplet velocities, and Sauter mean diameter distributions are examined in detail. The model has been found to perform well for the spray conditions considered in this work. Results also show that after the end of injection, most of the residual droplets that are still in the breakup process are driven by the bag and bag–stamen breakup mechanisms. Finally, an effort to unify the breakup length parameter is made, and the given value is tested under various ambient density and temperature conditions. The predicted trends follow the measured data closely for the penetration rates, even though the model is not specifically tuned for individual cases.
+SN - 1468-0874
+M3  - doi: 10.1177/1468087419881867
+UR  - https://doi-org.crai.referencistas.com/10.1177/1468087419881867
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Interval uncertain analysis of active hydraulically interconnected suspension system
+AU  - Liang, Jiejunyi
+AU  - Wu, Jinglai
+AU  - Zhang, Nong
+AU  - Luo, Zhen
+AU  - Zhu, Sangzhi
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - doi: 10.1177/1687814016646331
+DO  - 10.1177/1687814016646331
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016646331
+VL - 8
+IS - 5
+PB - SAGE Publications
+N2 - Uncertainty exists in many industry fields and needs to be dealt properly to avoid unexpected failure. This article proposes a new approach to deal with the uncertain problems encountered by the mathematical modeling of an active hydraulically interconnected suspension system. As the need for both riding comfort and the controllability is soaring nowadays, the traditional passive and semi-active suspension system could barely keep up with the pace, and the proposed active hydraulic system could be one of the solutions. In order to deal with the uncertain factors in the hydraulic system, an interval analysis method for the dynamic responses of nonlinear systems with uncertain-but-bounded parameters using Chebyshev polynomial series is introduced. The comparisons conducted in this article demonstrate the accuracy and computational efficiency of the proposed uncertain problem solver and reveal the influences of uncertain parameters in fluid and mechanical components on the dynamic responses of active hydraulically interconnected suspension.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016646331
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016646331
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Binaural Grouping Model for Predicting Speech Intelligibility in Multitalker Environments
+AU  - Mi, Jing
+AU  - Colburn, H. Steven
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.1177/2331216516669919
+DO  - 10.1177/2331216516669919
+T2  - Trends in Hearing
+JF  - Trends in Hearing
+JO  - Trends in Hearing
+SP  -2331216516669919
+VL - 20
+PB - SAGE Publications Inc
+N2 - Spatially separating speech maskers from target speech often leads to a large intelligibility improvement. Modeling this phenomenon has long been of interest to binaural-hearing researchers for uncovering brain mechanisms and for improving signal-processing algorithms in hearing-assistive devices. Much of the previous binaural modeling work focused on the unmasking enabled by binaural cues at the periphery, and little quantitative modeling has been directed toward the grouping or source-separation benefits of binaural processing. In this article, we propose a binaural model that focuses on grouping, specifically on the selection of time-frequency units that are dominated by signals from the direction of the target. The proposed model uses Equalization-Cancellation (EC) processing with a binary decision rule to estimate a time-frequency binary mask. EC processing is carried out to cancel the target signal and the energy change between the EC input and output is used as a feature that reflects target dominance in each time-frequency unit. The processing in the proposed model requires little computational resources and is straightforward to implement. In combination with the Coherence-based Speech Intelligibility Index, the model is applied to predict the speech intelligibility data measured by Marrone et al. The predicted speech reception threshold matches the pattern of the measured data well, even though the predicted intelligibility improvements relative to the colocated condition are larger than some of the measured data, which may reflect the lack of internal noise in this initial version of the model.
+SN - 2331-2165
+M3  - doi: 10.1177/2331216516669919
+UR  - https://doi-org.crai.referencistas.com/10.1177/2331216516669919
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of Twitter posts for evaluation of Corporate Social Responsibility in the leather industry
+AU  - Pons, Adrià
+AU  - Rius, Josep
+AU  - Vintró, Carla
+AU  - Gallart, Agapito
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/15589250221131876
+DO  - 10.1177/15589250221131876
+T2  - Journal of Engineered Fibers and Fabrics
+JF  - Journal of Engineered Fibers and Fabrics
+SP  -15589250221131876
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - Leather industry is facing the consequences of their historic lack of communication and now are under an increasing pressure to communicate their position and policies with regards to corporate social responsibility (CSR), informing consumers about the corporations’ good intentions and actions to recover clarity and be able to affirm without doubts that responsibly manufactured leather is sustainable. Under this context, this paper aims to examine CSR communication in the leather sector on Twitter identifying the main topics of CSR and the main participants in the creation of content and thus contribute to the development of CSR strategies for the leather industry. A software framework has been implemented in order to manage big text data in the study of CSR and sentiment computational content analysis to classify the tweets as positive, negative, or neutral. The results show that the general public associates leather with the environment, sustainability, and fashion. The general opinion about the leather industry’s CSR is rather neutral. Nonetheless, negative opinions occupy a close second place, and positive opinions are rare. Lastly, alternative bio-materials sneak in the industry reshaping the opinions to more positive ones.
+SN - 1558-9250
+M3  - doi: 10.1177/15589250221131876
+UR  - https://doi-org.crai.referencistas.com/10.1177/15589250221131876
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Evolutionary Pattern of Language in English Fiction Over the Last Two Centuries: Insights From Linguistic Concreteness and Imageability
+AU  - Sun, Kun
+AU  - Wang, Rong
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/21582440211069386
+DO  - 10.1177/21582440211069386
+T2  - Sage Open
+JF  - Sage Open
+SP  -21582440211069384
+VL - 12
+IS - 1
+PB - SAGE Publications
+N2 - Fiction has come to play an essential part in human culture and life in recent centuries. Because of its importance, the language or discourse of fiction has been widely studied. Discerning the evolutionary pattern of language in fiction is greatly helpful in understanding the changes in human culture and society. However, most previous studies on literary language that made use of quantitative or computational methods restricted themselves to a few authors or groups and only took into account a relative short span of time. Furthermore, most of the quantitative analysis therein was based on a primary and rather primitive algorithm that summarizes the frequencies of linguistic units in corpora. To overcome these limitations, this study uses semantic similarity as computed by semi-supervised methods to examine diachronic changes. In this study, the three large-scale corpora representing the English language and English fiction were used to investigate the evolutionary patterns concerning diachronic concreteness/imageability. The data from the two measures are well mapped and shown to support the argument that English fiction, as a special genre, exhibits an evolutionary tendency toward increasing concreteness/imageability. This indicates that modern fiction may have become increasingly important in human society, but easier to read and process in words than 19th century English fiction. This study proposed that learnability, genre difference, the changes of population size, and the other factors might have caused the systemic change. The current study is thus an important contribution to understanding the evolutionary trend of language in fiction as well as understanding the development of the English language as a whole. This study creates a novel quantitative methodology and applies this to the examination of diachronic changes of language in literary works.
+SN - 2158-2440
+M3  - doi: 10.1177/21582440211069386
+UR  - https://doi-org.crai.referencistas.com/10.1177/21582440211069386
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Algorithms as fetish: Faith and possibility in algorithmic work
+AU  - Thomas, Suzanne L.
+AU  - Nafus, Dawn
+AU  - Sherman, Jamie
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/2053951717751552
+DO  - 10.1177/2053951717751552
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951717751552
+VL - 5
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Algorithms are powerful because we invest in them the power to do things. With such promise, they can transform the ordinary, say snapshots along a robotic vacuum cleaner’s route, into something much more, such as a clean home. Echoing David Graeber’s revision of fetishism, we argue that this easy slip from technical capabilities to broader claims betrays not the “magic” of algorithms but rather the dynamics of their exchange. Fetishes are not indicators of false thinking, but social contracts in material form. They mediate emerging distributions of power often too nascent, too slippery or too disconcerting to directly acknowledge. Drawing primarily on 2016 ethnographic research with computer vision professionals, we show how faith in what algorithms can do shapes the social encounters and exchanges of their production. By analyzing algorithms through the lens of fetishism, we can see the social and economic investment in some people’s labor over others. We also see everyday opportunities for social creativity and change. We conclude that what is problematic about algorithms is not their fetishization but instead their stabilization into full-fledged gods and demons – the more deserving objects of critique.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951717751552
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951717751552
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A multiple-data-based efficient global optimization algorithm and its parallel implementation for automotive body design
+AU  - Xu, Bing
+AU  - Cai, Yong
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - doi: 10.1177/1687814018794341
+DO  - 10.1177/1687814018794341
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814018794341
+VL - 10
+IS - 8
+PB - SAGE Publications
+N2 - The purpose of this article is to improve the convergence efficiency of the traditional efficient global optimization method. Furthermore, we try a graphics processing unit–based parallel computing method to improve the computing efficiency of the efficient global optimization method for both mathematical and practical engineering problems. First, we propose a multiple-data-based efficient global optimization algorithm instead of the multiple-surrogates-based efficient global optimization algorithm. Second, a novel graphics processing unit–based general-purpose computing technology is adopted to accelerate the solution efficiency of our multiple-data-based efficient global optimization algorithm. Third, a hybrid parallel computing approach using the OpenMP and compute unified device architecture is adopted to further improve the solution efficiency of forward problems in practical application. This is accomplished by integrating the graphics processing unit–based finite element method numerical analysis system into the optimization software. The numerical results show that for the same problem, the optimal result of the multiple-data-based efficient global optimization algorithm is consistently better than the multiple-surrogates-based efficient global optimization algorithm with the same optimization iterations. In addition, the graphics processing unit–based parallel simulation system helps in the reduction of the calculation time for practical engineering problems. The multiple-data-based efficient global optimization method performs stably in both high-order mathematical functions and large-scale nonlinear practical engineering optimization problems. An added benefit is that the computational time and accuracy are no longer obstacles.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814018794341
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814018794341
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Comparing Ease of Programming in C++, Go, and Java for Implementing a Next-Generation Sequencing Tool
+AU  - Costanza, Pascal
+AU  - Herzeel, Charlotte
+AU  - Verachtert, Wilfried
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1176934319869015
+DO  - 10.1177/1176934319869015
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934319869015
+VL - 15
+PB - SAGE Publications Ltd STM
+N2 - elPrep is an extensible multithreaded software framework for efficiently processing Sequence Alignment/Map (SAM)/Binary Alignment/Map (BAM) files in next-generation sequencing pipelines. Similar to other SAM/BAM tools, a key challenge in elPrep is memory management, as such programs need to manipulate large amounts of data. We therefore investigated 3 programming languages with support for assisted or automated memory management for implementing elPrep, namely C++, Go, and Java. We implemented a nontrivial subset of elPrep in all 3 programming languages and compared them by benchmarking their runtime performance and memory use to determine the best language in terms of computational performance. In a previous article, we motivated why, based on these results, we eventually selected Go as our implementation language. In this article, we discuss the difficulty of achieving the best performance in each language in terms of programming language constructs and standard library support. While benchmarks are easy to objectively measure and evaluate, this is less obvious for assessing ease of programming. However, because we expect elPrep to be regularly modified and extended, this is an equally important aspect. We illustrate representative examples of challenges in all 3 languages, and give our opinion why we think that Go is a reasonable choice also in this light.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934319869015
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934319869015
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Knowing when to act: A call for an open misinformation library to guide actionable surveillance
+AU  - Dunn, Adam G.
+AU  - Steffens, Maryke
+AU  - Dyda, Amalie
+AU  - Mandl, Kenneth D.
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/20539517211018788
+DO  - 10.1177/20539517211018788
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517211018788
+VL - 8
+IS - 1
+PB - SAGE Publications Ltd
+N2 - The design and reporting of data-driven studies seeking to measure misinformation are patchy and inconsistent, and these studies rarely measure associations with, or effects on, behaviour. The consequence is that data-driven misinformation studies are not yet useful as an empirical basis for guiding when to act on emerging misinformation threats, or for deciding when it is more appropriate to do nothing to avoid inadvertently amplifying misinformation. In a narrative review focused on examples of health-related misinformation, we take a critical perspective of data-driven misinformation studies. To address this problem, we propose a curated and open library of misinformation examples and describe its structure and how it might be used to support actionable surveillance. We draw on experiences with other curated repositories to speculate on the likely challenges related to achieving critical mass and maintaining data consistency. We conclude that an open library of misinformation could help improve the consistency of data-driven misinformation study design and reporting, as well as provide an empirical basis from which to make decisions about how to act on new and emerging misinformation threats.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517211018788
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517211018788
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - On the application of artificial neural networks for the prediction of NOx emissions from a high-speed direct injection diesel engine
+AU  - Fang, XiaoHang (Leo)
+AU  - Papaioannou, Nick
+AU  - Leach, Felix
+AU  - Davy, Martin H.
+Y1  - 2020/06/25
+PY  - 2021
+DA  - 2021/06/01
+N1  - doi: 10.1177/1468087420929768
+DO  - 10.1177/1468087420929768
+T2  - International Journal of Engine Research
+JF  - International Journal of Engine Research
+SP  -1808
+EP - 1824
+VL - 22
+IS - 6
+PB - SAGE Publications
+N2 - This article considers the application and refinement of artificial neural network methods for the prediction of NOx emissions from a high-speed direct injection diesel engine over a wide range of engine operating conditions. The relative computational cost and performance of two backpropagation algorithms, Levenberg–Marquardt and Bayesian regularization, for this application are compared, with the Levenberg–Marquardt algorithm demonstrating a significant cost advantage. This work also assesses the performance of two alternative filtering approaches, a p-value test and the Pearson correlation coefficient, for reducing the required number of input variables to the model. The p-value test identified 32 input parameters of significance, whereas the Pearson correlation test highlighted 14 significant parameters while additionally providing a ranking of their relative importance. Finally, the article compares the predictive performance of the models generated by the two filtering methods. Overall, both models show good agreement to the experimental data with the model created using the Pearson correlation test showing improved performance in the low-NOx region.
+SN - 1468-0874
+M3  - doi: 10.1177/1468087420929768
+UR  - https://doi-org.crai.referencistas.com/10.1177/1468087420929768
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The design of self-organizing human–swarm intelligence
+AU  - Hasbach, Jonas D.
+AU  - Bennewitz, Maren
+Y1  - 2021/07/03
+PY  - 2022
+DA  - 2022/08/01
+N1  - doi: 10.1177/10597123211017550
+DO  - 10.1177/10597123211017550
+T2  - Adaptive Behavior
+JF  - Adaptive Behavior
+SP  -361
+EP - 386
+VL - 30
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Human–swarm interaction is a frontier in the realms of swarm robotics and human-factors engineering. However, no holistic theory has been explicitly formulated that can inform how humans and robot swarms should interact through an interface while considering real-world demands, the relative capabilities of the components, as well as the desired joint-system behaviours. In this article, we apply a holistic perspective that we refer to as joint human–swarm loops, that is, a cybernetic system made of human, swarm and interface. We argue that a solution for human–swarm interaction should make the joint human–swarm loop an intelligent system that balances between centralized and decentralized control. The swarm-amplified human is suggested as a possible design that combines perspectives from swarm robotics, human-factors engineering and theoretical neuroscience to produce such a joint human–swarm loop. Essentially, it states that the robot swarm should be integrated into the human’s low-level nervous system function. This requires modelling both the robot swarm and the biological nervous system as self-organizing systems. We discuss multiple design implications that follow from the swarm-amplified human, including a computational experiment that shows how the robot swarm itself can be a self-organizing interface based on minimal computational logic.
+SN - 1059-7123
+M3  - doi: 10.1177/10597123211017550
+UR  - https://doi-org.crai.referencistas.com/10.1177/10597123211017550
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Efficient predictive cruise control of autonomous vehicles with improving ride comfort and safety
+AU  - He, Defeng
+AU  - He, Wentao
+AU  - Song, Xiulan
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/0020294019877518
+DO  - 10.1177/0020294019877518
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -18
+EP - 28
+VL - 53
+IS - 1–2
+PB - SAGE Publications Ltd
+N2 - In this paper, the adaptive cruise control problem of autonomous vehicles is considered and we propose a novel predictive cruise control approach to improve driving safety and comfort of the host vehicle. The main idea of the approach is that the predicted acceleration commands of the host vehicle are stair-likely pre-planned to satisfy their changes along the same direction within the prediction horizon. The predictive cruise controller is then computed by online solving a finite horizon constrained optimal control problem with a decision variable. Besides explicitly handling safety constraints of vehicles, the obtained controller has abilities to efficiently attenuate peaks of the cruise commands while reducing computational load of online solving the optimization problem. Hence, the ride comfort and safety performances of vehicles are improved in terms of softening acceleration response and constraint satisfaction. Moreover, the ride comfort, following and safety performances of vehicles are summed with varying weights to cope with various traffic scenarios. Some classical cases are adopted to evaluate the proposed adaptive cruise control algorithm in terms of ride comfort, car-following ability and computational demand.
+SN - 0020-2940
+M3  - doi: 10.1177/0020294019877518
+UR  - https://doi-org.crai.referencistas.com/10.1177/0020294019877518
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Electrophysiology of Syncytial Smooth Muscle
+AU  - Manchanda, Rohit
+AU  - Appukuttan, Shailesh
+AU  - Padmakumar, Mithun
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1179069518821917
+DO  - 10.1177/1179069518821917
+T2  - Journal of Experimental Neuroscience
+JF  - Journal of Experimental Neuroscience
+JO  - J Exp Neurosci
+SP  -1179069518821917
+VL - 13
+PB - SAGE Publications Ltd STM
+N2 - As in other excitable tissues, two classes of electrical signals are of fundamental importance to the functioning of smooth muscles: junction potentials, which arise from neurotransmission and represent the initiation of excitation (or in some instances inhibition) of the tissue, and spikes or action potentials, which represent the accomplishment of excitation and lead on to contractile activity. Unlike the case in skeletal muscle and in neurons, junction potentials and spikes in smooth muscle have been poorly understood in relation to the electrical properties of the tissue and in terms of their spatiotemporal spread within it. This owes principally to the experimental difficulties involved in making precise electrical recordings from smooth muscles and also to two inherent features of this class of muscle, ie, the syncytial organization of its cells and the distributed innervation they receive, which renders their biophysical analysis problematic. In this review, we outline the development of hypotheses and knowledge on junction potentials and spikes in syncytial smooth muscle, showing how our concepts have frequently undergone radical changes and how recent developments hold promise in unraveling some of the many puzzles that remain. We focus especially on computational models and signal analysis approaches. We take as illustrative examples the smooth muscles of two organs with distinct functional characteristics, the vas deferens and urinary bladder, while also touching on features of electrical functioning in the smooth muscles of other organs.
+SN - 1179-0695
+M3  - doi: 10.1177/1179069518821917
+UR  - https://doi-org.crai.referencistas.com/10.1177/1179069518821917
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Passive Acoustic Monitoring of Chaco Chachalaca (Ortalis canicollis) Over a Year: Vocal Activity Pattern and Monitoring Recommendations
+AU  - Pérez-Granados, Cristian
+AU  - Schuchmann, Karl-L.
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/19400829211058295
+DO  - 10.1177/19400829211058295
+T2  - Tropical Conservation Science
+JF  - Tropical Conservation Science
+SP  -19400829211058296
+VL - 14
+PB - SAGE Publications Inc
+N2 - Chaco Chachalaca (Ortalis canicollis) is a declining Neotropical bird, for which our current knowledge about its natural history is very limited. Here, we evaluated for first time the utility of passive acoustic monitoring, coupled with automated signal recognition software, to monitor the Chaco Chachalaca, described the vocal behavior of the species across the diel and seasonal cycle patterns, and proposed an acoustic monitoring protocol to minimize error in the estimation of the vocal activity rate. We recorded over a complete annual cycle at three sites in the Brazilian Pantanal. The species was detected on 99% of the monitoring days, proving that this technique is a reliable method for detecting the presence of the species. Chaco Chachalaca was vocally active throughout the day and night, but its diel activity pattern peaked between 0500 and 0900. The breeding season of Chaco Chachalaca in the Brazilian Pantanal, based on seasonal changes in vocal activity, seems to occur during the last months of the dry season, with a peak in vocal activity between August and October. Our results could guide future surveys aiming to detect the presence of the species, both using traditional or acoustic surveys, or to evaluate changes in population abundance using passive acoustic monitoring, for which recorders should be left in the field for a minimum period of nine days to obtain a low-error estimate of the vocal activity of the species. Our results suggest that passive acoustic monitoring might be useful, as a complementary tool to field studies, for monitoring other cracids, a family with several threatened species that are reluctant to human presence.
+SN - 1940-0829
+M3  - doi: 10.1177/19400829211058295
+UR  - https://doi-org.crai.referencistas.com/10.1177/19400829211058295
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using social media for vaccination promotion: Practices and challenges
+AU  - Steffens, Maryke S.
+AU  - Dunn, Adam G.
+AU  - Leask, Julie
+AU  - Wiley, Kerrie E.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/2055207620970785
+DO  - 10.1177/2055207620970785
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -2055207620970785
+VL - 6
+PB - SAGE Publications Ltd
+N2 - Objective Vaccination misinformation is widespread on social media. Vaccine-promoting organisations are working to curb its influence, but face obstacles. We aimed to analyse their social media strategies and the challenges they encounter. Methods In this qualitative study, we purposively sampled 21 participants responsible for social media from vaccine-promoting organisations. We used Framework Analysis to explore the data. Results Vaccine-promoting organisations faced obstacles using social media, including fast-paced change, limited resources, and insufficient organisational buy-in. They experienced difficulties reaching audiences, exploiting social media listening, and measuring impact. Consequently, they may miss opportunities to counter misinformation, connect with groups low in vaccine confidence, and determine diverse audience responses. They lack strong evidence linking social media strategies with behaviour change, and have difficulty understanding silent audiences. Conclusions Vaccine-promoting organisations have an opportunity to embrace the participatory nature of social media. They could share listening insights with like-minded groups, and conduct research exploring associations between social media strategies and community attitude/behaviour change. Social media platforms could assist by renewing vaccine-promoting organisations’ organic reach, supporting the development of tailored listening and credibility tools, and strengthening collaborations to promote credible content.
+SN - 2055-2076
+M3  - doi: 10.1177/2055207620970785
+UR  - https://doi-org.crai.referencistas.com/10.1177/2055207620970785
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Wide area monitoring, protection, and control application in islanding detection for grid integrated distributed generation: A review
+AU  - Tshenyego, Onkemetse
+AU  - Samikannu, Ravi
+AU  - Mtengi, Bokani
+Y1  - 2021/04/15
+PY  - 2021
+DA  - 2021/05/01
+N1  - doi: 10.1177/0020294021989768
+DO  - 10.1177/0020294021989768
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -585
+EP - 617
+VL - 54
+IS - 5–6
+PB - SAGE Publications Ltd
+N2 - The assimilation of Distributed Generation (DG) into the electric power system (EPS) has become more attractive as the world is following a trend to reduce greenhouse gas emissions by introducing more renewable energy forms resulting in high penetration scenarios. This high penetration of DGs brings several challenges to the protection philosophy of the EPS which compromises its reliability, availability, and efficiency. Under high DG penetration scenarios, conventional islanding detection methods (Idms) fail to detect an island as the grid loses its inertia to leverage a significant frequency and voltage mismatch necessary for Idms to effectively detect an islanding event. This has given rise to the birth of Artificial Intelligent (AI) methods that are found to perform better in islanding detection. AI Idms are computationally intensive and require a lot of data to operate accurately. Because the computational burden of these methods requires fast computing hardware, the current trend of AI Idms are integrated with Wide Area Monitoring, Protection, and Control (WAMPAC) system. This paper aims at reviewing all these Idms and the WAMPAC’s system latency when hosting AI Idms which are currently the best in islanding detection. This is done to determine if the WAMPAC system latency plus Idms computational time meet the islanding detection time specified by the IEEE Standard 1547 framework.
+SN - 0020-2940
+M3  - doi: 10.1177/0020294021989768
+UR  - https://doi-org.crai.referencistas.com/10.1177/0020294021989768
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Multilayer Matching SLAM for Large-Scale and Spacious Environments
+AU  - Wang, Jingchuan
+AU  - Li, Liu
+AU  - Zhe, Liu
+AU  - Weidong, Chen
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.5772/61240
+DO  - 10.5772/61240
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -124
+VL - 12
+IS - 9
+PB - SAGE Publications
+N2 - In large-scale and spacious environments, keeping a reliable data association and reducing computational complexity are challenges for the implementation of Simultaneous Localization and Mapping (SLAM). Focused on these problems, a multilayer-matching-based incremental SLAM algorithm is proposed in this article. In this algorithm, SLAM is simplified as a problem composed of a least-square-based optimization problem and data association. Then, it is solved in two steps. Firstly, a multilayer matching method is applied to deal with the data-association problem. Both matching between observation and local map and matching between different local maps are carried out. The uncertainty of the results-matching is described by the Fisher information matrix. Secondly, the robot pose is optimized through an incremental QR decomposition method. This algorithm effectively avoids the local minima caused by the limited observation information, and can build a consistent map of the environment. Meanwhile, the characters (hierarchical and incremental) of the proposed algorithm ensure low computational complexity. Experiments on simulation environments and two kinds of real environments with different sparse features verify that the algorithm is applicable for real-time application in large-scale and spacious environments.
+SN - 1729-8806
+M3  - doi: 10.5772/61240
+UR  - https://doi-org.crai.referencistas.com/10.5772/61240
+Y2  - 2024/10/01
+ER  - 
+

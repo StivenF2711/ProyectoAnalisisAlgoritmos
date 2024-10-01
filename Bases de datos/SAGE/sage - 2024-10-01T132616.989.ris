@@ -1,0 +1,238 @@
+TY  - JOUR
+T1  - A case study of thin film stress evolution at a dissimilar material interface via molecular dynamics simulations: Gold film growth on a nickel substrate
+AU  - Al, Murat
+AU  - Webb, Edmund B.
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1847980418778427
+DO  - 10.1177/1847980418778427
+T2  - Nanomaterials and Nanotechnology
+JF  - Nanomaterials and Nanotechnology
+SP  -1847980418778427
+VL - 8
+PB - SAGE Publications Ltd STM
+N2 - Evolution of deformation and stress in growing thin films has been studied in this work using computational simulations that resolve matter at atomic length and time scales. For the surface layers of films laying on the substrate of a dissimilar material, the stress distribution analysis around defects becomes more challenging. Herein, spatial and temporal distribution of deformation and associated stress evolution are presented for different thin film formation events including (1) sub-monolayer growth during an early film nucleation stage and (2) coalescence of adjacent monolayer “islands.” Validity of the stress computed via local computations of the virial expression for stress in a system of interacting particles was checked by comparing to results obtained from considerations of local atomic deformation in conjunction with existing expressions for epitaxial thin film growth stress. For the geometries studied here, where a monolayer of film with a highly characterized linear defect, as in the case of a stacking fault, was simulated for coalescence, fairly good agreement was found. This result demonstrates that, for similar defects at the surface layer, with sufficient sub-ensemble averaging of the standard virial expression for stress, semiquantitative spatial stress distribution information can be obtained from atomic scale simulations. Using our validated stress computation method, we reveal significant stress localization during thin film growth processes, leading to pronounced differences in maximum and minimum stress observed over very small spatial extent (of order multiple GPa over 3–6 nm distances). One prominent mechanism of stress localization revealed here is coalescence between adjacent growing islands. For geometries explored here, stress manifesting during coalescence is highly localized.
+SN - 1847-9804
+M3  - doi: 10.1177/1847980418778427
+UR  - https://doi-org.crai.referencistas.com/10.1177/1847980418778427
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A residual connection enabled deep neural network model for optic disk and optic cup segmentation for glaucoma diagnosis
+AU  - Aurangzeb, Khursheed
+Y1  - 2023/07/01
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1177/00368504231201329
+DO  - 10.1177/00368504231201329
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504231201329
+VL - 106
+IS - 3
+PB - SAGE Publications Ltd
+N2 - Glaucoma diagnosis at an early stage is vital for the timely initiation of its treatment for and preventing possible vision loss. For glaucoma diagnosis, an accurate estimation of the cup-to-disk ratio (CDR) is required. The current automatic CDR computation techniques attribute lower accuracy and higher complexity, which are important considerations for diagnostics system design to be used for such critical diagnoses. The current methods involve a deeper deep learning model, comprising a large number of parameters, which results in higher system complexity and training/testing time. To address these challenges, this paper proposes a Residual Connection (non-identity)-based Deep Neural Network (RC-DNN), which is based on non-identity residual connectivity for joint optic disk (OD) and optic cup (OC) detection. The proposed model is emboldened by efficient residual connectivity, which is beneficial in several ways. First, the model is efficient and can perform simultaneous segmentation of the OC and OD. Second, the efficient residual information flow permeates the vanishing gradient problem which results in faster converges of the model. Third, feature inspiration empowers the network to perform the segmentation with only a few network layers. We performed a comprehensive performance evaluation of the developed model based on its training in RIM-ONE and DRISHTIGS databases. For OC segmentation, for the images (test set) from {DRISHTI-GS and RIM-ONE} datasets, our proposed model achieves the dice coefficient, Jaccard coefficient, sensitivity, specificity, and balanced accuracy of {92.62, 86.52}, {86.87, 77.54}, {94.21, 95.36}, {99.83, 99.639}, and {94.2, 98.9}, respectively. These experimental results indicate that the developed model provides significant performance enhancement for joint OC and OD segmentation. Additionally, the reduced computational complexity based on reduced model parameters and higher segmentation accuracy provides the additional features of efficacy, robustness, and reliability of the developed model. These attributes of the developed model advocate for its deployment of population-scale glaucoma screening programs.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504231201329
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504231201329
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A priority-based congestion-avoidance routing protocol using IoT-based heterogeneous medical sensors for energy efficiency in healthcare wireless body area networks
+AU  - Awan, Khalid M.
+AU  - Ashraf, Nadeem
+AU  - Saleem, Muhammad Qaiser
+AU  - Sheta, Osama E.
+AU  - Qureshi, Kashif Naseer
+AU  - Zeb, Asim
+AU  - Haseeb, Khalid
+AU  - Sadiq, Ali Safaa
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1177/1550147719853980
+DO  - 10.1177/1550147719853980
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719853980
+VL - 15
+IS - 6
+PB - SAGE Publications
+N2 - A wireless body area network is a collection of Internet of Things–based wearable heterogeneous computing devices primarily used in healthcare monitoring applications. A lot of research is in process to reduce the cost and increase efficiency in medical industry. Low power sensor nodes are often attached to high-risk patients for real-time remote monitoring. These sensors have limited resources such as storage capacity, battery life, computational power, and channel bandwidth. The current work proposes a multi-hop Priority-based Congestion-avoidance Routing Protocol using IoT based heterogeneous sensors for energy efficiency in wireless body area networks. The objective is to devise a routing protocol among sensor nodes such that it has minimum delay and higher throughput for emergency packets using IoT based sensor nodes, optimal energy consumption for longer network lifetime, and efficient scarce resource utilization. In our proposed work, data traffic is categorized into normal and emergency or life-critical data. For normal data traffic, next-hop selection will be selected based upon three parameters; residual energy, congestion on forwarder node, and signal-to-noise ratio of the path between source and forwarder node. We use the data aggregation and filtration technique to reduce the network traffic load and energy consumption. A priority-based routing scheme is also proposed for life-critical data to have less delay and greater throughput in emergency situations. Performance of the proposed protocol is evaluated with two cutting-edge routing techniques iM-SIMPLE and Optimized Cost Effective and Energy Efficient Routing. The proposed model outperforms in terms of network throughput, traffic load, energy consumption, and lifespan.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719853980
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719853980
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Post quantum proxy signature scheme based on the multivariate public key cryptographic signature
+AU  - Chen, Jiahui
+AU  - Ling, Jie
+AU  - Ning, Jianting
+AU  - Panaousis, Emmanouil
+AU  - Loukas, George
+AU  - Liang, Kaitai
+AU  - Chen, Jiageng
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/1550147720914775
+DO  - 10.1177/1550147720914775
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720914775
+VL - 16
+IS - 4
+PB - SAGE Publications
+N2 - Proxy signature is a very useful technique which allows the original signer to delegate the signing capability to a proxy signer to perform the signing operation. It finds wide applications especially in the distributed environment where the entities such as the wireless sensors are short of computational power and needed to be convinced to the authenticity of the server. Due to less proxy signature schemes in the post-quantum cryptography aspect, in this article, we investigate the proxy signature in the post-quantum setting so that it can resist against the potential attacks from the quantum adversaries. A general multivariate public key cryptographic proxy scheme based on a multivariate public key cryptographic signature scheme is proposed, and a heuristic security proof is given for our general construction. We show that the construction can reach Existential Unforgeability under an Adaptive Chosen Message Attack with Proxy Key Exposure assuming that the underlying signature is Existential Unforgeability under an Adaptive Chosen Message Attack. We then use our general scheme to construct practical proxy signature schemes for three well-known and promising multivariate public key cryptographic signature schemes. We implement our schemes and compare with several previous constructions to show our efficiency advantage, which further indicates the potential application prospect in the distributed network environment.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720914775
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720914775
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Computer modeling and simulation for undersaturated primary drive recovery mechanism
+AU  - Gyan, Patricia Semwaah
+AU  - Xie, Congjiao
+AU  - Brantson, Eric Thompson
+AU  - Atuahene, Samuel
+Y1  - 2019/05/01
+PY  - 2019
+DA  - 2019/05/01
+N1  - doi: 10.1177/1687814019841948
+DO  - 10.1177/1687814019841948
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019841948
+VL - 11
+IS - 5
+PB - SAGE Publications
+N2 - The focus of this article is to test the capability of a three-dimensional undersaturated numerical reservoir simulator developed for prediction of actual field performance cases. The simulator development employs unconditional stable Crank–Nicolson second order in time approximation discretization scheme and preconditioned conjugate gradient iterative solver for the derived fluid flow equation. Furthermore, formation volume factor as a function of cell pressure is computed at each time step until bubble-point pressure is reached. The reservoir model is then coupled with a horizontal wellbore model in the simulator by placing a well optimally at the center of its drainage volume. The numerical simulation results show that the numerical solutions improve significantly with the addition of grid blocks. Graphical visualization surface and contour map plots show rapid and continuous average reservoir pressure depletion with time for an earliest possible determination and characterization of primary drive mechanisms. The rate of pressure depletion and recovery factor estimation (1.52%) are the two main characteristics used to identify depletion drive or rock and liquid expansion drive as the best-fit prospective drive for the reservoir model. The total cumulative production of 170,000 stock-tank barrels (MSTB) recovered in 1390 days is in agreement with the field data used. Sensitivity analyses with the numerical simulator illustrated the key impact of reservoir parameters on pressure depletion with less computational expensiveness. Finally, material balance incremental (0.995) and cumulative (1.005) error checks validate the simulator robustness within an acceptable tolerance limit.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019841948
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019841948
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Aerodynamic performance of a Hex-rotor unmanned aerial vehicle with different rotor spacing
+AU  - Lei, Yao
+AU  - Cheng, Mingxin
+Y1  - 2020/01/31
+PY  - 2020
+DA  - 2020/03/01
+N1  - doi: 10.1177/0020294019901313
+DO  - 10.1177/0020294019901313
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -711
+EP - 718
+VL - 53
+IS - 3–4
+PB - SAGE Publications Ltd
+N2 - In this paper, an attempt was made to obtain the aerodynamic performance of a Hex-rotor unmanned aerial vehicle with different rotor spacing. The hover efficiency of the Hex-rotor unmanned aerial vehicle is analyzed by both experimental tests and numerical simulations. First, a series of index to characterize the aerodynamic performance of the Hex-rotor unmanned aerial vehicle are analyzed theoretically, and then both tests and simulations on a Hex-rotor unmanned aerial vehicle with different rotor spacing ratio (i = 0.50, 0.56, 0.63, 0.71, 0.83) were presented in details. For a custom-designed test platform, the thrust, power loading and hover efficiency of the Hex-rotor unmanned aerial vehicle were obtained in this paper. Finally, computational fluid dynamics simulations are performed to obtain the streamline distributions of the flow field, pressure and velocity contour of the Hex-rotor unmanned aerial vehicle. Results show that the aerodynamic performance of the Hex-rotor unmanned aerial vehicle is varied by changing the rotor spacing. Specifically, the smaller rotor spacing may improve the aerodynamic performance of the Hex-rotor unmanned aerial vehicle by increasing the rotor interferences. In the meantime, the effects of mutual interference between the rotors are gradually reduced with the increase of the rotor spacing. Moreover, the uniformity of the streamline distribution, the shape and the symmetry of the vortex are necessary conditions for the Hex-rotor unmanned aerial vehicle to generate a larger thrust. It was also noted that the thrust increased by 5.61% and the overall efficiency increased by about 8.37% at i = 0.63 for the working mode (2200 r/min), which indicated that the rotor spacing ratio at i = 0.63 obtained a best aerodynamic performance.
+SN - 0020-2940
+M3  - doi: 10.1177/0020294019901313
+UR  - https://doi-org.crai.referencistas.com/10.1177/0020294019901313
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Fast NOx emission prediction methodology via one-dimensional engine performance tools in heavy-duty engines
+AU  - Özgül, Emre
+AU  - Bedir, Hasan
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1177/1687814019845954
+DO  - 10.1177/1687814019845954
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019845954
+VL - 11
+IS - 4
+PB - SAGE Publications
+N2 - Accurate prediction of nitrogen oxide, soot, carbon monoxide and unburned hydrocarbon emissions from diesel engines plays a crucial role during the design and development phases of vehicle powertrain systems due to increasingly more strict emission legislation. Undoubtedly, generating accurate and robust emission prediction methods will serve to global optimization of engine components at very early stages of engine development. Engine component selection, accurate specific fuel consumption prediction and defining the correct exhaust gas recirculation strategy (low and mid-high) can only be performed via accurate and fast emission prediction. There are many possible ways of emission prediction in the literature, such as three-dimensional computational fluid dynamics, stochastic reactor, semi-empirical, phenomenological models and neural networks. However, these prediction methods either need excessive test data or simulation duration. However, using one-dimensional simulation tools is a faster way of emission prediction, but has low accuracy. In this study, it is aimed to develop a fast NOx emission prediction methodology by utilizing one-dimensional models generated in GT-Suite software. Two different heavy-duty engines are modelled, and the models are correlated with test data. An NOx emission prediction methodology is developed with the 9-L heavy-duty diesel engine model. Extended Zeldovich mechanism included in the software is tuned via embedding different calibration multiplier maps. Comparison of simulation results with test data shows that turbine inlet temperature, in-cylinder maximum temperature, maximum pressure, load, CA50, exhaust gas recirculation rate and fuel–air ratio are the most critical map parameters for enhanced emission prediction capability. The methodology developed is applied to the 12.7-L engine with these selected map parameters. The results show that the methodology can be used to predict NOx values with high speed and sufficient accuracy for different heavy-duty diesel engine variants.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019845954
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019845954
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Layered manufacturing for medical imaging data
+AU  - Ueng, Shyh-Kuang
+AU  - Huang, Hsin-Cheng
+AU  - Chou, Chieh-Shih
+AU  - Huang, Hsuan-Kai
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - doi: 10.1177/1687814019871392
+DO  - 10.1177/1687814019871392
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019871392
+VL - 11
+IS - 8
+PB - SAGE Publications
+N2 - Layered manufacturing techniques have been successfully employed to construct scanned objects from three-dimensional medical image data sets. The printed physical models are useful tools for anatomical exploration, surgical planning, teaching, and related medical applications. Before fabricating scanned objects, we have to first build watertight geometrical representations of the target objects from medical image data sets. Many algorithms had been developed to fulfill this duty. However, some of these methods require extra efforts to resolve ambiguity problems and to fix broken surfaces. Other methods cannot generate legitimate models for layered manufacturing. To alleviate these problems, this article presents a modeling procedure to efficiently create geometrical representations of objects from computerized tomography scan and magnetic resonance imaging data sets. The proposed procedure extracts the iso-surface of the target object from the input data set at the first step. Then it converts the iso-surface into a three-dimensional image and filters this three-dimensional image using morphological operators to remove dangling parts and noises. At the next step, a distance field is computed in the three-dimensional image space to approximate the surface of the target object. Then the proposed procedure smooths the distance field to soothe sharp corners and edges of the target object. Finally, a boundary representation is built from the distance field to model the target object. Compared with conventional modeling techniques, the proposed method possesses the following advantages: (1) it reduces human efforts involved in the geometrical modeling process. (2) It can construct both solid and hollow models for the target object, and wall thickness of the hollow models is adjustable. (3) The resultant boundary representation guarantees to form a watertight solid geometry, which is printable using three-dimensional printers. (4) The proposed procedure allows users to tune the precision of the geometrical model to compromise with the available computational resources.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019871392
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019871392
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Novel Convolutional Restricted Boltzmann Machine manifold learning inspired dynamic user clustering hybrid precoding for millimeter-wave massive multiple-input multiple-output systems
+AU  - Zhou, Xiaoping
+AU  - Liu, Haichao
+AU  - Wang, Bin
+AU  - Zhang, Qian
+AU  - Wang, Yang
+Y1  - 2021/11/01
+PY  - 2021
+DA  - 2021/11/01
+N1  - doi: 10.1177/15501477211055376
+DO  - 10.1177/15501477211055376
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -15501477211055376
+VL - 17
+IS - 11
+PB - SAGE Publications
+N2 - Millimeter-wave massive multiple-input multiple-output is a key technology in 5G communication system. In particular, the hybrid precoding method has the advantages of being power efficient and less expensive than the full-digital precoding method, so it has attracted more and more attention. The effectiveness of this method in simple systems has been well verified, but its performance is still unknown due to many problems in real communication such as interference from other users and base stations, and users are constantly on the move. In this article, we propose a dynamic user clustering hybrid precoding method in the high-dimensional millimeter-wave multiple-input multiple-output system, which uses low-dimensional manifolds to avoid complicated calculations when there are many antennas. We model each user set as a novel Convolutional Restricted Boltzmann Machine manifold, and the problem is transformed into cluster-oriented multi-manifold learning. The novel Convolutional Restricted Boltzmann Machine manifold learning seeks to learn embedded low-dimensional manifolds through manifold learning in the face of user mobility in clusters. Through proper user clustering, the hybrid precoding is investigated for the sum-rate maximization problem by manifold quasi-conjugate gradient methods. This algorithm avoids the traditional method of processing high-dimensional channel parameters, achieves a high signal-to-noise ratio, and reduces computational complexity. The simulation result table shows that this method can get almost the best summation rate and higher spectral efficiency compared with the traditional method.
+SN - 1550-1329
+M3  - doi: 10.1177/15501477211055376
+UR  - https://doi-org.crai.referencistas.com/10.1177/15501477211055376
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Fluid transportation and heat transfer analysis of PP/TiO2 nanocomposites in an internal mixer
+AU  - Zhu, XZ
+AU  - Liu, J.
+AU  - Sun, DP
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1687814018813068
+DO  - 10.1177/1687814018813068
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814018813068
+VL - 11
+IS - 1
+PB - SAGE Publications
+N2 - The internal mixer is an important devise for processing the polymer nanocomposites acting as a chemical reactor. In this article, based on the computational fluid dynamics method, the fluid transportation and heat transfer analysis of sol–gel reaction processing for Polypropylene (PP)/TiO2 nanocomposites in the internal batch mixers with single-winged and two-winged Cam rotors were simulated. First, the Lagrangian coherent structure analysis was used to understand the fluid transport properties in the mixers. Then the effect of rotational speeds (ratios) and barrel temperatures on the heat transfer characteristics in the mixers with different rotors was analyzed. Also, the changes of viscous heating and torques of rotors with different thermal conditions in the mixers were discussed. Especially, the relationship between the fluid transportation and heat transfer characteristics was explored. The results show that a big rotor speed ratio can induce great fluid transportation in the left and right mixer chambers based on the Lagrangian coherent structure analysis, and the fluid near the horseshoe map has great folding effect and temperature magnitude. The viscous dissipation, viscous heat generation, and rotor torques in the mixers increase with increasing the rotational speeds and decrease with increasing the barrel temperatures. The mixer with two-winged rotors has higher average temperature, viscous dissipation, viscous heat generation and the torques of rotors values of reactive fluid than that with single-winged rotors.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814018813068
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814018813068
+Y2  - 2024/10/01
+ER  - 
+

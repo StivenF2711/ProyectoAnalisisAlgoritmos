@@ -1,0 +1,243 @@
+TY  - JOUR
+T1  - A TDMA Scheme for Mobile Sensor Networks
+AU  - Abdullah-Al-Wadud, M.
+Y1  - 2013/06/01
+PY  - 2013
+DA  - 2013/06/01
+N1  - doi: 10.1155/2013/907583
+DO  - 10.1155/2013/907583
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -907583
+VL - 9
+IS - 6
+PB - SAGE Publications
+N2 - We propose a TDMA-based protocol for mobile sensor networks. The proposed protocol overcomes the shortcomings of the other available TDMA-based protocols in a dynamic network where the cluster membership may change frequently. Unlike other existing TDMA-based protocols, we propose to vary the number of timeslots in the TDMA frame to allow underutilization of unused slots and successful allocation of timeslots to the newly joined sensors through minimizing collisions. The approach is fully decentralized and efficient to be used by the cluster head (leader) and the sensor nodes in a cluster. Simulations also show that the proposed mechanism provides significant performance improvements compared to the other existing approaches in terms of different network performance metrics.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/907583
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/907583
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Gestalt Laws of Perceptual Organization on the Comprehension of Three-Variable Bar and Line Graphs
+AU  - Ali, Nadia
+AU  - Peebles, David
+Y1  - 2012/07/16
+PY  - 2013
+DA  - 2013/02/01
+N1  - doi: 10.1177/0018720812452592
+DO  - 10.1177/0018720812452592
+T2  - Human Factors
+JF  - Human Factors
+JO  - Hum Factors
+SP  -183
+EP - 203
+VL - 55
+IS - 1
+PB - SAGE Publications Inc
+N2 - Objective: We report three experiments investigating the ability of undergraduate college students to comprehend 2 × 2 “interaction” graphs from two-way factorial research designs. Background: Factorial research designs are an invaluable research tool widely used in all branches of the natural and social sciences, and the teaching of such designs lies at the core of many college curricula. Such data can be represented in bar or line graph form. Previous studies have shown, however, that people interpret these two graphical forms differently. Method: In Experiment 1, participants were required to interpret interaction data in either bar or line graphs while thinking aloud. Verbal protocol analysis revealed that line graph users were significantly more likely to misinterpret the data or fail to interpret the graph altogether. Results: The patterns of errors line graph users made were interpreted as arising from the operation of Gestalt principles of perceptual organization, and this interpretation was used to develop two modified versions of the line graph, which were then tested in two further experiments. One of the modifications resulted in a significant improvement in performance. Conclusion: Results of the three experiments support the proposed explanation and demonstrate the effects (both positive and negative) of Gestalt principles of perceptual organization on graph comprehension. Application: We propose that our new design provides a more balanced representation of the data than the standard line graph for nonexpert users to comprehend the full range of relationships in two-way factorial research designs and may therefore be considered a more appropriate representation for use in educational and other nonexpert contexts.
+SN - 0018-7208
+M3  - doi: 10.1177/0018720812452592
+UR  - https://doi-org.crai.referencistas.com/10.1177/0018720812452592
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical calculation for coupling vibration system by Piecewise-Laplace method
+AU  - Fang, Pan
+AU  - Wang, Kexin
+AU  - Dai, Liming
+AU  - Zhang, Chixiang
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1177/0036850420938555
+DO  - 10.1177/0036850420938555
+T2  - Science Progress
+JF  - Science Progress
+SP  -0036850420938555
+VL - 103
+IS - 3
+PB - SAGE Publications Ltd
+N2 - To improve the reliability and accuracy of dynamic machine in design process, high precision and efficiency of numerical computation is essential means to identify dynamic characteristics of mechanical system. In this paper, a new computation approach is introduced to improve accuracy and efficiency of computation for coupling vibrating system. The proposed method is a combination of piecewise constant method and Laplace transformation, which is simply called as Piecewise-Laplace method. In the solving process of the proposed method, the dynamic system is first sliced by a series of continuous segments to reserve physical attribute of the original system; Laplace transformation is employed to separate coupling variables in segment system, and solutions of system in complex domain can be determined; then, considering reverse Laplace transformation and residues theorem, solution in time domain can be obtained; finally, semi-analytical solution of system is given based on continuity condition. Through comparison of numerical computation, it can be found that precision and efficiency of numerical results with the Piecewise-Laplace method is better than Runge-Kutta method within same time step. If a high-accuracy solution is required, the Piecewise-Laplace method is more suitable than Runge-Kutta method.
+SN - 0036-8504
+M3  - doi: 10.1177/0036850420938555
+UR  - https://doi-org.crai.referencistas.com/10.1177/0036850420938555
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Automated diagnosis of 7 canine skin tumors using machine learning on H&E-stained whole slide images
+AU  - AU  - Fragoso-Garcia, Marco
+AU  - Wilm, Frauke
+AU  - Bertram, Christof A.
+AU  - Merz, Sophie
+AU  - Schmidt, Anja
+AU  - Donovan, Taryn
+AU  - Fuchs-Baumgartinger, Andrea
+AU  - Bartel, Alexander
+AU  - Marzahl, Christian
+AU  - Diehl, Laura
+et al.
+Y1  - 2023/07/29
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1177/03009858231189205
+DO  - 10.1177/03009858231189205
+T2  - Veterinary Pathology
+JF  - Veterinary Pathology
+JO  - Vet Pathol
+SP  -865
+EP - 875
+VL - 60
+IS - 6
+PB - SAGE Publications Inc
+N2 - Microscopic evaluation of hematoxylin and eosin-stained slides is still the diagnostic gold standard for a variety of diseases, including neoplasms. Nevertheless, intra- and interrater variability are well documented among pathologists. So far, computer assistance via automated image analysis has shown potential to support pathologists in improving accuracy and reproducibility of quantitative tasks. In this proof of principle study, we describe a machine-learning-based algorithm for the automated diagnosis of 7 of the most common canine skin tumors: trichoblastoma, squamous cell carcinoma, peripheral nerve sheath tumor, melanoma, histiocytoma, mast cell tumor, and plasmacytoma. We selected, digitized, and annotated 350 hematoxylin and eosin-stained slides (50 per tumor type) to create a database divided into training, n = 245 whole-slide images (WSIs), validation (n = 35 WSIs), and test sets (n = 70 WSIs). Full annotations included the 7 tumor classes and 6 normal skin structures. The data set was used to train a convolutional neural network (CNN) for the automatic segmentation of tumor and nontumor classes. Subsequently, the detected tumor regions were classified patch-wise into 1 of the 7 tumor classes. A majority of patches-approach led to a tumor classification accuracy of the network on the slide-level of 95% (133/140 WSIs), with a patch-level precision of 85%. The same 140 WSIs were provided to 6 experienced pathologists for diagnosis, who achieved a similar slide-level accuracy of 98% (137/140 correct majority votes). Our results highlight the feasibility of artificial intelligence-based methods as a support tool in diagnostic oncologic pathology with future applications in other species and tumor types.
+SN - 0300-9858
+M3  - doi: 10.1177/03009858231189205
+UR  - https://doi-org.crai.referencistas.com/10.1177/03009858231189205
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Influence of fuselage arm cross-section on the aerodynamic and aeroacoustic performance of quadcopter unmanned aerial vehicles: A numerical investigation
+AU  - Jizhou, Liu
+AU  - Ming, Li
+AU  - Kaimin, Yang
+AU  - Lei, Gao
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/17568293231200281
+DO  - 10.1177/17568293231200281
+T2  - International Journal of Micro Air Vehicles
+JF  - International Journal of Micro Air Vehicles
+SP  -17568293231200280
+VL - 15
+PB - SAGE Publications Ltd STM
+N2 - This paper investigates the influence of the fuselage arm cross-section shape on the aerodynamic and aeroacoustic performance of quadcopter Unmanned Aerial Vehicles in hover state by numerical simulation. The unsteady simulations of the flow field around one generic two-blade rotor and one fuselage arm are conducted by the Reynolds Averaged Navier-Stokes solver with the SST turbulence model. The total thrust forces and the sound pressure level spectra of five fuselage arm cross-section shapes with the same cross-section area are simulated and compared. Results show that the fuselage arm with a square cross-section has the highest aerodynamic performances for all the tested speeds of rotation. The fuselage arm with a circular cross-section ranks second in aerodynamic performance. However, it has the best aeroacoustic performance. The other three tested cross-section shapes show less thrust forces and higher sound pressure levels at the blade passing frequencies than the circular cross-section, which are not optimal neither aerodynamically nor aeroacoustically.
+SN - 1756-8293
+M3  - doi: 10.1177/17568293231200281
+UR  - https://doi-org.crai.referencistas.com/10.1177/17568293231200281
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Research on cavitation acoustic characteristics of centrifugal pump based on fluid-acoustic field coupling method
+AU  - Liang, Dong
+AU  - Yuqi, Zhao
+AU  - Cui, Dai
+AU  - Yong, Wang
+Y1  - 2018/05/01
+PY  - 2018
+DA  - 2018/05/01
+N1  - doi: 10.1177/1687814018773665
+DO  - 10.1177/1687814018773665
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814018773665
+VL - 10
+IS - 5
+PB - SAGE Publications
+N2 - In order to study the change rules of interior acoustic field with the development of cavitation, this article presented a method that through comparing the experiment results with numerical simulation results in cavitation bubbles’ distribution images under different cavitation coefficients to optimize the accuracy of acoustic field simulation using computational fluid dynamics combined with the Lighthill acoustic analogy. First, a closed visual testing system was established based on pump product test system and high-speed photography. Second, the cavitation performance under the rated operating condition was calculated using different cavitation models, in order to obtain both pump cavitation performance curve and distribution of cavitation bubbles. Next, based on the external characteristics experiment and high-speed photography experiment, the appropriate cavitation model for unsteady numerical calculation was selected. On the basis of vapor volume fraction distribution and the cavitation performance curve, four different typical points representing different cavitation coefficients were selected for further analyses. The direct boundary element method was used to calculate the variation characteristics of cavitation-induced noise at different cavitation coefficients. Finally, the peak-to-peak value of pressure fluctuation coefficient is defined as Д, and the pressure pulsating frequency domain signals were analyzed to further study the influence of pressure pulsation on acoustic field. The results show that the effect of pressure pulsation on noise is mainly focused on the discrete eigenvalues, and as for the broadband noise, the influence is not obvious. With the development of cavitation, axial passing frequency, 10- to 100-Hz frequency band, and 1000- to 3000-Hz frequency band show an increasing trend, while blade passing frequency and its harmonic frequencies show a decreasing trend. At the onset of cavitation, 1000- to 3000-Hz frequency band has the highest sensitivity for cavitation detection.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814018773665
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814018773665
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Investigation of improving the hydraulic turbine cascade performance using non-axisymmetric endwall contouring
+AU  - Meng, Lin
+AU  - Zhang, XiaoDong
+AU  - Yan, Gong
+AU  - Peng, Cancan
+Y1  - 2014/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1177/1687814020915410
+DO  - 10.1177/1687814020915410
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814020915410
+VL - 12
+IS - 4
+PB - SAGE Publications
+N2 - Non-axisymmetric endwall contouring techniques have been widely applied in gas turbines; numerous papers and experimental studies have shown that it can significantly improve the overall performance of the turbine. This article first presents the non-axisymmetric endwall profile construction and optimization both for the rotor hub and shroud of a turbine drilling hydraulic cascade in the presence of an axisymmetric rotor, in order to improve the performance and investigate non-axisymmetric endwall contouring’s influence laws on a hydraulic cascade. Rotor cascade endwall design is studied by confining the axisymmetric variation near hub, shroud, and both endwalls. Endwall surface is parameterized with control points of Bezier curve, and control points are considered as design variables having a height constraint of 10%, 12%, or 15% span to move in radial coordinate. This methodology also combines Latin hypercube sampling with NSGA-II algorithm to obtain optimum solution. Computational fluid dynamics simulation results show that the non-axisymmetric endwall contouring technology applied to hub and shroud all realize an improvement in efficiency, while the NEW_S_15% has the best comprehensive performance and it causes an improvement of 1.52% in efficiency and 5.1% in torque. Off-design experiment shows that NEW_S_15% improves the output torque and efficiency as well even it deviates from design working condition, which proves valuableness of the non-axisymmetric endwall contouring technology.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814020915410
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814020915410
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Systems Biology Approach for Investigating Significant Biomarkers and Drug Targets Common Among Patients with Gonorrhea, Chlamydia, and Prostate Cancer: A Pilot Study
+AU  - Noman, Abdulla Al
+AU  - Islam, Md. Kobirul
+AU  - Feroz, Tasmiah
+AU  - Hossain, Md. Monir
+AU  - Shakil, Md. Shahariar Kabir
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/11779322231214445
+DO  - 10.1177/11779322231214445
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -11779322231214444
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - Having a previous history of sexually transmitted diseases (STDs) such as gonorrhea and chlamydia increases the chance of developing prostate cancer, the second most frequent malignant cancer among men. However, the molecular functions that cause the development of prostate cancer in persons with gonorrhea and chlamydia are yet unknown. In this study, we studied RNA-seq gene expression profiles using computational biology methods to find out potential biomarkers that could help us in understanding the patho-biological mechanisms of gonorrhea, chlamydia, and prostate cancer. Using statistical methods on the Gene Expression Omnibus (GEO) data sets, it was found that a total of 22 distinct differentially expressed genes were shared among these 3 diseases of which 14 were up-regulated (PGRMC1, TSC22D1, SH3BGRL, NNT, CTSC, FRMD3, CCR2, FAM210B, VCL, PTGS1, SLFN11, SLC40A1, PROS1, and DSE) and the remaining 8 genes were down-regulated (PRNP, HINT3, MARCKSL1, TMED10, SH3KBP1, ENSA, DERL1, and KMT2B). Investigation on these 22 unique dysregulated genes using Gene Ontology, BioCarta, KEGG, and Reactome revealed multiple altered molecular pathways, including regulation of amyloid precursor protein catabolic process, ferroptosis, effects on gene expression of Homo sapiens PPAR pathway, and innate immune system R-HSA-168249. Four significant hub proteins namely VCL, SH3KBP1, PRNP, and PGRMC1 were revealed by protein-protein interaction network analysis. By analyzing gene-transcription factors and gene-miRNAs interactions, significant transcription factors (POU2F2, POU2F1, GATA6, and HIVEP1) and posttranscriptional regulator microRNAs (hsa-miR-7-5p) were also identified. Three potential therapeutic compounds namely INCB3284, CCX915, and MLN-1202 were found to interact with up-regulated protein C-C chemokine receptor type 2 (CCR2) in protein-drug interaction analysis. The proposed biomarkers and therapeutic potential molecules could be investigated for potential pharmacological targets and activity in the fight against in patients with gonorrhea, chlamydia, and prostate cancer.
+SN - 1177-9322
+M3  - doi: 10.1177/11779322231214445
+UR  - https://doi-org.crai.referencistas.com/10.1177/11779322231214445
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Neither opaque nor transparent: A transdisciplinary methodology to investigate datafication at the EU borders
+AU  - Valdivia, Ana
+AU  - Aradau, Claudia
+AU  - Blanke, Tobias
+AU  - Perret, Sarah
+Y1  - 2022/07/01
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1177/20539517221124586
+DO  - 10.1177/20539517221124586
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517221124584
+VL - 9
+IS - 2
+PB - SAGE Publications Ltd
+N2 - In 2020, the European Union announced the award of the contract for the biometric part of the new database for border control, the Entry Exit System, to two companies: IDEMIA and Sopra Steria. Both companies had been previously involved in the development of databases for border and migration management. While there has been a growing amount of publicly available documents that show what kind of technologies are being implemented, for how much money, and by whom, there has been limited engagement with digital methods in this field. Moreover, critical border and security scholarship has largely focused on qualitative and ethnographic methods. Building on a data feminist approach, we propose a transdisciplinary methodology that goes beyond binaries of qualitative/quantitative and opacity/transparency, examines power asymmetries and makes the labour of coding visible. Empirically, we build and analyse a dataset of the contracts awarded by two European Union agencies key to its border management policies – the European Agency for Large-Scale Information Systems (eu-LISA) and the European Border and Coast Guard Agency (Frontex). We supplement the digital analysis and visualisation of networks of companies with close reading of tender documents. In so doing, we show how a transdisciplinary methodology can be a device for making datafication ‘intelligible’ at the European Union borders.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517221124586
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517221124586
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - High-Dimensional Statistical Learning: Roots, Justifications, and Potential Machineries
+AU  - Zollanvari, Amin
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/CIN.S30804
+DO  - 10.4137/CIN.S30804
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S30804
+VL - 14s5
+PB - SAGE Publications Ltd STM
+N2 - High-dimensional data generally refer to data in which the number of variables is larger than the sample size. Analyzing such datasets poses great challenges for classical statistical learning because the finite-sample performance of methods developed within classical statistical learning does not live up to classical asymptotic premises in which the sample size unboundedly grows for a fixed dimensionality of observations. Much work has been done in developing mathematical-statistical techniques for analyzing high-dimensional data. Despite remarkable progress in this field, many practitioners still utilize classical methods for analyzing such datasets. This state of affairs can be attributed, in part, to a lack of knowledge and, in part, to the ready-to-use computational and statistical software packages that are well developed for classical techniques. Moreover, many scientists working in a specific field of high-dimensional statistical learning are either not aware of other existing machineries in the field or are not willing to try them out. The primary goal in this work is to bring together various machineries of high-dimensional analysis, give an overview of the important results, and present the operating conditions upon which they are grounded. When appropriate, readers are referred to relevant review articles for more information on a specific subject.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S30804
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S30804
+Y2  - 2024/10/01
+ER  - 
+

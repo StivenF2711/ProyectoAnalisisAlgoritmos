@@ -1,0 +1,245 @@
+TY  - JOUR
+T1  - How to Build an Institution
+AU  - van Basshuysen, Philippe
+Y1  - 2020/11/19
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1177/0048393120971545
+DO  - 10.1177/0048393120971545
+T2  - Philosophy of the Social Sciences
+JF  - Philosophy of the Social Sciences
+SP  -215
+EP - 238
+VL - 51
+IS - 2
+PB - SAGE Publications Inc
+N2 - How should institutions be designed that “work” in bringing about desirable social outcomes? I study a case of successful institutional design—the redesign of the National Resident Matching Program—and argue that economists assume three roles when designing an institution, each of which complements the other two: first, the designer combines positive and normative modeling to formalize policy goals and to design possible mechanisms for bringing them about. Second, the engineer refines the design by conducting experiments and computational analyses. Third, the plumber implements the design in the real world and mends it as needed.
+SN - 0048-3931
+M3  - doi: 10.1177/0048393120971545
+UR  - https://doi-org.crai.referencistas.com/10.1177/0048393120971545
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - High performance computing seismic redatuming by inversion with algebraic compression and multiple precisions
+AU  - Hong, Yuxi
+AU  - Ltaief, Hatem
+AU  - Ravasi, Matteo
+AU  - Keyes, David
+Y1  - 2024/01/30
+PY  - 2024
+DA  - 2024/05/01
+N1  - doi: 10.1177/10943420231226190
+DO  - 10.1177/10943420231226190
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -225
+EP - 244
+VL - 38
+IS - 3
+PB - SAGE Publications Ltd STM
+N2 - We present a high-performance implementation of Seismic Redatuming by Inversion (SRI), which combines algebraic compression with mixed-precision (MP) computations. Seismic redatuming entails the repositioning of seismic data recorded at the surface of the Earth to a subsurface level closer to where reflections have originated. Marchenko-based redatuming is the best-in-class SRI method from a theoretical point of view because it can accurately handle full seismic wavefields with minimal data pre-processing. However, it requires intensive data movement, a large memory footprint, and extensive computations due to the need for manipulating large, formally dense, complex-valued frequency matrices in the bandwidth of the recorded seismic data. More precisely, at the heart of Marchenko modeling operator lies a Multi-Dimensional Convolution (MDC) operator, which requires the application of repeated complex-valued Matrix-Vector Multiplications (MVMs) with chosen set of seismic frequency matrices. SRI is deemed to be too time-consuming for realistic domain sizes and therefore industrially impractical. To alleviate these computational bottlenecks, we first improve the memory footprint of the MDC operator by using Tile Low-Rank Matrix-Vector Multiplications (TLR-MVMs); this exploits the low-rank nature of seismic recordings in the frequency domain, used as the kernel of the MDC modeling operator. MP computations are further introduced to increase the arithmetic intensity of the operators. We validate the numerical robustness of our synergistic approach on a benchmark 3D synthetic seismic dataset and demonstrate its use on various hardware architectures. We develop several FP32/FP16/INT8 MP TLR-MVM implementations with a limited and controllable impact on the overall accuracy of application. We achieve up to 63X memory footprint reduction and 12.5X performance speedup against the traditional dense MVM kernel on a single NVIDIA A100 GPU. Moreover, linear scalability is attained when deploying our implementation on eight A100 GPUs. Our implementations of the MDC operator integrate with the open-source PyLops framework for large-scale, matrix-free inverse problems.
+SN - 1094-3420
+M3  - doi: 10.1177/10943420231226190
+UR  - https://doi-org.crai.referencistas.com/10.1177/10943420231226190
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A multi-user multi-operator computing pricing method for Internet of things based on bi-level optimization
+AU  - Jiang, Wei
+AU  - Wang, Huiqiang
+AU  - Li, Bingyang
+AU  - Lv, Haibin
+AU  - Meng, Qingchuan
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1550147719900110
+DO  - 10.1177/1550147719900110
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719900110
+VL - 16
+IS - 1
+PB - SAGE Publications
+N2 - The Internet of mobile things is a promising paradigm that generates, stores, and processes amount of real-time data to render rich services for mobile users. Along with the increase of mobile devices in the field of Internet of things, more and more intelligent applications, such as face recognition and virtual reality, have emerged. These applications typically consume large amounts of computing and energy resources. However, due to the physical size limitations of Internet of things terminals, their computing capacity and power are limited, where users’ needs for application processing delay and power consumption cannot be met. Therefore, the concept of edge cloud computing has been proposed, which enhances the computing capacity of Internet of things terminals by offloading user tasks to edge servers for computation. When there are multiple operators, it is important to understand how users choose an operator to perform computation and how operators can reasonably price the computing capacity to meet their own interests. Therefore, we study the computation pricing and user decision-making problems of Internet of things under multi-user and multi-operator scenarios. The problem is divided into three phases and modeled as a two-level optimization problem. While an operator’s goal is to minimize the loss of his interests, the user’s goal is to minimize the computation cost (energy consumption and price). First, since the lower-level user decision-making problem is an integer linear programming problem, we transform it into an equivalent continuous linear programming problem by relaxation. Second, we transform the bi-level optimization problem into an equivalent single-level optimization problem by substituting the lower problem’s Karush–Kuhn–Tucker conditions into an upper problem. Finally, we use a spatial branch and bound algorithm to solve the problem. Experimental results show that the proposed algorithm can effectively maintain the benefits of both operators and users in the field of Internet of things.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719900110
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719900110
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Optimized design of the flow network in the lubrication system for the heavy vehicle transmission
+AU  - Li, Jinning
+AU  - Ma, Zeyu
+AU  - Jiang, Ming
+AU  - Zhang, Yunqing
+AU  - Wan, Li
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - doi: 10.1177/1687814017696414
+DO  - 10.1177/1687814017696414
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017696414
+VL - 9
+IS - 4
+PB - SAGE Publications
+N2 - An accurate simulation model of the lubrication system is essential for early design of the heavy truck transmission. In this article, a detailed computational method for the flow network analysis of the lubrication circuit is developed based on the hydraulic theory, and the flow resistance through the oil pipes and orifices is also taken into consideration. Then, the Next Limit Technologies’ XFlow, a potential new three-dimensional computational fluid dynamics software based on lattice Boltzmann method, is adopted to obtain the relationship between the oil delivery and the lubrication effect in the low-pressure capillary lubrication network of the rear auxiliary gearbox. To achieve the best overall lubricating performance of the flow network, the optimized design of the diameter for each oil supply orifice is determined by a detailed sensitivity analysis on the contribution of each parameter to the volumetric flow rate. The bench tests for the volumetric flow rate have been performed for validating the computation model by comparing the predicted volumetric flow rate through each oil supply bore with the experimental data at various pump speeds. The endurance tests have further conducted and the test results indicate a remarkable reduction in mechanical weariness when the best solution of the flow network design for the transmission lubrication system is adopted.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017696414
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017696414
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Teletraffic analysis of a mobile crowdsensing system: The pedestrian-to-vehicle scenario
+AU  - Miguel-Santiago, David
+AU  - Rivero-Angeles, Mario E.
+AU  - Garay-Jiménez, Laura I.
+AU  - Orea-Flores, Izlian Y.
+AU  - Tovar-Corona, Blanca
+Y1  - 2022/11/01
+PY  - 2022
+DA  - 2022/11/01
+N1  - doi: 10.1177/15501329221133291
+DO  - 10.1177/15501329221133291
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -15501329221133292
+VL - 18
+IS - 11
+PB - SAGE Publications
+N2 - Crowdsensing systems are developed in order to use the computational and communication capabilities of registered users to monitor specific variables and phenomena in an opportunistic manner. As such, the Quality of Experience is not easily attained since these systems heavily rely on the user’s behavior and willingness to cooperate whenever an event with certain interest needs to be monitored. In this work, we analyze the data acquisition phase, where pedestrians opportunistically transmit to vehicles to further disseminate it in the city according to their trajectory. This highly dynamic environment (sensors and data sinks are mobile, and the number of users varies according to the region and time) poses many challenges for properly operating a crowdsensing system. We first study the statistical properties of vehicular traffic in different regions of Luxembourg City where pedestrians share their computational resources and send data to passing cars. Then we propose an Erlang distribution to model the vehicles’ dwelling times and develop a Markov chain accordingly. We model the system using two different queues: we use a single server queue to model the vehicle traffic, while we use an infinite server queue system to model the pedestrian traffic.
+SN - 1550-1329
+M3  - doi: 10.1177/15501329221133291
+UR  - https://doi-org.crai.referencistas.com/10.1177/15501329221133291
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Mixed qualitative-simulation methods: Understanding geography through thick and thin
+AU  - Millington, James D.A.
+AU  - Wainwright, John
+Y1  - 2016/02/04
+PY  - 2017
+DA  - 2017/02/01
+N1  - doi: 10.1177/0309132515627021
+DO  - 10.1177/0309132515627021
+T2  - Progress in Human Geography
+JF  - Progress in Human Geography
+SP  -68
+EP - 88
+VL - 41
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Across geography there has been variable engagement with the use of simulation and agent-based modelling. We argue that agent-based simulation provides a complementary method to investigate geographical issues which need not be used in ways that are epistemologically different in kind from some other approaches in contemporary geography. We propose mixed qualitative-simulation methods that iterate back-and-forth between ‘thick’ (qualitative) and ‘thin’ (simulation) approaches and between the theory and data they produce. These mixed methods accept simulation modelling as process and practice; a way of using computers with concepts and data to ensure social theory remains embedded in day-to-day geographical thinking.
+SN - 0309-1325
+M3  - doi: 10.1177/0309132515627021
+UR  - https://doi-org.crai.referencistas.com/10.1177/0309132515627021
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Prefiltering Model for Homology Detection Algorithms on GPU
+AU  - Retamosa, Germán
+AU  - de Pedro, Luis
+AU  - González, Ivan
+AU  - Tamames, Javier
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/EBO.S40877
+DO  - 10.4137/EBO.S40877
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S40877
+VL - 12
+PB - SAGE Publications Ltd STM
+N2 - Homology detection has evolved over the time from heavy algorithms based on dynamic programming approaches to lightweight alternatives based on different heuristic models. However, the main problem with these algorithms is that they use complex statistical models, which makes it difficult to achieve a relevant speedup and find exact matches with the original results. Thus, their acceleration is essential. The aim of this article was to prefilter a sequence database. To make this work, we have implemented a groundbreaking heuristic model based on NVIDIA’s graphics processing units (GPUs) and multicore processors. Depending on the sensitivity settings, this makes it possible to quickly reduce the sequence database by factors between 50% and 95%, while rejecting no significant sequences. Furthermore, this prefiltering application can be used together with multiple homology detection algorithms as a part of a next-generation sequencing system. Extensive performance and accuracy tests have been carried out in the Spanish National Centre for Biotechnology (NCB). The results show that GPU hardware can accelerate the execution times of former homology detection applications, such as National Centre for Biotechnology Information (NCBI), Basic Local Alignment Search Tool for Proteins (BLASTP), up to a factor of 4. KEY POINTS • Owing to the increasing size of the current sequence datasets, filtering approach and high-performance computing (HPC) techniques are the best solution to process all these information in acceptable processing times. • Graphics processing unit cards and their corresponding programming models are good options to carry out these processing methods. • Combination of filtration models with HPC techniques is able to offer new levels of performance and accuracy in homology detection algorithms such as National Centre for Biotechnology Information Basic Local Alignment Search Tool.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S40877
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S40877
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Media Representations of Healthcare Robotics in Norway 2000-2020: A Topic Modeling Approach
+AU  - Solberg, Mads
+AU  - Kirchhoff, Ralf
+Y1  - 2023/11/07
+PY  - 2024
+DA  - 2024/06/01
+N1  - doi: 10.1177/08944393231212251
+DO  - 10.1177/08944393231212251
+T2  - Social Science Computer Review
+JF  - Social Science Computer Review
+SP  -636
+EP - 660
+VL - 42
+IS - 3
+PB - SAGE Publications Inc
+N2 - Robots are projected to affect healthcare services in significant, but unpredictable, ways. Many believe robots will add value to future healthcare, but their arrival has triggered controversy. Debates revolve around how robotics will impact healthcare provision, their effects on the future of labor and caregiver–patient relationships, and ethical dilemmas associated with autonomous machines. This study investigates media representations of healthcare robotics in Norway over a twenty-year period, using a mixed-methods design. Media representations affect public opinion in multiple ways. By assembling and presenting information through stories, they not only set the agenda by broadcasting values, experiences, and expectations about new technologies, but also frame and prime specific understandings of issues. First, we employ an inductive text-mining approach known as “topic modeling,” a computational method for eliciting abstract semantic structures from large text corpora. Using Non-Negative Matrix Factorization, we implement a topic model of manifest content from 752 articles, published in Norwegian print media between 1.1.2000 and 2.10.2020, sampled from a comprehensive database for news media (Atekst, Retriever). We complement this computational lens with a more fine-grained, qualitative analysis of content in exemplary texts sampled from each topic. Here, we identify prominent “frames,” discursive cues for interpreting how various stakeholders talk about healthcare robotics as a contested domain of policy and practice in a comprehensive welfare state. We also highlight some benefits of this approach for analyzing media discourse and stakeholder perspectives on controversial technologies.
+SN - 0894-4393
+M3  - doi: 10.1177/08944393231212251
+UR  - https://doi-org.crai.referencistas.com/10.1177/08944393231212251
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A randomized block policy gradient algorithm with differential privacy in Content Centric Networks
+AU  - Wang, Lin
+AU  - Xu, Xingang
+AU  - Zhao, Xuhui
+AU  - Li, Baozhu
+AU  - Zheng, Ruijuan
+AU  - Wu, Qingtao
+Y1  - 2021/12/01
+PY  - 2021
+DA  - 2021/12/01
+N1  - doi: 10.1177/15501477211059934
+DO  - 10.1177/15501477211059934
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -15501477211059934
+VL - 17
+IS - 12
+PB - SAGE Publications
+N2 - Policy gradient methods are effective means to solve the problems of mobile multimedia data transmission in Content Centric Networks. Current policy gradient algorithms impose high computational cost in processing high-dimensional data. Meanwhile, the issue of privacy disclosure has not been taken into account. However, privacy protection is important in data training. Therefore, we propose a randomized block policy gradient algorithm with differential privacy. In order to reduce computational complexity when processing high-dimensional data, we randomly select a block coordinate to update the gradients at each round. To solve the privacy protection problem, we add a differential privacy protection mechanism to the algorithm, and we prove that it preserves the -privacy level. We conduct extensive simulations in four environments, which are CartPole, Walker, HalfCheetah, and Hopper. Compared with the methods such as important-sampling momentum-based policy gradient, Hessian-Aided momentum-based policy gradient, REINFORCE, the experimental results of our algorithm show a faster convergence rate than others in the same environment.
+SN - 1550-1329
+M3  - doi: 10.1177/15501477211059934
+UR  - https://doi-org.crai.referencistas.com/10.1177/15501477211059934
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Pan-transcriptome-based candidate therapeutic discovery for idiopathic pulmonary fibrosis
+AU  - Wang, Yunguan
+AU  - Yella, Jaswanth K.
+AU  - Ghandikota, Sudhir
+AU  - Cherukuri, Tejaswini C.
+AU  - Ediga, Harshavardhana H.
+AU  - Madala, Satish K.
+AU  - Jegga, Anil G.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/1753466620971143
+DO  - 10.1177/1753466620971143
+T2  - Therapeutic Advances in Respiratory Disease
+JF  - Therapeutic Advances in Respiratory Disease
+JO  - Ther Adv Respir Dis
+SP  -1753466620971143
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Background: There are two US Food and Drug Administration (FDA)-approved drugs, pirfenidone and nintedanib, for treatment of patients with idiopathic pulmonary fibrosis (IPF). However, neither of these drugs provide a cure. In addition, both are associated with several drug-related adverse events. Hence, the pursuit for newer IPF therapeutics continues. Recent studies show that joint analysis of systems-biology-level information with drug–disease connectivity are effective in discovery of biologically relevant candidate therapeutics. Methods: Publicly available gene expression signatures from patients with IPF were used to query a large-scale perturbagen signature library to discover compounds that can potentially reverse dysregulated gene expression in IPF. Two methods were used to calculate IPF–compound connectivity: gene expression-based connectivity and feature-based connectivity. Identified compounds were further prioritized if their shared mechanism(s) of action were IPF-related. Results: We found 77 compounds as potential candidate therapeutics for IPF. Of these, 39 compounds are either FDA-approved for other diseases or are currently in phase II/III clinical trials suggesting their repurposing potential for IPF. Among these compounds are multiple receptor kinase inhibitors (e.g. nintedanib, currently approved for IPF, and sunitinib), aurora kinase inhibitor (barasertib), epidermal growth factor receptor inhibitors (erlotinib, gefitinib), calcium channel blocker (verapamil), phosphodiesterase inhibitors (roflumilast, sildenafil), PPAR agonists (pioglitazone), histone deacetylase inhibitors (entinostat), and opioid receptor antagonists (nalbuphine). As a proof of concept, we performed in vitro validations with verapamil using lung fibroblasts from IPF and show its potential benefits in pulmonary fibrosis. Conclusions: As about half of the candidates discovered in this study are either FDA-approved or are currently in clinical trials for other diseases, rapid translation of these compounds as potential IPF therapeutics is possible. Further, the integrative connectivity analysis framework in this study can be adapted in early phase drug discovery for other common and rare diseases with transcriptomic profiles. The reviews of this paper are available via the supplemental material section.
+SN - 1753-4666
+M3  - doi: 10.1177/1753466620971143
+UR  - https://doi-org.crai.referencistas.com/10.1177/1753466620971143
+Y2  - 2024/10/01
+ER  - 
+

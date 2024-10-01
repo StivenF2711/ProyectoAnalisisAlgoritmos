@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Steps Towards Scalable and Modularized Flight Software for Unmanned Aircraft Systems
+AU  - Dauer, Johann C.
+AU  - Goormann, Lukas
+AU  - Torens, Christoph
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/05/01
+N1  - doi: 10.5772/58363
+DO  - 10.5772/58363
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -81
+VL - 11
+IS - 5
+PB - SAGE Publications
+N2 - Unmanned aircraft (UA) applications impose a variety of computing tasks on the on-board computer system. From a research perspective, it is often more convenient to evaluate algorithms on bigger aircraft as they are capable of lifting heavier loads and thus more powerful computational units. On the other hand, smaller systems are often less expensive and operation is less restricted in many countries. This paper thus presents a conceptual design for flight software that can be evaluated on the UA of convenient size. The integration effort required to transfer the algorithm to different sized UA is significantly reduced. This scalability is achieved by using exchangeable payload modules and a flexible process distribution on different processing units. The presented approach is discussed using the example of the flight software of a 14 kg unmanned helicopter and an equivalent of 1.5 kg. The proof of concept is shown by means of flight performance in a hardware-in-the-loop simulation.
+SN - 1729-8806
+M3  - doi: 10.5772/58363
+UR  - https://doi-org.crai.referencistas.com/10.5772/58363
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Fatigue analysis and optimization design of key components of synthesizing equipment for artificial diamond based on a method of information exchange system
+AU  - Jia, Jiguang
+AU  - Sun, Xuan
+AU  - Chen, Zhihui
+AU  - Shang, Jin
+AU  - Liu, Ting
+Y1  - 2023/10/01
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1177/00368504231208768
+DO  - 10.1177/00368504231208768
+T2  - Science Progress
+JF  - Science Progress
+SP  -00368504231208768
+VL - 106
+IS - 4
+PB - SAGE Publications Ltd
+N2 - In this article, a method of information exchange system (MIES) has been proposed to optimize the structure of the hinge sleeve of cubic (HSC), a key component of synthetic diamond. The MIES method integrates static analysis, topology optimization, and fatigue failure analysis. By using this method, the lightweight design of the structure was ensured while meeting the fatigue life requirements. The weight of the optimized model was reduced from 5729.9 kg to 4593.4 kg, and the fatigue life was 1.127E+05, which meets the serviceability requirements. The steps of the method are as follows: First, the model of HSC was established. According to the loading conditions, the basic material data and boundary conditions were set, and the stresses and strains of the HSC were calculated. The optimized region was obtained by topological analysis of the HSC structure using the variable density method. The fatigue life of the model was then calculated by combining the stress life method and the average stress correction method. Simulations were performed using the above method to obtain the six nodes of maximum stress in the HSC. These nodes were used as control points for the structural optimization design. The HSC model was optimized by optimizing the structure in the region of the control variable points. Computational analysis of the optimized HSC model was carried out using the information exchange system. After repeated optimization of the structure of the HSC model, a model with a lightweight design was obtained. The ANSYS simulation results showed that the final mass of the HSC model was reduced by 19.83%. Stress and life were within the design requirements. The information exchange system has better computational performance, feasibility, and reliability compared to traditional theoretical methods.
+SN - 0036-8504
+M3  - doi: 10.1177/00368504231208768
+UR  - https://doi-org.crai.referencistas.com/10.1177/00368504231208768
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Internet of Medical Things–based decision system for automated classification of Alzheimer’s using three-dimensional views of magnetic resonance imaging scans
+AU  - Khan, Umair
+AU  - Ali, Armughan
+AU  - Khan, Salabat
+AU  - Aadil, Farhan
+AU  - Durrani, Mehr Yahya
+AU  - Muhammad, Khan
+AU  - Baik, Ran
+AU  - Lee, Jong Weon
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/1550147719831186
+DO  - 10.1177/1550147719831186
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719831186
+VL - 15
+IS - 3
+PB - SAGE Publications
+N2 - Internet of Medical Things is a smart provision of medical services to patients interacting with the doctors in harmony to uplift healthcare facilities. It enables the automated diagnosis of diseases for patients in remote areas. Alzheimer’s disease is one of the most chronic diseases and the main cause of dementia in human beings. Dementia affects the patient by a process of gradual degeneration of the human brain and results in an inability to perform daily routine tasks and actions. An automated system needs to be developed, to classify the subject with dementia and to determine the prodromal stage of dementia. Considering such requirement, a fully automated classification system is proposed. The proposed algorithm works on the hybrid feature vector combining the textural, statistical, and shape features extracted from three-dimensional views. The feature length is reduced using principal component analysis and relevant features are extracted for classification. The proposed algorithm is tested for both binary and multi-class problems. The method achieves the average precision of 99.2% and 99.02% for binary and multi-class classifications, respectively. The results outperform the existing methods. The algorithm showed accurate results with the average computational time of 0.05 s per magnetic resonance imaging scan.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719831186
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719831186
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Stimuli-responsive shell theory
+AU  - Lee, Jeong-Ho
+AU  - Park, Harold S.
+AU  - Holmes, Douglas P.
+Y1  - 2023/05/15
+PY  - 2024
+DA  - 2024/06/01
+N1  - doi: 10.1177/10812865231159676
+DO  - 10.1177/10812865231159676
+T2  - Mathematics and Mechanics of Solids
+JF  - Mathematics and Mechanics of Solids
+SP  -1089
+EP - 1124
+VL - 29
+IS - 6
+PB - SAGE Publications Ltd STM
+N2 - Soft matter mechanics generally involve finite deformations and instabilities of structures in response to a wide range of mechanical and non-mechanical stimuli. Modeling plates and shells is generally a challenge due to their geometrically nonlinear response to loads; however, non-mechanical loads further complicate matters as it is often not clear how they modify the shell’s energy functional. In this work, we demonstrate how to form a mechanical interpretation of these non-mechanical stimuli, in which the standard shell strain energy can be augmented with potentials corresponding to how a non-mechanical stimulus acts to change the shell’s area and curvature via the natural stretch and curvature. As a result, the effect of non-mechanical stimuli to deform shells is transformed into effective external loadings, and this framework allows for the application of analytical and computational tools that are standard within the mechanics community. Furthermore, we generalize the effect of mass change during biological growth to account for its effect on the stress constitution. The theory is formulated based on a standard, stress-free reference configuration which is known a priori, meaning it can be physically observed, and only requires the solution of a single-field equation, the standard mechanical momentum or equilibrium equation, despite capturing the effects of non-mechanical stimuli. We validate the performance of this model by several benchmark problems, and finally, we apply it to complex examples, including the snapping of the Venus flytrap, leaf growth, and the buckling of electrically active polymer plates. Overall, we expect that mechanicians and non-mechanicians alike can use the approach presented here to quickly modify existing computational tools with effective external loadings calculated in this novel theory to study how various types of non-mechanical stimuli impact the mechanics and physics of thin shell structures.
+SN - 1081-2865
+M3  - doi: 10.1177/10812865231159676
+UR  - https://doi-org.crai.referencistas.com/10.1177/10812865231159676
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Three-Dimensional Path Planning of Robots in Virtual Situations Based on an Improved Fruit Fly Optimization Algorithm
+AU  - Li, Munan
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/314797
+DO  - 10.1155/2014/314797
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -314797
+VL - 6
+PB - SAGE Publications
+N2 - The fruit fly optimization algorithm (FOA) is one of the latest nature-inspired computational models. It has the advantages of having a simple mechanism, fewer control variables, and a fast convergence. However, most applications of the FOA focus on optimization problems in a continuous space. Three-dimensional path planning is a typical discrete optimization problem and can be attributed to multivariable and multiobjective optimization computations. In this paper, we advance an improved FOA model (IFOA) based on engineering techniques. This model is then used to solve for the three-dimensional (3D) path planning of a robot. In a simulation experiment conducted in a virtual three-dimensional space, the IFOA was shown to have a certain capability for three-dimensional path planning. Although the accuracy of the IFOA seems slightly weaker than that of ant colony optimization (ACO), the IFOA may confer time savings of 25% and has greater efficiency. Therefore, this new model still provides a novel and valuable means for solving such discrete optimization problems.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/314797
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/314797
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analysis and implementation of a drag-type vertical-axis wind turbine for small distributed wind energy systems
+AU  - Li, Zheng
+AU  - Han, Ruihua
+AU  - Gao, Peifeng
+AU  - Wang, Caisheng
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/1687814019825709
+DO  - 10.1177/1687814019825709
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814019825709
+VL - 11
+IS - 1
+PB - SAGE Publications
+N2 - This article investigates a drag-type vertical-axis wind turbine that is targeted for small-scale wind energy system applications. Based on aerodynamics models, the three-dimensional simulation studies have been carried out to obtain the force distributions along blades and eventually the torque and power coefficients for different vertical-axis wind turbine configurations. An optimal vertical-axis wind turbine configuration is chosen based on the comparative analysis, and a 2 kW prototype system has been implemented based on the design. The effectiveness of the three-dimensional models and simulation results has been verified by the measured data from the actual vertical-axis wind turbine system. The wake impacts to the vertical-axis wind turbine caused by nearby objects are also analyzed. The simulation results and the actual operation experiences show that the proposed system has the characteristics of low cut-in speed, high power density, and robustness to adjacent objects (such as buildings and other wind turbines), which make it suitable for small-scale wind energy systems in populated areas including urban environment.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814019825709
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814019825709
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Affective Polarization of a Protest and a Counterprotest: Million MAGA March v. Million Moron March
+AU  - Shahin, Saif
+Y1  - 2022/05/26
+PY  - 2023
+DA  - 2023/05/01
+N1  - doi: 10.1177/00027642221091212
+DO  - 10.1177/00027642221091212
+T2  - American Behavioral Scientist
+JF  - American Behavioral Scientist
+SP  -735
+EP - 756
+VL - 67
+IS - 6
+PB - SAGE Publications Inc
+N2 - Protest movements around the world have become increasingly likely to incite counterprotests that adopt an opposing stance. This study examines how a protest and a counterprotest interact with and shape each other as digitally networked connective action. My empirical focus is the so-called Million MAGA March—in which supporters of U.S. President Donald Trump protested the “stealing” of the November 2020 election by his rival, Joe Biden—and a counterprotest that erupted simultaneously. Drawing on a computational mixed-methods approach to examine two corpora of tweets featuring hashtags used by protesters and counterprotesters, respectively, the study identifies three mutually reinforcing dimensions of protest–counterprotest interaction: affective repertoires, discursive strategies, and network structures. It argues that “affective polarization”—or negative partisanship driven by hostility toward an outgroup—offers a useful conceptual means of understanding the significance of affect and collective identity in digital social movements, especially protest–counterprotest interactions. In doing so, the study also addresses concerns that “big data” methods are insensitive to the role of identity and expressive communication in social movements. Finally, the study demonstrates how online and offline political action are mutually constitutive aspects of contemporary contentious politics.
+SN - 0002-7642
+M3  - doi: 10.1177/00027642221091212
+UR  - https://doi-org.crai.referencistas.com/10.1177/00027642221091212
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Theoretical research of hydraulic turbine performance based on slip factor within centripetal impeller
+AU  - Shi, Guangtai
+AU  - Liu, Xiaobing
+AU  - Yang, Junhu
+AU  - Miao, Senchun
+AU  - Li, Jicheng
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - doi: 10.1177/1687814015593864
+DO  - 10.1177/1687814015593864
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015593864
+VL - 7
+IS - 7
+PB - SAGE Publications
+N2 - The impeller of hydraulic turbine is a kind of centripetal impeller. The slip phenomenon within centripetal impeller is different with centrifugal impeller. In this study, the velocity distribution and the flow form of fluid within centripetal impeller are analyzed, the slip factor within centripetal impeller is calculated, and the basic energy equation of hydraulic turbine is deduced when the slip within centripetal impeller is considered. The results of theoretical calculation, the results of experiment, and the results of computational fluid dynamics calculation are compared. The formula of slip factor within centripetal impeller is obtained, and the relative error between the results of theoretical calculation using the formula and experimental data is less than 5%. The effect factors of slip factor have entrance diameter of centripetal impeller, blade numbers, entrance and outlet blade angles, rotating speed of centripetal impeller, and flow rate.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015593864
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015593864
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A principle of economy in derivation in L2 grammar: Do everything in narrow syntax
+AU  - Wakabayashi, Shigenori
+Y1  - 2019/11/26
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1177/0267658319879969
+DO  - 10.1177/0267658319879969
+T2  - Second Language Research
+JF  - Second Language Research
+SP  -521
+EP - 545
+VL - 37
+IS - 4
+PB - SAGE Publications Ltd
+N2 - This article proposes a novel account for the overuse of free morphemes and underuse of bound morphemes in English as a second language (L2) based on the framework of Distributed Morphology. It will be argued that an Economy Principle ‘Do everything in Narrow Syntax (DENS)’ operates in the L2 learner’s computational system. Consequently, derivation in Morphology becomes as limited as possible except when applying Vocabulary Items to syntactic objects (Vocabulary Insertion). This results in non-target-like use/acceptance of certain morphemes: Bound morphemes are often omitted in early L2 grammar, and alternative free morphemes may apparently be used instead. Two types of data, namely the overuse of be reported in previous research, and the preference of to-infinitives over -ing gerunds in early L2 grammar, will be presented in support of the proposal, and the plausibility of the operation of DENS will be discussed.
+SN - 0267-6583
+M3  - doi: 10.1177/0267658319879969
+UR  - https://doi-org.crai.referencistas.com/10.1177/0267658319879969
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Approach to Predict Core Residues on Cancer-Related DNA-Binding Domains
+AU  - Wong, Ka-Chun
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.4137/CIN.S39366
+DO  - 10.4137/CIN.S39366
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S39366
+VL - 15s2
+PB - SAGE Publications Ltd STM
+N2 - Protein–DNA interactions are involved in different cancer pathways. In particular, the DNA-binding domains of proteins can determine where and how gene regulatory regions are bound in different cell lines at different stages. Therefore, it is essential to develop a method to predict and locate the core residues on cancer-related DNA-binding domains. In this study, we propose a computational method to predict and locate core residues on DNA-binding domains. In particular, we have selected the cancer-related DNA-binding domains for in-depth studies, namely, winged Helix Turn Helix family, homeodomain family, and basic Helix-Loop-Helix family. The results demonstrate that the proposed method can predict the core residues involved in protein–DNA interactions, as verified by the existing structural data. Given its good performance, various aspects of the method are discussed and explored: for instance, different uses of prediction algorithm, different protein domains, and hotspot threshold setting.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S39366
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S39366
+Y2  - 2024/10/01
+ER  - 
+

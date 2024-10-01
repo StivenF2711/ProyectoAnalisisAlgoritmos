@@ -1,0 +1,232 @@
+TY  - JOUR
+T1  - Modeling Signal Transduction from Protein Phosphorylation to Gene Expression
+AU  - Cai, Chunhui
+AU  - Chen, Lujia
+AU  - Jiang, Xia
+AU  - Lu, Xinghua
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CIN.S13883
+DO  - 10.4137/CIN.S13883
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S13883
+VL - 13s1
+PB - SAGE Publications Ltd STM
+N2 - Background Signaling networks are of great importance for us to understand the cell’s regulatory mechanism. The rise of large-scale genomic and proteomic data, and prior biological knowledge has paved the way for the reconstruction and discovery of novel signaling pathways in a data-driven manner. In this study, we investigate computational methods that integrate proteomics and transcriptomic data to identify signaling pathways transmitting signals in response to specific stimuli. Such methods can be applied to cancer genomic data to infer perturbed signaling pathways. Method We proposed a novel Bayesian Network (BN) framework to integrate transcriptomic data with proteomic data reflecting protein phosphorylation states for the purpose of identifying the pathways transmitting the signal of diverse stimuli in rat and human cells. We represented the proteins and genes as nodes in a BN in which edges reflect the regulatory relationship between signaling proteins. We designed an efficient inference algorithm that incorporated the prior knowledge of pathways and searched for a network structure in a data-driven manner. Results We applied our method to infer rat and human specific networks given gene expression and proteomic datasets. We were able to effectively identify sparse signaling networks that modeled the observed transcriptomic and proteomic data. Our methods were able to identify distinct signaling pathways for rat and human cells in a data-driven manner, based on the facts that rat and human cells exhibited distinct transcriptomic and proteomics responses to a common set of stimuli. Our model performed well in the SBV IMPROVER challenge in comparison to other models addressing the same task. The capability of inferring signaling pathways in a data-driven fashion may contribute to cancer research by identifying distinct aberrations in signaling pathways underlying heterogeneous cancers subtypes.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S13883
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S13883
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Covid-19 Protesters and the Far Right on Telegram: Co-Conspirators or Accidental Bedfellows?
+AU  - Curley, Cliona
+AU  - Siapera, Eugenia
+AU  - Carthy, Joe
+Y1  - 2022/10/01
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1177/20563051221129187
+DO  - 10.1177/20563051221129187
+T2  - Social Media + Society
+JF  - Social Media + Society
+SP  -20563051221129188
+VL - 8
+IS - 4
+PB - SAGE Publications Ltd
+N2 - The COVID-19 pandemic led to the creation of a new protest movement, positioned against government lockdowns, mandatory vaccines, and related measures. Efforts to control misinformation by digital platforms resulted in take downs of key accounts and posts. This led some of these protest groups to migrate to platforms with less stringent content moderation policies, such as Telegram. Telegram has also been one of the destinations of the far right, whose deplatforming from mainstream platforms began a few years ago. Given the co-existence of these two movements on Telegram, the article examines their connections. Empirically, the article focused on Irish Telegram groups and channels, identifying relevant protest movements and collecting their posts. Using computational social science methods, we examine whether far-right terms and discourses are present and how this varies across different clusters of Telegram Covid-19 protest groups. In addition, we examine which actors are posting far-right content and what kind of roles they play in the network of Telegram groups. The findings indicate the presence of far-right discourses among the COVID-19 groups. However, the existence of these groups was not solely driven by the extreme right, and the incidence of far-right discourses was not equal across all COVID-19 protest groups. We interpret these findings under the prism of the mediation opportunity structure: while the far right appears to have taken advantage of the network opportunity structure afforded by deplatforming and the migration to Telegram, it did not succeed in diffusing its ideas widely among the COVID-19 protest groups in the Irish Telegram.
+SN - 2056-3051
+M3  - doi: 10.1177/20563051221129187
+UR  - https://doi-org.crai.referencistas.com/10.1177/20563051221129187
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Domino Effect: An Empirical Exposition of Systemic Risk Across Project Networks
+AU  - Ellinas, Christos
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1111/poms.12890
+DO  - 10.1111/poms.12890
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+SP  -63
+EP - 81
+VL - 28
+IS - 1
+PB - SAGE Publications
+N2 - Activity network analysis is a widely used tool for managing project risk. Traditionally, this type of analysis is used to evaluate task criticality by assuming linear cause‐and‐effect phenomena, where the size of a local failure (e.g., task delay) dictates its possible global impact (e.g., project delay). Motivated by the question of whether activity networks are subject to nonlinear cause‐and‐effect phenomena, a computational framework is developed and applied to real‐world project data to evaluate project systemic risk. Specifically, project systemic risk is viewed as the result of a cascading process which unravels across an activity network, where the failure of a single task can consequently affect its immediate, downstream task(s). As a result, we demonstrate that local failures are capable of triggering failure cascades of intermittent sizes. In turn, a modest local disruption can fuel exceedingly large, systemic failures. In addition, the probability for this to happen is much higher than anticipated. A systematic examination of why this is the case is subsequently performed, with results attributing the emergence of large‐scale failures to topological and temporal features of activity networks. Finally, local mitigation is assessed in terms of containing these failures cascades – results illustrate that this form of mitigation is both ineffective and insufficient. Given the ubiquity of our findings, our work has the potential of deepening our current theoretical understanding on the causal mechanisms responsible for large‐scale project failures.
+SN - 1059-1478
+M3  - doi: 10.1111/poms.12890
+UR  - https://doi-org.crai.referencistas.com/10.1111/poms.12890
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Review of Cyber-Physical System in Healthcare
+AU  - Haque, Shah Ahsanul
+AU  - Aziz, Syed Mahfuzul
+AU  - Rahman, Mustafizur
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - doi: 10.1155/2014/217415
+DO  - 10.1155/2014/217415
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -217415
+VL - 10
+IS - 4
+PB - SAGE Publications
+N2 - Cyber-physical system (CPS) is an integration of physical processes with computation and communication. It has the ability to add more intelligence to social life. Wireless sensor networks (WSN) can be a vital part of CPS as strong sensing capability is one of the major driving factors for CPS applications. CPS is still considered to be a nascent technology, and there are many challenges yet to be addressed. A few CPS applications in healthcare have been proposed to date, and they lack the flexibility of technology integration, such as integration of computing resources with sensor networks. This paper presents a survey of CPS in healthcare applications that have been proposed to date by academia as well as industry. A comprehensive taxonomy is also provided that characterizes and classifies different components and methods that are required for the application of CPS in healthcare. The taxonomy not only highlights the similarities and differences of the state-of-the-art technologies utilized in CPS for healthcare from the perspective of WSN and Cloud Computing but also identifies the areas that require further research. It is expected that this taxonomy and its mapping to relevant systems will be highly useful for further development of CPS for healthcare.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/217415
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/217415
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Ownership Structure and Bank Performance in Emerging Market Economy: Evidence From Nigerian Listed Deposit Money Banks
+AU  - Nwude, Emmanuel Chuke
+AU  - Zakirai, Musa Sani
+AU  - Nwude, Comfort Amaka
+Y1  - 2023/10/01
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1177/21582440231219382
+DO  - 10.1177/21582440231219382
+T2  - Sage Open
+JF  - Sage Open
+SP  -21582440231219384
+VL - 13
+IS - 4
+PB - SAGE Publications
+N2 - In the emerging market economies the influencing power of different strands of ownership structure and ownership concentration on the risk-adjusted returns on assets and equity, dividend yield, earnings, and cost-to income ratio of listed deposit money banks has not been thoroughly investigated. The diminutive research and equivocal findings of previous studies on this subject create grounds for further investigation. Therefore, the aim of this study is to investigate the extent to which these three constructs relate in listed deposit money banks an emerging market economy, Nigeria. Panel data multiple regressions were applied to data extracted from the annual reports from 2009 to 2020 to test the six hypotheses. The results indicate that the disaggregated ownership structure and concentrated ownership relate positively and significantly to the bank performance indices, thereby supporting convergence of owners and managers interests which reduces the agency problems and increases the financial performance of firms. The novelty of this study is the introduction of new indices for measuring performance, ownership structure and concentration which are total departure from the usual method in both emerging and developed market economies. Further research can be extended in other economies using the same computational methods.
+SN - 2158-2440
+M3  - doi: 10.1177/21582440231219382
+UR  - https://doi-org.crai.referencistas.com/10.1177/21582440231219382
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical study on the flow characteristics in swirl meter
+AU  - Qi, Liu
+AU  - Zhe, Lin
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1177/0020294019827334
+DO  - 10.1177/0020294019827334
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -183
+EP - 192
+VL - 52
+IS - 3–4
+PB - SAGE Publications Ltd
+N2 - The swirl meter (vortex precession flow meter) popularly used in natural gas industry is a kind of velocity flow meter with high turndown ratio and well performance in low flow measurement and other known advantages. In order to further understand the flow pattern of swirl meter to further improve its performance, computational fluid dynamics simulations are used to simulate the flow and predict the coefficient for swirl meter at different flow rates. Using renormalization group k–ε turbulent model and SIMPLEC algorithm, numerical simulations have been performed through commercial codes Fluent, and meter coefficients are also obtained experimentally to validate the numerical results. The simulated velocity and pressure in swirl meter are analyzed in detail, which are time-averaged distributions during a time period based on the transient numerical simulation. It is found that centerline pressure is lowest at the outlet of the swirler and rises gradually along the axial direction. While near-wall pressure presents an opposite variation tendency, it is significantly low at the end of throat due to strong influence of vortex precession. Centerline velocity increases as the flow approaches throat and reaches its maximum at center region of throat, and then it decreases and keeps relatively stable at downstream of divergent section. Both time-averaged pressure and axial velocity distributions are axisymmetric, and pressure variation is small on the cross section at the end of throat, although vortex precession is strong.
+SN - 0020-2940
+M3  - doi: 10.1177/0020294019827334
+UR  - https://doi-org.crai.referencistas.com/10.1177/0020294019827334
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Screening Analogs of β-OG Pocket Binder as Fusion Inhibitor of Dengue Virus 2
+AU  - Tambunan, Usman S.F.
+AU  - Zahroh, Hilyatuz
+AU  - Parikesit, Arli A.
+AU  - Idrus, Syarifuddin
+AU  - Kerami, Djati
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.4137/DTI.S31566
+DO  - 10.4137/DTI.S31566
+T2  - Drug Target Insights
+JF  - Drug Target Insights
+JO  - Drug Target�Insights
+SP  -DTI.S31566
+VL - 9
+PB - SAGE Publications Ltd STM
+N2 - Dengue is an infectious disease caused by dengue virus (DENV) and transmitted between human hosts by mosquitoes. Recently, Indonesia was listed as a country with the highest cases of dengue by the Association of Southeast Asian Nations. The current treatment for dengue disease is supportive therapy; there is no antiviral drug available in the market against dengue. Therefore, a research on antiviral drug against dengue is very important, especially to prevent outbreak explosion. In this research, the development of dengue antiviral is performed through the inhibition of n-octyl-β-D-glucoside (β-OG) binding pocket on envelope protein of DENV by using analogs of β-OG pocket binder. There are 828 compounds used in this study, and all of them were screened based on the analysis of molecular docking, pharmacological character prediction of the compounds, and molecular dynamics simulation. The result of these analyses revealed that the compound that can be used as an antiviral candidate against DENV is 5-(3,4-dichlorophenyl)-N-[2-(p-tolyl) benzotriazol-5-yl]furan-2-carboxamide.
+SN - 1177-3928
+M3  - doi: 10.4137/DTI.S31566
+UR  - https://doi-org.crai.referencistas.com/10.4137/DTI.S31566
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analyzing multiday route choice behavior of commuters using GPS data
+AU  - Tang, Wenyun
+AU  - Cheng, Lin
+Y1  - 2016/02/01
+PY  - 2016
+DA  - 2016/02/01
+N1  - doi: 10.1177/1687814016633030
+DO  - 10.1177/1687814016633030
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814016633030
+VL - 8
+IS - 2
+PB - SAGE Publications
+N2 - In this study, accurate global position system and geographic information system data were employed to reveal multiday routes people used and to study multiday route choice behavior for the same origin–destination trips, from home to work. A new way of thinking about route choice modeling is provided in this study. Travelers are classified into three kinds based on the deviation between actual routes and the shortest travel time paths. Based on the classification, a two-stage route choice process is proposed, in which the first step is to classify the travelers and the second one is to model route choice behavior. After analyzing the characteristics of different types of travelers, an artificial neural network was adopted to classify travelers and model route choice behavior. An empirical study using global position systems data collected in Minneapolis–St Paul metropolitan area was carried out. It finds that most travelers follow the same route during commute trips on successive days. And different types of travelers have a significant difference in route choice property. The modeling results indicate that neural network framework can classify travelers and model route choice well.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814016633030
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814016633030
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Situated Affectivity and Mind Shaping: Lessons from Social Psychology
+AU  - Walter, Sven
+AU  - Stephan, Achim
+Y1  - 2022/07/13
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/17540739221112419
+DO  - 10.1177/17540739221112419
+T2  - Emotion Review
+JF  - Emotion Review
+SP  -3
+EP - 16
+VL - 15
+IS - 1
+PB - SAGE Publications
+N2 - Proponents of situated affectivity hold that “tools for feeling” are just as characteristic of the human condition as are “tools for thinking” or tools for carpentry. An agent’s affective life, they argue, is dependent upon both physical characteristics of the agent and the agent’s reciprocal relationship to an appropriately structured natural, technological, or social environment. One important achievement has been the distinction between two fundamentally different ways in which affectivity might be intertwined with the environment: the “user-resource-model” and the “mind-invasion-model.” The twofold purpose of this paper is to complement the debate about situated affectivity in general and about “mind invasion” in particular by, firstly, connecting it to situationist research in social psychology and, secondly, broadening the perspective to not only accommodate decidedly detrimental “invasions” but also potentially beneficial forms of “mind shaping” that include the manipulation of an agent’s experiential life and behaviour through the moulding of both the agent’s environment and the agent’s body.
+SN - 1754-0739
+M3  - doi: 10.1177/17540739221112419
+UR  - https://doi-org.crai.referencistas.com/10.1177/17540739221112419
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive fuzzy finite-time output feedback fault-tolerant control for MIMO stochastic nonlinear systems with non-affine nonlinear faults
+AU  - Yue, Hongyun
+AU  - Xue, Arong
+AU  - Li, Junmin
+Y1  - 2024/03/17
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1177/14613484241238595
+DO  - 10.1177/14613484241238595
+T2  - Journal of Low Frequency Noise, Vibration and Active Control
+JF  - Journal of Low Frequency Noise, Vibration and Active Control
+SP  -1312
+EP - 1338
+VL - 43
+IS - 3
+PB - SAGE Publications Ltd STM
+N2 - This paper investigates adaptive fuzzy finite-time output feedback fault-tolerant tracking control problem for multiple-input multiple-output (MIMO) stochastic non-strict feedback nonlinear systems with non-affine nonlinear faults and states unmeasured. Firstly, high-gain fuzzy state observers are constructed to overcome the state unmeasured problem in the system. Secondly, the mean-value theorem and input compensation techniques are employed to decouple non-affine nonlinear faults, and the resulting unknown control coefficients problem is handled using Nussbaum functions. In addition, dynamic surface control techniques and error compensation mechanisms are considered in the controller design, which effectively decreases the computational complexity of the control scheme. By combining the adaptive backstepping technique with finite-time control, a novel adaptive fuzzy dynamic surface finite-time output feedback fault-tolerant tracking control algorithm is proposed. The designed controller guarantees that all signals in the stochastic systems are semi-global finite-time stable in probability (SGFSP) as well as the tracking errors can converge to a small neighborhood within the origin in finite-time. Finally, two simulation examples are introduced to verify the effectiveness of the suggested control strategy.
+SN - 1461-3484
+M3  - doi: 10.1177/14613484241238595
+UR  - https://doi-org.crai.referencistas.com/10.1177/14613484241238595
+Y2  - 2024/10/01
+ER  - 
+

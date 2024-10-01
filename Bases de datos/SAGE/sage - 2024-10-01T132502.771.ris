@@ -1,0 +1,252 @@
+TY  - JOUR
+T1  - Fuzzy predictive Stanley lateral controller with adaptive prediction horizon
+AU  - Abdelmoniem, Ahmed
+AU  - Ali, Abdullah
+AU  - Taher, Youssef
+AU  - Abdelaziz, Mohamed
+AU  - Maged, Shady A.
+Y1  - 2023/03/31
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1177/00202940231165257
+DO  - 10.1177/00202940231165257
+T2  - Measurement and Control
+JF  - Measurement and Control
+SP  -1510
+EP - 1522
+VL - 56
+IS - 9–10
+PB - SAGE Publications Ltd
+N2 - The challenge of trajectory tracking of autonomous vehicles (AVs) is a critical aspect that must be effectively addressed. Recent studies are concerned with maintaining the yaw stability to guarantee the customers’ comfort throughout the journey. Most of the geometrical controllers solve this task by dividing it into consecutive point stabilization problems, limiting the controllers’ ability to handle sudden trajectory changes. One research presented a predictive Stanley lateral controller that uses a discrete prediction model to mimic human behavior by anticipating the vehicle’s future states. That controller is limited in its use, as the parameters must be manually tuned for every change in the maneuver or vehicle velocity. This article presents a novel approach for trajectory tracking in autonomous vehicles, by introducing a fuzzy supervisory controller that automatically adapts to changes in the vehicle’s velocity and maneuver by estimating the prediction horizon’s length and providing different weights for each controller. The proposed method overcomes the limitations of traditional controllers that require manual tuning of parameters, making it ready for real-world experiments. This is the main contribution of the research in this paper. The suggested technique demonstrated an advantage over the Basic Stanley controller and the manually tuned predictive Stanley controller in terms of the total lateral error and the model predictive control (MPC) in terms of computational time. The performance is determined by performing various simulations on V-Rep and hardware-in-the-loop (HIL) experiments on an E-CAR golf bus. A broad selection of velocities is used to validate the behavior of the vehicle while working on different maneuvers (double lane change, hook road, S road, and curved road).
+SN - 0020-2940
+M3  - doi: 10.1177/00202940231165257
+UR  - https://doi-org.crai.referencistas.com/10.1177/00202940231165257
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The prediction of autonomous vehicle occupants’ pre-crash motion during emergency braking scenarios
+AU  - Diederich, Alexander
+AU  - Bastien, Christophe
+AU  - Blundell, Mike
+Y1  - 2023/02/12
+PY  - 2023
+DA  - 2023/12/01
+N1  - doi: 10.1177/09544070231153262
+DO  - 10.1177/09544070231153262
+T2  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+JF  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+SP  -3304
+EP - 3312
+VL - 237
+IS - 14
+PB - IMECHE
+N2 - This research investigates a computational method, which can assist the development of occupants’ passive safety in future autonomous vehicles, more particularly in the definition of head kinematics in rotated seat arrangement during emergency braking. To capture these head motions, the methodology utilised an Active Human Model, whose head kinematics were validated in a previous work in three-point and lap-belt restraint configuration scenarios. A sled model was then built where the seat backrest angle (SBA) and the seat orientation, modelled by rotating the acceleration angle (AA), could be adjusted to represent various ‘living room’ seating conditions. A Design of Experiments study was then performed by varying AA from 0° to 360° in steps of 22.5° and SBA from 20° to 60° in steps of 8°. The responses were subsequently converted into a Reduced Order Model (ROM), which was then successfully validated through a comparison with the kinematic responses predicted with simulations. In terms of simulation time, it was found that the ROM was able to calculate the head kinematics in 3 s instead of the 1.5 h taken using Simcenter Madymo, without compromising predicted responses accuracy. This research has provided a unique method to define head kinematics corridors for seated occupants in autonomous vehicle interiors, including maximum head excursion, head kinematics as a function of time and define for the first time (a) the safe “or’ but not both head envelope within the cabin interior, and (b) capture the seated scenarios where head proximity to airbag systems could be of concern, following emergency braking.
+SN - 0954-4070
+M3  - doi: 10.1177/09544070231153262
+UR  - https://doi-org.crai.referencistas.com/10.1177/09544070231153262
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Metatranscriptomics Analysis Reveals Diverse Viral RNA in Cutaneous Papillomatous Lesions of Cattle
+AU  - Fernandes, Adriana O.
+AU  - Barros, Gerlane S.
+AU  - Batista, Marcus VA
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/11769343221083960
+DO  - 10.1177/11769343221083960
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -11769343221083960
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Bovine papillomavirus (BPV) is associated with bovine papillomatosis, a disease that forms benign warts in epithelial tissues, as well as malignant lesions. Previous studies have detected a co-infection between BPV and other viruses, making it likely that these co-infections could influence disease progression. Therefore, this study aimed to identify and annotate viral genes in cutaneous papillomatous lesions of cattle. Sequences were obtained from the GEO database, and an RNA-seq computational pipeline was used to analyze 3 libraries from bovine papillomatous lesions. In total, 25 viral families were identified, including Poxviridae, Retroviridae, and Herpesviridae. All libraries shared similarities in the viruses and genes found. The viral genes shared similarities with BPV genes, especially for functions as virion entry pathway, malignant progression by apoptosis suppression and immune system control. Therefore, this study presents relevant data extending the current knowledge regarding the viral microbiome in BPV lesions and how other viruses could affect this disease.
+SN - 1176-9343
+M3  - doi: 10.1177/11769343221083960
+UR  - https://doi-org.crai.referencistas.com/10.1177/11769343221083960
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Potential relation of cardiovascular risk factors to disease activity in patients with axial spondyloarthritis
+AU  - AU  - Ferraz-Amaro, Iván
+AU  - Rueda-Gotor, Javier
+AU  - Genre, Fernanda
+AU  - Corrales, Alfonso
+AU  - Blanco, Ricardo
+AU  - Portilla, Virginia
+AU  - González Mazón, Iñigo
+AU  - Llorca, Javier
+AU  - Expósito, Rosa
+AU  - Vicente, Esther F.
+et al.
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/1759720X211033755
+DO  - 10.1177/1759720X211033755
+T2  - Therapeutic Advances in Musculoskeletal Disease
+JF  - Therapeutic Advances in Musculoskeletal Disease
+JO  - Therapeutic Advances in Musculoskeletal
+SP  -1759720X211033755
+VL - 13
+PB - SAGE Publications
+N2 - Background: Axial spondyloarthritis (axSpA) patients are known to have a higher prevalence of several comorbidities, including, among others, an increased risk of atherosclerosis, hypertension, dyslipidemia, and diabetes. The purpose of the present study was to determine whether the sum of traditional cardiovascular (CV) risk factors is related to disease characteristics, such as disease activity, in patients with axSpA. Methods: A cross-sectional study that encompassed 804 patients with axSpA was conducted. Patients were assessed for the presence of five traditional CV risk factors (diabetes mellitus, dyslipidemia, hypertension, obesity, and smoking status), and disease activity measurements. A multivariable regression analysis was performed to evaluate whether the number of classic CV risk factors was independently associated with specific features of the disease, to include disease activity. Results: A multivariable analysis showed that Ankylosing Spondylitis Disease Activity Score–C reactive protein (ASDAS-CRP) activity score was significantly higher in patients with 1 [beta coefficient 0.3 (95% confidence interval (CI) 0.1–0.5), p = 0.001] and ⩾2 [beta coefficient 0.5 (95% CI 0.3–0.7), p = 0.000] CV risk factors compared with those without CV risk factors. Similarly, patients with 1 [OR 2.00 (95%CI 0.99–4.02), p = 0.053] and ⩾2 [OR 3.39 (95%CI 1.82–6.31), p = 0.000] CV risk factors had a higher odds ratio for the presence of high disease activity compared with the zero CV category. The Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) activity score was significantly associated with the number of CV risk factors, being higher in patients with more CV risk factors. These relationships showed a CV risk factor-dependent effect being beta coefficients and ORs higher for the effect of ⩾2 over 1 CV risk factor. Conclusion: Among patients with axSpA, as the number of traditional CV risk factors increased, disease activity similarly increases in an independent manner.
+SN - 1759-720X
+M3  - doi: 10.1177/1759720X211033755
+UR  - https://doi-org.crai.referencistas.com/10.1177/1759720X211033755
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The reliability-based design and optimization procedures for a heavy-duty pallet system
+AU  - Li, Jiannan
+AU  - Wang, Brad Jianhe
+AU  - Zhou, Junwen
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1687814017751752
+DO  - 10.1177/1687814017751752
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017751752
+VL - 10
+IS - 1
+PB - SAGE Publications
+N2 - Shipping heavy-duty goods or equipment is being a new sector recently, and the pallet is rather important. In this article, a comparison of various materials revealed that laminated veneer lumber was ideal for heavy-duty packaging industry. For various pallets with random parameters, a hybrid reliability optimization design method was proposed, which aimed to provide an effective computational tool for reliability design of pallet system. With first-order second-moment method, the separation and combination of component and system failure probabilities were obtained. Several case studies were included to illustrate the computational procedures, as well as to discuss the effects of dimension and quantity of members. Using design of experiment method, the sensitivities of each parameter were significant, and the optimization of whole system was realized. To reduce the cost, recycling and standardization were worth considering in the future.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017751752
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017751752
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Exploratory data analysis on large data sets: The example of salary variation in Spanish Social Security Data
+AU  - Nicodemo, Catia
+AU  - Satorra, Albert
+Y1  - 2020/09/09
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1177/2340944420957335
+DO  - 10.1177/2340944420957335
+T2  - BRQ Business Research Quarterly
+JF  - BRQ Business Research Quarterly
+SP  -283
+EP - 294
+VL - 25
+IS - 3
+PB - SAGE Publications
+N2 - New challenges arise in data visualization when the research involves a sizable database. With many data points, classical scatterplots are non-informative due to the cluttering of points. On the contrary, simple plots, such as the boxplot that are of limited use in small samples, offer great potential to facilitate group comparison in the case of an extensive sample. This article presents exploratory data analysis methods useful for inspecting variation across groups in crucial variables and detecting heterogeneity. The exploratory data analysis methods (introduced by Tukey in his seminal book of 1977) encompass a set of statistical tools aimed to extract information from data using simple graphical tools. In this article, some of the exploratory data analysis methods like the boxplot and scatterplot are revisited and enhanced using modern graphical computational devices (as, for example, the heat-map) and their use illustrated with Spanish Social Security data. We explore how earnings vary across several factors like age, gender, type of occupation, and contract, and in particular, the gender gap in salaries is visualized in various dimensions relating to the type of occupation. The exploratory data analysis methods are also applied to assessing and refining competing regressions by plotting residuals-versus-fitted values. The methods discussed should be useful to researchers to assess heterogeneity in data, across-group variation, and classical diagnostic plots of residuals from alternative models fits. JEL CLASSIFICATION: C55; J01; J08; Y10; C80
+SN - 2340-9444
+M3  - doi: 10.1177/2340944420957335
+UR  - https://doi-org.crai.referencistas.com/10.1177/2340944420957335
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - In Silico Investigation of Aporphine Alkaloids Isolated From Magnolia coriacea Against α-Glucosidase and Tyrosine Phosphatase 1B
+AU  - AU  - Ninh, Pham Thi
+AU  - Bui, Thanh Q.
+AU  - Dung, Nguyen Thi
+AU  - Sung, Tran Van
+AU  - Phuong Thao, Tran Thi
+AU  - Thu Ha, Chu Thi
+AU  - Thanh, Bui Van
+AU  - Chien, Tran Van
+AU  - Quy, Phan Tu
+AU  - Triet, Nguyen Thanh
+et al.
+Y1  - 2023/07/01
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1177/1934578X231176926
+DO  - 10.1177/1934578X231176926
+T2  - Natural Product Communications
+JF  - Natural Product Communications
+SP  -1934578X231176926
+VL - 18
+IS - 7
+PB - SAGE Publications Inc
+N2 - Objective Magnolia coriacea is a rare species of Magnoliaceae and categorized as critically endangered, yet known for its valuable pharmaceutical properties. Phytochemical study of the plant was carried out, and the isolated compounds were subjected to different computational platforms to predict their chemical, inhibitory, physicochemical, and pharmacological properties. Methods M coriacea dried twig or leaf powder was partially extracted with n-hexane, ethyl acetate, and 90% methanol to produce the corresponding extracts, which were subjected to column chromatography. The isolated compounds were identified by nuclear magnetic resonance (NMR) spectroscopic and electrospray ionization mass spectrometry (ESI-MS) methods. Results Eight known aporphine alkaloids were isolated, (+)-glaucine N-oxide (1), N-methyl glaucine acetate (2), (+)-(S)-glaucine (3), magnoflorine (4), pontevedrine (5), O-methylatheroline (6), 7-hydroxydehydroglaucine (7), and mangochinine acetate (8). Quantum-based calculations found no abnormal structural constraints and suggested 2, 4, and 8 as the most promising inhibitors of protein structures in general with intensive nucleophilic reactive sites at their nitrogen atoms. Classical-based docking simulation agrees with this with respect to 3W37 (docking score [DS] < −12 kcal·mol−1) and PTP1B (DS ca −13 kcal·mol−1) structures. The biocompatibility and pharmacokinetics of the three candidates given by quantitative structure–activity relationship (QSAR) and absorption, distribution, metabolism, excretion, and toxicity (ADMET) regressions justify their potential for medicinal development. The results encourage further experimental studies of the promising M coriacea-extracted aporphine alkaloids for drug-developing purposes, especially mangochinine acetate (8). Conclusions Isolation and molecular docking simulation of 8 aporphine alkaloids were accomplished. QSAR and ADMET regressions suggested that three compounds (2, 4, and 8) were the most suitable for medicinal applications given both biocompatibility and pharmacokinetics based on specific prediction toward 3W37 (α-glucosidase) and PTP1B (tyrosine phosphatase 1B) structures.
+SN - 1934-578X
+M3  - doi: 10.1177/1934578X231176926
+UR  - https://doi-org.crai.referencistas.com/10.1177/1934578X231176926
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An efficient and secure data auditing scheme based on fog-to-cloud computing for Internet of things scenarios
+AU  - Tian, Jun-Feng
+AU  - Wang, Hao-Ning
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - doi: 10.1177/1550147720916623
+DO  - 10.1177/1550147720916623
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147720916623
+VL - 16
+IS - 5
+PB - SAGE Publications
+N2 - With the widespread use of fog-to-cloud computing–based Internet of things devices, how to ensure the integrity of the data uploaded to the cloud has become one of the most important security issues. This article proposes an efficient and secure data auditing scheme based on fog-to-cloud computing for Internet of things scenarios, which can better meet performance and security requirements. The proposed scheme realizes data sharing under the condition of protecting privacy by encrypting sensitive information. Using the private key separation method, the private key is divided into two parts using identity information generation and random selection which are, respectively, held by the user and the fog center. Then, using the two-time signature method, the Internet of things and fog computing center use two parts of the private key to generate the original signature and final signature in two separate times. Since the fog computing center only has a part of the private key generated using the identity information, the security of the system will not be damaged due to the leakage of part of the private key held by the fog center, and the fog center significantly participates in the signature generation process, which significantly reduces the computation and communication overhead of the Internet of things device. Security analysis and performance evaluation show that the proposed scheme is safe and efficient.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147720916623
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147720916623
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Hate Speech in a Telegram Conspiracy Channel During the First Year of the COVID-19 Pandemic
+AU  - Vergani, Matteo
+AU  - Martinez Arranz, Alfonso
+AU  - Scrivens, Ryan
+AU  - Orellana, Liliana
+Y1  - 2022/10/01
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1177/20563051221138758
+DO  - 10.1177/20563051221138758
+T2  - Social Media + Society
+JF  - Social Media + Society
+SP  -20563051221138760
+VL - 8
+IS - 4
+PB - SAGE Publications Ltd
+N2 - Research has explored how the COVID-19 pandemic triggered a wave of conspiratorial thinking and online hate speech, but little is empirically known about how different phases of the pandemic are associated with hate speech against adversaries identified by online conspiracy communities. This study addresses this gap by combining observational methods with exploratory automated text analysis of content from an Italian-themed conspiracy channel on Telegram during the first year of the pandemic. We found that, before the first lockdown in early 2020, the primary target of hate was China, which was blamed for a new bioweapon. Yet over the course of 2020 and particularly after the beginning of the second lockdown, the primary targets became journalists and healthcare workers, who were blamed for exaggerating the threat of COVID-19. This study advances our understanding of the association between hate speech and a complex and protracted event like the COVID-19 pandemic, and it suggests that country-specific responses to the virus (e.g., lockdowns and re-openings) are associated with online hate speech against different adversaries depending on the social and political context.
+SN - 2056-3051
+M3  - doi: 10.1177/20563051221138758
+UR  - https://doi-org.crai.referencistas.com/10.1177/20563051221138758
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Audiovisual speech recognition: A review and forecast
+AU  - Xia, Linlin
+AU  - Chen, Gang
+AU  - Xu, Xun
+AU  - Cui, Jiashuo
+AU  - Gao, Yiping
+Y1  - 2020/11/01
+PY  - 2020
+DA  - 2020/11/01
+N1  - doi: 10.1177/1729881420976082
+DO  - 10.1177/1729881420976082
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881420976082
+VL - 17
+IS - 6
+PB - SAGE Publications
+N2 - Audiovisual speech recognition is a favorable solution to multimodality human–computer interaction. For a long time, it has been very difficult to develop machines capable of generating or understanding even fragments of natural languages; the fused sight, smelling, touching, and so on provide machines with possible mediums to perceive and understand. This article presents a detailed review of recent advances in audiovisual speech recognition area. After explicitly representing audiovisual speech recognition development phase divided by timeline, we focus on typical audiovisual speech database descriptions in terms of single view and multi-view, since the public databases for general purpose should be the first concern for audiovisual speech recognition tasks. For the following challenges that are inseparably related to the feature extraction and dynamic audiovisual fusion, the principal usefulness of deep learning-based tools, such as deep fully convolutional neural network, bidirectional long short-term memory network, 3D convolutional neural network, and so on, lies in the fact that they are relatively simple solutions of such problems. As the principle analyses and comparisons related to computational load, accuracy, and applicability of well-developed audiovisual speech recognition frameworks have been conducted, we further illuminate our insights into the future audiovisual speech recognition architecture design. We argue that end-to-end audiovisual speech recognition model and deep learning-based feature extractors will guide multimodality human–computer interaction directly to a solution.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881420976082
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881420976082
+Y2  - 2024/10/01
+ER  - 
+

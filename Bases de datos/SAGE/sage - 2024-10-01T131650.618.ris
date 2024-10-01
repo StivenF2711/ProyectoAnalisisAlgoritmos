@@ -1,0 +1,236 @@
+TY  - JOUR
+T1  - Noise induced hearing loss: Building an application using the ANGELIC methodology
+AU  - Al-Abdulkarim, Latifa
+AU  - Atkinson, Katie
+AU  - Bench-Capon, Trevor
+AU  - Whittle, Stuart
+AU  - Williams, Rob
+AU  - Wolfenden, Catriona
+AU  - Cerutti, Federico
+AU  - Booth, Richard
+Y1  - 2018/10/15
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.3233/AAC-181005
+DO  - 10.3233/AAC-181005
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -5
+EP - 22
+VL - 10
+IS - 1
+PB - SAGE Publications
+N2 - The ANGELIC methodology was developed to encapsulate knowledge of particular legal domains. In this paper we describe its use to build a full scale practical application intended to be used internally by Weightmans, a large firm of legal practitioners with branches throughout the UK. We describe the domain, Noise Induced Hearing Loss (NIHL), the intended task, the sources used, the stages in development and the resulting application. An assessment of the project and its potential for further development is discussed. The project shows that current academic research using computational models of argument can prove useful to legal practitioners confronted by real legal tasks.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-181005
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-181005
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Distributed algorithm for painting by a swarm of randomly deployed robots under limited visibility model
+AU  - Das, Deepanwita
+AU  - Mukhopadhyaya, Srabani
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - doi: 10.1177/1729881418804508
+DO  - 10.1177/1729881418804508
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881418804508
+VL - 15
+IS - 5
+PB - SAGE Publications
+N2 - This article studies the problem of painting an obstacle free rectangular region by a swarm of mobile robots. Initially the robots are deployed randomly within the target area subject to the condition that the distribution is d*-dense, where , and a robot can view up to a distance d. By d*-dense, it is meant that if all the robots are projected on a horizontal line, then the distance between two consecutive robots must be less than or equal to d*. Non-consideration of the popular CORDA (computational) model in the field of area coverage by swarm robots has been addressed here. The proposed algorithm assumes CORDA model. The robots follow a completely distributed algorithm to paint the region. The robots do not need to be synchronous, but they are assumed to have equal velocities. However, the proposed algorithm supports the robots with different speed. In that case, if r is the given upper bound on the ratios of the speeds of any two robots, then the initial distribution has to be D*-dense, where .
+SN - 1729-8806
+M3  - doi: 10.1177/1729881418804508
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881418804508
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent Motion Control for Four-Wheeled Holonomic Mobile Robots Using FPGA-Based Artificial Immune System Algorithm
+AU  - Huang, Hsu-Chih
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1155/2013/589510
+DO  - 10.1155/2013/589510
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -589510
+VL - 5
+PB - SAGE Publications
+N2 - This paper presents an intelligent motion controller for four-wheeled holonomic mobile robots with four driving omnidirectional wheels equally spaced at 90 degrees from one another by using field-programmable gate array (FPGA)-based artificial immune system (AIS) algorithm. Both the nature-inspired AIS computational approach and motion controller are implemented in one FPGA chip to address the optimal control problem of real-world mobile robotics application. The proposed FPGA-based AIS method takes the advantages of artificial intelligence and FPGA technology by using system-on-a-programmable chip (SoPC) methodology. Experimental results are conducted to show the effectiveness and merit of the proposed FPGA-based AIS intelligent motion controller for four-wheeled omnidirectional mobile robots. This FPGA-based AIS autotuning intelligent controller outperforms the conventional nonoptimal controllers, the genetic algorithm (GA) controller, and the particle swarm optimization (PSO) controller.
+SN - 1687-8132
+M3  - doi: 10.1155/2013/589510
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/589510
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Stable Haptic Rendering Using a Pipelined Threading Architecture
+AU  - Lu, Xiong
+AU  - Zhao, Hao
+AU  - Ye, Yong-Qiang
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/10/01
+N1  - doi: 10.5772/51320
+DO  - 10.5772/51320
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -98
+VL - 9
+IS - 4
+PB - SAGE Publications
+N2 - The high force update rate is a key factor for achieving high performance of haptic rendering, which imposes a stringent real-time requirement upon the execution environment of the haptic system. To fulfil this requirement, haptic systems are often limited to simplified virtual environments (VEs) for reducing computational load. This paper presents a novel pipelined threading architecture, which uses several threads running consecutively for implementing haptic rendering algorithms. With the proposed method, the haptic forces updating rate is effectively increased, which leads to improved system performance and makes complex VE scenes possible in haptic rendering. Based on the 3-DOF Delta haptic device, experiments with a virtual wall haptic system are carried out and verify the proposed method.
+SN - 1729-8806
+M3  - doi: 10.5772/51320
+UR  - https://doi-org.crai.referencistas.com/10.5772/51320
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - CFD Study of Drag and Lift of Sepak Takraw Ball at Different Face Orientations
+AU  - Mubin, Abdul Syakir Abdul
+AU  - Ahmad, Norhafizan
+AU  - Mamat, Azuddin
+AU  - Taha, Zahari
+AU  - Hasanuddin, Iskandar
+Y1  - 2014/11/04
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.1155/2014/369137
+DO  - 10.1155/2014/369137
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -369137
+VL - 7
+IS - 2
+PB - SAGE Publications
+N2 - There have been a significant number of researches on computational fluid dynamic (CFD) analysis of balls used in sports such as golf balls, tennis balls, and soccer balls. Sepak takraw is a high speed court game predominantly played in Southeast Asia using mainly the legs and head. The sepak takraw ball is unique because it is not enclosed and made of woven plastic. Hence a study of its aerodynamicswould give insight into its behaviour under different conditions of play. In this study the dynamics of the fluid around a static sepak takraw ball was investigated at different wind speeds for three different orientations using CFD. It was found that although the drag did not differ very much, increasing the wind velocity causes an increase in drag. The lift coefficientvaries as the velocity increases and does not show a regular pattern. The drag and lift coefficients are influenced by the orientation of the sepak takraw ball.
+SN - 1687-8132
+M3  - doi: 10.1155/2014/369137
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/369137
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Online Omics Platform Expedites Industrial Application of Halomonas bluephagenesis TD1.0
+AU  - Park, Helen
+AU  - Faulkner, Matthew
+AU  - Toogood, Helen S.
+AU  - Chen, Guo-Qiang
+AU  - Scrutton, Nigel
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/11779322231171779
+DO  - 10.1177/11779322231171779
+T2  - Bioinformatics and Biology Insights
+JF  - Bioinformatics and Biology Insights
+JO  - Bioinform Biol Insights
+SP  -11779322231171780
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - Multi-omic data mining has the potential to revolutionize synthetic biology especially in non-model organisms that have not been extensively studied. However, tangible engineering direction from computational analysis remains elusive due to the interpretability of large datasets and the difficulty in analysis for non-experts. New omics data are generated faster than our ability to use and analyse results effectively, resulting in strain development that proceeds through classic methods of trial-and-error without insight into complex cell dynamics. Here we introduce a user-friendly, interactive website hosting multi-omics data. Importantly, this new platform allows non-experts to explore questions in an industrially important chassis whose cellular dynamics are still largely unknown. The web platform contains a complete KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway enrichment analysis derived from principal components analysis, an interactive bio-cluster heatmap analysis of genes, and the Halomonas TD1.0 genome-scale metabolic (GEM) model. As a case study of the effectiveness of this platform, we applied unsupervised machine learning to determine key differences between Halomonas bluephagenesis TD1.0 cultivated under varied conditions. Specifically, cell motility and flagella apparatus are identified to drive energy expenditure usage at different osmolarities, and predictions were verified experimentally using microscopy and fluorescence labelled flagella staining. As more omics projects are completed, this landing page will facilitate exploration and targeted engineering efforts of the robust, industrial chassis H bluephagenesis for researchers without extensive bioinformatics background.
+SN - 1177-9322
+M3  - doi: 10.1177/11779322231171779
+UR  - https://doi-org.crai.referencistas.com/10.1177/11779322231171779
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A study on query terms proximity embedding for information retrieval
+AU  - Qiao, Ya-nan
+AU  - Du, Qinghe
+AU  - Wan, Di-fang
+Y1  - 2017/02/01
+PY  - 2017
+DA  - 2017/02/01
+N1  - doi: 10.1177/1550147717694891
+DO  - 10.1177/1550147717694891
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147717694891
+VL - 13
+IS - 2
+PB - SAGE Publications
+N2 - Information retrieval is applied widely to models and algorithms in wireless networks for cyber-physical systems. Query terms proximity has proved that it is a very useful information to improve the performance of information retrieval systems. Query terms proximity cannot retrieve documents independently, and it must be incorporated into original information retrieval models. This article proposes the concept of query term proximity embedding, which is a new method to incorporate query term proximity into original information retrieval models. Moreover, term-field-convolutions frequency framework, which is an implementation of query term proximity embedding, is proposed in this article, and experimental results show that this framework can improve the performance effectively compared with traditional proximity retrieval models.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147717694891
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147717694891
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable Robots for Humanitarian Demining
+AU  - Santana, Pedro F.
+AU  - Barata, José
+AU  - Correia, Luís
+Y1  - 2007/06/01
+PY  - 2007
+DA  - 2007/06/01
+N1  - doi: 10.5772/5695
+DO  - 10.5772/5695
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -23
+VL - 4
+IS - 2
+PB - SAGE Publications
+N2 - This paper proposes a roadmap for the application of advanced technology (in particular robotics) for the humanitarian demining domain. Based on this roadmap, a portable demining kit to handle urgent situations in remote locations is described. A low-cost four-wheel steering robot with a biologically inspired locomotion control is the base of the kit. On going research on a method for all-terrain piloting, under the morphological computation paradigm is also introduced, along with the behavioural architecture underlying it, the Survival Kit. A multi-agent architecture, the DSAAR architecture, is also proposed as a way of promoting short time-to-market and soft integration of different robots in a given mission. A common denominator for all developments is the quest for sustainability with respect to (re-)engineering and maintainability effort, as well as economical and ecological impact. Failing to cope with these requirements greatly reduces the applicability of a given technology to the humanitarian demining domain. Finally it is concluded that biologically inspired design fits considerably well to support a sustainable demining paradigm.
+SN - 1729-8806
+M3  - doi: 10.5772/5695
+UR  - https://doi-org.crai.referencistas.com/10.5772/5695
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Algorithmic culture
+AU  - Striphas, Ted
+Y1  - 2015/06/16
+PY  - 2015
+DA  - 2015/08/01
+N1  - doi: 10.1177/1367549415577392
+DO  - 10.1177/1367549415577392
+T2  - European Journal of Cultural Studies
+JF  - European Journal of Cultural Studies
+SP  -395
+EP - 412
+VL - 18
+IS - 4–5
+PB - SAGE Publications Ltd
+N2 - Over the last 30 years or so, human beings have been delegating the work of culture – the sorting, classifying and hierarchizing of people, places, objects and ideas – increasingly to computational processes. Such a shift significantly alters how the category culture has long been practiced, experienced and understood, giving rise to what, following Alexander Galloway, I am calling ‘algorithmic culture’. The purpose of this essay is to trace some of the conceptual conditions out of which algorithmic culture has emerged and, in doing so, to offer a preliminary treatment on what it is. In the vein of Raymond Williams’ Keywords, I single out three terms whose bearing on the meaning of the word culture seems to have been unusually strong during the period in question: information, crowd and algorithm. My claim is that the offloading of cultural work onto computers, databases and other types of digital technologies has prompted a reshuffling of some of the words most closely associated with culture, giving rise to new senses of the term that may be experientially available but have yet to be well named, documented or recorded. This essay, though largely historical, concludes by connecting the dots critically to the present day. What is at stake in algorithmic culture is the gradual abandonment of culture’s publicness and the emergence of a strange new breed of elite culture purporting to be its opposite.
+SN - 1367-5494
+M3  - doi: 10.1177/1367549415577392
+UR  - https://doi-org.crai.referencistas.com/10.1177/1367549415577392
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effective ellipse detection method in limited-performance embedded system for aerospace application
+AU  - Wu, Bin
+AU  - Yu, Xiao-Yu
+AU  - Guo, Yu-Bo
+AU  - Ye, Dong
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - doi: 10.1177/1687814017695694
+DO  - 10.1177/1687814017695694
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017695694
+VL - 9
+IS - 3
+PB - SAGE Publications
+N2 - Up to present, there have been numerous articles on ellipse detection. However, it is still a great challenge especially for embedded application with restricted available computing and memory resources. To handle this problem, a novel and effective method is presented for ellipse detection. The method consists of two main steps: extraction of elliptic edge contours and edge contours grouping. These two steps are integrated to improve the accuracy and speed of the method. Finally, the aim of this method is to process high-resolution image for embedded system, which needs fast and accurate ellipse detection with limited computational and memory resources.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017695694
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017695694
+Y2  - 2024/10/01
+ER  - 
+

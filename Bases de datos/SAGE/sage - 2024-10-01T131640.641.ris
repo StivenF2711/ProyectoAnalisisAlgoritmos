@@ -1,0 +1,239 @@
+TY  - JOUR
+T1  - Noise induced hearing loss: Building an application using the ANGELIC methodology
+AU  - Al-Abdulkarim, Latifa
+AU  - Atkinson, Katie
+AU  - Bench-Capon, Trevor
+AU  - Whittle, Stuart
+AU  - Williams, Rob
+AU  - Wolfenden, Catriona
+AU  - Cerutti, Federico
+AU  - Booth, Richard
+Y1  - 2018/10/15
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.3233/AAC-181005
+DO  - 10.3233/AAC-181005
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -5
+EP - 22
+VL - 10
+IS - 1
+PB - SAGE Publications
+N2 - The ANGELIC methodology was developed to encapsulate knowledge of particular legal domains. In this paper we describe its use to build a full scale practical application intended to be used internally by Weightmans, a large firm of legal practitioners with branches throughout the UK. We describe the domain, Noise Induced Hearing Loss (NIHL), the intended task, the sources used, the stages in development and the resulting application. An assessment of the project and its potential for further development is discussed. The project shows that current academic research using computational models of argument can prove useful to legal practitioners confronted by real legal tasks.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-181005
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-181005
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Assumption-based argumentation with preferences and goals for patient-centric reasoning with interacting clinical guidelines
+AU  - Čyras, Kristijonas
+AU  - Oliveira, Tiago
+AU  - Karamlou, Amin
+AU  - Toni, Francesca
+Y1  - 2020/11/25
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.3233/AAC-200523
+DO  - 10.3233/AAC-200523
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -149
+EP - 189
+VL - 12
+IS - 2
+PB - SAGE Publications
+N2 - A paramount, yet unresolved issue in personalised medicine is that of automated reasoning with clinical guidelines in multimorbidity settings. This entails enabling machines to use computerised generic clinical guideline recommendations and patient-specific information to yield patient-tailored recommendations where interactions arising due to multimorbidities are resolved. This problem is further complicated by patient management desiderata, in particular the need to account for patient-centric goals as well as preferences of various parties involved. We propose to solve this problem of automated reasoning with interacting guideline recommendations in the context of a given patient by means of computational argumentation. In particular, we advance a structured argumentation formalism ABA+G (short for Assumption-Based Argumentation with Preferences (ABA+) and Goals) for integrating and reasoning with information about recommendations, interactions, patient’s state, preferences and prioritised goals. ABA+G combines assumption-based reasoning with preferences and goal-driven selection among reasoning outcomes. Specifically, we assume defeasible applicability of guideline recommendations with the general goal of patient well-being, resolve interactions (conflicts and otherwise undesirable situations) among recommendations based on the state and preferences of the patient, and employ patient-centered goals to suggest interaction-resolving, goal-importance maximising and preference-adhering recommendations. We use a well-established Transition-based Medical Recommendation model for representing guideline recommendations and identifying interactions thereof, and map the components in question, together with the given patient’s state, prioritised goals, and preferences over actions, to ABA+G for automated reasoning. In this, we follow principles of patient management and establish corresponding theoretical properties as well as illustrate our approach in realistic personalised clinical reasoning scenaria.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-200523
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-200523
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Pessimism, Futility and Extinction: An Interview with Eugene Thacker
+AU  - Dekeyser, Thomas
+Y1  - 2020/03/17
+PY  - 2020
+DA  - 2020/12/01
+N1  - doi: 10.1177/0263276420907127
+DO  - 10.1177/0263276420907127
+T2  - Theory, Culture & Society
+JF  - Theory, Culture & Society
+SP  -367
+EP - 381
+VL - 37
+IS - 7–8
+PB - SAGE Publications Ltd
+N2 - In this interview with Thomas Dekeyser, Eugene Thacker elaborates on the central themes of his work. Addressing themes including extinction, futility, human universalism, network euphoria, political indecision and scientific nihilism, the interview positions Thacker’s work within the contemporary theoretical conjuncture, specifically through its relation to genres of thought his work is often grouped with or cast against: vitalism, speculative realism and accelerationism. More broadly, however, the interview offers a unique insight into Thacker’s approach to the thinking, doing and writing of ‘philosophy’.
+SN - 0263-2764
+M3  - doi: 10.1177/0263276420907127
+UR  - https://doi-org.crai.referencistas.com/10.1177/0263276420907127
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Simple or complex statistical models: Non-traditional regression models with intuitive interpretations
+AU  - Heller, Gillian Z.
+Y1  - 2024/09/23
+PY  - 2024
+N1  - doi: 10.1177/1471082X241274405
+DO  - 10.1177/1471082X241274405
+T2  - Statistical Modelling
+JF  - Statistical Modelling
+SP  -1471082X241274405
+VL - 0
+IS - 0
+PB - SAGE Publications India
+N2 - The evolution of statistical modelling has historically been constrained by the practical limitations of computation; early statistical modelling favoured models which could feasibly be estimated. As increased mathematical complexity often implies more intricate computation, statistical models have grown both mathematically and computationally more complex. However, paradoxically, sometimes conceptually simpler models present more computational challenges than complex ones, and these have historically been neglected. In the case of binary responses, logistic regression models are the gold standard; covariates are modelled additively on the log-odds scale. In the case of time-to-event responses, the Cox proportional hazards regression model has additivity on the log-hazard rate scale. Both of these methods are computationally convenient, and yet the scales on which covariates are modelled are far from intuitive. We demonstrate the use of alternative models which are computationally more complex, yet feasible, but in which modelling is on a more interpretable scale. In the case of binary responses, a more intuitive alternative is log-binomial regression, in which modelling is on the log-relative risk scale. In the case of time-to-event responses, distributional regression enables modelling on the time scale. While logistic regression and proportional hazards regression qualitatively both deliver the same conclusions as the alternative models, log-binomial and distributional regression provide more interpretable coefficients, which are readily estimated.
+SN - 1471-082X
+M3  - doi: 10.1177/1471082X241274405
+UR  - https://doi-org.crai.referencistas.com/10.1177/1471082X241274405
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Strengthening Theoretical Testing in Criminology Using Agent-based Modeling
+AU  - Johnson, Shane D.
+AU  - Groff, Elizabeth R.
+Y1  - 2014/05/26
+PY  - 2014
+DA  - 2014/07/01
+N1  - doi: 10.1177/0022427814531490
+DO  - 10.1177/0022427814531490
+T2  - Journal of Research in Crime and Delinquency
+JF  - Journal of Research in Crime and Delinquency
+SP  -509
+EP - 525
+VL - 51
+IS - 4
+PB - SAGE Publications Inc
+N2 - Objectives: The Journal of Research in Crime and Delinquency (JRCD) has published important contributions to both criminological theory and associated empirical tests. In this article, we consider some of the challenges associated with traditional approaches to social science research, and discuss a complementary approach that is gaining popularity—agent-based computational modeling—that may offer new opportunities to strengthen theories of crime and develop insights into phenomena of interest. Method: Two literature reviews are completed. The aim of the first is to identify those articles published in JRCD that have been the most influential and to classify the theoretical perspectives taken. The second is intended to identify those studies that have used an agent-based model (ABM) to examine criminological theories and to identify which theories have been explored. Results: Ecological theories of crime pattern formation have received the most attention from researchers using ABMs, but many other criminological theories are amenable to testing using such methods. Conclusion: Traditional methods of theory development and testing suffer from a number of potential issues that a more systematic use of ABMs—not without its own issues—may help to overcome. ABMs should become another method in the criminologists toolbox to aid theory testing and falsification.
+SN - 0022-4278
+M3  - doi: 10.1177/0022427814531490
+UR  - https://doi-org.crai.referencistas.com/10.1177/0022427814531490
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Automated analysis of the US presidential elections using Big Data and network analysis
+AU  - Sudhahar, Saatviga
+AU  - Veltri, Giuseppe A.
+AU  - Cristianini, Nello
+Y1  - 2015/03/02
+PY  - 2015
+DA  - 2015/05/01
+N1  - doi: 10.1177/2053951715572916
+DO  - 10.1177/2053951715572916
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951715572916
+VL - 2
+IS - 1
+PB - SAGE Publications Ltd
+N2 - The automated parsing of 130,213 news articles about the 2012 US presidential elections produces a network formed by the key political actors and issues, which were linked by relations of support and opposition. The nodes are formed by noun phrases and links by verbs, directly expressing the action of one node upon the other. This network is studied by applying insights from several theories and techniques, and by combining existing tools in an innovative way, including: graph partitioning, centrality, assortativity, hierarchy and structural balance. The analysis yields various patterns. First, we observe that the fundamental split between the Republican and Democrat camps can be easily detected by network partitioning, which provides a strong validation check of the approach adopted, as well as a sound way to assign actors and topics to one of the two camps. Second, we identify the most central nodes of the political camps. We also learnt that Clinton played a more central role than Biden in the Democrat camp; the overall campaign was much focused on economy and rights; the Republican Party (Grand Old Party or GOP) is the most divisive subject in the campaign, and is portrayed more negatively than the Democrats; and, overall, the media reported positive statements more frequently for the Democrats than the Republicans. This is the first study in which political positions are automatically extracted and derived from a very large corpus of online news, generating a network that goes well beyond traditional word-association networks by means of richer linguistic analysis of texts.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951715572916
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951715572916
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Rethinking Communication in the Era of Artificial Intelligence: An HCR Special Issue
+AU  - Wilson, Steven R.
+Y1  - 2023/08/30
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/27523543231188791
+DO  - 10.1177/27523543231188791
+T2  - Emerging Media
+JF  - Emerging Media
+SP  -40
+EP - 45
+VL - 1
+IS - 1
+PB - SAGE Publications
+N2 - This invited essay discusses a recent special issue published by the journal Human Communication Research entitled “Rethinking Communication in the Era of Artificial Intelligence.” Articles in the special issue explore how: (a) artificial intelligence (AI) may be altering basic communication processes, (b) communication theories can help us understand and explain AI’s potential impacts, and (c) research can explore how AI can help promote the public interest. These issues are explored in varied contexts (e.g., close relationships, workplaces, media, and politics) using quantitative, computational, and qualitative methods. My essay highlights the special issue’s purpose, describes the peer review process that led to six articles plus the opening essay by guest editors S. Shyam Sunder and Eun-Ju Lee, features an exemplar article that explores how social bots helped amplify partisan news coverage in the Unites States during the COVID-19 pandemic, and calls for communication scholars to publish additional research on these topics in outlets such as Emerging Media.
+SN - 2752-3543
+M3  - doi: 10.1177/27523543231188791
+UR  - https://doi-org.crai.referencistas.com/10.1177/27523543231188791
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effective ellipse detection method in limited-performance embedded system for aerospace application
+AU  - Wu, Bin
+AU  - Yu, Xiao-Yu
+AU  - Guo, Yu-Bo
+AU  - Ye, Dong
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - doi: 10.1177/1687814017695694
+DO  - 10.1177/1687814017695694
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017695694
+VL - 9
+IS - 3
+PB - SAGE Publications
+N2 - Up to present, there have been numerous articles on ellipse detection. However, it is still a great challenge especially for embedded application with restricted available computing and memory resources. To handle this problem, a novel and effective method is presented for ellipse detection. The method consists of two main steps: extraction of elliptic edge contours and edge contours grouping. These two steps are integrated to improve the accuracy and speed of the method. Finally, the aim of this method is to process high-resolution image for embedded system, which needs fast and accurate ellipse detection with limited computational and memory resources.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017695694
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017695694
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - MR*-Tree: Novel Indexing and Retrieving Mechanism for Spatial Objects in Mobile PowerPoint Pages
+AU  - Xiang, Jianming
+AU  - Zhou, ZhangBing
+AU  - Shu, Lei
+AU  - Liu, Cong
+AU  - Wang, Qun
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - doi: 10.1155/2015/372486
+DO  - 10.1155/2015/372486
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -372486
+VL - 11
+IS - 10
+PB - SAGE Publications
+N2 - Different from the traditional office software, due to the limited storage and computational capability of mobile devices, how to support the page editing in a fast and energy-efficient manner is fundamental. To address this challenge, we propose an MR*-tree based indexing mechanism for supporting the fast and energy-efficient retrieval of spatial objects in mobile PowerPoint pages. Based on this, techniques are developed to support the operations when editing mobile PowerPoint pages. Prototype has been implemented for facilitating the operations of spatial objects when editing mobile PowerPoint pages. Experimental evaluations on computers, pads, and smart phones show the effectiveness and efficiency of this technique.
+SN - 1550-1329
+M3  - doi: 10.1155/2015/372486
+UR  - https://doi-org.crai.referencistas.com/10.1155/2015/372486
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Virtual design software for mechanical system dynamics using transfer matrix method of multibody system and its application
+AU  - Yang, Hai-gen
+AU  - Rui, Xiao-ting
+AU  - Zhan, Zhi-huan
+AU  - Zhang, Jian-su
+AU  - Gu, Jun-jie
+AU  - He, Bin
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1177/1687814015601578
+DO  - 10.1177/1687814015601578
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015601578
+VL - 7
+IS - 9
+PB - SAGE Publications
+N2 - The complex mechanical systems such as high-speed trains, multiple launch rocket system, self-propelled artillery, and industrial robots are becoming increasingly larger in scale and more complicated in structure. Designing these products often requires complex model design, multibody system dynamics calculation, and analysis of large amounts of data repeatedly. In recent 20 years, the transfer matrix method of multibody system has been widely applied in engineering fields and welcomed at home and in abroad for the following features: without global dynamic equations of the system, low orders of involved system matrices, high computational efficiency, and high programming. In order to realize the rapid and visual simulation for complex mechanical system virtual design using transfer matrix method of multibody system, a virtual design software named MSTMMSim is designed and implemented. In the MSTMMSim, the transfer matrix method of multibody system is used as the solver for dynamic modeling and calculation; the Open CASCADE is used for solid geometry modeling. Various auxiliary analytical tools such as curve plot and animation display are provided in the post-processor to analyze and process the simulation results. Two numerical examples are given to verify the validity and accuracy of the software, and a multiple launch rocket system engineering example is given at the end of this article to show that the software provides a powerful platform for complex mechanical systems simulation and virtual design.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015601578
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015601578
+Y2  - 2024/10/01
+ER  - 
+

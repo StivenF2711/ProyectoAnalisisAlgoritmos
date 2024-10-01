@@ -1,0 +1,222 @@
+TY  - JOUR
+T1  - Laser simulator: A novel search graph-based path planning approach
+AU  - Ali, Mohammed AH
+AU  - Mailah, Musa
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - doi: 10.1177/1729881418804726
+DO  - 10.1177/1729881418804726
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881418804726
+VL - 15
+IS - 5
+PB - SAGE Publications
+N2 - A novel technique called laser simulator approach for visibility search graph-based path planning has been developed in this article to determine the optimum collision-free path in unknown environment. With such approach, it is possible to apply constraints on the mobile robot trajectory while navigating in complex terrains such as in factories and road environments, as the first work of its kind. The main advantage of this approach is the ability to be used for both global/local path planning in the presence of constraints and obstacles in unknown environments. The principle of the laser simulator approach with all possibilities and cases that could emerge during path planning is explained to determine the path from initial to destination positions in a two-dimensional map. In addition, a comparative study on the laser simulator approach, A* algorithm, Voronoi diagram with fast marching and PointBug algorithms was performed to show the benefits and drawbacks of the proposed approach. A case study on the utilization of the laser simulator in both global and local path planning has been applied in a road roundabout setting which is regarded as a complex environment for robot path planning. In global path planning, the path is generated within a grid map of the roundabout environment to select the path according to the respective road rules. It is also used to recognize the real roundabout from a sequence of images during local path planning in the real-world system. Results show that the performance of the proposed laser simulator approach in both global and local environments is achieved with low computational and path costs, in which the optimum path from the selected start position to the goal point is tracked accordingly in the presence of the obstacles.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881418804726
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881418804726
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A new framework for very large-scale urban modelling
+AU  - Batty, Michael
+AU  - Milton, Richard
+Y1  - 2021/02/18
+PY  - 2021
+DA  - 2021/11/01
+N1  - doi: 10.1177/0042098020982252
+DO  - 10.1177/0042098020982252
+T2  - Urban Studies
+JF  - Urban Studies
+SP  -3071
+EP - 3094
+VL - 58
+IS - 15
+PB - SAGE Publications Ltd
+N2 - The generation of ever-bigger data sets pertaining to the distribution of activities in cities is paralleled by massive increases in computer power and memory that are enabling very large-scale urban models to be constructed. Here we present an effort to extend traditional land use–transport interaction (LUTI) models to extensive spatial systems so that they are able to track increasingly wide repercussions on the location of population, employment and related distributions of spatial interactions. The prototype model framework we propose and implement called QUANT is available anywhere, at any time, at any place, and is open to any user. It is characterised as a set of web-based services within which simulation, visualisation and scenario generation are configured. We begin by presenting the core spatial interaction model built around the journey to work, and extend this to deal with many sectors. We detail the computational environment, with a focus on the size of the problem which is an application to a 8436 zone system comprising England, Scotland and Wales generating matrices of around 71 million cells. We detail the data and spatial system, showing how we extend the model to visualise spatial interactions as vector fields and accessibility indicators. We briefly demonstrate the implementation of the model and outline how we can generate the impact of changes in employment and changes in travel costs that enable transport modes to compete for travellers. We conclude by indicating that the power of the new framework consists of running hundreds of ‘what if?’ scenarios which let the user immediately evaluate their impacts and then evolve new and better ones.
+SN - 0042-0980
+M3  - doi: 10.1177/0042098020982252
+UR  - https://doi-org.crai.referencistas.com/10.1177/0042098020982252
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Combined passive and active flow control for fixed-wing micro air vehicles
+AU  - Esmaeili, A.
+AU  - Sousa, JMM
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/17568293231197127
+DO  - 10.1177/17568293231197127
+T2  - International Journal of Micro Air Vehicles
+JF  - International Journal of Micro Air Vehicles
+SP  -17568293231197128
+VL - 15
+PB - SAGE Publications Ltd STM
+N2 - This study presents the design, implementation, and assessment of a combined passive and active flow control technique with the aim of increasing the aerodynamic performance of fixed-wing Micro Air Vehicles (MAVs). Power consumption restrictions in MAVs support the choice of passive flow control solutions such as the use of a modified (tubercled) wing leading edge. This strategy successfully allows to delay and mitigate aerodynamic stall but detrimental effects are found at pre-stall operating conditions. In order to retrieve the lift-generation capabilities of the baseline wing at pre-stall, a subsidiary active flow control method making use of air blowing was designed and installed in the modified wing. Guidance to the selection of optimum settings was provided by experimental and computational analyses. The resulting hybrid flow control system demonstrated its effectiveness, thus producing generalized lift enhancements irrespectively of the attitude of the wing.
+SN - 1756-8293
+M3  - doi: 10.1177/17568293231197127
+UR  - https://doi-org.crai.referencistas.com/10.1177/17568293231197127
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The discourses of data journalism
+AU  - Hannaford, Liz
+Y1  - 2022/06/13
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1177/14648849221107803
+DO  - 10.1177/14648849221107803
+T2  - Journalism
+JF  - Journalism
+JO  - Journalism
+SP  -2397
+EP - 2417
+VL - 24
+IS - 11
+PB - SAGE Publications
+N2 - Becoming a data literate, technologically competent journalist is represented as a desirable goal that will benefit the individual, the industry and society as a whole. Data journalism skills are increasingly being taught in journalism programmes around the world. This article applies Foucault’s distinctive conceptualisation of discourse to critically examine data journalism as constructed in the ‘talk’ of its most visible pioneers. The analysis is driven by three distinctive aspects of Foucault’s theory of discourse – power, knowledge and materiality. Using these tools, I investigate how data journalism knowledge is produced, the practices that reinforce it and the strategic power relations it conceals. I argue that data journalism draws on four discourses – journalism, technology, enterprise and citizenship – and wraps itself in the power relations embedded in these prestigious discourses. I argue that there is a political imperative for journalism educators to examine these power relations because material injustices along race, gender, class lines are built into them and have consequences for our students and society.
+SN - 1464-8849
+M3  - doi: 10.1177/14648849221107803
+UR  - https://doi-org.crai.referencistas.com/10.1177/14648849221107803
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - How Symbols Influence Social Media Discourse: An Embedding Regression Analysis of Trump’s Return to Twitter
+AU  - Karell, Daniel
+AU  - Sachs, Jeffrey
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/23780231231212108
+DO  - 10.1177/23780231231212108
+T2  - Socius
+JF  - Socius
+SP  -23780231231212108
+VL - 9
+PB - SAGE Publications
+N2 - How does social media content affect users’ online discourse? Existing scholarship sheds light on how several social media features involving content can influence users’ speech. However, this research often conflates content’s lexical dimension with its symbolic dimension. The authors analyze how the symbolic properties of online content can distinctly affect discourse on social media. Specifically, they examine how the symbolic meanings conveyed by Twitter’s reinstatement of Donald Trump’s account influenced Twitter users’ discourse. The results of embedding regressions indicate that Trump’s reinstatement immediately shifted users’ discourse about social and political identity-based groups, but only when they discussed Black and Jewish people. Additional results suggest that the discourse became more politicized and that the discursive shift was short lived. The authors’ findings contribute conceptual and analytical clarity to the sociosemantic dynamics of online discourse, encouraging future research to distinguish and compare the lexical and symbolic dimensions of online content.
+SN - 2378-0231
+M3  - doi: 10.1177/23780231231212108
+UR  - https://doi-org.crai.referencistas.com/10.1177/23780231231212108
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Smartphones for Remote Symptom Monitoring of Parkinson’s Disease
+AU  - Little, Max A.
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.3233/JPD-202453
+DO  - 10.3233/JPD-202453
+T2  - Journal of Parkinson’s Disease
+JF  - Journal of Parkinson’s Disease
+SP  -S49
+EP - S53
+VL - 11
+IS - s1
+PB - SAGE Publications
+N2 - Parkinson’s disease is a complex and heterogeneous condition, and there are many gaps in the medical community’s scientific and practical understanding of the disease. Closing these gaps relies on objective data about symptoms and signs, collected over long durations. Smartphones contain sensor devices which can be used to remotely capture behavioral signals. From these signals, computational algorithms can distill metrics of symptom severity and progression. This brief review introduces the main concepts of the discipline, addressing the experimental, hardware and software logistics, and computational analysis. The article finishes with an exploration of future prospects for the technology.
+SN - 1877-7171
+M3  - doi: 10.3233/JPD-202453
+UR  - https://doi-org.crai.referencistas.com/10.3233/JPD-202453
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Picking winners: Diversification through portfolio optimization
+AU  - Liu, Ju
+AU  - Liu, Changchun
+AU  - Teo, Chung Piaw
+Y1  - 2023/09/01
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1111/poms.14013
+DO  - 10.1111/poms.14013
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+SP  -2864
+EP - 2884
+VL - 32
+IS - 9
+PB - SAGE Publications
+N2 - We develop a general framework for selecting a small pool of candidate solutions to maximize the chances that one will be optimal for a combinatorial optimization problem, under a linear and additive random payoff function. We formulate this problem using a two‐stage distributionally robust model, with a mixed 0–1 semidefinite program. This approach allows us to exploit the “diversification” effect inherent in the problem to address how different candidate solutions can be selected to improve the chances that one will attain a high ex post payoff. More interestingly, using this distributionally robust optimization approach, our model recovers the “evil twin” strategy, well known in the field of football pool betting, under appropriate settings. We also address the computational challenges of scaling up our approach to construct a moderate number of candidate solutions to increase the chances of finding one that performs well. To this end, we develop a sequential optimization approach based on a compact semidefinite programming reformulation of the problem. Extensive numerical results show the superiority of our approach over existing methods.
+SN - 1059-1478
+M3  - doi: 10.1111/poms.14013
+UR  - https://doi-org.crai.referencistas.com/10.1111/poms.14013
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using current research information systems to investigate data acquisition and data sharing practices of computer scientists
+AU  - Rousi, Antti Mikael
+Y1  - 2022/05/07
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/09610006221093049
+DO  - 10.1177/09610006221093049
+T2  - Journal of Librarianship and Information Science
+JF  - Journal of Librarianship and Information Science
+SP  -596
+EP - 608
+VL - 55
+IS - 3
+PB - SAGE Publications Ltd
+N2 - Without sufficient information about research data practices occurring in a particular research organisation, there is a risk of mismatching research data service efforts with the needs of its researchers. This study describes how data acquiring and data sharing occurring within a particular research organisation can be investigated by using current research information system publication data. The case study organisation’s current research information system was used to identify the sample of investigated articles. A sample of 193 journal articles published by researchers in the computer science department of the case study’s university during 2019 were extracted for scrutiny from the current research information system. For these 193 articles, a classification of the main study types was developed to accommodate the multidisciplinary nature of the case department’s research agenda. Furthermore, a coding framework was developed to capture the key elements of data acquiring and data sharing. The articles representing life sciences and computational research relatively frequently reused open data, whereas data acquisition of experimental research, human interaction studies and human intervention studies often relied on collecting original data. Data sharing also differed between the computationally intensive study types of life sciences and computational research and the study types relying on collection of original data. Research data were not available for reuse in only a minority of life science (n = 2; 7%) and computational research (n = 15; 14%) studies. The study types of experimental research, human interaction studies and human intervention studies less frequently made their data available for reuse. The findings suggest that research organisations representing computer sciences may include different subfields that have their own cultures of data sharing. This study demonstrates that analyses of publications listed in current research information systems provide detailed descriptions how the affiliated researchers acquire and share research data.
+SN - 0961-0006
+M3  - doi: 10.1177/09610006221093049
+UR  - https://doi-org.crai.referencistas.com/10.1177/09610006221093049
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Diasporic citizen journalism: Exploring the discussion on the 2022 blank paper protests in the Chinese twitter community
+AU  - Zeng, Jing
+AU  - Cheng, Calvin Yixiang
+Y1  - 2024/05/02
+PY  - 2024
+N1  - doi: 10.1177/14648849241250191
+DO  - 10.1177/14648849241250191
+T2  - Journalism
+JF  - Journalism
+JO  - Journalism
+SP  -14648849241250192
+VL - 0
+IS - 0
+PB - SAGE Publications
+N2 - Departing from the conventional nation-state framework, this paper explores citizen journalism from a translocal and transnational perspective. Focusing on Chinese diasporic communities on Twitter, the study presents an explorative inquiry into the phenomenon of diasporic citizen journalism. Through an empirical case study of the 2022 Blank Paper Protests (BPP) in China, the research reveals the pivotal role the Chinese Twitter-sphere played as a vital platform for cross-border news production and sense-making during a critical event. The study also illuminates the diversity, networked dynamics, and internal conflicts within the Chinese digital diaspora concerning the BPP. Theoretically, this paper underscores the imperative need to expand the horizons of citizen journalism research, suggesting diasporic citizen journalism as a new avenue for future exploration. Methodologically, the study showcases the potential of state-of-the-art computational methods, including Large Language Models (LLMs), in advancing journalism research. The methodology employed in this study exemplifies the integration of LLMs to enhance automated topic and sentiment analysis.
+SN - 1464-8849
+M3  - doi: 10.1177/14648849241250191
+UR  - https://doi-org.crai.referencistas.com/10.1177/14648849241250191
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Low-Complexity Decoding Algorithms for Distributed Space-Time Coded Regenerative Relay Systems
+AU  - Zhang, Chao
+AU  - Yin, Huarui
+Y1  - 2012/09/10
+PY  - 2012
+DA  - 2012/09/10
+N1  - doi: 10.1155/2012/950296
+DO  - 10.1155/2012/950296
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -950296
+VL - 8
+IS - 9
+PB - SAGE Publications
+N2 - We examine decoding structure for distributed space-time coded regenerative relay networks. Given the possible demodulation error at the regenerative relays, we provide a general framework of error aware decoder, where the receiver exploits the demodulation error probability of relays to improve the system performance. Considering the high computational complexity of optimal Maximum Likelihood (ML) decoder, we also propose two low-complexity decoders, Max-Log decoder and Max-Log-Sphere decoder. Computational complexities of these three decoders are also analyzed. Simulation results show that error aware decoders can improve system performance greatly without high system overload and Max-Log decoder and Max-Log-Sphere decoder can drastically reduce the decoding complexity with negligible performance degradation.
+SN - 1550-1329
+M3  - doi: 10.1155/2012/950296
+UR  - https://doi-org.crai.referencistas.com/10.1155/2012/950296
+Y2  - 2024/10/01
+ER  - 
+

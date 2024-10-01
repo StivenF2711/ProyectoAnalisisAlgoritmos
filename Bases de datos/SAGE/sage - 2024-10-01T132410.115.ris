@@ -1,0 +1,249 @@
+TY  - JOUR
+T1  - Integrated energy planning and modeling (IEPM) for sustainable electricity generation in Pakistan: Challenges and limitations
+AU  - Bashir, Sana
+AU  - Kanwal, Sumaira
+AU  - Zeb, Hassan
+AU  - Baber, Zaeem Bin
+AU  - Majeed, Asma
+Y1  - 2022/06/08
+PY  - 2022
+DA  - 2022/11/01
+N1  - doi: 10.1177/01445987221105098
+DO  - 10.1177/01445987221105098
+T2  - Energy Exploration & Exploitation
+JF  - Energy Exploration & Exploitation
+SP  -1806
+EP - 1836
+VL - 40
+IS - 6
+PB - SAGE Publications Ltd STM
+N2 - Recent technological advancements demand IEPM for sustainable energy development through the induction of advanced computational techniques. However, the applicability and outcomes of such modeling tools vary due to underlying limitations in addition to gaps within the energy sector. This study uses a three-pronged approach to determine the potential of IEPM in shaping sustainable energy systems, particularly for Pakistan. Findings suggest that the main hindrances in sustainable electricity generation in Pakistan are over dependence upon thermal fuel mix and partial achievement of national energy policy targets. A review of the public sector plans, researches, and historical energy mix of Pakistan affirms that all efforts are targeted towards least cost electricity production without considering social and environmental impacts. All past studies projected energy supply and demand to ascertain future implications, but no one suggested sustainable alternatives for meeting national energy targets. Findings of this study necessitate upon development of a fair, consistent, long-term and sustainable IEP with clear policies to overcome sectoral bottlenecks and attain a high growth trajectory. A review of modeling tools, their applications and limitations, carried out in this study, suggests the adoption of the LEAP model for realistic IEP for Pakistan. This considered LEAP’s strengths in terms of energy-environment nexus, strong-accounting and scenario-building, bottom-up/top-down approach, user-friendliness, and spatial-temporal flexibility.
+SN - 0144-5987
+M3  - doi: 10.1177/01445987221105098
+UR  - https://doi-org.crai.referencistas.com/10.1177/01445987221105098
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Partial copying and the role of diversity in social learning performance
+AU  - Campbell, Chelsea M.
+AU  - Izquierdo, Eduardo J.
+AU  - Goldstone, Robert L.
+Y1  - 2022/08/01
+PY  - 2022
+DA  - 2022/08/01
+N1  - doi: 10.1177/26339137221081849
+DO  - 10.1177/26339137221081849
+T2  - Collective Intelligence
+JF  - Collective Intelligence
+SP  -26339137221081850
+VL - 1
+IS - 1
+PB - SAGE Publications
+N2 - One major way that people engage in adaptive problem solving is by imitating others’ solutions. Prominent simulation models have found imperfect imitation advantageous, but the interactions between copying amount and other prevalent aspects of social learning strategies have been underexplored. Here, we explore the consequences for a group when its members engage in strategies with different degrees of copying, solving search problems of varying complexity, in different network topologies that affect the solutions visible to each member. Using a computational model of collective problem solving, we demonstrate that the advantage of partial copying is robust across these conditions, arising from its ability to maintain diversity. Partial copying delays convergence generally but especially in globally connected networks, which are typically associated with diversity loss, allowing more exploration of a problem space. We show that a moderate amount of diversity maintenance is optimal and strategies can be adjusted to find that sweet spot.
+SN - 2633-9137
+M3  - doi: 10.1177/26339137221081849
+UR  - https://doi-org.crai.referencistas.com/10.1177/26339137221081849
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Which emphasis technique to use? Perception of emphasis techniques with varying distractors, backgrounds, and visualization types
+AU  - Mairena, Aristides
+AU  - Gutwin, Carl
+AU  - Cockburn, Andy
+Y1  - 2021/09/22
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/14738716211045354
+DO  - 10.1177/14738716211045354
+T2  - Information Visualization
+JF  - Information Visualization
+SP  -95
+EP - 129
+VL - 21
+IS - 2
+PB - SAGE Publications
+N2 - Emphasis effects are visual changes that make data elements distinct from their surroundings. Designers may use computational saliency models to predict how a viewer’s attention will be guided by a specific effect; however, although saliency models provide a foundational understanding of emphasis perception, they only cover specific visual effects in abstract conditions. To address these limitations, we carried out crowdsourced studies that evaluate emphasis perception in a wider range of conditions than previously studied. We varied effect magnitude, distractor number and type, background, and visualization type, and measured the perceived emphasis of 12 visual effects. Our results show that there are perceptual commonalities of emphasis across a wide range of environments, but also that there are limitations on perceptibility for some effects, dependent on a visualization’s background or type. We developed a model of emphasis predictability based on simple scatterplots that can be extended to other viewing conditions. Our studies provide designers with new understanding of how viewers experience emphasis in realistic visualization settings.
+SN - 1473-8716
+M3  - doi: 10.1177/14738716211045354
+UR  - https://doi-org.crai.referencistas.com/10.1177/14738716211045354
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An adaptive power prior for sequential clinical trials – Application to bridging studies
+AU  - Ollier, Adrien
+AU  - Morita, Satoshi
+AU  - Ursino, Moreno
+AU  - Zohar, Sarah
+Y1  - 2019/11/15
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1177/0962280219886609
+DO  - 10.1177/0962280219886609
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -2282
+EP - 2294
+VL - 29
+IS - 8
+PB - SAGE Publications Ltd STM
+N2 - During drug evaluation trials, information from clinical trials previously conducted on another population, indications or schedules may be available. In these cases, it might be desirable to share information by efficiently using the available resources. In this work, we developed an adaptive power prior with a commensurability parameter for using historical or external information. It allows, at each stage, full borrowing when the data are not in conflict, no borrowing when the data are in conflict or “tuned” borrowing when the data are in between. We propose to apply our adaptive power prior method to bridging studies between Caucasians and Asians, and we focus on the sequential adaptive allocation design, although other design settings can be used. We weight the prior information in two steps: the effective sample size approach is used to set the maximum desirable amount of information to be shared from historical data at each step of the trial; then, in a sort of Empirical Bayes approach, a commensurability parameter is chosen using a measure of distribution distance. This approach avoids elicitation and computational issues regarding the usual Empirical Bayes approach. We propose several versions of our method, and we conducted an extensive simulation study evaluating the robustness and sensitivity to prior choices.
+SN - 0962-2802
+M3  - doi: 10.1177/0962280219886609
+UR  - https://doi-org.crai.referencistas.com/10.1177/0962280219886609
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Effects of Fibrosis Morphology on Reentrant Ventricular Tachycardia Inducibility and Simulation Fidelity in Patient-Derived Models
+AU  - Ringenberg, Jordan
+AU  - Deo, Makarand
+AU  - Filgueiras-Rama, David
+AU  - Pizarro, Gonzalo
+AU  - Ibañez, Borja
+AU  - Peinado, Rafael
+AU  - Merino, José L.
+AU  - Berenfeld, Omer
+AU  - Devabhaktuni, Vijay
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.4137/CMC.S15712
+DO  - 10.4137/CMC.S15712
+T2  - Clinical Medicine Insights: Cardiology
+JF  - Clinical Medicine Insights: Cardiology
+JO  - Clin Med Insights Cardiol
+SP  -CMC.S15712
+VL - 8s1
+PB - SAGE Publications Ltd STM
+N2 - Myocardial fibrosis detected via delayed-enhanced magnetic resonance imaging (MRI) has been shown to be a strong indicator for ventricular tachycardia (VT) inducibility. However, little is known regarding how inducibility is affected by the details of the fibrosis extent, morphology, and border zone configuration. The objective of this article is to systematically study the arrhythmogenic effects of fibrosis geometry and extent, specifically on VT inducibility and maintenance. We present a set of methods for constructing patient-specific computational models of human ventricles using in vivo MRI data for patients suffering from hypertension, hypercholesterolemia, and chronic myocardial infarction. Additional synthesized models with morphologically varied extents of fibrosis and gray zone (GZ) distribution were derived to study the alterations in the arrhythmia induction and reentry patterns. Detailed electrophysiological simulations demonstrated that (1) VT morphology was highly dependent on the extent of fibrosis, which acts as a structural substrate, (2) reentry tended to be anchored to the fibrosis edges and showed transmural conduction of activations through narrow channels formed within fibrosis, and (3) increasing the extent of GZ within fibrosis tended to destabilize the structural reentry sites and aggravate the VT as compared to fibrotic regions of the same size and shape but with lower or no GZ. The approach and findings represent a significant step toward patient-specific cardiac modeling as a reliable tool for VT prediction and management of the patient. Sensitivities to approximation nuances in the modeling of structural pathology by image-based reconstruction techniques are also implicated.
+SN - 1179-5468
+M3  - doi: 10.4137/CMC.S15712
+UR  - https://doi-org.crai.referencistas.com/10.4137/CMC.S15712
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Vection Is Enhanced by Increased Exposure to Optic Flow
+AU  - Seno, Takeharu
+AU  - Murata, Kayoko
+AU  - Fujii, Yoshitaka
+AU  - Kanaya, Hidetoshi
+AU  - Ogawa, Masaki
+AU  - Tokunaga, Kousuke
+AU  - Palmisano, Stephen
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - doi: 10.1177/2041669518774069
+DO  - 10.1177/2041669518774069
+T2  - i-Perception
+JF  - i-Perception
+SP  -2041669518774069
+VL - 9
+IS - 3
+PB - SAGE Publications
+N2 - We examined whether vection strength could be modulated by altering the exposure duration to optic flow. Experiment 1 sourced 150 different video clips from various Japanese animation works which simulated self-motion. Despite large differences in the content of these video clips, we found a significant positive correlation between their play durations and their ratings of vection magnitude. Experiment 2 examined this relationship further using more tightly controlled visual motion stimuli. Vection was induced by presenting the motion of the same expanding grating stimulus for 8, 16, 32, or 64 seconds. While vection onset latencies remained constant across these four conditions, vection magnitude/strength was found to increase systematically with the exposure duration. As predicted by a recent computational model of vection, we conclude that subjective vection strength does depend on the exposure duration to optic flow.
+SN - 2041-6695
+M3  - doi: 10.1177/2041669518774069
+UR  - https://doi-org.crai.referencistas.com/10.1177/2041669518774069
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Multichannel optimization for electromyogram signals with complex features in a decomposition-based multi-objective evolution framework with adaptive angle selection
+AU  - Wang, Zheng
+AU  - Chen, Guoqi
+AU  - Li, Weikun
+AU  - Liu, Honghai
+AU  - Wang, Wanliang
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - doi: 10.1177/1729881420917016
+DO  - 10.1177/1729881420917016
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881420917016
+VL - 17
+IS - 2
+PB - SAGE Publications
+N2 - Intelligent manufacturing is a focus of current manufacturing research, and, in combination with the Internet, it enables accurate real-time control of intelligent equipment. Highly accurate real-time prosthesis control has very important applications in therapeutics, intelligent prosthesis, and other fields. However, the applicability of the current electromyogram signal recognition method is not strong because of multiple factors. These include considering one objective (correctness) only and the inability to consider differences of recognition accuracy between actions, to recognize the number of channels, or to recognize computational complexity. In this article, we propose a multi-objective evolutionary algorithm based on a decomposition-based multi-objective differential evolution framework to construct a multi-objective model for electromyogram signals with multiple features and channels. Such channels and features are balanced and selected by using a support vector machine as an electromyogram signal classifier. Results of substantial experiment analyses indicate that the multi-objective electromyogram signal recognition method is superior to the single-objective ant colony algorithm and that the decomposition-based multiobjective evolutionary algorithms with Angle-based updating and global margin ranking is better than the decomposition-based multi-objective evolutionary algorithm and decomposition-based multiobjective evolutionary algorithms with angle-based updating strategy in handling multi-objective models for electromyogram signals.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881420917016
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881420917016
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Decision Tree Algorithm–Generated Single-Nucleotide Polymorphism Barcodes of rbcL Genes for 38 Brassicaceae Species Tagging
+AU  - Yang, Cheng-Hong
+AU  - Wu, Kuo-Chuan
+AU  - Chuang, Li-Yeh
+AU  - Chang, Hsueh-Wei
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1177/1176934318760856
+DO  - 10.1177/1176934318760856
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -1176934318760856
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - DNA barcode sequences are accumulating in large data sets. A barcode is generally a sequence larger than 1000 base pairs and generates a computational burden. Although the DNA barcode was originally envisioned as straightforward species tags, the identification usage of barcode sequences is rarely emphasized currently. Single-nucleotide polymorphism (SNP) association studies provide us an idea that the SNPs may be the ideal target of feature selection to discriminate between different species. We hypothesize that SNP-based barcodes may be more effective than the full length of DNA barcode sequences for species discrimination. To address this issue, we tested a ribulose diphosphate carboxylase (rbcL) SNP barcoding (RSB) strategy using a decision tree algorithm. After alignment and trimming, 31 SNPs were discovered in the rbcL sequences from 38 Brassicaceae plant species. In the decision tree construction, these SNPs were computed to set up the decision rule to assign the sequences into 2 groups level by level. After algorithm processing, 37 nodes and 31 loci were required for discriminating 38 species. Finally, the sequence tags consisting of 31 rbcL SNP barcodes were identified for discriminating 38 Brassicaceae species based on the decision tree–selected SNP pattern using RSB method. Taken together, this study provides the rational that the SNP aspect of DNA barcode for rbcL gene is a useful and effective sequence for tagging 38 Brassicaceae species.
+SN - 1176-9343
+M3  - doi: 10.1177/1176934318760856
+UR  - https://doi-org.crai.referencistas.com/10.1177/1176934318760856
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The influence of interaction between orthogonal magnetic fibers on the capture of Fe-based fine particles by each fiber
+AU  - Zhang, Li’an
+AU  - Diao, Yongfa
+AU  - Chu, Minghao
+AU  - Jiang, Jie
+AU  - Shen, Henggen
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/15589250221093030
+DO  - 10.1177/15589250221093030
+T2  - Journal of Engineered Fibers and Fabrics
+JF  - Journal of Engineered Fibers and Fabrics
+SP  -15589250221093030
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - In this work, an existing method of capturing Fe-based fine particles by magnetic fiber is improved, and a weaving method for the fiber filter material is further determined. Different combinations of magnetic fields could form around the magnetic fibers, which change the interaction between orthogonal magnetic fibers when a uniform magnetic field is applied along the X-, Y-, and Z-axes. Therefore, the process of particle capture by the orthogonal magnetic fibers under three configurations was compared using the computational fluid dynamics-discrete phase model (CFD-DPM) and a special user-defined function (UDF) of the magnetic force. The results show that the interaction between orthogonal magnetic fibers could either inhibit or promote the capture of Fe-based fine particles by adjacent magnetic fibers. In industrial production, the magnetic filter material is suitable for the weaving method for the alternate use of magnetic and traditional fibers. When a uniform magnetic field is applied along the X-axis, this weaving method makes the capturing performance of orthogonal magnetic fiber best. Moreover, the magnetic characteristics, flow characteristics, and combination sequence of magnetic fields should be considered. This study provides scientific researchers with new insights for the development of novel high-efficiency fibrous filters to reduce particulate pollutants emissions.
+SN - 1558-9250
+M3  - doi: 10.1177/15589250221093030
+UR  - https://doi-org.crai.referencistas.com/10.1177/15589250221093030
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - UEG Week 2016 Oral Presentations
+UEG Week 2016 Oral Presentations
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.1177/2050640616663688
+DO  - 10.1177/2050640616663688
+T2  - United European Gastroenterology Journal
+JF  - United European Gastroenterology Journal
+SP  -A1
+EP - A156
+VL - 4
+IS - 5_suppl
+PB - SAGE Publications
+SN - 2050-6406
+M3  - doi: 10.1177/2050640616663688
+UR  - https://doi-org.crai.referencistas.com/10.1177/2050640616663688
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,248 @@
+TY  - JOUR
+T1  - DUDMap: 3D RGB-D mapping for dense, unstructured, and dynamic environment
+AU  - Hastürk, Özgür
+AU  - Erkmen, Aydan M.
+Y1  - 2021/05/01
+PY  - 2021
+DA  - 2021/05/01
+N1  - doi: 10.1177/17298814211016178
+DO  - 10.1177/17298814211016178
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -17298814211016178
+VL - 18
+IS - 3
+PB - SAGE Publications
+N2 - Simultaneous localization and mapping (SLAM) problem has been extensively studied by researchers in the field of robotics, however, conventional approaches in mapping assume a static environment. The static assumption is valid only in a small region, and it limits the application of visual SLAM in dynamic environments. The recently proposed state-of-the-art SLAM solutions for dynamic environments use different semantic segmentation methods such as mask R-CNN and SegNet; however, these frameworks are based on a sparse mapping framework (ORBSLAM). In addition, segmentation process increases the computational power, which makes these SLAM algorithms unsuitable for real-time mapping. Therefore, there is no effective dense RGB-D SLAM method for real-world unstructured and dynamic environments. In this study, we propose a novel real-time dense SLAM method for dynamic environments, where 3D reconstruction error is manipulated for identification of static and dynamic classes having generalized Gaussian distribution. Our proposed approach requires neither explicit object tracking nor object classifier, which makes it robust to any type of moving object and suitable for real-time mapping. Our method eliminates the repeated views and uses consistent data that enhance the performance of volumetric fusion. For completeness, we compare our proposed method using different types of high dynamic dataset, which are publicly available, to demonstrate the versatility and robustness of our approach. Experiments show that its tracking performance is better than other dense and dynamic SLAM approaches.
+SN - 1729-8806
+M3  - doi: 10.1177/17298814211016178
+UR  - https://doi-org.crai.referencistas.com/10.1177/17298814211016178
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Inflammation as a risk factor for stroke in atrial fibrillation: data from a microarray data analysis
+AU  - Li, Yingyuan
+AU  - Tan, Wulin
+AU  - Ye, Fang
+AU  - Wen, Shihong
+AU  - Hu, Rong
+AU  - Cai, Xiaoying
+AU  - Wang, Kebing
+AU  - Wang, Zhongxing
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - doi: 10.1177/0300060520921671
+DO  - 10.1177/0300060520921671
+T2  - Journal of International Medical Research
+JF  - Journal of International Medical Research
+JO  - J Int Med Res
+SP  -0300060520921671
+VL - 48
+IS - 5
+PB - SAGE Publications Ltd
+N2 - Objective Stroke is a severe complication of atrial fibrillation (AF). We aimed to discover key genes and microRNAs related to stroke risk in patients with AF using bioinformatics analysis. Methods GSE66724 microarray data, including peripheral blood samples from eight patients with AF and stroke and eight patients with AF without stroke, were downloaded from the Gene Expression Omnibus (GEO) database. Differentially expressed genes (DEGs) between AF patients with and without stroke were identified using the GEO2R online tool. Functional enrichment analysis was performed using the DAVID database. A protein–protein interaction (PPI) network was obtained using the STRING database. MicroRNAs (miRs) targeting these DEGs were obtained from the miRNet database. A miR–DEG network was constructed using Cytoscape software. Results We identified 165 DEGs (141 upregulated and 24 downregulated). Enrichment analysis showed enrichment of certain inflammatory processes. The miR–DEG network revealed key genes, including MEF2A, CAND1, PELI1, and PDCD4, and microRNAs, including miR-1, miR-1-3p, miR-21, miR-21-5p, miR-192, miR-192-5p, miR-155, and miR-155-5p. Conclusion Dysregulation of certain genes and microRNAs involved in inflammation may be associated with a higher risk of stroke in patients with AF. Evaluating these biomarkers could improve prediction, prevention, and treatment of stroke in patients with AF.
+SN - 0300-0605
+M3  - doi: 10.1177/0300060520921671
+UR  - https://doi-org.crai.referencistas.com/10.1177/0300060520921671
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Notes on Structuralism: Introduction
+AU  - Manghani, Sunil
+Y1  - 2022/12/01
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1177/02632764221141823
+DO  - 10.1177/02632764221141823
+T2  - Theory, Culture & Society
+JF  - Theory, Culture & Society
+SP  -117
+EP - 131
+VL - 39
+IS - 7–8
+PB - SAGE Publications Ltd
+N2 - This commentary introduces a section of the journal titled ‘Notes on Structuralism’. It centres around two interviews. The first, from 1987, is with the structural anthropologist Mary Douglas (who speaks on various aspects of her work, including on Purity and Danger). The second is an interview with Roland Barthes, who, speaking in 1965, was at the height of his structuralist phase. The interview focuses upon the structural analysis of narrative and prefigures the well-known volume of Communications on the subject. The interviews are supplemented with introductions and: a commentary on Barthes’ interview by Jonathan Culler, who contextualizes the development of Barthes’ thinking around narrative (as it leads to the publication of S/Z), The article concludes with reflections on structuralism with regards to contemporary practices of big data, AI and large language models.
+SN - 0263-2764
+M3  - doi: 10.1177/02632764221141823
+UR  - https://doi-org.crai.referencistas.com/10.1177/02632764221141823
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Cutting Through the Comment Chaos: A Supervised Machine Learning Approach to Identifying Relevant YouTube Comments
+AU  - Möller, A. Marthe
+AU  - Vermeer, Susan A.M.
+AU  - Baumgartner, Susanne E.
+Y1  - 2023/05/16
+PY  - 2024
+DA  - 2024/02/01
+N1  - doi: 10.1177/08944393231173895
+DO  - 10.1177/08944393231173895
+T2  - Social Science Computer Review
+JF  - Social Science Computer Review
+SP  -162
+EP - 185
+VL - 42
+IS - 1
+PB - SAGE Publications Inc
+N2 - Social scientists often study comments on YouTube to learn about people’s attitudes towards and experiences of online videos. However, not all YouTube comments are relevant in the sense that they reflect individuals’ thoughts about, or experiences of the content of a video or its artist/maker. Therefore, the present paper employs Supervised Machine Learning to automatically assess comments written in response to music videos in terms of their relevance. For those comments that are relevant, we also assess why they are relevant. Our results indicate that most YouTube comments are relevant (approx. 78%). Among those, most are relevant because they include a positive evaluation of the video, describe a viewer’s personal experience related to the video, or express a sense of community among the video viewers. We conclude that Supervised Machine Learning is a suitable method to find those YouTube comments that are relevant to scholars studying viewers’ reactions to online videos, and we present suggestions for scholars wanting to apply the same technique in their own projects.
+SN - 0894-4393
+M3  - doi: 10.1177/08944393231173895
+UR  - https://doi-org.crai.referencistas.com/10.1177/08944393231173895
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - How many heuristics are enough? Testing a parsimonious theory of possibility generation in problem-solving
+AU  - Ormerod, Thomas C.
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1177/27538699241237321
+DO  - 10.1177/27538699241237321
+T2  - Possibility Studies & Society
+JF  - Possibility Studies & Society
+SP  -107
+EP - 124
+VL - 2
+IS - 1
+PB - SAGE Publications
+N2 - Despite widespread recognition of the need for general-purpose mechanisms in unified theories of cognition, accounts of human thinking often propose that performance is best explained by task- or problem-specific knowledge and heuristics, elements found even in theories proposing general-purpose mechanisms. Here, we argue that many of the effects explained by task- or problem-specific knowledge or heuristics can be better explained by two general mechanisms: maximisation of progress and learning from experience. In Experiment 1, performance on the Taxicab problem, variously described as requiring or not requiring insight, was unaffected by removal of content presumed to trigger a problem-specific heuristic. In Experiment 2, the order of move selection in the Hobbits and Orcs problem, usually described as a transformation problem that does not require insight to solve, was successfully modelled by a maximisation heuristic with conceptual encoding of intermediate states, irrespective of problem context. In Experiment 3, solution rates to the eight-coin puzzle, a problem generally accepted as requiring insight to solve, were increased by cueing moves. A parsimonious theory, based on progress maximisation plus conceptual learning during solution, appears sufficient to model performance across a wide range of problems.
+SN - 2753-8699
+M3  - doi: 10.1177/27538699241237321
+UR  - https://doi-org.crai.referencistas.com/10.1177/27538699241237321
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The role of spreading depolarizations and electrographic seizures in early injury progression of the rat photothrombosis stroke model
+AU  - Schoknecht, Karl
+AU  - Kikhia, Majed
+AU  - Lemale, Coline L.
+AU  - Liotta, Agustin
+AU  - Lublinsky, Svetlana
+AU  - Mueller, Susanne
+AU  - Boehm-Sturm, Philipp
+AU  - Friedman, Alon
+AU  - Dreier, Jens P.
+Y1  - 2020/04/02
+PY  - 2021
+DA  - 2021/02/01
+N1  - doi: 10.1177/0271678X20915801
+DO  - 10.1177/0271678X20915801
+T2  - Journal of Cerebral Blood Flow & Metabolism
+JF  - Journal of Cerebral Blood Flow & Metabolism
+JO  - J Cereb Blood Flow Metab
+SP  -413
+EP - 430
+VL - 41
+IS - 2
+PB - SAGE Publications Ltd STM
+N2 - Spreading depolarization (SD) and seizures are pathophysiological events associated with cerebral ischemia. Here, we investigated their role for injury progression in the cerebral cortex. Cerebral ischemia was induced in anesthetized male Wistar rats using the photothrombosis (PT) stroke model. SD and spontaneous neuronal activity were recorded in the presence of either urethane or ketamine/xylazine anesthesia. Blood–brain barrier (BBB) permeability, cerebral perfusion, and cellular damage were assessed through a cranial window and repeated intravenous injection of fluorescein sodium salt and propidium iodide until 4 h after PT. Neuronal injury and early lesion volume were quantified by stereological cell counting and manual and automated assessment of ex vivo T2-weighted magnetic resonance imaging. Onset SDs originated at the thrombotic core and invaded neighboring cortex, whereas delayed SDs often showed opposite propagation patterns. Seizure induction by 4-aminopyridine caused no increase in lesion volume or neuronal injury in urethane-anesthetized animals. Ketamine/xylazine anesthesia was associated with a lower number of onset SDs, reduced lesion volume, and neuronal injury despite a longer duration of seizures. BBB permeability increase inversely correlated with the number of SDs at 3 and 4 h after PT. Our results provide further evidence that ketamine may counteract the early progression of ischemic injury.
+SN - 0271-678X
+M3  - doi: 10.1177/0271678X20915801
+UR  - https://doi-org.crai.referencistas.com/10.1177/0271678X20915801
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical Simulation on the Residual Stress Induction due to Welding Process and Assessment by the Application of the Crack Compliance Method
+AU  - Urriolagoitia-Sosa, Guillermo
+AU  - Pérez-Cabrera, Armando
+AU  - Romero-Ángeles, Beatriz
+AU  - Rodríguez-Martínez, Rafael
+AU  - Molina-Ballinas, Arafat
+AU  - Torres-San Miguel, Christopher Rene
+AU  - Hernández-Gómez, Luis Héctor
+AU  - Urriolagoitia-Calderón, Guillermo
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1155/2013/537493
+DO  - 10.1155/2013/537493
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -537493
+VL - 5
+PB - SAGE Publications
+N2 - Residual stresses are mechanical effects that remain in a body after all external loads have been removed. In this sense and because a weldment is locally heated by a welding heat source, the temperature distribution is not uniform and changes as welding progresses. During the welding thermal cycle, complex transient thermal stresses are produced in the weldment and the surrounding joint. With the advancement of modern computers and computational techniques (such as the finite-element and the finite-difference methods), a renewed effort has been made in recent years to study and simulate residual stresses and the related phenomena. This paper discusses the procedure applying a finite element analysis by a 2D model to determine the residual stresses and distortions of steel AISI 316 bars under an arc welding process; additionally, the state of the stresses in the component is determined by the application of the crack compliance method (CCM); this is destructive experimental method based on fracture mechanics theory. This research also demonstrates that the residual stress distribution and the magnitude inducted into the component must be carefully assessed, or it could result in a component susceptible to failure.
+SN - 1687-8132
+M3  - doi: 10.1155/2013/537493
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/537493
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A square root unscented Kalman filter for multiple view geometry based stereo cameras/inertial navigation
+AU  - Xian, Zhiwen
+AU  - Lian, Junxiang
+AU  - Shan, Mao
+AU  - Zhang, Lilian
+AU  - He, Xiaofeng
+AU  - Hu, Xiaoping
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1177/1729881416664850
+DO  - 10.1177/1729881416664850
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881416664850
+VL - 13
+IS - 5
+PB - SAGE Publications
+N2 - Exact motion estimation is one of the major tasks in autonomous navigation. Conventional Global Positioning System-aided inertial navigation systems are able to provide accurate locations. However, they are limited when used in a Global Positioning System-denied environment. In this paper, we present a square root unscented Kalman filter-based approach for navigation by using stereo cameras and an inertial sensor only. The main contribution of this work is the development of a novel measurement model by applying multiple view geometry constraints to the stereo cameras/inertial system. The measurement model does not require the three-dimensional feature position in the state vector of the filter, which substantially reduces the size of the state vector and the computational burden. To incorporate this nonlinear and complex measurement model, a variant of the square root unscented Kalman filter-based algorithm is also proposed. The root of the state covariance is propagated and updated directly in the square root unscented Kalman filter, thereby avoiding the decomposition of the state covariance and improving the stability of our algorithm. Experimental results based on a real outdoor dataset are presented to demonstrate the feasibility and the accuracy of the proposed approach.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881416664850
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881416664850
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - “We are snowflakes”: Minor transnationalism and the cultural resilience of slash fanfiction community in China
+AU  - Xiao, Fan
+Y1  - 2023/07/12
+PY  - 2023
+DA  - 2023/12/01
+N1  - doi: 10.1177/20594364231188350
+DO  - 10.1177/20594364231188350
+T2  - Global Media and China
+JF  - Global Media and China
+SP  -480
+EP - 505
+VL - 8
+IS - 4
+PB - SAGE Publications Ltd
+N2 - This article examines the cultural resilience of the Chinese slash fanfiction subculture. Popular among Chinese youth, the writing and reading of slash are subjected to increasingly stringent regulations due to changes in the political environment. Drawing from the theoretical framework of minor transnationalism, the current study situates the development of the Chinese slash community in the context of post-socialist reform and globalization, arguing that slash fanfiction is a form of non-institutional, border-crossing cultural practice that challenges orthodox heteronormativity in nationalistic discourses. Foregrounding the double-edge-sword role of digital platforms, this article dissects the cultural resilience of the Chinese slash community—manifested as various strategies in keeping the viability of their cultural practices, including cultural enclosure, border-crossing platform-switching, and social media activism. This article contributes to the study of subcultures by bringing a transnational perspective that focuses on continuous, resilient cultural practices in negotiations of alternative cultural and political agendas. Methodologically, it also contributes to social media ethnographic research by testing out a comprehensive toolkit that combines close reading with computational text-mining and visual network analysis in the analysis of multimodal social media discourses.
+SN - 2059-4364
+M3  - doi: 10.1177/20594364231188350
+UR  - https://doi-org.crai.referencistas.com/10.1177/20594364231188350
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Biologically Inspired Self-Stabilizing Control for Bipedal Robots
+AU  - Yang, Woosung
+AU  - Kim, Hyungjoo
+AU  - You, Bum Jae
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - doi: 10.5772/55463
+DO  - 10.5772/55463
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -144
+VL - 10
+IS - 2
+PB - SAGE Publications
+N2 - Despite recent major advances in computational power and control algorithms, the stable and robust control of a bipedal robot is still a challenging issue due to the complexity and high nonlinearity of robot dynamics. To address the issue an efficient and powerful alternative based on a biologically inspired control framework employing neural oscillators is proposed and tested. In a numerical test the virtual force controller combined with the neural oscillator of a humanoid robot generated rhythmic control signals and stable bipedal locomotion when coupled with proper impedance components. The entrainment nature inherent to neural oscillators also achieved stable and robust walking even in the presence of unexpected disturbances, in that the centre of mass (COM) was successfully kept in phase with the zero moment point (ZMP) input trajectory. The efficiency of the proposed control scheme is discussed alongside simulation results.
+SN - 1729-8806
+M3  - doi: 10.5772/55463
+UR  - https://doi-org.crai.referencistas.com/10.5772/55463
+Y2  - 2024/10/01
+ER  - 
+

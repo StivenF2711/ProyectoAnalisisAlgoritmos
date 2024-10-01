@@ -1,0 +1,256 @@
+TY  - JOUR
+T1  - Ikaros: A framework for controlling robots with system-level brain models
+AU  - Balkenius, Christian
+AU  - Johansson, Birger
+AU  - Tjøstheim, Trond A.
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - doi: 10.1177/1729881420925002
+DO  - 10.1177/1729881420925002
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881420925002
+VL - 17
+IS - 3
+PB - SAGE Publications
+N2 - Ikaros is an open framework for system-level brain modeling and real-time robot control. Version 2 of the system includes a range of computational components that implements various algorithms and methods ranging from models of neural circuits to control systems and hardware interfaces for robot. Ikaros supports the design and implementation of large-scale computation models using a flow programming paradigm. Version 2 includes a number of new features that support complex networks of hierarchically arranged components as well as a web-based interactive editor. More than 100 persons have contributed to the code base and over 100 scientific publications report on work that has used Ikaros for simulations or robot control.
+SN - 1729-8806
+M3  - doi: 10.1177/1729881420925002
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881420925002
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Prediction of blast loading in an internal environment using artificial neural networks
+AU  - Dennis, Adam A.
+AU  - Pannell, Jordan J.
+AU  - Smyl, Danny J.
+AU  - Rigby, Samuel E.
+Y1  - 2020/11/08
+PY  - 2021
+DA  - 2021/09/01
+N1  - doi: 10.1177/2041419620970570
+DO  - 10.1177/2041419620970570
+T2  - International Journal of Protective Structures
+JF  - International Journal of Protective Structures
+SP  -287
+EP - 314
+VL - 12
+IS - 3
+PB - SAGE Publications
+N2 - Explosive loading in a confined internal environment is highly complex and is driven by nonlinear physical processes associated with reflection and coalescence of multiple shock fronts. Prediction of this loading is not currently feasible using simple tools, and instead specialist computational software or practical testing is required, which are impractical for situations with a wide range of input variables. There is a need to develop a tool which balances the accuracy of experiments or physics-based numerical schemes with the simplicity and low computational cost of an engineering-level predictive approach. Artificial neural networks (ANNs) are formed of a collection of neurons that process information via a series of connections. When fully trained, ANNs are capable of replicating and generalising multi-parameter, high-complexity problems and are able to generate new predictions for unseen problems (within the bounds of the training variables). This article presents the development and rigorous testing of an ANN to predict blast loading in a confined internal environment. The ANN was trained using validated numerical modelling data, and key parameters relating to formulation of the training data and network structure were critically analysed in order to maximise the predictive capability of the network. The developed network was generally able to predict specific impulses to within 10% of the numerical data: 90% of specific impulses in the unseen testing data, and between 81% and 87% of specific impulses for data from four additional unseen test models, were predicted to this accuracy. The network was highly capable of generalising in areas adjacent to reflecting surfaces and as those close to ambient outflow boundaries. It is shown that ANNs are highly suited to modelling blast loading in a confined internal environment, with significant improvements in accuracy achievable if a robust, well distributed training dataset is used with a network structure that is tailored to the problem being solved.
+SN - 2041-4196
+M3  - doi: 10.1177/2041419620970570
+UR  - https://doi-org.crai.referencistas.com/10.1177/2041419620970570
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of Aneuploidy Spectrum From Whole-Genome Sequencing Provides Rapid Assessment of Clonal Variation Within Established Cancer Cell Lines
+AU  - Khalil, Ahmed Ibrahim Samir
+AU  - Chattopadhyay, Anupam
+AU  - Sanyal, Amartya
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/11769351211049236
+DO  - 10.1177/11769351211049236
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -11769351211049236
+VL - 20
+PB - SAGE Publications Ltd STM
+N2 - Background: The revolution in next-generation sequencing (NGS) technology has allowed easy access and sharing of high-throughput sequencing datasets of cancer cell lines and their integrative analyses. However, long-term passaging and culture conditions introduce high levels of genomic and phenotypic diversity in established cell lines resulting in strain differences. Thus, clonal variation in cultured cell lines with respect to the reference standard is a major barrier in systems biology data analyses. Therefore, there is a pressing need for a fast and entry-level assessment of clonal variations within cell lines using their high-throughput sequencing data. Results: We developed a Python-based software, AStra, for de novo estimation of the genome-wide segmental aneuploidy to measure and visually interpret strain-level similarities or differences of cancer cell lines from whole-genome sequencing (WGS). We demonstrated that aneuploidy spectrum can capture the genetic variations in 27 strains of MCF7 breast cancer cell line collected from different laboratories. Performance evaluation of AStra using several cancer sequencing datasets revealed that cancer cell lines exhibit distinct aneuploidy spectra which reflect their previously-reported karyotypic observations. Similarly, AStra successfully identified large-scale DNA copy number variations (CNVs) artificially introduced in simulated WGS datasets. Conclusions: AStra provides an analytical and visualization platform for rapid and easy comparison between different strains or between cell lines based on their aneuploidy spectra solely using the raw BAM files representing mapped reads. We recommend AStra for rapid first-pass quality assessment of cancer cell lines before integrating scientific datasets that employ deep sequencing. AStra is an open-source software and is available at https://github.com/AISKhalil/AStra.
+SN - 1176-9351
+M3  - doi: 10.1177/11769351211049236
+UR  - https://doi-org.crai.referencistas.com/10.1177/11769351211049236
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Quad Harmony Search Algorithm for Grid-Based Path Finding
+AU  - Koceski, Saso
+AU  - Panov, Stojanche
+AU  - Koceska, Natasa
+AU  - Zobel, Pierluigi Beomonte
+AU  - Durante, Francesco
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/09/01
+N1  - doi: 10.5772/58875
+DO  - 10.5772/58875
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -144
+VL - 11
+IS - 9
+PB - SAGE Publications
+N2 - A novel approach to the problem of grid-based path finding has been introduced. The method is a block-based search algorithm, founded on the bases of two algorithms, namely the quad-tree algorithm, which offered a great opportunity for decreasing the time needed to compute the solution, and the harmony search (HS) algorithm, a meta-heuristic algorithm used to obtain the optimal solution. This quad HS algorithm uses the quad-tree decomposition of free space in the grid to mark the free areas and treat them as a single node, which greatly improves the execution. The results of the quad HS algorithm have been compared to other meta-heuristic algorithms, i.e., ant colony, genetic algorithm, particle swarm optimization and simulated annealing, and it was proved to obtain the best results in terms of time and giving the optimal path.
+SN - 1729-8806
+M3  - doi: 10.5772/58875
+UR  - https://doi-org.crai.referencistas.com/10.5772/58875
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The short-term effects of ORKAMBI (lumacaftor/ivacaftor) on regional and distal lung structures using functional respiratory imaging
+AU  - AU  - Lauwers, Eline
+AU  - Belmans, Dennis
+AU  - Mignot, Benjamin
+AU  - Ides, Kris
+AU  - Van Hoorenbeeck, Kim
+AU  - Snoeckx, Annemiek
+AU  - Van Holsbeke, Cedric
+AU  - Nowé, Vicky
+AU  - Van Braeckel, Eva
+AU  - De Backer, Wilfried
+et al.
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/17534666211046774
+DO  - 10.1177/17534666211046774
+T2  - Therapeutic Advances in Respiratory Disease
+JF  - Therapeutic Advances in Respiratory Disease
+JO  - Ther Adv Respir Dis
+SP  -17534666211046774
+VL - 15
+PB - SAGE Publications Ltd STM
+N2 - Background: Lumacaftor/ivacaftor (LUM/IVA) has shown modest benefits in previous research, but the exact effects in the cystic fibrosis (CF) lung remain unclear. This study aims to offer novel information on the mode of action of the cystic fibrosis transmembrane conductance regulator (CFTR)-modulating drug by assessing lung structure and function using functional respiratory imaging (FRI). Methods: CF patients aged ⩾12 years homozygous for F508del were recruited in an open-label study. Before and after 12 weeks of treatment with LUM/IVA, FRI was used to visualize regional information, such as air trapping, lobar volume and airway wall volume. Secondary outcomes included the CF-CT scoring system, spirometry, the Cystic Fibrosis Questionnaire–Revised (CFQ-R) questionnaire, exercise tolerance and nutritional status. Results: Of the 12 patients enrolled in the study, 11 completed all study visits. Concerning the FRI parameters, hyperinflation of the lung decreased, indicated by a reduction in air trapping and lobar volume at expiration. Also, a decrease in airway wall volume and a redistribution of pulmonary blood volume were noted, which might be related to a decrease in mucus impaction. Airway resistance, airway volume, internal airflow distribution and aerosol deposition pattern did not show significant changes. No significant improvements were found in any of the CF-CT scores or in the spirometric parameters. Other secondary outcomes showed similar results compared with previous research. Correlations at baseline were found between FRI and conventional outcomes, including physical functioning, spirometry and CF-CT scores. Conclusions: LUM/IVA decreased lung hyperinflation in combination with a potential decrease in mucus impaction, which can be related to an improved mucociliary transport. These results indicate that several FRI parameters, reflecting regional and distal lung structures, are more sensitive to changes caused by LUM/IVA than conventional respiratory outcomes.
+SN - 1753-4666
+M3  - doi: 10.1177/17534666211046774
+UR  - https://doi-org.crai.referencistas.com/10.1177/17534666211046774
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Distributional Fractal Creating Algorithm in Parallel Environment
+AU  - Liu, Shuai
+AU  - Fu, Weina
+AU  - Deng, Huimin
+AU  - Lan, Caihe
+AU  - Zhou, Jiantao
+Y1  - 2013/09/01
+PY  - 2013
+DA  - 2013/09/01
+N1  - doi: 10.1155/2013/281707
+DO  - 10.1155/2013/281707
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -281707
+VL - 9
+IS - 9
+PB - SAGE Publications
+N2 - Nowadays, the fractal is used widely everywhere. Then, its creating time becomes an important study area for complex iteration functions because the escape-time algorithm (ETA), which is the most used algorithm in fractal creating, performs not so well in this condition. In this paper, in order to solve this problem, we improve ETA into the parallel environment and reach well performance. At first, we provide a separation method of ETA to reform it into a SIMC-MC2 grid. Secondly, we prove its correctness and compute the complexity of this novel parallel algorithm. Meantime, we separate an improved ETA which we have presented into the same parallel environment and compute its complexity. Additionally, theoretical and experimental results show the characteristics of this novel algorithm. Finally, the computational result shows that a novel environment is needed to decrease large manual allocation strategies, which block the improved benefit.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/281707
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/281707
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical and experimental studies of gas–liquid flow and pressure drop in multiphase pump valves
+AU  - Ma, Yi
+AU  - Zhang, Minjia
+AU  - Luo, Huashuai
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1177/0036850420940885
+DO  - 10.1177/0036850420940885
+T2  - Science Progress
+JF  - Science Progress
+SP  -0036850420940885
+VL - 103
+IS - 3
+PB - SAGE Publications Ltd
+N2 - A numerical and experimental study was carried out to investigate the two-phase flow fields of the typical three valves used in the multiphase pumps. Under the gas volume fraction conditions in the range of 0%–100%, the three-dimensional steady and dynamic two-phase flow characteristics, pressure drops, and their multipliers of the ball valve, cone valve, and disk valve were studied, respectively, using Eulerian–Eulerian approach and dynamic grid technique in ANSYS FLUENT. In addition, a valve test system was built to verify the simulated results by the particle image velocimetry and pressure test. The flow coefficient CQ (about 0.989) of the disk valve is greater than those of the other valves (about 0.864) under the steady flow with a high Reynolds number. The two-phase pressure drops of the three valves fluctuate in different forms with the vibration of the cores during the dynamic opening. The two-phase multipliers of the fully opened ball valve are consistent with the predicted values of the Morris model, while those of the cone valve and disk valve had the smallest differences with the predicted values of the Chisholm model. Through the comprehensive analysis of the flow performance, pressure drop, and dynamic stability of the three pump valves, the disk valve is found to be more suitable for the multiphase pumps due to its smaller axial space, resistance loss, and better flow capacity.
+SN - 0036-8504
+M3  - doi: 10.1177/0036850420940885
+UR  - https://doi-org.crai.referencistas.com/10.1177/0036850420940885
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An Investigation into the Temporal Reproducibility of Tryptophan Metabolite Networks Among Healthy Adolescents
+AU  - Oluwagbemigun, Kolade
+AU  - Anesi, Andrea
+AU  - Clarke, Gerard
+AU  - Schmid, Matthias
+AU  - Mattivi, Fulvio
+AU  - Nöthlings, Ute
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/11786469211041376
+DO  - 10.1177/11786469211041376
+T2  - International Journal of Tryptophan Research
+JF  - International Journal of Tryptophan Research
+JO  - Int J�Tryptophan�Res
+SP  -11786469211041376
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Tryptophan and its bioactive metabolites are associated with health conditions such as systemic inflammation, cardiometabolic diseases, and neurodegenerative disorders. There are dynamic interactions among metabolites of tryptophan. The interactions between metabolites, particularly those that are strong and temporally reproducible could be of pathophysiological relevance. Using a targeted metabolomics approach, the concentration levels of tryptophan and 18 of its metabolites across multiple pathways was quantified in 24-hours urine samples at 2 time-points, age 17 years (baseline) and 18 years (follow-up) from 132 (52% female) apparently healthy adolescent participants of the DOrtmund Nutritional and Anthropometric Longitudinally Designed (DONALD) Study. In sex-specific analyses, we applied 2 network approaches, the Gaussian graphical model and Bayesian network to (1) explore the network structure for both time-points, (2) retrieve strongly related metabolites, and (3) determine whether the strongly related metabolites were temporally reproducible. Independent of selected covariates, the 2 network approaches revealed 5 associations that were strong and temporally reproducible. These were novel relationships, between kynurenic acid and indole-3-acetic acid in females and between kynurenic acid and xanthurenic acid in males, as well as known relationships between kynurenine and 3-hydroxykynurenine, and between 3-hydroxykynurenine and 3-hydroxyanthranilic acid in females and between tryptophan and kynurenine in males. Overall, this epidemiological study using network-based approaches shed new light into tryptophan metabolism, particularly the interaction of host and microbial metabolites. The 5 observed relationships suggested the existence of a temporally stable pattern of tryptophan and 6 metabolites in healthy adolescent, which could be further investigated in search of fingerprints of specific physiological states. The metabolites in these relationships may represent a multi-biomarker panel that could be informative for health outcomes.
+SN - 1178-6469
+M3  - doi: 10.1177/11786469211041376
+UR  - https://doi-org.crai.referencistas.com/10.1177/11786469211041376
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A dialogue model of belief
+AU  - Walton, Douglas
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.1080/19462160903494576
+DO  - 10.1080/19462160903494576
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -23
+EP - 46
+VL - 1
+IS - 1
+PB - SAGE Publications
+N2 - This paper offers a new model of belief by embedding the Peircean account of belief into a formal dialogue system that uses argumentation schemes for practical reasoning and abductive reasoning. A belief is characterised as a stable proposition that is derived abductively by one agent in a dialogue from the commitment set (including commitments derived from actions and goals) of another agent. On the model (to give a rough summary), a belief is defined as a proposition held by an agent that (1) is not easily changed (stable), (2) is a matter of degree (held more or less weakly or strongly), (3) guides the goals and actions of the agent, and (4) is habitually or tenaciously held in a manner that indicates a strong commitment to defend it. It is argued that the new model overcomes the pervasive conflict in artificial intelligence between the belief-desire-intention model of reasoning and the commitment model.
+SN - 1946-2166
+M3  - doi: 10.1080/19462160903494576
+UR  - https://doi-org.crai.referencistas.com/10.1080/19462160903494576
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Genetics and Crime: Integrating New Genomic Discoveries Into Psychological Research About Antisocial Behavior
+AU  - AU  - Wertz, J.
+AU  - Caspi, A.
+AU  - Belsky, D.W.
+AU  - Beckley, A.L.
+AU  - Arseneault, L.
+AU  - Barnes, J.C.
+AU  - Corcoran, D.L.
+AU  - Hogan, S.
+AU  - Houts, R.M.
+AU  - Morgan, N.
+et al.
+Y1  - 2018/03/07
+PY  - 2018
+DA  - 2018/05/01
+N1  - doi: 10.1177/0956797617744542
+DO  - 10.1177/0956797617744542
+T2  - Psychological Science
+JF  - Psychological Science
+JO  - Psychol Sci
+SP  -791
+EP - 803
+VL - 29
+IS - 5
+PB - SAGE Publications Inc
+N2 - Drawing on psychological and sociological theories of crime causation, we tested the hypothesis that genetic risk for low educational attainment (assessed via a genome-wide polygenic score) is associated with criminal offending. We further tested hypotheses of how polygenic risk relates to the development of antisocial behavior from childhood through adulthood. Across the Dunedin and Environmental Risk (E-Risk) birth cohorts of individuals growing up 20 years and 20,000 kilometers apart, education polygenic scores predicted risk of a criminal record with modest effects. Polygenic risk manifested during primary schooling in lower cognitive abilities, lower self-control, academic difficulties, and truancy, and it was associated with a life-course-persistent pattern of antisocial behavior that onsets in childhood and persists into adulthood. Crime is central in the nature-nurture debate, and findings reported here demonstrate how molecular-genetic discoveries can be incorporated into established theories of antisocial behavior. They also suggest that improving school experiences might prevent genetic influences on crime from unfolding.
+SN - 0956-7976
+M3  - doi: 10.1177/0956797617744542
+UR  - https://doi-org.crai.referencistas.com/10.1177/0956797617744542
+Y2  - 2024/10/01
+ER  - 
+

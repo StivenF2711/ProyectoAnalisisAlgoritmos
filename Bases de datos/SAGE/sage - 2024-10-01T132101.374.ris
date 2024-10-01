@@ -1,0 +1,251 @@
+TY  - JOUR
+T1  - A lightweight deep learning approach for COVID-19 detection using X-ray images with edge federation
+AU  - Alvi, Sohaib Bin Khalid
+AU  - Nayyer, Muhammad Ziad
+AU  - Jamal, Muhammad Hasan
+AU  - Raza, Imran
+AU  - de la Torre Diez, Isabel
+AU  - Velasco, Carmen Lili Rodriguez
+AU  - Brenosa, Jose Manuel
+AU  - Ashraf, Imran
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/20552076231203604
+DO  - 10.1177/20552076231203604
+T2  - DIGITAL HEALTH
+JF  - DIGITAL HEALTH
+SP  -20552076231203604
+VL - 9
+PB - SAGE Publications Ltd
+N2 - Objective This study aims to develop a lightweight convolutional neural network-based edge federated learning architecture for COVID-19 detection using X-ray images, aiming to minimize computational cost, latency, and bandwidth requirements while preserving patient privacy. Method The proposed method uses an edge federated learning architecture to optimize task allocation and execution. Unlike in traditional edge networks where requests from fixed nodes are handled by nearby edge devices or remote clouds, the proposed model uses an intelligent broker within the federation to assess member edge cloudlets’ parameters, such as resources and hop count, to make optimal decisions for task offloading. This approach enhances performance and privacy by placing tasks in closer proximity to the user. DenseNet is used for model training, with a depth of 60 and 357,482 parameters. This resource-aware distributed approach optimizes computing resource utilization within the edge-federated learning architecture. Results The experimental results demonstrate significant improvements in various performance metrics. The proposed method reduces training time by 53.1%, optimizes CPU and memory utilization by 17.5% and 33.6%, and maintains accurate COVID-19 detection capabilities without compromising the F1 score, demonstrating the efficiency and effectiveness of the lightweight convolutional neural network-based edge federated learning architecture. Conclusion Existing studies predominantly concentrate on either privacy and accuracy or load balancing and energy optimization, with limited emphasis on training time. The proposed approach offers a comprehensive performance-centric solution that simultaneously addresses privacy, load balancing, and energy optimization while reducing training time, providing a more holistic and balanced solution for optimal system performance.
+SN - 2055-2076
+M3  - doi: 10.1177/20552076231203604
+UR  - https://doi-org.crai.referencistas.com/10.1177/20552076231203604
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using Collaborative Simulation Modeling to Develop a Web-Based Tool to Support Policy-Level Decision Making About Breast Cancer Screening Initiation Age
+AU  - AU  - Burnside, Elizabeth S.
+AU  - Lee, Sandra J.
+AU  - Bennette, Carrie
+AU  - Near, Aimee M.
+AU  - Alagoz, Oguzhan
+AU  - Huang, Hui
+AU  - van den Broek, Jeroen J.
+AU  - Kim, Joo Yeon
+AU  - Ergun, Mehmet A.
+AU  - van Ravesteyn, Nicolien T.
+et al.
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - doi: 10.1177/2381468317717982
+DO  - 10.1177/2381468317717982
+T2  - MDM Policy & Practice
+JF  - MDM Policy & Practice
+SP  -2381468317717982
+VL - 2
+IS - 2
+PB - SAGE Publications Inc
+N2 - Background: There are no publicly available tools designed specifically to assist policy makers to make informed decisions about the optimal ages of breast cancer screening initiation for different populations of US women. Objective: To use three established simulation models to develop a web-based tool called Mammo OUTPuT. Methods: The simulation models use the 1970 US birth cohort and common parameters for incidence, digital screening performance, and treatment effects. Outcomes include breast cancers diagnosed, breast cancer deaths averted, breast cancer mortality reduction, false-positive mammograms, benign biopsies, and overdiagnosis. The Mammo OUTPuT tool displays these outcomes for combinations of age at screening initiation (every year from 40 to 49), annual versus biennial interval, lifetime versus 10-year horizon, and breast density, compared to waiting to start biennial screening at age 50 and continuing to 74. The tool was piloted by decision makers (n = 16) who completed surveys. Results: The tool demonstrates that benefits in the 40s increase linearly with earlier initiation age, without a specific threshold age. Likewise, the harms of screening increase monotonically with earlier ages of initiation in the 40s. The tool also shows users how the balance of benefits and harms varies with breast density. Surveys revealed that 100% of users (16/16) liked the appearance of the site; 94% (15/16) found the tool helpful; and 94% (15/16) would recommend the tool to a colleague. Conclusions: This tool synthesizes a representative subset of the most current CISNET (Cancer Intervention and Surveillance Modeling Network) simulation model outcomes to provide policy makers with quantitative data on the benefits and harms of screening women in the 40s. Ultimate decisions will depend on program goals, the population served, and informed judgments about the weight of benefits and harms.
+SN - 2381-4683
+M3  - doi: 10.1177/2381468317717982
+UR  - https://doi-org.crai.referencistas.com/10.1177/2381468317717982
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Building and validating an artificial intelligence model to identify tracheobronchopathia osteochondroplastica by using bronchoscopic images
+AU  - Chen, Chongxiang
+AU  - Tang, Fei
+AU  - Herth, Felix J.F.
+AU  - Zuo, Yingnan
+AU  - Ren, Jiangtao
+AU  - Zhang, Shuaiqi
+AU  - Jian, Wenhua
+AU  - Tang, Chunli
+AU  - Li, Shiyue
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/17534666241253694
+DO  - 10.1177/17534666241253694
+T2  - Therapeutic Advances in Respiratory Disease
+JF  - Therapeutic Advances in Respiratory Disease
+JO  - Ther Adv Respir Dis
+SP  -17534666241253694
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Background: Given the rarity of tracheobronchopathia osteochondroplastica (TO), many young doctors in primary hospitals are unable to identify TO based on bronchoscopy findings. Objectives: To build an artificial intelligence (AI) model for differentiating TO from other multinodular airway diseases by using bronchoscopic images. Design: We designed the study by comparing the imaging data of patients undergoing bronchoscopy from January 2010 to October 2022 by using EfficientNet. Bronchoscopic images of 21 patients with TO at Anhui Chest Hospital from October 2019 to October 2022 were collected for external validation. Methods: Bronchoscopic images of patients with multinodular airway lesions (including TO, amyloidosis, tumors, and inflammation) and without airway lesions in the First Affiliated Hospital of Guangzhou Medical University were collected. The images were randomized (4:1) into training and validation groups based on different diseases and utilized for deep learning by convolutional neural networks (CNNs). Results: We enrolled 201 patients with multinodular airway disease (38, 15, 75, and 73 patients with TO, amyloidosis, tumors, and inflammation, respectively) and 213 without any airway lesions. To find multinodular lesion images for deep learning, we utilized 2183 bronchoscopic images of multinodular lesions (including TO, amyloidosis, tumor, and inflammation) and compared them with images without any airway lesions (1733). The accuracy of multinodular lesion identification was 98.9%. Further, the accuracy of TO detection based on the bronchoscopic images of multinodular lesions was 89.2%. Regarding external validation (using images from 21 patients with TO), all patients could be diagnosed with TO; the accuracy was 89.8%. Conclusion: We built an AI model that could differentiate TO from other multinodular airway diseases (mainly amyloidosis, tumors, and inflammation) by using bronchoscopic images. The model could help young physicians identify this rare airway disease.
+SN - 1753-4666
+M3  - doi: 10.1177/17534666241253694
+UR  - https://doi-org.crai.referencistas.com/10.1177/17534666241253694
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Thermo-acoustic cross-talk between cans in a can-annular combustor
+AU  - Farisco, Federica
+AU  - Panek, Lukasz
+AU  - Kok, Jim BW
+Y1  - 2017/07/02
+PY  - 2017
+DA  - 2017/12/01
+N1  - doi: 10.1177/1756827717716373
+DO  - 10.1177/1756827717716373
+T2  - International Journal of Spray and Combustion Dynamics
+JF  - International Journal of Spray and Combustion Dynamics
+SP  -452
+EP - 469
+VL - 9
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Thermo-acoustic instabilities in gas turbine engines are studied to avoid engine failure. Compared to the engines with annular combustors, the can-annular combustor design should be less vulnerable to acoustic burner-to-burner interaction, since the burners are acoustically coupled only by the turbine stator stage and the plenum. However, non-negligible cross-talk between neighboring cans has been observed in measurements in such machines. This study is focused on the analysis of the acoustic interaction between the cans. Simplified two-dimensional (2D) and three-dimensional (3D) equivalent systems representing the corresponding engine alike turbine design are investigated. Thermo-acoustic instabilities are reproduced using a forced response approach. Compressible large eddy simulation based on the open source computational fluid dynamics OpenFOAM framework is used applying accurate boundary conditions for the flow and the acoustics. A study of the reflection coefficient and of the transfer function between the cans has been performed. Comparisons between 2D and 3D equivalent configurations have been evaluated.
+SN - 1756-8277
+M3  - doi: 10.1177/1756827717716373
+UR  - https://doi-org.crai.referencistas.com/10.1177/1756827717716373
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Sensor Mobility Control for Multitarget Tracking in Mobile Sensor Networks
+AU  - Fu, Yinfei
+AU  - Yang, Le
+Y1  - 2014/03/01
+PY  - 2014
+DA  - 2014/03/01
+N1  - doi: 10.1155/2014/278179
+DO  - 10.1155/2014/278179
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -278179
+VL - 10
+IS - 3
+PB - SAGE Publications
+N2 - In emerging tracking systems using mobile wireless sensor networks, sensor mobility management is essential for balancing the tracking performance and costs under limited network resources and sensor movements. This paper considers the sensor mobility control problem for multitarget tracking (MTT), in which multiple mobile sensors are dynamically grouped and moved to track multiple targets and collaborate within each sensor group via track data fusion. A novel sensor mobility control framework for the mobile sensor network-based MTT is proposed. It is formulated as a constrained optimization problem that aims to maximize the overall tracking performance for all targets while conserving network energy and providing tracking coverage guarantee. The optimization problem is relaxed as a convex programming problem for computational tractability and its solution is implemented in a distributed manner. The newly proposed sensor mobility control scheme, implemented on the basis of iterative subgradient search, is shown via computer simulation to have better performance over the static sensor network-based MTT.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/278179
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/278179
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Mapping the discursive landscape of data activism: Articulations and actors in an emerging movement
+AU  - Liminga, Agnes
+AU  - Lindgren, Simon
+Y1  - 2024/09/01
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1177/20539517241266416
+DO  - 10.1177/20539517241266416
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517241266416
+VL - 11
+IS - 3
+PB - SAGE Publications Ltd
+N2 - Growing awareness of the societal consequences of datafication in recent years has given rise to a new form of civil society engagement called data activism. This article examines the discourse surrounding data activism on the social media platform Twitter. Through a mixed-methods approach combining computational analysis of Twitter content and close readings of Twitter profiles, we explore how new forms of civil society action related to data justice are articulated and linked to other forms of activism, conflicts and problems, and the actors involved in these articulations. Our analysis reveals a distinction between two articulatory patterns in the data activism discourse. The first involves grassroots actors, such as community organisations and individual citizens, who challenge existing power structures and advocate for social change. The second, on the other hand, is associated with academics, capitalists and policymakers who already hold positions of power and influence. This asymmetry is consistent with previous findings in data activism research. We encourage future research to extend these patterns, using additional methods and case studies, to further refine and contextualise the understanding of data activism within the civil society realm.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517241266416
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517241266416
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Photoacoustic Imaging Algorithm Based on Regularized Smoothed L0 Norm Minimization
+AU  - Liu, Xueyan
+AU  - Zhang, Limei
+AU  - Zhang, Yining
+AU  - Qiao, Lishan
+AU  - Akers, Walter
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1155/2021/6689194
+DO  - 10.1155/2021/6689194
+T2  - Molecular Imaging
+JF  - Molecular Imaging
+JO  - Mol Imaging
+SP  -6689194
+VL - 2021
+PB - SAGE Publications Inc
+N2 - The recently emerging technique of sparse reconstruction has received much attention in the field of photoacoustic imaging (PAI). Compressed sensing (CS) has large potential in efficiently reconstructing high-quality PAI images with sparse sampling signal. In this article, we propose a CS-based error-tolerant regularized smooth L0 (ReSL0) algorithm for PAI image reconstruction, which has the same computational advantages as the SL0 algorithm while having a higher degree of immunity to inaccuracy caused by noise. In order to evaluate the performance of the ReSL0 algorithm, we reconstruct the simulated dataset obtained from three phantoms. In addition, a real experimental dataset from agar phantom is also used to verify the effectiveness of the ReSL0 algorithm. Compared to three L0 norm, L1 norm, and TV norm-based CS algorithms for signal recovery and image reconstruction, experiments demonstrated that the ReSL0 algorithm provides a good balance between the quality and efficiency of reconstructions. Furthermore, the PSNR of the reconstructed image calculated by the introduced method was better than the other three methods. In particular, it can notably improve reconstruction quality in the case of noisy measurement.
+SN - 1535-3508
+M3  - doi: 10.1155/2021/6689194
+UR  - https://doi-org.crai.referencistas.com/10.1155/2021/6689194
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Predictive Dynamics of Happiness and Well-Being
+AU  - Miller, Mark
+AU  - Kiverstein, Julian
+AU  - Rietveld, Erik
+Y1  - 2021/12/29
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/17540739211063851
+DO  - 10.1177/17540739211063851
+T2  - Emotion Review
+JF  - Emotion Review
+SP  -15
+EP - 30
+VL - 14
+IS - 1
+PB - SAGE Publications
+N2 - We offer an account of mental health and well-being using the predictive processing framework (PPF). According to this framework, the difference between mental health and psychopathology can be located in the goodness of the predictive model as a regulator of action. What is crucial for avoiding the rigid patterns of thinking, feeling and acting associated with psychopathology is the regulation of action based on the valence of affective states. In PPF, valence is modelled as error dynamics—the change in prediction errors over time. Our aim in this paper is to show how error dynamics can account for both momentary happiness and longer term well-being. What will emerge is a new neurocomputational framework for making sense of human flourishing.
+SN - 1754-0739
+M3  - doi: 10.1177/17540739211063851
+UR  - https://doi-org.crai.referencistas.com/10.1177/17540739211063851
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of hydrodynamic forces on turbine ring gate during emergency shutdown process
+AU  - Mo, Zhenwei
+AU  - Xiao, Juliang
+AU  - Wang, Gang
+Y1  - 2015/05/01
+PY  - 2015
+DA  - 2015/05/01
+N1  - doi: 10.1177/1687814015571034
+DO  - 10.1177/1687814015571034
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015571034
+VL - 7
+IS - 5
+PB - SAGE Publications
+N2 - This work uses numerical methods to investigate the hydrodynamic forces that act on a turbine ring gate during emergency shutdown. Accurately predicting the hydrodynamic forces on such gates is important because the forces constitute a design criterion of ring gates, especially in the case of the downward-pulling hydrodynamic force, which directly affects the opening or closing of the gate. In this article, we use Fluent, which is a computational fluid dynamics code, to simulate the flow patterns around the ring gate and to calculate the hydrodynamic forces on the gate. We numerically simulate the three-dimensional unsteady turbulence over the entire flow passage of the turbine. The numerical results show that the hydrodynamic forces are induced mainly by flow acceleration under the bottom surface of the ring gate. When the ring gate is at 90% closing position, the downward-pulling hydrodynamic force is maximal; near the completely closed position, the hydrodynamic force is more sensitive to the position of the ring gate. This investigation of the hydrodynamic forces that act on the ring gates provides the theoretical basis for determining the operational capacity and the optimal design of ring gates.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015571034
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015571034
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Integration of Neuroimaging and Microarray Datasets through Mapping and Model-Theoretic semantic Decomposition of Unstructured phenotypes
+AU  - Pantazatos, Spiro P.
+AU  - Li, Jianrong
+AU  - Pavlidis, Paul
+AU  - Lussier, Yves A.
+Y1  - 2009/01/01
+PY  - 2009
+DA  - 2009/01/01
+N1  - doi: 10.4137/CIN.S1046
+DO  - 10.4137/CIN.S1046
+T2  - Cancer Informatics
+JF  - Cancer Informatics
+JO  - Cancer Inform
+SP  -CIN.S1046
+VL - 8
+PB - SAGE Publications Ltd STM
+N2 - An approach towards heterogeneous neuroscience dataset integration is proposed that uses Natural Language Processing (NLP) and a knowledge-based phenotype organizer system (PhenOS) to link ontology-anchored terms to underlying data from each database, and then maps these terms based on a computable model of disease (SNOMED CT®). The approach was implemented using sample datasets from fMRIDC, GEO, The Whole Brain Atlas and Neuronames, and allowed for complex queries such as “List all disorders with a finding site of brain region X, and then find the semantically related references in all participating databases based on the ontological model of the disease or its anatomical and morphological attributes”. Precision of the NLP-derived coding of the unstructured phenotypes in each dataset was 88% (n = 50), and precision of the semantic mapping between these terms across datasets was 98% (n = 100). To our knowledge, this is the first example of the use of both semantic decomposition of disease relationships and hierarchical information found in ontologies to integrate heterogeneous phenotypes across clinical and molecular datasets.
+SN - 1176-9351
+M3  - doi: 10.4137/CIN.S1046
+UR  - https://doi-org.crai.referencistas.com/10.4137/CIN.S1046
+Y2  - 2024/10/01
+ER  - 
+

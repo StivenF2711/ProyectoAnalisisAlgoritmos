@@ -1,0 +1,263 @@
+TY  - JOUR
+T1  - A variational approach for estimation of monocular depth and camera motion in autonomous driving
+AU  - Hu, Huijuan
+AU  - Hu, Chuan
+AU  - Zhang, Xuetao
+Y1  - 2021/07/30
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/09544070211034332
+DO  - 10.1177/09544070211034332
+T2  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+JF  - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
+SP  -794
+EP - 804
+VL - 236
+IS - 5
+PB - IMECHE
+N2 - In this paper, a new direct computational approach to dense 3D reconstruction in autonomous driving is proposed to simultaneously estimate the depth and the camera motion for the motion stereo problem. A traditional Structure from Motion framework is utilized to establish geometric constrains for our variational model. The architecture is mainly composed of the texture constancy constraint, one-order motion smoothness constraint, a second-order depth regularize constraint and a soft constraint. The texture constancy constraint can improve the robustness against illumination changes. One-order motion smoothness constraint can reduce the noise in estimation of dense correspondence. The depth regularize constraint is used to handle inherent ambiguities and guarantee a smooth or piecewise smooth surface, and the soft constraint can provide a dense correspondence as initial estimation of the camera matrix to improve the robustness future. Compared to the traditional dense Structure from Motion approaches and popular stereo approaches, our monocular depth estimation results are more accurate and more robust. Even in contrast to the popular depth from single image networks, our variational approach still has good performance in estimation of monocular depth and camera motion.
+SN - 0954-4070
+M3  - doi: 10.1177/09544070211034332
+UR  - https://doi-org.crai.referencistas.com/10.1177/09544070211034332
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Malignant astrocyte swelling and impaired glutamate clearance drive the expansion of injurious spreading depolarization foci
+AU  - AU  - Menyhárt, Ákos
+AU  - Frank, Rita
+AU  - Farkas, Attila E.
+AU  - Süle, Zoltán
+AU  - Varga, Viktória É.
+AU  - Nyúl-Tóth, Ádám
+AU  - Meiller, Anne
+AU  - Ivánkovits-Kiss, Orsolya
+AU  - Lemale, Coline L.
+AU  - Szabó, Írisz
+et al.
+Y1  - 2021/08/24
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/0271678X211040056
+DO  - 10.1177/0271678X211040056
+T2  - Journal of Cerebral Blood Flow & Metabolism
+JF  - Journal of Cerebral Blood Flow & Metabolism
+JO  - J Cereb Blood Flow Metab
+SP  -584
+EP - 599
+VL - 42
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - Spreading depolarizations (SDs) indicate injury progression and predict worse clinical outcome in acute brain injury. We demonstrate in rodents that acute brain swelling upon cerebral ischemia impairs astroglial glutamate clearance and increases the tissue area invaded by SD. The cytotoxic extracellular glutamate accumulation (>15 µM) predisposes an extensive bulk of tissue (4–5 mm2) for a yet undescribed simultaneous depolarization (SiD). We confirm in rat brain slices exposed to osmotic stress that SiD is the pathological expansion of prior punctual SD foci (0.5–1 mm2), is associated with astrocyte swelling, and triggers oncotic neuron death. The blockade of astrocytic aquaporin-4 channels and Na+/K+/Cl− co-transporters, or volume-regulated anion channels mitigated slice edema, extracellular glutamate accumulation (<10 µM) and SiD occurrence. Reversal of slice swelling by hyperosmotic mannitol counteracted glutamate accumulation and prevented SiD. In contrast, inhibition of glial metabolism or inhibition of astrocyte glutamate transporters reproduced the SiD phenotype. Finally, we show in the rodent water intoxication model of cytotoxic edema that astrocyte swelling and altered astrocyte calcium waves are central in the evolution of SiD. We discuss our results in the light of evidence for SiD in the human cortex. Our results emphasize the need of preventive osmotherapy in acute brain injury.
+SN - 0271-678X
+M3  - doi: 10.1177/0271678X211040056
+UR  - https://doi-org.crai.referencistas.com/10.1177/0271678X211040056
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Building the executive system of autonomous aerial robots using the Aerostack open-source framework
+AU  - Molina, Martin
+AU  - Carrera, Abraham
+AU  - Camporredondo, Alberto
+AU  - Bavle, Hriday
+AU  - Rodriguez-Ramos, Alejandro
+AU  - Campoy, Pascual
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - doi: 10.1177/1729881420925000
+DO  - 10.1177/1729881420925000
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -1729881420925000
+VL - 17
+IS - 3
+PB - SAGE Publications
+N2 - A variety of open-source software tools are currently available to help building autonomous mobile robots. These tools have proven their effectiveness in developing different types of robotic systems, but there are still needs related to safety and efficiency that are not sufficiently covered. This article describes recent advances in the Aerostack software framework to address part of these needs, which may become critical in the case of aerial robots. The article describes a software tool that helps to develop the executive system, an important component of the control architecture whose characteristics significantly affect the quality of the final autonomous robotic system. The presented tool uses an original solution for execution control that aims at simplifying mission specification and protecting against errors, considering also the efficiency needs of aerial robots. The effectiveness of the tool was evaluated by building an experimental autonomous robot. The results of the evaluation show that it provides significant benefits about usability and reliability with acceptable development effort and computational cost. The tool is based on Robot Operating System and it is publicly available as part of the last release of the Aerostack software framework (version 3.0).
+SN - 1729-8806
+M3  - doi: 10.1177/1729881420925000
+UR  - https://doi-org.crai.referencistas.com/10.1177/1729881420925000
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A single-nucleotide-polymorphism in the 5′-flanking region of MSX1 gene as a predictive marker candidate for platinum-based therapy of esophageal carcinoma
+AU  - Mori, Takahiro
+AU  - Ueno, Kazuko
+AU  - Tokunaga, Katsushi
+AU  - Kawai, Yosuke
+AU  - Matsuda, Koichi
+AU  - Nishida, Nao
+AU  - Komine, Keigo
+AU  - Saito, Sakae
+AU  - Nagasaki, Masao
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/17588359221080580
+DO  - 10.1177/17588359221080580
+T2  - Therapeutic Advances in Medical Oncology
+JF  - Therapeutic Advances in Medical Oncology
+JO  - Ther Adv Med Oncol
+SP  -17588359221080580
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Background: Platinum derivatives are important treatment options for patients with esophageal carcinoma (EC), and a predictive marker for platinum-based therapy is needed for precision medicine. Patients and methods: This study contained two cohorts consisting of EC patients treated using platinum-based chemoradiation therapy (CRT) as the first-line and another external cohort of nationwide clinicogenomic data from the BioBank Japan (BBJ). Results: Genome-wide association study (GWAS) of therapeutic outcomes, refractory disease or not, following platinum-based CRT as first-line in 94 patients in the first cohort suggested the association of 89 SNPs using p < 0.0001. The top 10 SNPs selected from each chromosomal region by odds ratio were evaluated for progression-free survival (PFS) and overall survival (OS) hazard ratios in the first cohort, resulting in four candidates (p < 0.0025). The four selected candidates were re-evaluated in another cohort of 24 EC patients, which included patients prospectively enrolled in this study to fulfill the sample size statistically suggested by the results of the first cohort, and of the four, only rs3815544 was replicated (p < 0.0125). Furthermore, this candidate genotype of rs3815544 proceeded to the re-evaluation study in an external cohort consisting of EC patients treated with platinum derivatives and/or by radiation therapy as the first-line treatment in BBJ, which confirmed that the alternative allele (G) of rs3815544 was statistically associated with non-response (SD or PD) to platinum-based therapy in EC patients (odds ratio = 1.801, p = 0.048). The methylation QTL database as well as online clinicogenomic databases suggested that the region including rs3815544 may regulate MSX1 expression through CpG methylation, and this down-regulation was statistically associated with poor prognosis after platinum-based therapies for EC. Conclusion: rs3815544 is a novel candidate predictive marker for platinum-based EC therapy.
+SN - 1758-8359
+M3  - doi: 10.1177/17588359221080580
+UR  - https://doi-org.crai.referencistas.com/10.1177/17588359221080580
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Numerical investigations on effect of wear-ring clearance on performance of a submersible well pump
+AU  - Shi, Weidong
+AU  - Gao, Xiongfa
+AU  - Zhang, Qihua
+AU  - Zhang, Desheng
+AU  - Ye, Daoxing
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - doi: 10.1177/1687814017704155
+DO  - 10.1177/1687814017704155
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814017704155
+VL - 9
+IS - 7
+PB - SAGE Publications
+N2 - A typical submersible well pump was investigated in this article. The whole flow field of submersible well pump was numerically simulated by computational fluid dynamics software. The influence of clearance of wear-rings on the external characteristic and internal flow field was analyzed through comparing the calculation results with experimental results. The result of the numerical simulation shows that changing clearance of front wear-ring has a greater impact on pump performances than changing clearance of back wear-ring, and the head and efficiency of pump decrease with the increase in the size of clearance. Especially when the size of clearance is larger than 0.5 mm, decreasing becomes more obvious. When the front and back wear-ring size of the clearance comes to 1.0 mm, the efficiency decreases from the highest point of 75.31% to 65.44% at rated flow, and the head of pump decreases about 3.5 m. When the size of clearance is 0.2 mm, reverse-flow will appear in the front shroud cavity of the impeller, and leakage from back wear-ring through the balance hole into the impeller, which has a little influence on the flow field of the impeller inlet.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814017704155
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814017704155
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Commentary on the use of the reproduction number R during the COVID-19 pandemic
+AU  - AU  - Vegvari, Carolin
+AU  - Abbott, Sam
+AU  - Ball, Frank
+AU  - Brooks-Pollock, Ellen
+AU  - Challen, Robert
+AU  - Collyer, Benjamin S.
+AU  - Dangerfield, Ciara
+AU  - Gog, Julia R.
+AU  - Gostic, Katelyn M.
+AU  - Heffernan, Jane M.
+et al.
+Y1  - 2021/09/27
+PY  - 2022
+DA  - 2022/09/01
+N1  - doi: 10.1177/09622802211037079
+DO  - 10.1177/09622802211037079
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -1675
+EP - 1685
+VL - 31
+IS - 9
+PB - SAGE Publications Ltd STM
+N2 - Since the beginning of the COVID-19 pandemic, the reproduction number has become a popular epidemiological metric used to communicate the state of the epidemic. At its most basic, is defined as the average number of secondary infections caused by one primary infected individual. seems convenient, because the epidemic is expanding if and contracting if . The magnitude of indicates by how much transmission needs to be reduced to control the epidemic. Using in a naïve way can cause new problems. The reasons for this are threefold: (1) There is not just one definition of but many, and the precise definition of affects both its estimated value and how it should be interpreted. (2) Even with a particular clearly defined , there may be different statistical methods used to estimate its value, and the choice of method will affect the estimate. (3) The availability and type of data used to estimate vary, and it is not always clear what data should be included in the estimation. In this review, we discuss when is useful, when it may be of use but needs to be interpreted with care, and when it may be an inappropriate indicator of the progress of the epidemic. We also argue that careful definition of , and the data and methods used to estimate it, can make a more useful metric for future management of the epidemic.
+SN - 0962-2802
+M3  - doi: 10.1177/09622802211037079
+UR  - https://doi-org.crai.referencistas.com/10.1177/09622802211037079
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Signature-Based Data Security Technique for Energy-Efficient Data Aggregation in Wireless Sensor Networks
+AU  - Yoon, Min
+AU  - Jang, Miyoung
+AU  - Kim, Hyeong-Il
+AU  - Chang, Jae-Woo
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1155/2014/272537
+DO  - 10.1155/2014/272537
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -272537
+VL - 10
+IS - 1
+PB - SAGE Publications
+N2 - Data aggregation techniques have been widely used in wireless sensor networks (WSNs) to solve the energy constraint problems of sensor nodes. They can conserve the significant amount of energy by reducing data packet transmission costs. However, many data aggregation applications require privacy and integrity protection of the real data while transmitting data from the sensing nodes to a sink node. The existing schemes for supporting both privacy and integrity, that is, iCDPA, and iPDA, suffer from high communication cost, high computation cost, and data propagation delay. To resolve the problems, we propose a signature-based data security technique for protecting sensitive data aggregation in WSNs. To support privacy-preserving data aggregation and integrity checking, our technique makes use of the additive property of complex numbers. Out of two parts of a complex number, the real part is used to hide the sampled data of a sensor node from its neighboring nodes and adversaries, whereas the imaginary part is used for data integrity checking at both data aggregators and the sink node. Through a performance analysis, we prove that our privacy-preserving data aggregation scheme outperforms the existing schemes up to 50% in terms of communication and computation overheads as well as up to 3 times in terms of integrity checking and data propagation delay.
+SN - 1550-1329
+M3  - doi: 10.1155/2014/272537
+UR  - https://doi-org.crai.referencistas.com/10.1155/2014/272537
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Predicting epitopes for vaccine development using bioinformatics tools
+AU  - Yurina, Valentina
+AU  - Adianingsih, Oktavia Rahayu
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1177/25151355221100218
+DO  - 10.1177/25151355221100218
+T2  - Therapeutic Advances in Vaccines and Immunotherapy
+JF  - Therapeutic Advances in Vaccines and Immunotherapy
+SP  -25151355221100216
+VL - 10
+PB - SAGE Publications Ltd STM
+N2 - Epitope-based DNA vaccine development is one application of bioinformatics or in silico studies, that is, computational methods, including mathematical, chemical, and biological approaches, which are widely used in drug development. Many in silico studies have been conducted to analyze the efficacy, safety, toxicity effects, and interactions of drugs. In the vaccine design process, in silico studies are performed to predict epitopes that could trigger T-cell and B-cell reactions that would produce both cellular and humoral immune responses. Immunoinformatics is the branch of bioinformatics used to study the relationship between immune responses and predicted epitopes. Progress in immunoinformatics has been rapid and has led to the development of a variety of tools that are used for the prediction of epitopes recognized by B cells or T cells as well as the antigenic responses. However, the in silico approach to vaccine design is still relatively new; thus, this review is aimed at increasing understanding of the importance of in silico studies in the design of vaccines and thereby facilitating future research in this field.
+SN - 2515-1355
+M3  - doi: 10.1177/25151355221100218
+UR  - https://doi-org.crai.referencistas.com/10.1177/25151355221100218
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Influence of surface roughness on the friction property of textured surface
+AU  - Zhou, Yuankai
+AU  - Zhu, Hua
+AU  - Zhang, Wenqian
+AU  - Zuo, Xue
+AU  - Li, Yan
+AU  - Yang, Jianhua
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.1177/1687814014568500
+DO  - 10.1177/1687814014568500
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814014568500
+VL - 7
+IS - 2
+PB - SAGE Publications
+N2 - In contrast with dimple textures, surface roughness is a texture at the micro-scale, essentially which will influence the load-bearing capacity of lubricant film. The numerical simulation was carried out to investigate the influence of surface roughness on friction property of textured surface. The lubricant film pressure was obtained using the method of computational fluid dynamics according to geometric model of round dimple, and the renormalization-group k–ε turbulent model was adopted in the computation. The numerical simulation results suggest that there is an optimum dimensionless surface roughness, and near this value, the maximum load-bearing capacity can be achieved. The load-bearing capacity is determined by the surface texture, the surface roughness, and the interaction between them. To get information of friction coefficient, the experiments were conducted. This experiment was used to evaluate the simulation. The experimental results show that for the frequency of 4 and 6 Hz, friction coefficient decreases at first and then increases with decreasing surface roughness, which indicates that there exists the optimum region of surface roughness leading to the best friction reduction effect, and it becomes larger when area fractions increase from 2% to 10%. The experimental results agree well with the simulation results.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814014568500
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814014568500
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A simplified mechanical model with fluid–structure interaction for rectangular tank sloshing under horizontal excitation
+AU  - Zou, Changfang
+AU  - Wang, Deyu
+Y1  - 2015/05/01
+PY  - 2015
+DA  - 2015/05/01
+N1  - doi: 10.1177/1687814015582085
+DO  - 10.1177/1687814015582085
+T2  - Advances in Mechanical Engineering
+JF  - Advances in Mechanical Engineering
+SP  -1687814015582085
+VL - 7
+IS - 5
+PB - SAGE Publications
+N2 - Based on the spring–mass model, a novel mechanical model of sloshing with fluid–structure interaction under a horizontal excitation is proposed, and the coupled dynamic equation of sloshing system is established. Considering the flexibility of bulkhead, the effects of certain factors, such as bulkhead bending stiffness and filling ratios, on the mode of coupled sloshing system are investigated. It is found that these factors have significant influence on the mode. By comparing the present results with the results of ADINA based on the linear potential flow theory and published literatures, the proposed coupled sloshing model is verified. The results show that the simplified rigid mass, , dominates the contributions to bending moment near the bottom of a bulkhead and the spring–mass, , , to bending moment near the liquid-free surface of a bulkhead. Furthermore, the computational cost is greatly reduced by using the proposed mechanical model with fluid–structure interaction for a rectangular tank sloshing.
+SN - 1687-8132
+M3  - doi: 10.1177/1687814015582085
+UR  - https://doi-org.crai.referencistas.com/10.1177/1687814015582085
+Y2  - 2024/10/01
+ER  - 
+

@@ -1,0 +1,253 @@
+TY  - JOUR
+T1  - Ginkgo - A math library designed to accelerate Exascale Computing Project science applications
+AU  - Cojean, Terry
+AU  - Nayak, Pratik
+AU  - Ribizel, Tobias
+AU  - Beams, Natalie
+AU  - Mike Tsai, Yu-Hsiang
+AU  - Koch, Marcel
+AU  - Göbel, Fritz
+AU  - Grützmacher, Thomas
+AU  - Anzt, Hartwig
+Y1  - 2024/08/20
+PY  - 2024
+N1  - doi: 10.1177/10943420241268323
+DO  - 10.1177/10943420241268323
+T2  - The International Journal of High Performance Computing Applications
+JF  - The International Journal of High Performance Computing Applications
+SP  -10943420241268324
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - Large-scale simulations require efficient computation across the entire computing hierarchy. A challenge of the Exascale Computing Project (ECP) was to reconcile highly heterogeneous hardware with the myriad of applications that were required to run on these supercomputers. Mathematical software forms the backbone of almost all scientific applications, providing efficient abstractions and operations that are crucial to harness the performance of computing systems. Ginkgo is one such mathematical software library, nurtured by ECP, providing high-performance, user-friendly, and performance portable interfaces for applications in ECP and beyond. In this paper, we elaborate on Ginkgo’s philosophy of high-performance software that is sustainable, reproducible, and easy to use. We showcase the wide feature set of solvers and preconditioners available in Ginkgo and the central concepts involved in their design. We elaborate on four different ECP software integrations: MFEM, PeleLM + SUNDIALS, XGC, and ExaSGD that use Ginkgo to accelerate their science runs. Performance studies of different problems from these applications highlight the effectiveness of Ginkgo and the benefits incurred by these ECP applications.
+SN - 1094-3420
+M3  - doi: 10.1177/10943420241268323
+UR  - https://doi-org.crai.referencistas.com/10.1177/10943420241268323
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Beyond Trolleyology: The CNI Model of Moral-Dilemma Responses
+AU  - Gawronski, Bertram
+AU  - Ng, Nyx L.
+Y1  - 2024/03/13
+PY  - 2024
+N1  - doi: 10.1177/10888683241234114
+DO  - 10.1177/10888683241234114
+T2  - Personality and Social Psychology Review
+JF  - Personality and Social Psychology Review
+JO  - Pers Soc Psychol Rev
+SP  -10888683241234114
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - A large body of research has investigated responses to artificial scenarios (e.g., trolley problem) where maximizing beneficial outcomes for the greater good (utilitarianism) conflicts with adherence to moral norms (deontology). The CNI model is a computational model that quantifies sensitivity to consequences for the greater good (C), sensitivity to moral norms (N), and general preference for inaction versus action (I) in responses to plausible moral dilemmas based on real-world events. Expanding on a description of the CNI model, the current article provides (a) a comprehensive review of empirical findings obtained with the CNI model, (b) an analysis of their theoretical implications, (c) a discussion of criticisms of the CNI model, and (d) an overview of alternative approaches to disentangle multiple factors underlying moral-dilemma responses and the relation of these approaches to the CNI model. The article concludes with a discussion of open questions and new directions for future research. Public Abstract How do people make judgments about actions that violate moral norms yet maximize the greater good (e.g., sacrificing the well-being of a small number of people for the well-being of a larger number of people)? Research on this question has been criticized for relying on highly artificial scenarios and for conflating multiple distinct factors underlying responses in moral dilemmas. The current article reviews research that used a computational modeling approach to disentangle the roles of multiple distinct factors in responses to plausible moral dilemmas based on real-world events. By disentangling sensitivity to consequences, sensitivity to moral norms, and general preference for inaction versus action in responses to realistic dilemmas, the reviewed work provides a more nuanced understanding of how people make judgments about the right course of action in moral dilemmas.
+SN - 1088-8683
+M3  - doi: 10.1177/10888683241234114
+UR  - https://doi-org.crai.referencistas.com/10.1177/10888683241234114
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - TimeTrial: An Interactive Application for Optimizing the Design and Analysis of Transcriptomic Time-Series Data in Circadian Biology Research
+AU  - Ness-Cohn, Elan
+AU  - Iwanaszko, Marta
+AU  - Kath, William L.
+AU  - Allada, Ravi
+AU  - Braun, Rosemary
+Y1  - 2020/07/02
+PY  - 2020
+DA  - 2020/10/01
+N1  - doi: 10.1177/0748730420934672
+DO  - 10.1177/0748730420934672
+T2  - Journal of Biological Rhythms
+JF  - Journal of Biological Rhythms
+JO  - J Biol Rhythms
+SP  -439
+EP - 451
+VL - 35
+IS - 5
+PB - SAGE Publications Inc
+N2 - The circadian rhythm drives the oscillatory expression of thousands of genes across all tissues, coordinating physiological processes. The effect of this rhythm on health has generated increasing interest in discovering genes under circadian control by searching for periodic patterns in transcriptomic time-series experiments. While algorithms for detecting cycling transcripts have advanced, there remains little guidance quantifying the effect of experimental design and analysis choices on cycling detection accuracy. We present TimeTrial, a user-friendly benchmarking framework using both real and synthetic data to investigate cycle detection algorithms’ performance and improve circadian experimental design. Results show that the optimal choice of analysis method depends on the sampling scheme, noise level, and shape of the waveform of interest and provides guidance on the impact of sampling frequency and duration on cycling detection accuracy. The TimeTrial software is freely available for download and may also be accessed through a web interface. By supplying a tool to vary and optimize experimental design considerations, TimeTrial will enhance circadian transcriptomics studies.
+SN - 0748-7304
+M3  - doi: 10.1177/0748730420934672
+UR  - https://doi-org.crai.referencistas.com/10.1177/0748730420934672
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An Investigation into the Temporal Reproducibility of Tryptophan Metabolite Networks Among Healthy Adolescents
+AU  - Oluwagbemigun, Kolade
+AU  - Anesi, Andrea
+AU  - Clarke, Gerard
+AU  - Schmid, Matthias
+AU  - Mattivi, Fulvio
+AU  - Nöthlings, Ute
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.1177/11786469211041376
+DO  - 10.1177/11786469211041376
+T2  - International Journal of Tryptophan Research
+JF  - International Journal of Tryptophan Research
+JO  - Int J�Tryptophan�Res
+SP  -11786469211041376
+VL - 14
+PB - SAGE Publications Ltd STM
+N2 - Tryptophan and its bioactive metabolites are associated with health conditions such as systemic inflammation, cardiometabolic diseases, and neurodegenerative disorders. There are dynamic interactions among metabolites of tryptophan. The interactions between metabolites, particularly those that are strong and temporally reproducible could be of pathophysiological relevance. Using a targeted metabolomics approach, the concentration levels of tryptophan and 18 of its metabolites across multiple pathways was quantified in 24-hours urine samples at 2 time-points, age 17 years (baseline) and 18 years (follow-up) from 132 (52% female) apparently healthy adolescent participants of the DOrtmund Nutritional and Anthropometric Longitudinally Designed (DONALD) Study. In sex-specific analyses, we applied 2 network approaches, the Gaussian graphical model and Bayesian network to (1) explore the network structure for both time-points, (2) retrieve strongly related metabolites, and (3) determine whether the strongly related metabolites were temporally reproducible. Independent of selected covariates, the 2 network approaches revealed 5 associations that were strong and temporally reproducible. These were novel relationships, between kynurenic acid and indole-3-acetic acid in females and between kynurenic acid and xanthurenic acid in males, as well as known relationships between kynurenine and 3-hydroxykynurenine, and between 3-hydroxykynurenine and 3-hydroxyanthranilic acid in females and between tryptophan and kynurenine in males. Overall, this epidemiological study using network-based approaches shed new light into tryptophan metabolism, particularly the interaction of host and microbial metabolites. The 5 observed relationships suggested the existence of a temporally stable pattern of tryptophan and 6 metabolites in healthy adolescent, which could be further investigated in search of fingerprints of specific physiological states. The metabolites in these relationships may represent a multi-biomarker panel that could be informative for health outcomes.
+SN - 1178-6469
+M3  - doi: 10.1177/11786469211041376
+UR  - https://doi-org.crai.referencistas.com/10.1177/11786469211041376
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Toward a Diagnostic Test for Hidden Hearing Loss
+AU  - Plack, Christopher J.
+AU  - Léger, Agnès
+AU  - Prendergast, Garreth
+AU  - Kluk, Karolina
+AU  - Guest, Hannah
+AU  - Munro, Kevin J.
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.1177/2331216516657466
+DO  - 10.1177/2331216516657466
+T2  - Trends in Hearing
+JF  - Trends in Hearing
+JO  - Trends in Hearing
+SP  -2331216516657466
+VL - 20
+PB - SAGE Publications Inc
+N2 - Cochlear synaptopathy (or hidden hearing loss), due to noise exposure or aging, has been demonstrated in animal models using histological techniques. However, diagnosis of the condition in individual humans is problematic because of (a) test reliability and (b) lack of a gold standard validation measure. Wave I of the transient-evoked auditory brainstem response is a noninvasive electrophysiological measure of auditory nerve function and has been validated in the animal models. However, in humans, Wave I amplitude shows high variability both between and within individuals. The frequency-following response, a sustained evoked potential reflecting synchronous neural activity in the rostral brainstem, is potentially more robust than auditory brainstem response Wave I. However, the frequency-following response is a measure of central activity and may be dependent on individual differences in central processing. Psychophysical measures are also affected by intersubject variability in central processing. Differential measures may help to reduce intersubject variability due to unrelated factors. A measure can be compared, within an individual, between conditions that are affected differently by cochlear synaptopathy. Validation of the metrics is also an issue. Comparisons with animal models, computational modeling, auditory nerve imaging, and human temporal bone histology are all potential options for validation, but there are technical and practical hurdles and difficulties in interpretation. Despite the obstacles, a diagnostic test for hidden hearing loss is a worthwhile goal, with important implications for clinical practice and health surveillance.
+SN - 2331-2165
+M3  - doi: 10.1177/2331216516657466
+UR  - https://doi-org.crai.referencistas.com/10.1177/2331216516657466
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Model for DNA Sequence Similarity Analysis Based on Graph Theory
+AU  - Qi, Xingqin
+AU  - Wu, Qin
+AU  - Zhang, Yusen
+AU  - Fuller, Eddie
+AU  - Zhang, Cun-Quan
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - doi: 10.4137/EBO.S7364
+DO  - 10.4137/EBO.S7364
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S7364
+VL - 7
+PB - SAGE Publications Ltd STM
+N2 - Determination of sequence similarity is one of the major steps in computational phylogenetic studies. As we know, during evolutionary history, not only DNA mutations for individual nucleotide but also subsequent rearrangements occurred. It has been one of major tasks of computational biologists to develop novel mathematical descriptors for similarity analysis such that various mutation phenomena information would be involved simultaneously. In this paper, different from traditional methods (eg, nucleotide frequency, geometric representations) as bases for construction of mathematical descriptors, we construct novel mathematical descriptors based on graph theory. In particular, for each DNA sequence, we will set up a weighted directed graph. The adjacency matrix of the directed graph will be used to induce a representative vector for DNA sequence. This new approach measures similarity based on both ordering and frequency of nucleotides so that much more information is involved. As an application, the method is tested on a set of 0.9-kb mtDNA sequences of twelve different primate species. All output phylogenetic trees with various distance estimations have the same topology, and are generally consistent with the reported results from early studies, which proves the new method’s efficiency; we also test the new method on a simulated data set, which shows our new method performs better than traditional global alignment method when subsequent rearrangements happen frequently during evolutionary history.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S7364
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S7364
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Maximum Likelihood Analyses of 3,490 rbcL Sequences: Scalability of Comprehensive Inference versus Group-Specific Taxon Sampling
+AU  - Stamatakis, Alexandros
+AU  - Göker, Markus
+AU  - Grimm, Guido W.
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - doi: 10.4137/EBO.S4528
+DO  - 10.4137/EBO.S4528
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -EBO.S4528
+VL - 6
+PB - SAGE Publications Ltd STM
+N2 - The constant accumulation of sequence data poses new computational and methodological challenges for phylogenetic inference, since multiple sequence alignments grow both in the horizontal (number of base pairs, phylogenomic alignments) as well as vertical (number of taxa) dimension. Put aside the ongoing controversial discussion about appropriate models, partitioning schemes, and assembly methods for phylogenomic alignments, coupled with the high computational cost to infer these, for many organismic groups, a sufficient number of taxa is often exclusively available from one or just a few genes (e.g., rbcL, matK, rDNA). In this paper we address scalability of Maximum-Likelihood-based phylogeny reconstruction with respect to the number of taxa by example of several large nested single-gene rbcL alignments comprising 400 up to 3,491 taxa. In order to test the effect of taxon sampling, we employ an appropriately adapted taxon jackknifing approach. In contrast to standard jackknifing, this taxon subsampling procedure is not conducted entirely at random, but based on drawing subsamples from empirical taxon-groups which can either be user-defined or determined by using taxonomic information from databases. Our results indicate that, despite an unfavorable number of sequences to number of base pairs ratio, i.e., many relatively short sequences, Maximum Likelihood tree searches and bootstrap analyses scale well on single-gene rbcL alignments with a dense taxon sampling up to several thousand sequences. Moreover, the newly implemented taxon subsampling procedure can be beneficial for inferring higher level relationships and interpreting bootstrap support from comprehensive analysis.
+SN - 1176-9343
+M3  - doi: 10.4137/EBO.S4528
+UR  - https://doi-org.crai.referencistas.com/10.4137/EBO.S4528
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Is trained communication about desire to die harmful for patients receiving palliative care? A cohort study
+AU  - Voltz, Raymond
+AU  - Boström, Kathleen
+AU  - Dojan, Thomas
+AU  - Rosendahl, Carolin
+AU  - Gehrke, Leonie
+AU  - Shah-Hosseini, Kija
+AU  - Kremeike, Kerstin
+Y1  - 2021/12/22
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1177/02692163211065671
+DO  - 10.1177/02692163211065671
+T2  - Palliative Medicine
+JF  - Palliative Medicine
+JO  - Palliat Med
+SP  -489
+EP - 497
+VL - 36
+IS - 3
+PB - SAGE Publications Ltd STM
+N2 - Background: Palliative patients frequently express a desire to die. Health professionals report uncertainty regarding potential risks of addressing it. Aim: We aim to evaluate effects of desire to die-conversations on palliative patients. Design: Within a prospective mixed-methods cohort study, we trained health professionals in dealing with desire to die. Afterwards, they held conversations about it with patients. Effects on depressiveness, hopelessness, wish to hasten death, death anxiety, patient-health professional-relationship, and will to live were evaluated at baseline (t0), 1 (t1), and 6 weeks afterwards (t2). Results were analyzed descriptively. Setting/participants: From April 2018 to March 2020, 43 health professionals asked 173 patients from all stationary and ambulatory palliative care settings (within 80 km radius) for participation. Complete assessments were obtained from n = 85 (t0), n = 64 (t1), and n = 46 (t2). Results: At t1, patients scored significantly lower on depressiveness (med = 8, M = 8.1, SD = 5.4) than at t0 (med = 9.5, M = 10.5, SD = 5.8) with Z = −3.220, p = 0.001 and Cohen’s d = 0.42. This was due to medium-severely depressed patients: At t1, their depressiveness scores decreased significantly (med = 9, M = 9.8; SD = 5.1) compared to t0 (med = 14, M = 15.2; SD = 3.9) with Z = −3.730, p ⩽ 0.000 and Cohen’s d = 1.2, but others’ did not. All other outcomes showed positive descriptive trends. Conclusions: Desire to die-conversations through trained health professionals do not harm palliative patients. Results cautiously suggest temporary improvement.
+SN - 0269-2163
+M3  - doi: 10.1177/02692163211065671
+UR  - https://doi-org.crai.referencistas.com/10.1177/02692163211065671
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Biomolecular Chemical Simulations on Enantioselectivity and Reactivity of Lipase Enzymes to Azulene Derivatives
+AU  - Yagi, Yoichiro
+AU  - Kimura, Takatomo
+AU  - Kamezawa, Makoto
+Y1  - 2022/06/01
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/1934578X221108572
+DO  - 10.1177/1934578X221108572
+T2  - Natural Product Communications
+JF  - Natural Product Communications
+SP  -1934578X221108572
+VL - 17
+IS - 6
+PB - SAGE Publications Inc
+N2 - Biomolecular chemical simulations have recently become a useful research method in the fields of organic chemistry and bioscience. In the last few years, we have been focusing on the biomolecular computational simulation on lipase enzyme and ligand complexes to predict the enantioselectivity and reactivity of lipases toward non-natural organic compounds. In this paper, we describe the molecular simulations including molecular dynamics (MD) and fragment molecular orbital (FMO) calculations for the complexes of Candida antarctica lipase type A (CALA) and trifluoromethylazulene alcohol derivatives. From the MD calculations, we found that the fast-reacting enantiomer of esters with high enantioselectivity stays in the vicinity of the active site of CALA, while the slow-reacting enantiomer leaves the active site of CALA. On the other hand, both (R)- and (S)-enantiomers of ester with low ensntioselectivity were found to keep near to near the active site of CALA. Further, for the esters that do not react with lipase enzyme, we found that both (R)- and (S)-enantiomers move away from the active site of lipase enzyme. From the FMO calculations, we found that each fast-reacting enantiomer of esters with high enantioselectivity strongly interacts with certain particular amino acid residues in CALA containing Asp95, while both (R)- and (S)-enantiomers of ester with low enantioselectivity interact with same amino acid residues in CALA including Asp95. These results suggest that it is possible to predict not only the enantioselectivity but also the reactivity of CALA and to identify the amino acid residues important to the enzymatic reaction. Therefore, we consider that our computational simulations would be a useful method for predicting and understanding the reactivity and the enantioselectivity of lipase-catalyzed biotransformations.
+SN - 1934-578X
+M3  - doi: 10.1177/1934578X221108572
+UR  - https://doi-org.crai.referencistas.com/10.1177/1934578X221108572
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - RationalGRL: A framework for argumentation and goal modeling
+AU  - van Zee, Marc
+AU  - Bex, Floris
+AU  - Ghanavati, Sepideh
+Y1  - 2020/11/25
+PY  - 2021
+DA  - 2021/01/01
+N1  - doi: 10.3233/AAC-200527
+DO  - 10.3233/AAC-200527
+T2  - Argument & Computation
+JF  - Argument & Computation
+SP  -191
+EP - 245
+VL - 12
+IS - 2
+PB - SAGE Publications
+N2 - Goal-oriented requirements modeling approaches aim to capture the intentions of the stakeholders involved in the development of an information system as goals and tasks. The process of constructing such goal models usually involves discussions between a requirements engineer and a group of stakeholders. Not all the arguments in such discussions can be captured as goals or tasks: e.g., the discussion whether to accept or reject a certain goal and the rationale for acceptance or rejection cannot be captured in goal models. In this paper, we apply techniques from computational argumentation to a goal modeling approach by using a coding analysis in which stakeholders discuss requirements for a Traffic Simulator. We combine a simplified version of a traditional goal model, the Goal-oriented Requirements Language (GRL), with ideas from argumentation on schemes for practical reasoning into a new framework (RationalGRL). RationalGRL provides a formal semantics and tool support to capture the discussions and outcomes of the argumentation process that leads to a goal model. We also define the RationalGRL development process to create a RationalGRL model.
+SN - 1946-2166
+M3  - doi: 10.3233/AAC-200527
+UR  - https://doi-org.crai.referencistas.com/10.3233/AAC-200527
+Y2  - 2024/10/01
+ER  - 
+

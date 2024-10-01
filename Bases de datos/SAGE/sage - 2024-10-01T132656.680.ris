@@ -1,0 +1,244 @@
+TY  - JOUR
+T1  - Aerodynamic noise radiating from the inter-coach windshield region of a high-speed train
+AU  - Dai, Wen-Qiang
+AU  - Zheng, Xu
+AU  - Hao, Zhi-Yong
+AU  - Qiu, Yi
+AU  - Li, Heng
+AU  - Luo, Le
+Y1  - 2018/01/07
+PY  - 2018
+DA  - 2018/09/01
+N1  - doi: 10.1177/1461348417747178
+DO  - 10.1177/1461348417747178
+T2  - Journal of Low Frequency Noise, Vibration and Active Control
+JF  - Journal of Low Frequency Noise, Vibration and Active Control
+SP  -590
+EP - 610
+VL - 37
+IS - 3
+PB - SAGE Publications Ltd STM
+SN - 1461-3484
+M3  - doi: 10.1177/1461348417747178
+UR  - https://doi-org.crai.referencistas.com/10.1177/1461348417747178
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Delayed kernels for longitudinal survival analysis and dynamic prediction
+AU  - Davies, Annabel Louisa
+AU  - Coolen, Anthony CC
+AU  - Galla, Tobias
+Y1  - 2024/08/30
+PY  - 2024
+N1  - doi: 10.1177/09622802241275382
+DO  - 10.1177/09622802241275382
+T2  - Statistical Methods in Medical Research
+JF  - Statistical Methods in Medical Research
+JO  - Stat Methods Med Res
+SP  -09622802241275382
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - Predicting patient survival probabilities based on observed covariates is an important assessment in clinical practice. These patient-specific covariates are often measured over multiple follow-up appointments. It is then of interest to predict survival based on the history of these longitudinal measurements, and to update predictions as more observations become available. The standard approaches to these so-called ‘dynamic prediction’ assessments are joint models and landmark analysis. Joint models involve high-dimensional parameterizations, and their computational complexity often prohibits including multiple longitudinal covariates. Landmark analysis is simpler, but discards a proportion of the available data at each ‘landmark time’. In this work, we propose a ‘delayed kernel’ approach to dynamic prediction that sits somewhere in between the two standard methods in terms of complexity. By conditioning hazard rates directly on the covariate measurements over the observation time frame, we define a model that takes into account the full history of covariate measurements but is more practical and parsimonious than joint modelling. Time-dependent association kernels describe the impact of covariate changes at earlier times on the patient’s hazard rate at later times. Under the constraints that our model (a) reduces to the standard Cox model for time-independent covariates, and (b) contains the instantaneous Cox model as a special case, we derive two natural kernel parameterizations. Upon application to three clinical data sets, we find that the predictive accuracy of the delayed kernel approach is comparable to that of the two existing standard methods.
+SN - 0962-2802
+M3  - doi: 10.1177/09622802241275382
+UR  - https://doi-org.crai.referencistas.com/10.1177/09622802241275382
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - BIM-Enabled Conceptual Modelling and Representation of Building Circulation
+AU  - Lee, Jin Kook
+AU  - Kim, Mi Jeong
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - doi: 10.5772/58440
+DO  - 10.5772/58440
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -127
+VL - 11
+IS - 8
+PB - SAGE Publications
+N2 - This paper describes how a building information modelling (BIM)-based approach for building circulation enables us to change the process of building design in terms of its computational representation and processes, focusing on the conceptual modelling and representation of circulation within buildings. BIM has been designed for use by several BIM authoring tools, in particular with the widely known interoperable industry foundation classes (IFCs), which follow an object-oriented data modelling methodology. Advances in BIM authoring tools, using space objects and their relations defined in an IFC’s schema, have made it possible to model, visualize and analyse circulation within buildings prior to their construction. Agent-based circulation has long been an interdisciplinary topic of research across several areas, including design computing, computer science, architectural morphology, human behaviour and environmental psychology. Such conventional approaches to building circulation are centred on navigational knowledge about built environments, and represent specific circulation paths and regulations. This paper, however, places emphasis on the use of ‘space objects’ in BIM-enabled design processes rather than on circulation agents, the latter of which are not defined in the IFCs’ schemas. By introducing and reviewing some associated research and projects, this paper also surveys how such a circulation representation is applicable to the analysis of building circulation-related rules.
+SN - 1729-8806
+M3  - doi: 10.5772/58440
+UR  - https://doi-org.crai.referencistas.com/10.5772/58440
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Self-organization in online collaborative work settings
+AU  - Lykourentzou, Ioanna
+AU  - Vinella, Federica Lucia
+AU  - Ahmed, Faez
+AU  - Papastathis, Costas
+AU  - Papangelis, Konstantinos
+AU  - Khan, Vassilis-Javed
+AU  - Masthoff, Judith
+Y1  - 2022/08/01
+PY  - 2022
+DA  - 2022/08/01
+N1  - doi: 10.1177/26339137221078005
+DO  - 10.1177/26339137221078005
+T2  - Collective Intelligence
+JF  - Collective Intelligence
+SP  -26339137221078004
+VL - 1
+IS - 1
+PB - SAGE Publications
+N2 - As the volume and complexity of distributed online work increases, collaboration among people who have never worked together in the past is becoming increasingly necessary. Recent research has proposed algorithms to maximize the performance of online collaborations by grouping workers in a top-down fashion and according to a set of predefined decision criteria. This approach often means that workers have little say in the collaboration formation process. Depriving users of control over whom they will work with can stifle creativity and initiative-taking, increase psychological discomfort, and, overall, result in less-than-optimal collaboration results—especially when the task concerned is open-ended, creative, and complex. In this work, we propose an alternative model, called Self-Organizing Pairs (SOPs), which relies on the crowd of online workers themselves to organize into effective work dyads. Supported but not guided by an algorithm, SOPs are a new human-centered computational structure, which enables participants to control, correct, and guide the output of their collaboration as a collective. Experimental results, comparing SOPs to two benchmarks that do not allow user agency, and on an iterative task of fictional story writing, reveal that participants in the SOPs condition produce creative outcomes of higher quality, and report higher satisfaction with their collaboration. Finally, we find that similarly to machine learning-based self-organization, human SOPs exhibit emergent collective properties, including the presence of an objective function and the tendency to form more distinct clusters of compatible collaborators.
+SN - 2633-9137
+M3  - doi: 10.1177/26339137221078005
+UR  - https://doi-org.crai.referencistas.com/10.1177/26339137221078005
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Use of Facial Recognition in Sociological Research: A Comparison of ClarifAI and Kairos Classifications to Hand-Coded Images
+AU  - Peoples, Crystal E.
+AU  - Knudsen, Paige
+AU  - Fuentes, Melany
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/23780231241259659
+DO  - 10.1177/23780231241259659
+T2  - Socius
+JF  - Socius
+SP  -23780231241259660
+VL - 10
+PB - SAGE Publications
+N2 - Sociologists increasingly employ machine learning (ML) to quickly sort, code, classify, and analyze data. With known racial and gender biases in ML algorithms, we urge sociologists to (re)consider the implications of the widespread use of these technologies in our research. To illustrate this point, we use two popular ML algorithms, ClarifAI and Kairos, to code a small sample of sociologists (n = 167) and their coauthors (n = 1,664) and compare their findings to the sociologists’ hand-coded race and gender information. We further explore ML-generated differences by analyzing the extent of racial homophily in these sociologists’ collaboration networks. We find significant differences across the three coding methods that would lead to very different conclusions and future research agendas. We conclude by elaborating on how sociologists might ethically consider the role of ML and its use in the discipline.
+SN - 2378-0231
+M3  - doi: 10.1177/23780231241259659
+UR  - https://doi-org.crai.referencistas.com/10.1177/23780231241259659
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Daylight potential of Swedish residential environments: Visual and beyond-vision effects and the relationship with well-being assessment
+AU  - Rastegari, E.
+AU  - Adamsson, MR
+AU  - Aries, MBC
+Y1  - 2024/08/27
+PY  - 2024
+N1  - doi: 10.1177/14771535241268606
+DO  - 10.1177/14771535241268606
+T2  - Lighting Research & Technology
+JF  - Lighting Research & Technology
+SP  -14771535241268606
+VL - 0
+IS - 0
+PB - SAGE Publications Ltd STM
+N2 - Good lighting is one of the most important comfort factors in residential buildings. In creating a comfortable and restorative living space, the effects of light, both visual and effects beyond vision, play a crucial role. Daylight is considered an essential factor for indoor environments, which can benefit occupants’ health as well as lower energy use. This study investigated the potential daylight exposure for 10 apartments in Sweden, using metrics to quantify both visual effects and effects beyond vision and to understand the relationship between the light situation in the apartments and well-being metrics collected from occupants during a field study. Computational modelling of daylight conditions for visual effects and effects beyond vision was performed. Statistical analysis was utilised to investigate the possible relationship between the apartments’ daylight potential and the self-reported well-being of the occupants. The results show variations of light exposure for apartments in different seasons. Furthermore, possible relationships between well-being metrics and daylight exposure changes were observed despite being possibly influenced by seasonal light level contrasts.
+SN - 1477-1535
+M3  - doi: 10.1177/14771535241268606
+UR  - https://doi-org.crai.referencistas.com/10.1177/14771535241268606
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Models of Identity Signaling
+AU  - Smaldino, Paul E.
+Y1  - 2022/05/03
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/09637214221075609
+DO  - 10.1177/09637214221075609
+T2  - Current Directions in Psychological Science
+JF  - Current Directions in Psychological Science
+JO  - Curr Dir Psychol Sci
+SP  -231
+EP - 237
+VL - 31
+IS - 3
+PB - SAGE Publications Inc
+N2 - Identity signals inform receivers of a signaler’s membership in a subset of individuals, and in doing so shape cooperation, conflict, and social learning. Understanding the use and consequences of identity signaling is therefore critical for a complete science of collective human behavior. As is true for all complex social systems, this understanding is aided by the use of formal mathematical and computational models. Here I review some formal models of identity signaling. I divide these models into two categories. First, I discuss models used to study how identity functions as a signal, with a focus on public-health-related behavior and disease transmission. Second, I discuss models used to understand how identity signals operate strategically in different social environments, with a focus on covert, or encrypted, communication.
+SN - 0963-7214
+M3  - doi: 10.1177/09637214221075609
+UR  - https://doi-org.crai.referencistas.com/10.1177/09637214221075609
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Relational data paradigms: What do we learn by taking the materiality of databases seriously?
+AU  - Thomer, Andrea K.
+AU  - Wickett, Karen M.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1177/2053951720934838
+DO  - 10.1177/2053951720934838
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -2053951720934838
+VL - 7
+IS - 1
+PB - SAGE Publications Ltd
+N2 - Although databases have been well-defined and thoroughly discussed in the computer science literature, the actual users of databases often have varying definitions and expectations of this essential computational infrastructure. Systems administrators and computer science textbooks may expect databases to be instantiated in a small number of technologies (e.g., relational or graph-based database management systems), but there are numerous examples of databases in non-conventional or unexpected technologies, such as spreadsheets or other assemblages of files linked through code. Consequently, we ask: How do the materialities of non-conventional databases differ from or align with the materialities of conventional relational systems? What properties of the database do the creators of these artifacts invoke in their rhetoric describing these systems—or in the data models underlying these digital objects? To answer these questions, we conducted a close analysis of four non-conventional scientific databases. By examining the materialities of information representation in each case, we show how scholarly communication regimes shape database materialities—and how information organization paradigms shape scholarly communication. These cases show abandonment of certain constraints of relational database construction alongside maintenance of some key relational data organization strategies. We discuss the implications that these relational data paradigms have for data use, preservation, and sharing, and discuss the need to support a plurality of data practices and paradigms.
+SN - 2053-9517
+M3  - doi: 10.1177/2053951720934838
+UR  - https://doi-org.crai.referencistas.com/10.1177/2053951720934838
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Politics of data reuse in machine learning systems: Theorizing reuse entanglements
+AU  - Thylstrup, Nanna Bonde
+AU  - Hansen, Kristian Bondo
+AU  - Flyverbom, Mikkel
+AU  - Amoore, Louise
+Y1  - 2022/07/01
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1177/20539517221139785
+DO  - 10.1177/20539517221139785
+T2  - Big Data & Society
+JF  - Big Data & Society
+SP  -20539517221139784
+VL - 9
+IS - 2
+PB - SAGE Publications Ltd
+N2 - Policy discussions and corporate strategies on machine learning are increasingly championing data reuse as a key element in digital transformations. These aspirations are often coupled with a focus on responsibility, ethics and transparency, as well as emergent forms of regulation that seek to set demands for corporate conduct and the protection of civic rights. And the Protective measures include methods of traceability and assessments of ‘good’ and ‘bad’ datasets and algorithms that are considered to be traceable, stable and contained. However, these ways of thinking about both technology and ethics obscure a fundamental issue, namely that machine learning systems entangle data, algorithms and more-than-human environments in ways that challenge a well-defined separation. This article investigates the fundamental fallacy of most data reuse strategies as well as their regulation and mitigation strategies that data can somehow be followed, contained and controlled in machine learning processes. Instead, the article argues that we need to understand the reuse of data as an inherently entangled phenomenon. To examine this tension between the discursive regimes and the realities of data reuse, we advance the notion of reuse entanglements as an analytical lens. The main contribution of the article is the conceptualization of reuse that places entanglements at its core and the articulation of its relevance using empirical illustrations. This is important, we argue, for our understanding of the nature of data and algorithms, for the practical uses of data and algorithms and our attitudes regarding ethics, responsibility and regulation.
+SN - 2053-9517
+M3  - doi: 10.1177/20539517221139785
+UR  - https://doi-org.crai.referencistas.com/10.1177/20539517221139785
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Novel Functional Peptide for Next-Generation Vital Pulp Therapy
+AU  - AU  - Watanabe, M.
+AU  - Okamoto, M.
+AU  - Komichi, S.
+AU  - Huang, H.
+AU  - Matsumoto, S.
+AU  - Moriyama, K.
+AU  - Ohshima, J.
+AU  - Abe, S.
+AU  - Morita, M.
+AU  - Ali, M.
+et al.
+Y1  - 2022/11/22
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1177/00220345221135766
+DO  - 10.1177/00220345221135766
+T2  - Journal of Dental Research
+JF  - Journal of Dental Research
+JO  - J Dent Res
+SP  -322
+EP - 330
+VL - 102
+IS - 3
+PB - SAGE Publications Inc
+N2 - Although vital pulp therapy should be performed by promoting the wound-healing capacity of dental pulp, existing pulp-capping materials were not developed with a focus on the pulpal repair process. In previous investigations of wound healing in dental pulp, we found that organic dentin matrix components (DMCs) were degraded by matrix metalloproteinase-20, and DMC degradation products containing protein S100A7 (S100A7) and protein S100A8 (S100A8) promoted the pulpal wound-healing process. However, the direct use of recombinant proteins as pulp-capping materials may cause clinical problems or lead to high medical costs. Thus, we hypothesized that functional peptides derived from recombinant proteins could solve the problems associated with direct use of such proteins. In this study, we identified functional peptides derived from the protein S100 family and investigated their effects on dental pulp tissue. We first performed amino acid sequence alignments of protein S100 family members from several mammalian sources, then identified candidate peptides. Next, we used a peptide array method that involved human dental pulp stem cells (hDPSCs) to evaluate the mineralization-inducing ability of each peptide. Our results supported the selection of 4 candidate functional peptides derived from proteins S100A8 and S100A9. Direct pulp-capping experiments in a rat model demonstrated that 1 S100A8-derived peptide induced greater tertiary dentin formation compared with the other peptides. To investigate the mechanism underlying this induction effect, we performed liquid chromatography–tandem mass spectrometry analysis using hDPSCs and the S100A8-derived peptide; the results suggested that this peptide promotes tertiary dentin formation by inhibiting inflammatory responses. In addition, this peptide was located in a hairpin region on the surface of S100A8 and could function by direct interaction with other molecules. In summary, this study demonstrated that a S100A8-derived functional peptide promoted wound healing in dental pulp; our findings provide insights for the development of next-generation biological vital pulp therapies.
+SN - 0022-0345
+M3  - doi: 10.1177/00220345221135766
+UR  - https://doi-org.crai.referencistas.com/10.1177/00220345221135766
+Y2  - 2024/10/01
+ER  - 
+

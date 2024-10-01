@@ -1,0 +1,253 @@
+TY  - JOUR
+T1  - On the maximum empty hyper-rectangle problem
+AU  - Abo-Alsabeh, Rewayda Razaq
+AU  - Daham, Hajem Ati
+AU  - Salhi, Abdellah
+Y1  - 2023/01/01
+PY  - 2023
+DA  - 2023/01/01
+N1  - doi: 10.1177/17483026221151197
+DO  - 10.1177/17483026221151197
+T2  - Journal of Algorithms & Computational Technology
+JF  - Journal of Algorithms & Computational Technology
+SP  -17483026221151196
+VL - 17
+PB - SAGE Publications Ltd STM
+N2 - Given a rectangle containing points, we consider the problem of detecting the largest rectangle that is totally contained in and does not include any of the points. In other words, we want to find the biggest hole in the dataset that can contain the biggest possible rectangle. A new algorithm for dealing with this problem is, therefore, suggested. Existing algorithms are exact but cannot deal efficiently with problems in high dimensions and large instances. In fact, only computing maximum empty rectangles in a set of points in has been well addressed. In high dimensions, the problem is shown to be NP-complete. Our suggested approach is evolutionary in nature and is an innovative implementation of the genetic algorithm. The approach solves a more general form of the stated problem in that it ignores the axis-parallel condition imposed on the hyper-rectangles to be found. This paper includes computational results and their discussions.
+SN - 1748-3018
+M3  - doi: 10.1177/17483026221151197
+UR  - https://doi-org.crai.referencistas.com/10.1177/17483026221151197
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Digital twins and the terminology of “personalization” or “personalized learning” in educational policy: A discussion paper
+AU  - Arantes, Janine
+Y1  - 2023/05/29
+PY  - 2024
+DA  - 2024/05/01
+N1  - doi: 10.1177/14782103231176357
+DO  - 10.1177/14782103231176357
+T2  - Policy Futures in Education
+JF  - Policy Futures in Education
+SP  -524
+EP - 543
+VL - 22
+IS - 4
+PB - SAGE Publications
+N2 - There has been a policy push in K-12 educational settings towards personalized learning in the last decade. Commercial platforms and learning designers have responded, offering learning tools to support teaching and learning through data-driven insights and recommendations. Trending towards the augmentation or replacing human teachers with non-human technology, this paper argues that personalized learning with human teachers is an entirely different process from personalization with digital twins. Drawing on new materialist thinking, it explores the impacts and implications for discourse concerning teacher quality and disadvantages within educational systems. It clarifies the conflation of the terms “personalized learning” and “personalization” to illuminate the power, positionality, and privilege enabled for some, in conflating terms in Australian educational policy.
+SN - 1478-2103
+M3  - doi: 10.1177/14782103231176357
+UR  - https://doi-org.crai.referencistas.com/10.1177/14782103231176357
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Return visits to the emergency department: An analysis using group based curve models
+AU  - Ben-Assuli, Ofir
+AU  - Vest, Joshua R.
+Y1  - 2022/04/01
+PY  - 2022
+DA  - 2022/04/01
+N1  - doi: 10.1177/14604582221105444
+DO  - 10.1177/14604582221105444
+T2  - Health Informatics Journal
+JF  - Health Informatics Journal
+JO  - Health Informatics J
+SP  -14604582221105444
+VL - 28
+IS - 2
+PB - SAGE Publications Ltd
+N2 - Stratification modeling in health services is useful to identify differential patient risk groups, or latent classes. Given the frequency and costs, repeated emergency department (ED) may be an appropriate candidate for risk stratification modeling. We applied a method called group-based trajectory modeling (GBTM) to a sample of 37,416 patients who visited an urban, safety-net ED between 2006 and 2016. Patients had up to 10 ED visits during the study period. Data sources included the hospital’s electronic health record (EHR), the state-wide health information exchange system, and area-level social determinants of health factors. Results revealed three distinct trajectory groups. Trajectories with a higher risk of revisit were marked by more patients with behavioral diagnoses, injuries, alcohol & substance abuse, stroke, diabetes, and other factors. The application of advanced computational techniques, like GBTM, provides opportunities for health care organizations to better understand the underlying risks of their large patient populations. Identifying those patients who are likely to be members of high-risk trajectories allows healthcare organizations to stratify patients by level of risk and develop early targeted interventions.
+SN - 1460-4582
+M3  - doi: 10.1177/14604582221105444
+UR  - https://doi-org.crai.referencistas.com/10.1177/14604582221105444
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Using Collaborative Simulation Modeling to Develop a Web-Based Tool to Support Policy-Level Decision Making About Breast Cancer Screening Initiation Age
+AU  - AU  - Burnside, Elizabeth S.
+AU  - Lee, Sandra J.
+AU  - Bennette, Carrie
+AU  - Near, Aimee M.
+AU  - Alagoz, Oguzhan
+AU  - Huang, Hui
+AU  - van den Broek, Jeroen J.
+AU  - Kim, Joo Yeon
+AU  - Ergun, Mehmet A.
+AU  - van Ravesteyn, Nicolien T.
+et al.
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - doi: 10.1177/2381468317717982
+DO  - 10.1177/2381468317717982
+T2  - MDM Policy & Practice
+JF  - MDM Policy & Practice
+SP  -2381468317717982
+VL - 2
+IS - 2
+PB - SAGE Publications Inc
+N2 - Background: There are no publicly available tools designed specifically to assist policy makers to make informed decisions about the optimal ages of breast cancer screening initiation for different populations of US women. Objective: To use three established simulation models to develop a web-based tool called Mammo OUTPuT. Methods: The simulation models use the 1970 US birth cohort and common parameters for incidence, digital screening performance, and treatment effects. Outcomes include breast cancers diagnosed, breast cancer deaths averted, breast cancer mortality reduction, false-positive mammograms, benign biopsies, and overdiagnosis. The Mammo OUTPuT tool displays these outcomes for combinations of age at screening initiation (every year from 40 to 49), annual versus biennial interval, lifetime versus 10-year horizon, and breast density, compared to waiting to start biennial screening at age 50 and continuing to 74. The tool was piloted by decision makers (n = 16) who completed surveys. Results: The tool demonstrates that benefits in the 40s increase linearly with earlier initiation age, without a specific threshold age. Likewise, the harms of screening increase monotonically with earlier ages of initiation in the 40s. The tool also shows users how the balance of benefits and harms varies with breast density. Surveys revealed that 100% of users (16/16) liked the appearance of the site; 94% (15/16) found the tool helpful; and 94% (15/16) would recommend the tool to a colleague. Conclusions: This tool synthesizes a representative subset of the most current CISNET (Cancer Intervention and Surveillance Modeling Network) simulation model outcomes to provide policy makers with quantitative data on the benefits and harms of screening women in the 40s. Ultimate decisions will depend on program goals, the population served, and informed judgments about the weight of benefits and harms.
+SN - 2381-4683
+M3  - doi: 10.1177/2381468317717982
+UR  - https://doi-org.crai.referencistas.com/10.1177/2381468317717982
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Building and validating an artificial intelligence model to identify tracheobronchopathia osteochondroplastica by using bronchoscopic images
+AU  - Chen, Chongxiang
+AU  - Tang, Fei
+AU  - Herth, Felix J.F.
+AU  - Zuo, Yingnan
+AU  - Ren, Jiangtao
+AU  - Zhang, Shuaiqi
+AU  - Jian, Wenhua
+AU  - Tang, Chunli
+AU  - Li, Shiyue
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1177/17534666241253694
+DO  - 10.1177/17534666241253694
+T2  - Therapeutic Advances in Respiratory Disease
+JF  - Therapeutic Advances in Respiratory Disease
+JO  - Ther Adv Respir Dis
+SP  -17534666241253694
+VL - 18
+PB - SAGE Publications Ltd STM
+N2 - Background: Given the rarity of tracheobronchopathia osteochondroplastica (TO), many young doctors in primary hospitals are unable to identify TO based on bronchoscopy findings. Objectives: To build an artificial intelligence (AI) model for differentiating TO from other multinodular airway diseases by using bronchoscopic images. Design: We designed the study by comparing the imaging data of patients undergoing bronchoscopy from January 2010 to October 2022 by using EfficientNet. Bronchoscopic images of 21 patients with TO at Anhui Chest Hospital from October 2019 to October 2022 were collected for external validation. Methods: Bronchoscopic images of patients with multinodular airway lesions (including TO, amyloidosis, tumors, and inflammation) and without airway lesions in the First Affiliated Hospital of Guangzhou Medical University were collected. The images were randomized (4:1) into training and validation groups based on different diseases and utilized for deep learning by convolutional neural networks (CNNs). Results: We enrolled 201 patients with multinodular airway disease (38, 15, 75, and 73 patients with TO, amyloidosis, tumors, and inflammation, respectively) and 213 without any airway lesions. To find multinodular lesion images for deep learning, we utilized 2183 bronchoscopic images of multinodular lesions (including TO, amyloidosis, tumor, and inflammation) and compared them with images without any airway lesions (1733). The accuracy of multinodular lesion identification was 98.9%. Further, the accuracy of TO detection based on the bronchoscopic images of multinodular lesions was 89.2%. Regarding external validation (using images from 21 patients with TO), all patients could be diagnosed with TO; the accuracy was 89.8%. Conclusion: We built an AI model that could differentiate TO from other multinodular airway diseases (mainly amyloidosis, tumors, and inflammation) by using bronchoscopic images. The model could help young physicians identify this rare airway disease.
+SN - 1753-4666
+M3  - doi: 10.1177/17534666241253694
+UR  - https://doi-org.crai.referencistas.com/10.1177/17534666241253694
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - An Approach Based on Chain Key Predistribution against Sybil Attack in Wireless Sensor Networks
+AU  - Cheng, Chunling
+AU  - Qian, Yaqiu
+AU  - Zhang, Dengyin
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - doi: 10.1155/2013/839320
+DO  - 10.1155/2013/839320
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -839320
+VL - 9
+IS - 11
+PB - SAGE Publications
+N2 - In wireless sensor networks (WSN), Sybil attack can destroy the routing and data distributed storage mechanisms through fabricating identity information of legitimate nodes. This paper presents a chain key predistribution based approach against Sybil attack. To enhance the security of common keys between neighboring nodes, during the chain key predistribution phase, our approach uses a lightweight hash function to generate several chain keys by hashing the unique identity information of every node sequentially in the trusted base station. These chain keys construct a pool of chain keys. During the pairwise key authentication establishment phase, a node-to-node chain key based authentication and exchange (CK-AE) protocol is proposed, by which each node can share the unique pairwise key with its neighboring node. The CK-AE protocol is provably secure in the universally composable security model (UCSM). Finally, we analyze our approach from the resilience of network and the performance overhead, and the results show that our approach can not only enhance the ability of resilience to Sybil attack, but also reduce the communication overhead significantly at the cost of a certain amount of computational overhead.
+SN - 1550-1329
+M3  - doi: 10.1155/2013/839320
+UR  - https://doi-org.crai.referencistas.com/10.1155/2013/839320
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Why Should We Care about Molecular Coevolution?
+AU  - Codoñer, Francisco M.
+AU  - Fares, Mario A.
+Y1  - 2008/01/01
+PY  - 2008
+DA  - 2008/01/01
+N1  - doi: 10.1177/117693430800400003
+DO  - 10.1177/117693430800400003
+T2  - Evolutionary Bioinformatics
+JF  - Evolutionary Bioinformatics
+JO  - Evol Bioinform Online
+SP  -117693430800400000
+VL - 4
+PB - SAGE Publications Ltd STM
+N2 - Non-independent evolution of amino acid sites has become a noticeable limitation of most methods aimed at identifying selective constraints at functionally important amino acid sites or protein regions. The need for a generalised framework to account for non-independence of amino acid sites has fuelled the design and development of new mathematical models and computational tools centred on resolving this problem. Molecular coevolution is one of the most active areas of research, with an increasing rate of new models and methods being developed everyday. Both parametric and non-parametric methods have been developed to account for correlated variability of amino acid sites. These methods have been utilised for detecting phylogenetic, functional and structural coevolution as well as to identify surfaces of amino acid sites involved in protein-protein interactions. Here we discuss and briefly describe these methods, and identify their advantages and limitations.
+SN - 1176-9343
+M3  - doi: 10.1177/117693430800400003
+UR  - https://doi-org.crai.referencistas.com/10.1177/117693430800400003
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Simulation-Based Optimization for Vertiport Location Selection: A Surrogate Model With Machine Learning Method
+AU  - Jiang, Xuan
+AU  - Cao, Shangqing
+AU  - Mo, Baichuan
+AU  - Cao, Junzhe
+AU  - Yang, Hao (Frank)
+AU  - Tang, Yuhan
+AU  - Hansen, Mark
+AU  - Zhao, Jinhua
+AU  - Sengupta, Raja
+Y1  - 2024/09/19
+PY  - 2024
+N1  - doi: 10.1177/03611981241277755
+DO  - 10.1177/03611981241277755
+T2  - Transportation Research Record
+JF  - Transportation Research Record
+SP  -03611981241277755
+VL - 0
+IS - 0
+PB - SAGE Publications Inc
+N2 - We present Vertiport-informed Surrogate-Based Optimization with Machine Learning Surrogates (VinS), a novel framework for solving the vertiport location problem for urban air mobility operations. The primary focus of this work is on the optimization of vertiport locations to facilitate efficient urban air transportation. Our framework helps choose not only the optimal vertiport locations but also the optimal number of vertiports. We develop a simulation model to analyze the impacts of various vertiport location configurations on the efficiency of the transportation network. To expedite the simulation process, a surrogate model is trained using machine learning algorithms, effectively reducing the computational time for evaluating a given vertiport location configuration. With the machine learning surrogate models, we apply a genetic algorithm to find the optimal set of vertiport locations. An empirical study was performed in the San Francisco Bay Area, from which we found that given the optimal set of vertiport locations, we further reduced the total travel time in the entire transportation system in the Bay Area compared with the sampled sets by 0.05% (400 h) on average. We release our framework at: https://github.com/Xuan-1998/LPSim.
+SN - 0361-1981
+M3  - doi: 10.1177/03611981241277755
+UR  - https://doi-org.crai.referencistas.com/10.1177/03611981241277755
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Trends in the scientific literature on atypical antipsychotic drugs in the United Kingdom: a bibliometric study
+AU  - López-Muñoz, Francisco
+AU  - Tracy, Derek K.
+AU  - Povedano-Montero, F. Javier
+AU  - Breedvelt, Josefien
+AU  - García-Pacios, Javier
+AU  - Fernández-Martín, Ma Poveda
+AU  - Rubio, Gabriel
+AU  - Álamo, Cecilio
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1177/2045125318820207
+DO  - 10.1177/2045125318820207
+T2  - Therapeutic Advances in Psychopharmacology
+JF  - Therapeutic Advances in Psychopharmacology
+SP  -2045125318820207
+VL - 9
+PB - SAGE Publications Ltd STM
+N2 - Objective: A bibliometric study was undertaken of peer-reviewed publications on atypical antipsychotic drugs (AADs) from the United Kingdom and the findings are presented herein. Methods: We selected the documents from the Scopus database. We applied several production and dispersion bibliometric indicators, including Price’s law on the growth of the scientific literature, and Bradford’s law. We also calculated a so-called ‘participation index’ across different countries. The bibliometric data were thereafter correlated with social and health data from the UK, including total per capita expenditure on health and gross domestic expenditure. Results: A total of 4156 original manuscripts were published within the timeframe 1967–2015. Our results are in accord with Price’s law, with scientific output demonstrating exponential growth (r = 0.9227, as against an r = 0.8766 after adjustment). The drugs most widely evaluated were clozapine (465 documents), olanzapine (263) and risperidone (248). Stratification into Bradford zones produced a nucleus represented by the Journal of Psychopharmacology (168 articles) and British Journal of Psychiatry (159 articles). A total of 1250 different journals were evaluated. Conclusions: Publications on AADs in the UK have shown exponential growth across the studied period, which is in line with the progressively burgeoning novel AAD releases. No evidence of a saturation point was observed.
+SN - 2045-1253
+M3  - doi: 10.1177/2045125318820207
+UR  - https://doi-org.crai.referencistas.com/10.1177/2045125318820207
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Sparse long short-term memory for information fusion in wireless sensor networks
+AU  - Zhou, Yangfan
+AU  - Zhang, Mingchuan
+AU  - Xie, Ping
+AU  - Zhu, Junlong
+AU  - Zheng, Ruijuan
+AU  - Wu, Qingtao
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1177/1550147719842153
+DO  - 10.1177/1550147719842153
+T2  - International Journal of Distributed Sensor Networks
+JF  - International Journal of Distributed Sensor Networks
+SP  -1550147719842153
+VL - 15
+IS - 4
+PB - SAGE Publications
+N2 - Wireless sensor networks are designed to perceive, gather, and process external environmental information and send it to the observer. However, the transmission of mass information is a challenge to the sensor nodes. To address this challenge, information fusion technologies are proposed to reduce mass redundant data. However, these techniques rarely consider the historical information, and thereby often encounter the difficulty of low prediction accuracy. In order to solve this difficulty, we propose a novel information fusion approach for the cluster heads. The proposed approach is based on time-recurrent neural network, called sparse long short-term memory, which is derived from the long short-term memory network. The sparse long short-term memory uses sparse matrix to reduce the dimension for a high-dimensional coefficient matrix. Therefore, the computational cost of the fusion algorithm is reduced in wireless sensor networks. The simulation results show that the sparse long short-term memory algorithm increases the survival number of sensor nodes in wireless sensor networks. Furthermore, the prediction accuracy of the sparse long short-term memory algorithm is almost the same as the other comparison algorithms.
+SN - 1550-1329
+M3  - doi: 10.1177/1550147719842153
+UR  - https://doi-org.crai.referencistas.com/10.1177/1550147719842153
+Y2  - 2024/10/01
+ER  - 
+

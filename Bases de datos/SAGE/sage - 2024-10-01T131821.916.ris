@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - A Comparison of Modern and Popular Approaches to Calculating Reliability for Dichotomously Scored Items
+AU  - Béland, Sébastien
+AU  - Falk, Carl F.
+Y1  - 2022/04/14
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1177/01466216221084210
+DO  - 10.1177/01466216221084210
+T2  - Applied Psychological Measurement
+JF  - Applied Psychological Measurement
+SP  -321
+EP - 337
+VL - 46
+IS - 4
+PB - SAGE Publications Inc
+N2 - Recent work on reliability coefficients has largely focused on continuous items, including critiques of Cronbach’s alpha. Although two new model-based reliability coefficients have been proposed for dichotomous items (Dimitrov, 2003a,b; Green & Yang, 2009a), these approaches have yet to be compared to each other or other popular estimates of reliability such as omega, alpha, and the greatest lower bound. We seek computational improvements to one of these model-based reliability coefficients and, in addition, conduct initial Monte Carlo simulations to compare coefficients using dichotomous data. Our results suggest that such improvements to the model-based approach are warranted, while model-based approaches were generally superior.
+SN - 0146-6216
+M3  - doi: 10.1177/01466216221084210
+UR  - https://doi-org.crai.referencistas.com/10.1177/01466216221084210
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Feature Selection Criteria for Real Time EKF-SLAM Algorithm
+AU  - Cheein, Fernando Auat
+AU  - Scaglia, Gustavo
+AU  - di Sciasio, Fernando
+AU  - Carelli, Ricardo
+Y1  - 2009/01/01
+PY  - 2009
+DA  - 2009/09/01
+N1  - doi: 10.5772/7237
+DO  - 10.5772/7237
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -21
+VL - 6
+IS - 3
+PB - SAGE Publications
+N2 - This paper presents a seletion procedure for environmet features for the correction stage of a SLAM (Simultaneous Localization and Mapping) algorithm based on an Extended Kalman Filter (EKF). This approach decreases the computational time of the correction stage which allows for real and constant-time implementations of the SLAM. The selection procedure consists in chosing the features the SLAM system state covariance is more sensible to. The entire system is implemented on a mobile robot equipped with a range sensor laser. The features extracted from the environment correspond to lines and corners. Experimental results of the real time SLAM algorithm and an analysis of the processing-time consumed by the SLAM with the feature selection procedure proposed are shown. A comparison between the feature selection approach proposed and the classical sequential EKF-SLAM along with an entropy feature selection approach is also performed.
+SN - 1729-8806
+M3  - doi: 10.5772/7237
+UR  - https://doi-org.crai.referencistas.com/10.5772/7237
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Non-iterative Conditional Pairwise Estimation for the Rating Scale Model
+AU  - Elliott, Mark
+AU  - Buttery, Paula
+Y1  - 2021/09/24
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1177/00131644211046253
+DO  - 10.1177/00131644211046253
+T2  - Educational and Psychological Measurement
+JF  - Educational and Psychological Measurement
+SP  -989
+EP - 1019
+VL - 82
+IS - 5
+PB - SAGE Publications Inc
+N2 - We investigate two non-iterative estimation procedures for Rasch models, the pair-wise estimation procedure (PAIR) and the Eigenvector method (EVM), and identify theoretical issues with EVM for rating scale model (RSM) threshold estimation. We develop a new procedure to resolve these issues—the conditional pairwise adjacent thresholds procedure (CPAT)—and test the methods using a large number of simulated datasets to compare the estimates against known generating parameters. We find support for our hypotheses, in particular that EVM threshold estimates suffer from theoretical issues which lead to biased estimates and that CPAT represents a means of resolving these issues. These findings are both statistically significant (p < .001) and of a large effect size. We conclude that CPAT deserves serious consideration as a conditional, computationally efficient approach to Rasch parameter estimation for the RSM. CPAT has particular potential for use in contexts where computational load may be an issue, such as systems with multiple online algorithms and large test banks with sparse data designs.
+SN - 0013-1644
+M3  - doi: 10.1177/00131644211046253
+UR  - https://doi-org.crai.referencistas.com/10.1177/00131644211046253
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - The Challenges of Big Data for Research Ethics Committees: A Qualitative Swiss Study
+AU  - Ferretti, Agata
+AU  - Ienca, Marcello
+AU  - Velarde, Minerva Rivas
+AU  - Hurst, Samia
+AU  - Vayena, Effy
+Y1  - 2021/11/15
+PY  - 2022
+DA  - 2022/02/01
+N1  - doi: 10.1177/15562646211053538
+DO  - 10.1177/15562646211053538
+T2  - Journal of Empirical Research on Human Research Ethics
+JF  - Journal of Empirical Research on Human Research Ethics
+SP  -129
+EP - 143
+VL - 17
+IS - 1–2
+PB - SAGE Publications Inc
+N2 - Big data trends in health research challenge the oversight mechanism of the Research Ethics Committees (RECs). The traditional standards of research quality and the mandate of RECs illuminate deficits in facing the computational complexity, methodological novelty, and limited auditability of these approaches. To better understand the challenges facing RECs, we explored the perspectives and attitudes of the members of the seven Swiss Cantonal RECs via semi-structured qualitative interviews. Our interviews reveal limited experience among REC members with the review of big data research, insufficient expertise in data science, and uncertainty about how to mitigate big data research risks. Nonetheless, RECs could strengthen their oversight by training in data science and big data ethics, complementing their role with external experts and ad hoc boards, and introducing precise shared practices.
+SN - 1556-2646
+M3  - doi: 10.1177/15562646211053538
+UR  - https://doi-org.crai.referencistas.com/10.1177/15562646211053538
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - ROBIL: Robot Path Planning Based on PBIL Algorithm
+AU  - Kang, Bo-Yeong
+AU  - Xu, Miao
+AU  - Lee, Jaesung
+AU  - Kim, Dae-Won
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/09/01
+N1  - doi: 10.5772/58872
+DO  - 10.5772/58872
+T2  - International Journal of Advanced Robotic Systems
+JF  - International Journal of Advanced Robotic Systems
+SP  -147
+VL - 11
+IS - 9
+PB - SAGE Publications
+N2 - Genetic algorithm (GAs) have attracted considerable interest for their usefulness in solving complex robot path planning problems. Specifically, researchers have combined conventional GAs with problem-specific operators and initialization techniques to find the shortest paths in a variety of robotic environments. Unfortunately, these approaches have exhibited inherently unstable performance, and they have tended to make other aspects of the problem-solving process (e.g., adjusting parameter sensitivities and creating high-quality initial populations) unmanageable. As an alternative to conventional GAs, we propose a new population-based incremental learning (PBIL) algorithm for robot path planning, a probabilistic model of nodes, and an edge bank for generating promising paths. Experimental results demonstrate the computational superiority of the proposed method over conventional GA approaches.
+SN - 1729-8806
+M3  - doi: 10.5772/58872
+UR  - https://doi-org.crai.referencistas.com/10.5772/58872
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - VOF Simulations of Countercurrent Gas-Liquid Flow in a PWR Hot Leg
+AU  - Murase, Michio
+AU  - Utanohara, Yoichi
+AU  - Kinoshita, Ikuo
+AU  - Yanagi, Chihiro
+AU  - Takata, Takashi
+AU  - Yamaguchi, Akira
+AU  - Tomiyama, Akio
+Y1  - 2012/12/01
+PY  - 2012
+DA  - 2012/12/01
+N1  - doi: 10.1260/1757-482X.4.4.375
+DO  - 10.1260/1757-482X.4.4.375
+T2  - The Journal of Computational Multiphase Flows
+JF  - The Journal of Computational Multiphase Flows
+SP  -375
+EP - 385
+VL - 4
+IS - 4
+PB - SAGE Publications Ltd STM
+N2 - In order to evaluate flow patterns and CCFL (countercurrent flow limitation) characteristics in a PWR hot leg under reflux condensation, numerical simulations have been done using a two-fluid model and a VOF (volume of fluid) method implemented in the CFD software, FLUENT6.3.26. The two-fluid model gave good agreement with CCFL data under low pressure conditions but did not give good results under high pressure steam-water conditions. On the other hand, the VOF method gave good agreement with CCFL data for tests with a rectangular channel but did not give good results for calculations in a circular channel. Therefore, in this paper, the computational grid and schemes were improved in the VOF method, numerical simulations were done for steam-water flows at 1.5 MPa under PWR full-scale conditions with the diameter of 0.75 m, and the calculated results were compared with the UPTF data at 1.5 MPa. As a result, the calculated flow pattern was found to be similar to the flow pattern observed in small-scale air-water tests, and the calculated CCFL characteristics agreed well with the UPTF data at 1.5 MPa except in the region of a large steam volumetric flux.
+SN - 1757-482X
+M3  - doi: 10.1260/1757-482X.4.4.375
+UR  - https://doi-org.crai.referencistas.com/10.1260/1757-482X.4.4.375
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Making Sense of Responsibility: A Semio-Ethic Perspective on TikTok’s Algorithmic Pluralism
+AU  - Scalvini, Marco
+Y1  - 2023/04/01
+PY  - 2023
+DA  - 2023/04/01
+N1  - doi: 10.1177/20563051231180625
+DO  - 10.1177/20563051231180625
+T2  - Social Media + Society
+JF  - Social Media + Society
+SP  -20563051231180624
+VL - 9
+IS - 2
+PB - SAGE Publications Ltd
+N2 - Utilizing the data collected from 40 in-depth interviews, this study explores: How do users perceive social media platforms’ responsibility in designing algorithms? What do users perceive as diverse or similar in the content generated by algorithmic recommendation systems? The analysis discusses and evaluates the tension between (a) how the platform’s algorithm feeds users similar videos that they highly appreciate and, inversely, (b) how the recommendation of similar videos might limit the diversity of content to which the user is exposed. The analysis adopts a semio-ethic framework to understand why algorithmic platforms like TikTok are perceived to be so efficient in promoting an apparent perception of inclusivity while deliberately erasing alterity and promoting universal sameness. Although videos recommended by TikTok might appear to satisfy computational criteria of diversity, the outcome masks the absence of algorithmic pluralism. The algorithm generates socially desirable videos to allow users to feel comfortable in their in-group. In other words, recommended videos perpetuate a digital form of conformism in a conscious attempt to create the illusion of a more plural community. Advancing the study of algorithmic pluralism is therefore crucial to evaluate the extent to which plurality is understood by users, and what assumptions and ethics underpin the cultures that foster algorithmic recommendation design.
+SN - 2056-3051
+M3  - doi: 10.1177/20563051231180625
+UR  - https://doi-org.crai.referencistas.com/10.1177/20563051231180625
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - QR code: The global making of an infrastructural gateway
+AU  - de Seta, Gabriele
+Y1  - 2023/06/13
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1177/20594364231183618
+DO  - 10.1177/20594364231183618
+T2  - Global Media and China
+JF  - Global Media and China
+SP  -362
+EP - 380
+VL - 8
+IS - 3
+PB - SAGE Publications Ltd
+N2 - This article traces the history of machine-readable data encoding standards and argues that the QR code has become an infrastructural gateway. Through the analysis of patents, corporate documents and advertising, ethnographic observations, and interviews with professionals, I describe the global making of the QR code and argue that the convergence of data encoding standards, mobile computing, machine vision algorithms, and platform ecosystems has led to the emergence of a new component of computational infrastructures which functions as a gateway between different actors, systems, and practices. The central section of the article covers seven decades of machine-readable data encoding history across different national and regional contexts: from the invention and popularization of the barcode in the United States, through the QR code’s invention in Japan and its success in East Asia, to its platformization in China. By revisiting this history through concepts drawn from the field of infrastructure studies, I argue that QR codes have become infrastructural gateways and conclude that this concept is useful not only to understand the current role of QR codes but also to identify and follow the emergence and change of other gateways in infrastructures to come.
+SN - 2059-4364
+M3  - doi: 10.1177/20594364231183618
+UR  - https://doi-org.crai.referencistas.com/10.1177/20594364231183618
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Who Tweets in the United Kingdom? Profiling the Twitter Population Using the British Social Attitudes Survey 2015
+AU  - Sloan, Luke
+Y1  - 2017/01/01
+PY  - 2017
+DA  - 2017/01/01
+N1  - doi: 10.1177/2056305117698981
+DO  - 10.1177/2056305117698981
+T2  - Social Media + Society
+JF  - Social Media + Society
+SP  -2056305117698981
+VL - 3
+IS - 1
+PB - SAGE Publications Ltd
+N2 - The headache any researcher faces while using Twitter data for social scientific analysis is that we do not know who tweets. In this article, we report on results from the British Social Attitudes Survey (BSA) 2015 on Twitter use. We focus on associations between using Twitter and three demographic characteristics—age, sex, and class (defined here as National Statistics Socio-Economic Classification [NS-SEC]). In addition to this, we compare findings from BSA 2015, treated as ground truth (known characteristics), with previous attempts to map the demographic nature of UK Twitter users using computational methods resulting in demographic proxies. Where appropriate, the datasets are compared with UK Census 2011 data to illustrate that Twitter users are not representative of the wider population. We find that there are a disproportionate number of male Twitter users, in relation to both the Census 2011 and previous proxy estimates; that Twitter users are predominantly young, but there are more older users than previously estimated; and that there are strong class effects associated with Twitter use.
+SN - 2056-3051
+M3  - doi: 10.1177/2056305117698981
+UR  - https://doi-org.crai.referencistas.com/10.1177/2056305117698981
+Y2  - 2024/10/01
+ER  - 
+
+TY  - JOUR
+T1  - Metaphors in critical Internet and digital media studies
+AU  - Wyatt, Sally
+Y1  - 2021/02/01
+PY  - 2021
+DA  - 2021/02/01
+N1  - doi: 10.1177/1461444820929324
+DO  - 10.1177/1461444820929324
+T2  - New Media & Society
+JF  - New Media & Society
+SP  -406
+EP - 416
+VL - 23
+IS - 2
+PB - SAGE Publications
+N2 - Since its very early days, metaphors have been used by various powerful social actors to try to convey what the Internet is and what it could be used for, now and in the future. In this short essay, I make a plea for critical scholars of the Internet and digital media to be simultaneously careful and imaginative in their own choice of metaphorical language. I revisit some of the early and recurring metaphors, such as frontier, highway and library, to illustrate the evocative power of metaphor. I then examine the more recent metaphors of cloud computing and (big) data flow to justify why it remains important to focus on metaphors. Scholars in critical and digital media studies not only need to deconstruct the metaphors of the powerful but they also need to contribute new metaphors and new ways of describing and thinking about the future.
+SN - 1461-4448
+M3  - doi: 10.1177/1461444820929324
+UR  - https://doi-org.crai.referencistas.com/10.1177/1461444820929324
+Y2  - 2024/10/01
+ER  - 
+
