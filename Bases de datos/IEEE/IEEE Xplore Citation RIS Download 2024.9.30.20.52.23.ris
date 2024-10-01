@@ -1,0 +1,3128 @@
+TY  - CONF
+TI  - Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation
+T2  - 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 15450
+EP  - 15460
+AU  - H. Wang
+AU  - W. Liang
+AU  - J. Shen
+AU  - L. Van Gool
+AU  - W. Wang
+PY  - 2022
+KW  - Training
+KW  - Learning systems
+KW  - Computer vision
+KW  - Correlation
+KW  - Navigation
+KW  - Computational modeling
+KW  - Buildings
+KW  - Vision + language
+DO  - 10.1109/CVPR52688.2022.01503
+JO  - 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 18-24 June 2022
+AB  - Since the rise of vision-language navigation (VLN), great progress has been made in instruction following - building a follower to navigate environments under the guidance of instructions. However, far less attention has been paid to the inverse task: instruction generation - learning a speaker to generate grounded descriptions for navigation routes. Existing VLN methods train a speaker independently and often treat it as a data augmentation tool to strengthen the follower, while ignoring rich cross-task relations. Here we describe an approach that learns the two tasks simultaneously and exploits their intrinsic correlations to boost the training of each: the follower judges whether the speaker-created instruction explains the original navigation route correctly, and vice versa. Without the need of aligned instruction-path pairs, such cycle-consistent learning scheme is complementary to task-specific training targets defined on labeled data, and can also be applied over unlabeled paths (sampled without paired instructions). Another agent, called creator is added to generate counterfactual environments. It greatly changes current scenes yet leaves novel items - which are vital for the execution of original instructions - unchanged. Thus more informative training scenes are synthesized and the three agents compose a powerful VLN learning system. Extensive experiments on a standard benchmark show that our approach improves the performance of various follower models and produces accurate navigation instructions.
+ER  - 
+
+TY  - JOUR
+TI  - A Fuzzy-Based Brokering Service for Cloud Plan Selection
+T2  - IEEE Systems Journal
+SP  - 4101
+EP  - 4109
+AU  - S. De Capitani di Vimercati
+AU  - S. Foresti
+AU  - G. Livraga
+AU  - V. Piuri
+AU  - P. Samarati
+PY  - 2019
+KW  - Cloud computing
+KW  - Linguistics
+KW  - Throughput
+KW  - Bandwidth
+KW  - Fuzzy logic
+KW  - Computational modeling
+KW  - Brokering service
+KW  - cloud computing
+KW  - cloud service selection
+KW  - fuzzy inference
+KW  - fuzzy logic
+KW  - natural language
+DO  - 10.1109/JSYST.2019.2893212
+JO  - IEEE Systems Journal
+IS  - 4
+SN  - 1937-9234
+VO  - 13
+VL  - 13
+JA  - IEEE Systems Journal
+Y1  - Dec. 2019
+AB  - The current cloud market features a multitude of cloud services that differ from one another in terms of functionality or of security/performance guarantees. Users wishing to use a cloud service for storing, processing, or sharing their data must be able to select the service that best matches their desiderata. In this paper, we propose a novel, user centric, brokering service for supporting users in the specification of requirements and enabling their evaluation against available cloud plans, assessing how much the different plans can satisfy the user's desiderata. Our brokering service allows users to specify their desiderata in an easy and intuitive way by using natural language expressions and high-level concepts. Fuzzy logic and fuzzy inference systems are adopted to quantitatively assess the compliance of cloud services with the users' desiderata, and hence to help users in the cloud service selection process.
+ER  - 
+
+TY  - CONF
+TI  - Smart Pedagogy: Innovative Teaching and Learning Strategies in Engineering Education
+T2  - 2018 IEEE World Engineering Education Conference (EDUNINE)
+SP  - 1
+EP  - 6
+AU  - V. Uskov
+AU  - J. P. Bakken
+AU  - L. Aluri
+AU  - R. Rachakonda
+AU  - N. Rayala
+AU  - M. Uskova
+PY  - 2018
+KW  - Education
+KW  - Information systems
+KW  - Computational modeling
+KW  - Computer science
+KW  - Sensor phenomena and characterization
+KW  - Organizations
+KW  - Smart pedagogy
+KW  - STEM
+KW  - engineering education
+KW  - smart education
+KW  - smart university
+DO  - 10.1109/EDUNINE.2018.8450962
+JO  - 2018 IEEE World Engineering Education Conference (EDUNINE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE World Engineering Education Conference (EDUNINE)
+Y1  - 11-14 March 2018
+AB  - Multiple innovative teaching and learning strategies emerged in the recent years. However, there are no published analysis data and validated outcomes regarding how good those innovative approaches support the main concepts of Smart Education, Smart Classroom and Smart Pedagogy, i.e. their “smartness” levels such as 1) adaptivity, 2) sensing, 3) inferring, 4) anticipation, 5) self-learning, and 6) self-organization. This paper presents the outcomes of the ongoing research, design and development project at the InterLabs Research Institute at Bradley University (IL, U.S.A.) aimed to identify, analyze, test, implement and recommend various components of Smart Pedagogy for Science-Technology-Engineering-Mathematics (STEM) education. The obtained research data and student feedback undoubtedly demonstrate students' keen interest in Smart Pedagogy.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Fault-Criticality Analysis for AI Accelerators using a Neural Twin
+T2  - 2021 IEEE International Test Conference (ITC)
+SP  - 73
+EP  - 82
+AU  - A. Chaudhuri
+AU  - C. -Y. Chen
+AU  - J. Talukdar
+AU  - S. Madala
+AU  - A. K. Dubey
+AU  - K. Chakrabarty
+PY  - 2021
+KW  - Training
+KW  - Computational modeling
+KW  - Perturbation methods
+KW  - Wires
+KW  - Supervised learning
+KW  - AI accelerators
+KW  - Systolic arrays
+DO  - 10.1109/ITC50571.2021.00015
+JO  - 2021 IEEE International Test Conference (ITC)
+IS  - 
+SN  - 2378-2250
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Test Conference (ITC)
+Y1  - 10-15 Oct. 2021
+AB  - Owing to the inherent fault tolerance of deep neural network (DNN) models used for classification, many structural faults in the processing elements (PEs) of a systolic array-based AI accelerator are functionally benign. Brute-force fault simulation for determining fault criticality is computationally expensive due to many potential fault sites in the accelerator array and the dependence of criticality characterization of PEs on the functional input data. Supervised learning techniques can be used to accurately estimate fault criticality but it requires ground truth for model training. The ground-truth collection involves extensive and computationally expensive fault simulations. We present a framework for analyzing fault criticality with a negligible amount of ground-truth data. We incorporate the gate-level structural and functional information of the PEs in their "neural twins", referred to as "PE-Nets". The PE netlist is translated into a trainable PE-Net, where the standard-cell instances are substituted by their corresponding "Cell-Nets" and the wires translate to neural connections. Each Cell-Net is a pre-trained DNN that models the Boolean-logic behavior of the corresponding standard cell. In the PE-Net, every neural connection is associated with a bias that represents a perturbation in the signal propagated by that connection. We utilize a recently proposed misclassification-driven training algorithm to sensitize and identify biases that are critical to the functioning of the accelerator for a given application workload. The proposed framework achieves up to 100% accuracy in fault-criticality classification in 16-bit and 32-bit PEs by using the criticality knowledge of only 2% of the total faults in a PE.
+ER  - 
+
+TY  - JOUR
+TI  - Improving Student Assessment of a Server Administration Course Promoting Flexibility and Competitiveness
+T2  - IEEE Transactions on Education
+SP  - 19
+EP  - 26
+AU  - J. M. Redondo
+PY  - 2019
+KW  - Web servers
+KW  - Security
+KW  - Computational modeling
+KW  - Europe
+KW  - Creativity
+KW  - Face
+KW  - Competitivity
+KW  - computer engineering
+KW  - course design
+KW  - flexibility
+KW  - flipped classroom
+KW  - master’s students
+KW  - student assessment
+DO  - 10.1109/TE.2018.2816571
+JO  - IEEE Transactions on Education
+IS  - 1
+SN  - 1557-9638
+VO  - 62
+VL  - 62
+JA  - IEEE Transactions on Education
+Y1  - Feb. 2019
+AB  - Contribution: This paper describes a highly flexible design for a master's-level server administration course that uses updated technologies, addresses the most important course design challenges and extracts useful feedback from student work. The main contribution of this design is eliminating the self-regulation challenge students encounter in similar highly flexible computer-related courses. This is attributed to the introduction of orientation lectures and a competitive element; these may have helped students to achieve their goals on time. Background: The Web server administration course on the master's of the Web engineering program was intended to inculcate a series of competences, such as common administration techniques, procedures to increase security, efficient website deployment, and an introduction to clusters and infrastructure deployment automation. The course generally failed to transmit these competencies effectively; complaints were made about the difficulty of the course and the low applicability of its contents. Intended Outcomes: The design facilitates students finding assessment activities that better suit their profiles or previous experience, and enables them to customize their assessment, thus encouraging them and giving future value to their work. Application Design: The course design maximizes assessment flexibility by providing students with many optional activities from which to choose. It also promotes a healthy competitive spirit to improve student's motivation and results. Findings: Complaints about the difficulty or lack of applicability were no longer made. The course is highly valued by the students, achieving a very high pass rate and average score.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning Based Path Planning for Improved Rover Navigation
+T2  - 2021 IEEE Aerospace Conference (50100)
+SP  - 1
+EP  - 9
+AU  - N. Abcouwer
+AU  - S. Daftry
+AU  - T. del Sesto
+AU  - O. Toupet
+AU  - M. Ono
+AU  - S. Venkatraman
+AU  - R. Lanka
+AU  - J. Song
+AU  - Y. Yue
+PY  - 2021
+KW  - Navigation
+KW  - Computational modeling
+KW  - Software algorithms
+KW  - Training data
+KW  - Machine learning
+KW  - Software
+KW  - Inference algorithms
+DO  - 10.1109/AERO50100.2021.9438337
+JO  - 2021 IEEE Aerospace Conference (50100)
+IS  - 
+SN  - 1095-323X
+VO  - 
+VL  - 
+JA  - 2021 IEEE Aerospace Conference (50100)
+Y1  - 6-13 March 2021
+AB  - Enhanced AutoNav (ENav), the baseline surface navigation software for NASA's Perseverance rover, sorts a list of candidate paths for the rover to traverse, then uses the Approximate Clearance Evaluation (ACE) algorithm to evaluate whether the most highly ranked paths are safe. ACE is crucial for maintaining the safety of the rover, but is computationally expensive. If the most promising candidates in the list of paths are all found to be infeasible, ENav must continue to search the list and run time-consuming ACE evaluations until a feasible path is found. In this paper, we present two heuristics that, given a terrain heightmap around the rover, produce cost estimates that more effectively rank the candidate paths before ACE evaluation. The first heuristic uses Sobel operators and convolution to incorporate the cost of traversing high-gradient terrain. The second heuristic uses a machine learning (ML) model to predict areas that will be deemed untraversable by ACE. We used physics simulations to collect training data for the ML model and to run Monte Carlo trials to quantify navigation performance across a variety of terrains with various slopes and rock distributions. Compared to ENav's baseline performance, integrating the heuristics can lead to a significant reduction in ACE evaluations and average computation time per planning cycle, increase path efficiency, and maintain or improve the rate of successful traverses. This strategy of targeting specific bottlenecks with ML while maintaining the original ACE safety checks provides an example of how ML can be infused into planetary science missions and other safety-critical software.
+ER  - 
+
+TY  - CONF
+TI  - Learning Objectness from Sonar Images for Class-Independent Object Detection
+T2  - 2019 European Conference on Mobile Robots (ECMR)
+SP  - 1
+EP  - 6
+AU  - M. Valdenegro-Toro
+PY  - 2019
+KW  - Proposals
+KW  - Microsoft Windows
+KW  - Robots
+KW  - Sonar detection
+KW  - Training
+KW  - Computational modeling
+DO  - 10.1109/ECMR.2019.8870959
+JO  - 2019 European Conference on Mobile Robots (ECMR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 European Conference on Mobile Robots (ECMR)
+Y1  - 4-6 Sept. 2019
+AB  - Detecting novel objects without class information is not trivial, as it is difficult to generalize from a small training set. This is an interesting problem for underwater robotics, as modeling marine objects is inherently more difficult in sonar images, and training data might not be available apriori. Detection proposals algorithms can be used for this purpose but usually requires a large amount of output bounding boxes. In this paper we propose the use of a fully convolutional neural network that regresses an objectness value directly from a Forward-Looking sonar image. By ranking objectness, we can produce high recall (96 %) with only 100 proposals per image. In comparison, EdgeBoxes requires 5000 proposals to achieve a slightly better recall of 97 %, while Selective Search requires 2000 proposals to achieve 95 % recall. We also show that our method outperforms a template matching baseline by a considerable margin, and is able to generalize to completely new objects. We expect that this kind of technique can be used in the field to find lost objects under the sea.
+ER  - 
+
+TY  - JOUR
+TI  - Wasabi: A Conceptual Model for Trustworthy Artificial Intelligence
+T2  - Computer
+SP  - 20
+EP  - 28
+AU  - A. M. Singh
+AU  - M. P. Singh
+PY  - 2023
+KW  - Adaptation models
+KW  - Ethics
+KW  - Computational modeling
+KW  - Artificial intelligence
+KW  - Trust computing
+DO  - 10.1109/MC.2022.3212022
+JO  - Computer
+IS  - 2
+SN  - 1558-0814
+VO  - 56
+VL  - 56
+JA  - Computer
+Y1  - Feb. 2023
+AB  - The expansion of artificial intelligence (AI) into our lives and livelihoods makes it clear that we must develop AI to be ethical and trustworthy. We propose Wasabi, a novel conceptual model for trustworthy AI based on an adaptation of the well-known ability–benevolence–integrity model of trust to trustworthiness.
+ER  - 
+
+TY  - CONF
+TI  - Generating Performance Models for Irregular Applications
+T2  - 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+SP  - 317
+EP  - 326
+AU  - R. D. Friese
+AU  - N. R. Tallent
+AU  - A. Vishnu
+AU  - D. J. Kerbyson
+AU  - A. Hoisie
+PY  - 2017
+KW  - Analytical models
+KW  - Histograms
+KW  - Data models
+KW  - Load modeling
+KW  - Computational modeling
+KW  - Synchronization
+KW  - Parallel processing
+KW  - analytical performance models
+KW  - model genera- tion
+KW  - critical path analysis
+KW  - Palm
+DO  - 10.1109/IPDPS.2017.61
+JO  - 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+IS  - 
+SN  - 1530-2075
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+Y1  - 29 May-2 June 2017
+AB  - Many applications have irregular behavior - e.g., input-dependent solvers, irregular memory accesses, or unbiased branches - that cannot be captured using today's automated performance modeling techniques. We describe new hierarchical critical path analyses for the Palm model generation tool. To obtain a good tradeoff between model accuracy, generality, and generation cost, we combine static and dynamic analysis. To create a model's outer structure, we capture tasks along representative MPI critical paths. We create a histogram of critical tasks with parameterized task arguments and instance counts. To model each task, we identify hot instruction-level paths and model each path based on data flow, data locality, and microarchitectural constraints. We describe application models that generate accurate predictions for strong scaling when varying CPU speed, cache and memory speed, microarchitecture, and (with supervision) input data class. Our models' errors are usually below 8%; and always below 13%.
+ER  - 
+
+TY  - CONF
+TI  - Empirical Assessment and Detection of Suicide Related Posts in Twitter using Artificial Intelligence enabled Classification Logic
+T2  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
+SP  - 1
+EP  - 7
+AU  - T. N. Ravishankar
+AU  - A. K. Kumar
+AU  - J. Venkatesh
+AU  - M. R. Prabhu
+AU  - V. S. Bhargavi
+AU  - MuthamilSelvan.S
+PY  - 2023
+KW  - Deep learning
+KW  - Social networking (online)
+KW  - Computational modeling
+KW  - Blogs
+KW  - Support vector machine classification
+KW  - Learning (artificial intelligence)
+KW  - Benchmark testing
+KW  - Twitter
+KW  - Tweets
+KW  - Suicidal note
+KW  - Deep Learning Model
+KW  - Support Vector Machine
+DO  - 10.1109/ACCAI58221.2023.10201110
+JO  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
+Y1  - 25-26 May 2023
+AB  - The identification of suicidal thoughts in online social networks is an expanding field of study fraught with major challenges. Recent studies have shown that the readily available data, dispersed over many online life phases, contains useful clues for accurately identifying persons with suicidal intentions. The primary challenge in preventing suicide is learning to recognize and respond appropriately to the sometimes-confusing risk factors and warning indications that may precipitate an attempt. Indicators useful for diagnosing people with suicide thoughts can be found in publicly available material shared over social media platforms, according to recent studies. Understanding and recognizing the myriad risk factors and warning symptoms that may precede a suicide attempt is the primary difficulty in this area of public health. In this research, we developed a benchmark for multi-class categorization using machine learning models. We used a majority classifier, a frequency-based technique, and two deep learning models as our models. Both deep learning models outperformed the majority and the word frequency classifier, with results that were very comparable. These classification results are on par with the state-of-the-art on similar problems and, in most cases, with human results.
+ER  - 
+
+TY  - CONF
+TI  - A Transformer Based Approach To Detect Suicidal Ideation Using Pre-Trained Language Models
+T2  - 2020 23rd International Conference on Computer and Information Technology (ICCIT)
+SP  - 1
+EP  - 5
+AU  - F. Haque
+AU  - R. U. Nur
+AU  - S. A. Jahan
+AU  - Z. Mahmud
+AU  - F. M. Shah
+PY  - 2020
+KW  - Deep learning
+KW  - Social networking (online)
+KW  - Computational modeling
+KW  - Bit error rate
+KW  - Mental health
+KW  - Linguistics
+KW  - Depression
+KW  - Suicidal Ideation
+KW  - Transformer Model
+KW  - Deep Learning
+KW  - Natural Language Processing
+DO  - 10.1109/ICCIT51783.2020.9392692
+JO  - 2020 23rd International Conference on Computer and Information Technology (ICCIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 23rd International Conference on Computer and Information Technology (ICCIT)
+Y1  - 19-21 Dec. 2020
+AB  - Detection of Suicidal Ideation in social media has gained special attention in recent years. Different mental health issues like depression, frustration, hopelessness etc directly or indirectly influence suicidal thoughts. Early detection of suicidal thoughts can help people to diagnose and get proper treatment in time. Machine Learning and Deep Learning are playing a vital role in this area to automatize Suicidal Ideation detection. In our study, we wanted to take this trend to the next level and proposed a new detection approach with the help of the Transformer models in the language domain. Basically with Transformers we wanted to analyze raw social media posts and classify the indication of suicidal ideation in them. First, we applied BiLSTM(Bidirectional Long Short- Term Memory) and from there took a jump to Transformer models like BERT (Bidirectional Encoder Representations from Transformers), ALBERT, ROBERTa and XLNET - a complete robust Transformer model based study. The main advantage of Transformer models is having pre-trained language models. Because of this, these models usually perform better. We found they work far better than conventional Deep Learning architecture like Bi-LSTM in our work.
+ER  - 
+
+TY  - CONF
+TI  - Generative AI in Computing Education: Perspectives of Students and Instructors
+T2  - 2023 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - C. Zastudil
+AU  - M. Rogalska
+AU  - C. Kapp
+AU  - J. Vaughn
+AU  - S. MacNeil
+PY  - 2023
+KW  - Codes
+KW  - Systematics
+KW  - Computational modeling
+KW  - Education
+KW  - Natural languages
+KW  - Curriculum development
+KW  - Stakeholders
+KW  - Generative models
+KW  - large language models
+KW  - computing education
+KW  - student perceptions
+KW  - instructor perceptions
+DO  - 10.1109/FIE58773.2023.10343467
+JO  - 2023 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2023 IEEE Frontiers in Education Conference (FIE)
+Y1  - 18-21 Oct. 2023
+AB  - Generative models are now capable of producing natural language text that is, in some cases, comparable in quality to the text produced by people. In the computing education context, these models are being used to generate code, code explanations, and programming exercises. The rapid adoption of these models has prompted multiple position papers and workshops which discuss the implications of these models for computing education, both positive and negative. This paper presents results from a series of semi-structured interviews with 12 students and 6 instructors about their awareness, experiences, and preferences regarding the use of tools powered by generative AI in computing classrooms. The results suggest that Generative AI (GAI) tools will play an increasingly significant role in computing education. However, students and instructors also raised numerous concerns about how these models should be integrated to best support the needs and learning goals of students. We also identified interesting tensions and alignments that emerged between how instructors and students prefer to engage with these models. We discuss these results and provide recommendations related to curriculum development, assessment methods, and pedagogical practice. As GAI tools become increasingly prevalent, it's important to understand educational stakeholders' preferences and values to ensure that these tools can be used for good and that potential harms can be mitigated.
+ER  - 
+
+TY  - CONF
+TI  - Unpacking Dispositions in the CC2020 Computing Curriculum Overview Report
+T2  - 2020 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - S. Frezza
+AU  - T. Clear
+AU  - A. Clear
+PY  - 2020
+KW  - Education
+KW  - Computational modeling
+KW  - Vocabulary
+KW  - Task analysis
+KW  - Security
+KW  - Computer architecture
+KW  - Buildings
+KW  - Competency Modelling
+KW  - Curriculum Design
+KW  - CC2020 Computing Curricula
+KW  - Computing Education
+KW  - Disposition
+DO  - 10.1109/FIE44824.2020.9273973
+JO  - 2020 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2020 IEEE Frontiers in Education Conference (FIE)
+Y1  - 21-24 Oct. 2020
+AB  - Computing Curriculum models have been historically framed from a cognitive perspective. Typically, the focus has been on bodies of knowledge and increasingly the notion of supporting skills and abilities. More recent curriculum documents such as the IT2017 curriculum have moved towards a professional competency approach and have included the further important notion of dispositions.While these dispositions are seen as complementing and supporting the traditional elements of knowledge and skills, exactly how they are conceptualised and operationalised is still being developed. The ACM/IEEE-CS Computing Curriculum 2020 Overview Project (CC2020) has been working towards this goal, in part driven by the very practical purpose of enabling visualisation of the multiple components of the existing and differing curriculum reports, incorporating the notion of dispositions and enabling them to be mapped to clusters of knowledge and skills embodied in selected curriculum statements.This paper reports on progress to date towards conceptualising and operationalising the notion of dispositions within the CC2020 project, reviews the research challenges faced, the models adopted and the findings to date.
+ER  - 
+
+TY  - CONF
+TI  - Perspectives on teaching simulation in a college of business
+T2  - 2013 Winter Simulations Conference (WSC)
+SP  - 3620
+EP  - 3629
+AU  - R. M. Saltzman
+AU  - T. M. Roeder
+PY  - 2013
+KW  - Computational modeling
+KW  - Educational institutions
+KW  - Analytical models
+KW  - Programming
+KW  - Proposals
+DO  - 10.1109/WSC.2013.6721723
+JO  - 2013 Winter Simulations Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2013 Winter Simulations Conference (WSC)
+Y1  - 8-11 Dec. 2013
+AB  - In this paper, we explore the challenges and opportunities we face teaching computer simulation at a business school. While our students tend not to be as technically savvy as most engineering students, at times limiting the technical complexity of what we can cover in our courses, we are able to use simulation as a tool to analyze and discuss business problems in-depth. We explore the differences both between business and non-business simulation courses, as well as those between our graduate and undergraduate courses.
+ER  - 
+
+TY  - CONF
+TI  - A Scalable and Fast Microprocessor Design Space Exploration Methodology
+T2  - 2015 IEEE 9th International Symposium on Embedded Multicore/Many-core Systems-on-Chip
+SP  - 33
+EP  - 40
+AU  - L. Wang
+AU  - Y. Tang
+AU  - Y. Deng
+AU  - F. Qin
+AU  - Q. Dou
+AU  - G. Zhang
+AU  - F. Zhang
+PY  - 2015
+KW  - Algorithm design and analysis
+KW  - Microarchitecture
+KW  - Space exploration
+KW  - Computational modeling
+KW  - Sensitivity analysis
+KW  - Benchmark testing
+KW  - Design methodology
+KW  - Design Space Exploration
+KW  - Critical Path Analysis
+KW  - Microprocessor
+DO  - 10.1109/MCSoC.2015.30
+JO  - 2015 IEEE 9th International Symposium on Embedded Multicore/Many-core Systems-on-Chip
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 9th International Symposium on Embedded Multicore/Many-core Systems-on-Chip
+Y1  - 23-25 Sept. 2015
+AB  - Design space exploration of microprocessor is still a challenging task for processor designers. Due to the huge design space, it is hard to determine the optimal configuration of microarchitecture parameters to satisfy the target performance and power requirements within limited time at the early stage of processor design. In this paper, a Critical Path Analysis directed Design Space Exploration (CPADSE) methodology for design space exploration of microprocessors is proposed. In CPADSE, a dependence graph model is constructed using the profile information generated during the program simulation. Then the critical paths of the dependence graph model are computed and patterns of the critical path are identified. The microarchitecture parameters mostly affecting processor`s performance or other metrics can be identified using the Plackett-Burman design method, which is always referenced as sensitivity analysis. Then the result of critical path analysis and sensitivity analysis is further used to guide the selection of search direction in both SA-CPADSE and TB-CPADSE design space search algorithms, which are proposed in this paper. Experiment result shows that for the design space exploration on SPEC 2000 benchmarks, SA-CPADSE obtains 2x speedup over baseline design space exploration algorithm SA-DSE. Additionally, TB-CPADSE on average obtains 4.3x speedup over SA-CPADSE and 7x speedup over SA-DSE. At the end of this paper, we have a detailed discussion about how to extend CPADSE methodology to design space exploration of multicore processors.
+ER  - 
+
+TY  - CONF
+TI  - RALF: Reliability Analysis for Logic Faults — An exact algorithm and its applications
+T2  - 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)
+SP  - 783
+EP  - 788
+AU  - S. Luckenbill
+AU  - J. -Y. Lee
+AU  - Y. Hu
+AU  - R. Majumdar
+AU  - L. He
+PY  - 2010
+KW  - Algorithm design and analysis
+KW  - Circuit faults
+KW  - Logic circuits
+KW  - Data structures
+KW  - Boolean functions
+KW  - Circuit testing
+KW  - Fault tolerance
+KW  - Circuit synthesis
+KW  - Pattern analysis
+KW  - Computational modeling
+DO  - 10.1109/DATE.2010.5456947
+JO  - 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)
+IS  - 
+SN  - 1558-1101
+VO  - 
+VL  - 
+JA  - 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)
+Y1  - 8-12 March 2010
+AB  - Reliability analysis for a logic circuit is one of the primary tasks in fault-tolerant logic synthesis. Given a fault model, it quantifies the impact of faults on the full-chip fault rate. We present RALF, an exact algorithm for calculating the reliability of a logic circuit. RALF is based on the compilation of a circuit to deterministic decomposable negation normal form (d-DNNF), a representation for Boolean formulas that can be more succinct than BDDs. Our algorithm can solve a large set of MCNC benchmark circuits within 5 minutes, enabling an optimality study of Monte Carlo simulation, a popular estimation method for reliability analysis, on real benchmark circuits. Our study shows that Monte Carlo simulation with a small set of random vectors generally has a high fidelity for the computation of full-chip fault rates and the criticality of single gates. While we focus on reliability analysis, RALF can also be used to efficiently locate random pattern resistant faults. This can be used to identify where methods other than random simulation should be used for accurate criticality calculations and where to enhance the testability of a circuit.
+ER  - 
+
+TY  - CONF
+TI  - Supporting Mutually Beneficial Near-Peer Mentoring Relationships Within Computing Education Programs
+T2  - 2021 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)
+SP  - 1
+EP  - 9
+AU  - P. Garcia
+AU  - M. Perez
+AU  - D. Farrell
+AU  - S. Bork
+AU  - B. Ericson
+AU  - J. -L. Mondisa
+PY  - 2021
+KW  - Training
+KW  - Computational modeling
+KW  - Complexity theory
+KW  - Mentoring
+KW  - Cultural differences
+KW  - Interviews
+KW  - Programming profession
+KW  - mentoring
+KW  - computer science
+KW  - underrepresented minorities
+DO  - 10.1109/RESPECT51740.2021.9620669
+JO  - 2021 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)
+Y1  - 23-27 May 2021
+AB  - Near-peer mentoring has proven to be an effective strategy for supporting students from underrepresented groups in computing. In this paper, we present results from Rise Up and Sisters Rise Up to examine the experiences of mentors in near-peer mentoring programs. Rise Up and Sisters Rise Up are mentoring program initiatives that help secondary students from underrepresented groups succeed in their Advanced Placement Computer Science courses and exams. Drawing on the results from a mixed-method study, we focus on the experiences of mentors to address the following research question: How do near-peer mentoring experiences impact mentors' competency beliefs related to programming, mentoring, and culturally responsive teaching? Findings from the analysis of survey and interview data indicate that serving as a near-peer mentor reinforced mentors' prior programming knowledge, increased their programming self-efficacy beliefs, and prompted self-reflection on the purpose of mentoring relationships. In addition to these benefits, the results also revealed the need to provide mentors with continued opportunities to build mentoring competencies and practice culturally responsive teaching strategies. We conclude by discussing future work to improve our mentor training and further develop a mutually beneficial near-peer mentoring model for computing education that supports the development of mentors, as well as mentees.
+ER  - 
+
+TY  - JOUR
+TI  - Hierarchical Multihop Reasoning on Knowledge Graphs
+T2  - IEEE Intelligent Systems
+SP  - 71
+EP  - 78
+AU  - Z. Wang
+AU  - L. Li
+AU  - D. D. Zeng
+PY  - 2022
+KW  - Cognition
+KW  - Reinforcement learning
+KW  - Intelligent systems
+KW  - Spread spectrum communication
+KW  - Computational modeling
+KW  - Training data
+DO  - 10.1109/MIS.2021.3095055
+JO  - IEEE Intelligent Systems
+IS  - 1
+SN  - 1941-1294
+VO  - 37
+VL  - 37
+JA  - IEEE Intelligent Systems
+Y1  - 1 Jan.-Feb. 2022
+AB  - Multihop knowledge reasoning aims to find missing entities for incomplete triples by finding paths on knowledge graphs. It is a fundamental and important task. In this article, we devise a hierarchical reinforcement learning algorithm to model the reasoning process more effectively. Unlike existing methods directly reason on entities and relations, we adopt a high-level reasoning layer to deal with abstract concepts, which guides the reasoning process conducted at the low level for concrete entities and relations. Our approach yields competitive results on link prediction on both NELL-995 and FB15k-237 datasets. The comparison to baselines also demonstrates the effectiveness of the hierarchical structure.
+ER  - 
+
+TY  - JOUR
+TI  - Creative Virtual Tree Modeling Through Hierarchical Topology-Preserving Blending
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 2521
+EP  - 2534
+AU  - Y. Wang
+AU  - X. Xue
+AU  - X. Jin
+AU  - Z. Deng
+PY  - 2017
+KW  - Vegetation
+KW  - Shape
+KW  - Topology
+KW  - Computational modeling
+KW  - Creativity
+KW  - Geometry
+KW  - Animation
+KW  - Creative modeling
+KW  - tree modeling
+KW  - hierarchical topology preservation
+KW  - and shape blending
+DO  - 10.1109/TVCG.2016.2636187
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 12
+SN  - 1941-0506
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 1 Dec. 2017
+AB  - We present a new method to efficiently generate a set of morphologically diverse and inspiring virtual trees through hierarchical topology-preserving blending, aiming to facilitate designers' creativity production. By maintaining the topological consistency of the tree branches, sequences of similar yet different trees and novel intermediate trees with encouragingly interesting structures are generated by performing inner-species and cross-species blending, respectively. Hierarchical fuzzy correspondences are automatically established between two or multiple trees based on the multi-scale topology tree representations. Fundamental blending tasks including morph, grow and wilt are introduced and organized into a tree-structured blending scheduler, which not only introduces the randomness into the blending procedure but also wisely schedules the tasks to generate topology-aware blending sequences, contributing to a variety of resulting trees that exhibit diversities in both geometry and topology. Most significantly, multiple batches of blending can be executed in parallel, resulting in a rapid creation of a large repository of diverse trees.
+ER  - 
+
+TY  - JOUR
+TI  - Visual Analysis of Hyperproperties for Understanding Model Checking Results
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 357
+EP  - 367
+AU  - T. Horak
+AU  - N. Coenen
+AU  - N. Metzger
+AU  - C. Hahn
+AU  - T. Flemisch
+AU  - J. Méndez
+AU  - D. Dimov
+AU  - B. Finkbeiner
+AU  - R. Dachselt
+PY  - 2022
+KW  - Model checking
+KW  - Visualization
+KW  - Integrated circuit modeling
+KW  - Tools
+KW  - Computational modeling
+KW  - Encoding
+KW  - Process control
+KW  - Analyzing Counterexamples
+KW  - Hyperproperties
+KW  - Multiple Coordinate Views
+KW  - Explainable Formal Methods
+DO  - 10.1109/TVCG.2021.3114866
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 28
+VL  - 28
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2022
+AB  - Model checkers provide algorithms for proving that a mathematical model of a system satisfies a given specification. In case of a violation, a counterexample that shows the erroneous behavior is returned. Understanding these counterexamples is challenging, especially for hyperproperty specifications, i.e., specifications that relate multiple executions of a system to each other. We aim to facilitate the visual analysis of such counterexamples through our HyperVis tool, which provides interactive visualizations of the given model, specification, and counterexample. Within an iterative and interdisciplinary design process, we developed visualization solutions that can effectively communicate the core aspects of the model checking result. Specifically, we introduce graphical representations of binary values for improving pattern recognition, color encoding for better indicating related aspects, visually enhanced textual descriptions, as well as extensive cross-view highlighting mechanisms. Further, through an underlying causal analysis of the counterexample, we are also able to identify values that contributed to the violation and use this knowledge for both improved encoding and highlighting. Finally, the analyst can modify both the specification of the hyperproperty and the system directly within HyperVis and initiate the model checking of the new version. In combination, these features notably support the analyst in understanding the error leading to the counterexample as well as iterating the provided system and specification. We ran multiple case studies with HyperVis and tested it with domain experts in qualitative feedback sessions. The participants' positive feedback confirms the considerable improvement over the manual, text-based status quo and the value of the tool for explaining hyperproperties.
+ER  - 
+
+TY  - JOUR
+TI  - User Perception of Data Breaches
+T2  - IEEE Transactions on Professional Communication
+SP  - 374
+EP  - 389
+AU  - Z. Hassanzadeh
+AU  - R. Biddle
+AU  - S. Marsen
+PY  - 2021
+KW  - Data breach
+KW  - Cognitive science
+KW  - Security
+KW  - Biological system modeling
+KW  - Computer security
+KW  - Computational modeling
+KW  - Internet
+KW  - Cybersecurity
+KW  - internet data breaches
+KW  - mental models
+DO  - 10.1109/TPC.2021.3110545
+JO  - IEEE Transactions on Professional Communication
+IS  - 4
+SN  - 1558-1500
+VO  - 64
+VL  - 64
+JA  - IEEE Transactions on Professional Communication
+Y1  - Dec. 2021
+AB  - Background: Data breaches happen when an unauthorized party gains access to personally identifiable information. They are becoming more common and impactful, raising serious concerns for individuals as well as companies. Literature review: Although there is considerable literature on users’ mental models in security and privacy, there has been limited study of mental models related to data breaches. Research questions: 1. How do users understand data breaches? 2. What are their perceptions of the causes, responsibilities, and consequences, as well as possible prevention and appropriate follow up? Methodology: We explored end-user understanding of internet data breaches by conducting a study with 35 participants. They were asked to draw their understanding of data breaches and answer some open-ended and closed-ended questions afterwards. Results/discussion: Although their drawings varied in detail and complexity, we identified four patterns in the participants’ drawings: they illustrated abstractions of attacks to gain administrator access, end-user access, backdoor access, or access using database server vulnerabilities. We found that participants had a basic model of how an internet data breach happens, but with significant uncertainties regarding system vulnerabilities, causes, consequences, prevention methods, and follow-up steps after a breach. Conclusions: In all, end-user mental models of internet data breaches are basic and show gaps that emphasize the need for improved communication to increase users’ awareness and help them hold companies accountable.
+ER  - 
+
+TY  - CONF
+TI  - Non-local Attention Improves Description Generation for Retinal Images
+T2  - 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+SP  - 3250
+EP  - 3259
+AU  - J. -H. Huang
+AU  - T. -W. Wu
+AU  - C. . -H. H. Yang
+AU  - Z. Shi
+AU  - I. -H. Lin
+AU  - J. Tegner
+AU  - M. Worring
+PY  - 2022
+KW  - Measurement
+KW  - Computer vision
+KW  - Computational modeling
+KW  - Retina
+KW  - Task analysis
+KW  - Medical diagnostic imaging
+KW  - Mutual information
+KW  - Medical Imaging/Imaging for Bioinformatics/Biological and Cell Microscopy Large-scale Vision Applications
+KW  - Vision Systems and Applications
+DO  - 10.1109/WACV51458.2022.00331
+JO  - 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+IS  - 
+SN  - 2642-9381
+VO  - 
+VL  - 
+JA  - 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+Y1  - 3-8 Jan. 2022
+AB  - Automatically generating medical reports from retinal images is a difficult task in which an algorithm must generate semantically coherent descriptions for a given retinal image. Existing methods mainly rely on the input image to generate descriptions. However, many abstract medical concepts or descriptions cannot be generated based on image information only. In this work, we integrate additional information to help solve this task; we observe that early in the diagnosis process, ophthalmologists have usually written down a small set of keywords denoting important information. These keywords are then subsequently used to aid the later creation of medical reports for a patient. Since these keywords commonly exist and are useful for generating medical reports, we incorporate them into automatic report generation. Since we have two types of inputs expert-defined unordered keywords and images - effectively fusing features from these different modalities is challenging. To that end, we propose a new keyword-driven medical report generation method based on a non-local attention-based multi-modal feature fusion approach, TransFuser, which is capable of fusing features from different types of inputs based on such attention. Our experiments show the proposed method successfully captures the mutual information of keywords and image content. We further show our proposed keyword-driven generation model reinforced by the TransFuser is superior to baselines under the popular text evaluation metrics BLEU, CIDEr, and ROUGE. Trans-Fuser Github: https://github.com/Jhhuangkay/Non-local-Attention-ImprovesDescription-Generation-for-Retinal-Images.
+ER  - 
+
+TY  - CONF
+TI  - Analyzing elementary cognitive tasks with Bloom's taxonomy using low cost commercial EEG device
+T2  - 2015 IEEE Tenth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)
+SP  - 1
+EP  - 6
+AU  - D. Chatterjee
+AU  - R. Das
+AU  - A. Sinha
+AU  - S. Datta
+PY  - 2015
+KW  - Feature extraction
+KW  - Brain modeling
+KW  - Computational modeling
+KW  - Analytical models
+KW  - Taxonomy
+KW  - Electroencephalography
+KW  - Silicon
+KW  - EEG
+KW  - cognitive load
+KW  - hidden pattern
+KW  - Bloom's taxonomy
+DO  - 10.1109/ISSNIP.2015.7106928
+JO  - 2015 IEEE Tenth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Tenth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)
+Y1  - 7-9 April 2015
+AB  - Cognitive load primarily depends on how an individual perceives, assimilates and responds to an external stimulus. We intend to create Electroencephalogram (EEG) models for the cognitive skills defined in the Bloom's taxonomy using low cost, commercial EEG devices. This could be applied in educational psychology to provide individual assistance according to one's learning style and abilities. The major challenge in using low resolution EEG device lies in signal analysis with reduced number of channels. In this paper, we present the signature of EEG signals for such low cost devices using three basic tasks namely, number matching; finding characters in text; finding hidden patterns and figures. These tasks map with understand, remember and analyze sub categories of Bloom's taxonomy. Different brain regions are activated while performing the above tasks. However, the EEG signals observed on the scalp are the manifestation of the combined effects of various brain regions. The cleaned EEG signals are analyzed using unsupervised clustering of features obtained from different frequency bands. A study is performed on 10 subjects using 14 lead Emotiv neuroheadset, so that one can get further insights on how an individual perceives certain cognitive tasks.
+ER  - 
+
+TY  - JOUR
+TI  - ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 831
+EP  - 841
+AU  - J. Huang
+AU  - A. Mishra
+AU  - B. C. Kwon
+AU  - C. Bryan
+PY  - 2023
+KW  - Behavioral sciences
+KW  - Deep learning
+KW  - Analytical models
+KW  - Visual analytics
+KW  - Navigation
+KW  - Computational modeling
+KW  - Task analysis
+KW  - Explainable AI
+KW  - Concept Activation Vectors
+KW  - Interactive Visual Analytics
+DO  - 10.1109/TVCG.2022.3209384
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2023
+AB  - Traditional deep learning interpretability methods which are suitable for model users cannot explain network behaviors at the global level and are inflexible at providing fine-grained explanations. As a solution, concept-based explanations are gaining attention due to their human intuitiveness and their flexibility to describe both global and local model behaviors. Concepts are groups of similarly meaningful pixels that express a notion, embedded within the network's latent space and have commonly been hand-generated, but have recently been discovered by automated approaches. Unfortunately, the magnitude and diversity of discovered concepts makes it difficult to navigate and make sense of the concept space. Visual analytics can serve a valuable role in bridging these gaps by enabling structured navigation and exploration of the concept space to provide concept-based insights of model behavior to users. To this end, we design, develop, and validate ConceptExplainer, a visual analytics system that enables people to interactively probe and explore the concept space to explain model behavior at the instance/class/global level. The system was developed via iterative prototyping to address a number of design challenges that model users face in interpreting the behavior of deep learning models. Via a rigorous user study, we validate how ConceptExplainer supports these challenges. Likewise, we conduct a series of usage scenarios to demonstrate how the system supports the interactive analysis of model behavior across a variety of tasks and explanation granularities, such as identifying concepts that are important to classification, identifying bias in training data, and understanding how concepts can be shared across diverse and seemingly dissimilar classes.
+ER  - 
+
+TY  - CONF
+TI  - Modeling for everyone: Emphasizing the role of modeling in stem education
+T2  - Proceedings of the Winter Simulation Conference 2014
+SP  - 2786
+EP  - 2796
+AU  - P. Fishwick
+AU  - S. Brailsford
+AU  - S. J. E. Taylor
+AU  - A. Tolk
+AU  - A. Uhrmacher
+PY  - 2014
+KW  - Computational modeling
+KW  - Mathematical model
+KW  - Educational institutions
+KW  - Medical services
+KW  - Robot sensing systems
+KW  - Games
+KW  - Computers
+DO  - 10.1109/WSC.2014.7020121
+JO  - Proceedings of the Winter Simulation Conference 2014
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - Proceedings of the Winter Simulation Conference 2014
+Y1  - 7-10 Dec. 2014
+AB  - Modeling is a creative activity known and practiced by most in industry, government, and academia. A model is a construct of language coded using different technologies-from print and physical media to computer-generated synthetic environments. The activity of modeling is so central to human cognition, that we must ask ourselves whether modeling should be more clearly emphasized in education, especially within science, technology, engineering, and mathematics (STEM) fields. Coding has recently been suggested as a skill that everyone needs to acquire for the 21st Century. Can modeling be situated along side coding? We explore the connections between modeling and coding, and stress the importance of model literacy for all.
+ER  - 
+
+TY  - CONF
+TI  - An Abstract Object Oriented Runtime System for Heterogeneous Parallel Architecture
+T2  - 2013 IEEE International Symposium on Parallel & Distributed Processing, Workshops and Phd Forum
+SP  - 1203
+EP  - 1212
+AU  - J. -M. Gratien
+PY  - 2013
+KW  - Computer architecture
+KW  - Runtime
+KW  - Hardware
+KW  - Abstracts
+KW  - Computational modeling
+KW  - Object oriented modeling
+KW  - Vectors
+KW  - High performant computing
+KW  - Runtime system
+KW  - GPGPU
+KW  - Multi-core
+KW  - Heterogeneous architecture
+DO  - 10.1109/IPDPSW.2013.144
+JO  - 2013 IEEE International Symposium on Parallel & Distributed Processing, Workshops and Phd Forum
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE International Symposium on Parallel & Distributed Processing, Workshops and Phd Forum
+Y1  - 20-24 May 2013
+AB  - In our paper we present an abstract object oriented runtime system that helps to develop scientific applications for new her erogenous architectures based on multi-node of multi-core processors enhanced with accelerator boards. Its architecture, based on abstract concepts, enables to follow hardware technology by extending these concepts with new implementations modeling new hardware components, while limiting the impacts on existing applications architecture or in the developpement of high level generative framework based on Domain specific language. We validate our approach with a multiscale algorithm to solve partial derivative equations that we have implemented with this runtime system and benchmarked on various heterogeneous hardware architecture.
+ER  - 
+
+TY  - CONF
+TI  - Computer science learning activities based on experience
+T2  - 2017 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1363
+EP  - 1372
+AU  - M. Cápay
+AU  - J. Skalka
+AU  - M. Drlík
+PY  - 2017
+KW  - Computer science
+KW  - Reflection
+KW  - Context
+KW  - Informatics
+KW  - Computational modeling
+KW  - Engineering education
+KW  - Cognitive engagement
+KW  - Experience avctivities
+KW  - Discovery learning
+DO  - 10.1109/EDUCON.2017.7943025
+JO  - 2017 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2017 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 25-28 April 2017
+AB  - Learning by different ways as well as learning by discovery is natural. Especially in early childhood, we learn mostly by experience. Educational activities designed to acquire knowledge from experience lead students (pupils) to make own abstract or mental models only after finishing the activity. According to our experience, we should conclude that learners really learn from their attempts and mistakes even at computer science classes. Their disengagement should be reduced by the involvement of something personally significant. Teachers should ensure that activities are designed and carried out in ways that offer each learner the chance to engage in the manner that suits them to the best. The paper describes selected computer science activities that should be used to engage the pupils or students in the learning process. We conclude that relatively simple teaching aid could help to explain even abstract computer science underlying concepts through the experience sometimes more effectively than through instructional model.
+ER  - 
+
+TY  - CONF
+TI  - An Ontology Selection and Ranking System Based on the Analytic Hierarchy Process
+T2  - 2014 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+SP  - 293
+EP  - 300
+AU  - A. Groza
+AU  - I. Dragoste
+AU  - I. Sincai
+AU  - I. Jimborean
+AU  - V. Moraru
+PY  - 2014
+KW  - Ontologies
+KW  - Analytic hierarchy process
+KW  - Semantics
+KW  - Atomic measurements
+KW  - Abstracts
+KW  - Computational modeling
+KW  - Ontology selection
+KW  - ontology ranking
+KW  - analytic hierarchy process
+KW  - ontology metrics
+DO  - 10.1109/SYNASC.2014.47
+JO  - 2014 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+Y1  - 22-25 Sept. 2014
+AB  - Selecting the desired ontology from a collection of available ones is essential for ontology reuse. We address the problem of evaluating, ranking and selecting ontologies according to user preferences. We exploit the Analytic Hierarchy Process (AHP) to solve the multiple-criteria decision problem and to model the preferences of the users. We use AHP to analyze the available ontologies from different perspectives and at different abstraction levels. The decision is based on the concrete end-node measurements and their relative importance at higher levels. For supporting the selection decision, we developed an ontology representation, reasoning and management system. The system applies different metrics on ontologies in order to feed the Analytic Hierarchy Process with facts. The running scenario applies our method to the task of reusing ontologies from the tourism domain.
+ER  - 
+
+TY  - CONF
+TI  - Automatic Music Generation: Comparing LSTM and GRU
+T2  - 2022 3rd International Conference on Intelligent Engineering and Management (ICIEM)
+SP  - 693
+EP  - 698
+AU  - U. Rawat
+AU  - S. Singh
+PY  - 2022
+KW  - Deep learning
+KW  - Measurement
+KW  - Recurrent neural networks
+KW  - Computational modeling
+KW  - Music
+KW  - Computer architecture
+KW  - Market research
+KW  - Music Generation
+KW  - LSTM
+KW  - GRU
+DO  - 10.1109/ICIEM54221.2022.9853112
+JO  - 2022 3rd International Conference on Intelligent Engineering and Management (ICIEM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 3rd International Conference on Intelligent Engineering and Management (ICIEM)
+Y1  - 27-29 April 2022
+AB  - Music has been a universal and essential component of ancient human civilizations throughout the world. Its origin is unclear and transcends our oldest records, but its importance remains preserved to date. The abstract and enchanting nature of music has attracted many brilliant minds throughout history and continues to do so even today. The idea of creating music without human intervention is not new, and time has witnessed many gifted individuals partaking in the fulfilment of this goal. The contemporary seeker has something the others lacked, technical advancements and knowledge. With the advent of AI, it was only natural that man used this tool to try and achieve this long-sought desire. With the growing advancements in deep learning and its success in tackling the most complex problems, it is proving itself as the closest solution to the realization of this goal. This paper explores the rich history and the implications of automatic music generation in the present-day world. It also conducts a comparison between the music generated by the implementation of two different deep learning techniques, the LSTM and GRU architectures.
+ER  - 
+
+TY  - CONF
+TI  - A Study on Log Analysis Approaches Using Sandia Dataset
+T2  - 2017 26th International Conference on Computer Communication and Networks (ICCCN)
+SP  - 1
+EP  - 6
+AU  - M. M. A. Pritom
+AU  - C. Li
+AU  - B. Chu
+AU  - X. Niu
+PY  - 2017
+KW  - Authentication
+KW  - Anomaly detection
+KW  - Computers
+KW  - Analytical models
+KW  - Data models
+KW  - Computational modeling
+DO  - 10.1109/ICCCN.2017.8038522
+JO  - 2017 26th International Conference on Computer Communication and Networks (ICCCN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 26th International Conference on Computer Communication and Networks (ICCCN)
+Y1  - 31 July-3 Aug. 2017
+AB  - Modern enterprises collect, process, and analyze security data from various system and network logs. Previous studies show that, handling large security datasets and detecting anomalies from those are key challenges faced by most of todays' enterprises. Unfortunately most security professionals are inexperienced at performing data analysis. In this paper, we study published works analyzing one publicly accessible log dataset (Sandia Dataset) published by Los Alamos National Laboratory. We evaluate their data analysis methodology as well as results and found significant flaws in most analysis methodologies.
+ER  - 
+
+TY  - JOUR
+TI  - Towards a Virtual Domain Based Authentication on MapReduce
+T2  - IEEE Access
+SP  - 1658
+EP  - 1675
+AU  - I. Lahmer
+AU  - N. Zhang
+PY  - 2016
+KW  - Authentication
+KW  - Analytical models
+KW  - Cloud computing
+KW  - Computational modeling
+KW  - Scalability
+KW  - Paralllel processing
+KW  - MapReduce
+KW  - Authentication for MapReduce
+KW  - Cloud Computing Security
+KW  - Security Requirements
+KW  - Security Threats
+KW  - MapReduce
+KW  - authentication for mapreduce
+KW  - cloud computing security
+KW  - security requirements
+KW  - security threats
+DO  - 10.1109/ACCESS.2016.2558456
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 4
+VL  - 4
+JA  - IEEE Access
+Y1  - 2016
+AB  - This paper has proposed a novel authentication solution for the MapReduce (MR) model, a new distributed and parallel computing paradigm commonly deployed to process Big Data by major IT players, such as Facebook and Yahoo. It identifies a set of security, performance, and scalability requirements that are specified from a comprehensive study of a job execution process using MR and security threats and attacks in this environment. Based on the requirements, it critically analyzes the state-of-the-art authentication solutions, discovering that the authentication services currently proposed for the MR model is not adequate. This paper then presents a novel layered authentication solution for the MR model and describes the core components of this solution, which includes the virtual domain based authentication framework (VDAF). These novel ideas are significant, because, first, the approach embeds the characteristics of MR-in-cloud deployments into security solution designs, and this will allow the MR model be delivered as a software as a service in a public cloud environment along with our proposed authentication solution; second, VDAF supports the authentication of every interactions by any MR components involved in a job execution flow, so long as the interactions are for accessing resources of the job; third, this continuous authentication service is provided in such a manner that the costs incurred in providing the authentication service should be as low as possible.
+ER  - 
+
+TY  - CONF
+TI  - PERSPECTIVES ON TEACHING MODELING AND SIMULATION IN A DEPARTMENT OF COMPUTER SCIENCE
+T2  - 2018 Winter Simulation Conference (WSC)
+SP  - 4058
+EP  - 4068
+AU  - A. Kashefi
+AU  - F. Alwzinani
+AU  - D. Bell
+PY  - 2018
+KW  - Computational modeling
+KW  - Education
+KW  - Computer science
+KW  - Process modeling
+KW  - Analytical models
+KW  - Organizations
+DO  - 10.1109/WSC.2018.8632516
+JO  - 2018 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2018 Winter Simulation Conference (WSC)
+Y1  - 9-12 Dec. 2018
+AB  - In this paper, we share our approach to teaching conceptual model development and simulation modeling at a Department of Computer Science in the UK. We explore the challenges and opportunities we face teaching static and dynamic modeling to the 2nd and 3rd year undergraduate students. While our Business Computing students tend not to be as technically savvy as our Computer Science students, which at times limits the technical complexity of what we can cover in our courses, we designed the Business Analysis and Process Modeling course as a tool to empower students to analyze and discuss business problems in-depth. The paper reports on the design and findings of the undergraduate teaching of modeling and simulation content. We finalize the paper by providing some concluding remarks and future directions.
+ER  - 
+
+TY  - CONF
+TI  - A Study of Effectiveness and Problem Solving on Security Concepts with Model-Eliciting Activities
+T2  - 2022 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - J. Yang
+AU  - Y. Rae Kim
+AU  - B. Earwood
+PY  - 2022
+KW  - Computer science
+KW  - Computational modeling
+KW  - Education
+KW  - Software systems
+KW  - Security
+KW  - Problem-solving
+KW  - Computer crime
+KW  - cybersecurity education
+KW  - computer science education
+KW  - model-electing activity
+KW  - MEA
+KW  - secure programming
+KW  - CS1
+KW  - module
+DO  - 10.1109/FIE56618.2022.9962412
+JO  - 2022 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2022 IEEE Frontiers in Education Conference (FIE)
+Y1  - 8-11 Oct. 2022
+AB  - Security is a critical aspect in the process of designing, developing, and testing software systems. Due to the increasing need for security-related skills within software systems, there is a growing demand for these skills to be taught in computer science. A series of security modules was developed not only to meet the demand but also to assess the impact of these modules on teaching critical cyber security topics in computer science courses. This full paper in the innovative practice category presents the outcomes of six security modules in a freshman-level course at two institutions. The study adopts a Model-Eliciting Activity (MEA) as a project for students to demonstrate an understanding of the security concepts. Two experimental studies were conducted: 1) Teaching effectiveness of implementing cyber security modules and MEA project, 2) Students’ experiences in conceptual modeling tasks in problem-solving. In measuring the effectiveness of teaching security concepts with the MEA project, students’ performance, attitudes, and interests as well as the instructor’s effectiveness were assessed. For the conceptual modeling tasks in problem-solving, the results of student outcomes were analyzed. After implementing the security modules with the MEA project, students showed a great understanding of cyber security concepts and an increased interest in broader computer science concepts. The instructor’s beliefs about teaching, learning, and assessment shifted from teacher-centered to student-centered during their experience with the security modules and MEA project. Although 64.29% of students’ solutions do not seem suitable for real-world implementation, 76.9% of the developed solutions showed a sufficient degree of creativity.
+ER  - 
+
+TY  - CONF
+TI  - Viewpoints and Issues in Requirements Engineering for Services
+T2  - 2012 IEEE 36th Annual Computer Software and Applications Conference Workshops
+SP  - 341
+EP  - 346
+AU  - J. Ralyté
+PY  - 2012
+KW  - Business
+KW  - Information systems
+KW  - Web services
+KW  - Technological innovation
+KW  - Computational modeling
+KW  - Analytical models
+KW  - service
+KW  - service requirements engineering
+KW  - service value
+KW  - creativity
+KW  - service evolution
+DO  - 10.1109/COMPSACW.2012.68
+JO  - 2012 IEEE 36th Annual Computer Software and Applications Conference Workshops
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 IEEE 36th Annual Computer Software and Applications Conference Workshops
+Y1  - 16-20 July 2012
+AB  - While service-oriented paradigm plays a more and more extensive role in software and information systems development and service-driven architectures are increasingly adopted by public and private organizations, the Requirements Engineering (RE) discipline still fails to provide approaches and techniques dedicated for this type of development. In this paper we aim to identify viewpoints and issues particular to the RE domain adapted to the service-oriented engineering context. Based on this analysis, we introduce a framework to support RE for service engineering.
+ER  - 
+
+TY  - CONF
+TI  - Emotion modeling in autonomic computing
+T2  - 2009 8th IEEE International Conference on Cognitive Informatics
+SP  - 77
+EP  - 85
+AU  - D. Zhang
+AU  - Y. Pan
+AU  - Z. Shi
+PY  - 2009
+KW  - Cognition
+KW  - Cognitive science
+KW  - Humans
+KW  - Artificial intelligence
+KW  - Psychology
+KW  - Problem-solving
+KW  - Information processing
+KW  - Intelligent sensors
+KW  - Machine intelligence
+KW  - Computational modeling
+KW  - autonomic unit
+KW  - BDI logic
+KW  - emotion arousing process
+KW  - emotion model
+DO  - 10.1109/COGINF.2009.5250801
+JO  - 2009 8th IEEE International Conference on Cognitive Informatics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 8th IEEE International Conference on Cognitive Informatics
+Y1  - 15-17 June 2009
+AB  - Autonomic unit is the essential element and the most basic component of autonomic systems. Having the ability of handling emotions is considered to make autonomic unit more intelligent, more communicative and more social. In this article we try to build an emotion model for agents that act as autonomic units in autonomic systems and can self-manage its behavior to achieve the best performance. From four levels we define four models progressively and the top-level model is defined on the foundation of the three below, combining them as a unity. By given arousing axioms theoretically of several typical emotions, the model is proved to be effective for reasoning emotions of autonomic unit, and can be easily extended for dealing with other type of emotions. On this base an architecture of emotional autonomic unit is described. An example shows that emotion plays an important role in intelligent decision making, which proves the validity of the model and the special function in practice.
+ER  - 
+
+TY  - CONF
+TI  - GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 22227
+EP  - 22238
+AU  - T. Wu
+AU  - G. Yang
+AU  - Z. Li
+AU  - K. Zhang
+AU  - Z. Liu
+AU  - L. Guibas
+AU  - D. Lin
+AU  - G. Wetzstein
+PY  - 2024
+KW  - Measurement
+KW  - Adaptation models
+KW  - Computer vision
+KW  - Three-dimensional displays
+KW  - Codes
+KW  - Design methodology
+KW  - Computational modeling
+KW  - 3D Generation
+KW  - Evaluation
+DO  - 10.1109/CVPR52733.2024.02098
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+AB  - Despite recent advances in text-to-3D generative methods, there is a notable absence of reliable evaluation metrics. Existing metrics usually focus on a single criterion each, such as how well the asset aligned with the input text. These metrics lack the flexibility to generalize to different evaluation criteria and might not align well with human preferences. Conducting user preference studies is an alternative that offers both adaptability and human-aligned results. User studies, however, can be very ex-pensive to scale. This paper presents an automatic, ver-satile, and human-aligned evaluation metric for text-to-3D generative models. To this end, we first develop a prompt generator using GPT-4V to generate evaluating prompts, which serve as input to compare text-to-3D models. We further design a method instructing GPT-4V to compare two 3D assets according to user-defined crite-ria. Finally, we use these pairwise comparison results to assign these models Elo ratings. Experimental results suggest our metric strongly aligns with human preference across different evaluation criteria. Our code is available at https://github.com/3DTopia/GPTEval3D.
+ER  - 
+
+TY  - CONF
+TI  - Cyber Social Computing
+T2  - 2018 IEEE East-West Design & Test Symposium (EWDTS)
+SP  - 1
+EP  - 8
+AU  - V. Hahanov
+AU  - S. Chumachenko
+AU  - E. Litvinova
+AU  - A. V. Hacimahmud
+AU  - A. Hahanova
+AU  - T. Soklakova
+PY  - 2018
+KW  - Measurement
+KW  - Ethics
+KW  - Social computing
+KW  - Monitoring
+KW  - Companies
+KW  - Computational modeling
+DO  - 10.1109/EWDTS.2018.8524663
+JO  - 2018 IEEE East-West Design & Test Symposium (EWDTS)
+IS  - 
+SN  - 2472-761X
+VO  - 
+VL  - 
+JA  - 2018 IEEE East-West Design & Test Symposium (EWDTS)
+Y1  - 14-17 Sept. 2018
+AB  - A cyberculture of social computing is proposed that integrates technologies of exhaustive human-free metric monitoring and digital management of social processes and phenomena. Logical structures of cyber social computing are defined, which are considered as components of cyber technologies for accurate monitoring and moral digital management of society. The types of emotionally logical computing, the metrics and algorithms for measuring social relations along horizontal and vertical communications, the rules of human behavior, focused on the creation of emotional logic for modeling and predicting people's behavior. A cyber-physical model of digital statehood is introduced for metric management of resources and citizens based on exhaustive monitoring of people's needs, including components of social computing (attitudes, goals, management, personnel, infrastructure, resources) ordered by their impact on market success. The cyber social architecture of the moral digital management of science and resources is offered based on exhaustive metric monitoring of educational processes.
+ER  - 
+
+TY  - CONF
+TI  - Non-Equilibrium Learning and Cyber-Physical Security
+T2  - 2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+SP  - 1
+EP  - 6
+AU  - K. G. Vamvoudakis
+AU  - A. Kanellopoulos
+PY  - 2019
+KW  - Games
+KW  - Game theory
+KW  - Security
+KW  - Riccati equations
+KW  - Computational modeling
+KW  - Mathematical model
+KW  - Optimization
+DO  - 10.1109/ALLERTON.2019.8919756
+JO  - 2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+Y1  - 24-27 Sept. 2019
+AB  - This paper introduces a framework for non-equilibrium behavior analysis in cyber-physical systems for security purposes. To categorize the player, we employ the principles of reinforcement learning in order to derive an iterative method of optimal responses that determine the policy of an agent with level-k intelligence in a general non-zerosum, nonlinear environment. For the special case of zero-sum, linear quadratic games we derive appropriate non-equilibrium game Riccati equations. To obviate the need for complete knowledge of the system dynamics, we employ a Q-learning algorithm as a best response solver. We then design an estimator that determines the distribution of intelligence levels in the adversarial environment of the system. Finally, simulation results showcase the efficacy of our approach.
+ER  - 
+
+TY  - CONF
+TI  - CEL: Touching software modeling in essence
+T2  - 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+SP  - 439
+EP  - 448
+AU  - R. Lemma
+AU  - M. Lanza
+AU  - A. Mocci
+PY  - 2015
+KW  - Unified modeling language
+KW  - Object oriented modeling
+KW  - Visualization
+KW  - Semantics
+KW  - Tablet computers
+KW  - Computational modeling
+KW  - Layout
+DO  - 10.1109/SANER.2015.7081854
+JO  - 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+IS  - 
+SN  - 1534-5351
+VO  - 
+VL  - 
+JA  - 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+Y1  - 2-6 March 2015
+AB  - Understanding a problem domain is a fundamental prerequisite for good software design. In object-oriented systems design, modeling is the fundamental first phase that focuses on identifying core concepts and their relations. How to properly support modeling is still an open problem, and existing approaches and tools can be very different in nature. On the one hand, lightweight ones, such as pen & paper/whiteboard or CRC cards, are informal and support well the creative aspects of modeling, but produce artifacts that are difficult to store, process and reuse as documentation. On the other hand, more constrained and semi-formal ones, like UML, produce storable and processable structured artifacts with defined semantics, but this comes at the expense of creativity. We believe there exists a middle ground to investigate that maximizes the good of both worlds, that is, by supporting software modeling closer to its essence, with minimal constraints on the developer's creativity and still producing reusable structured artifacts. We also claim that modeling can be best treated by using the emerging technology of touch-based tablets. We present a novel gesture-based modeling approach based on a minimal set of constructs, and CEL, an iPad application, for rapidly creating, manipulating, and storing language agnostic object-oriented software models, which can be exported as skeleton source code in any language of choice. We assess our approach through a controlled qualitative study.
+ER  - 
+
+TY  - CONF
+TI  - AESOP: Abstract Encoding of Stories, Objects, and Pictures
+T2  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+SP  - 2032
+EP  - 2043
+AU  - H. Ravi
+AU  - K. Kafle
+AU  - S. Cohen
+AU  - J. Brandt
+AU  - M. Kapadia
+PY  - 2021
+KW  - Measurement
+KW  - Visualization
+KW  - Computer vision
+KW  - Computational modeling
+KW  - Benchmark testing
+KW  - Encoding
+KW  - Cognition
+KW  - Vision + language
+KW  - Datasets and evaluation
+KW  - Representation learning
+KW  - Visual reasoning and logical representation
+DO  - 10.1109/ICCV48922.2021.00206
+JO  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+IS  - 
+SN  - 2380-7504
+VO  - 
+VL  - 
+JA  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+Y1  - 10-17 Oct. 2021
+AB  - Visual storytelling and story comprehension are uniquely human skills that play a central role in how we learn about and experience the world. Despite remarkable progress in recent years in synthesis of visual and textual content in isolation and learning effective joint visual-linguistic representations, existing systems still operate only at a superficial, factual level. With the goal of developing systems that are able to comprehend rich human-generated narratives, and co-create new stories, we introduce AESOP: a new dataset that captures the creative process associated with visual storytelling. Visual panels are composed of clip-art objects with specific attributes enabling a broad range of creative expression. Using AESOP, we propose foundational storytelling tasks that are generative variants of story cloze tests, to better measure the creative and causal reasoning ability required for visual storytelling. We further develop a generalized story completion framework that models stories as the co-evolution of visual and textual concepts. We benchmark the proposed approach with human baselines and evaluate using comprehensive qualitative and quantitative metrics. Our results highlight key insights related to the dataset, modelling and evaluation of visual storytelling for future research in this promising field of study.
+ER  - 
+
+TY  - CONF
+TI  - Assessing creativity skill development in art and design among undergraduate students: Implementing creative potential simulation software to capture creativity-relevant personal characteristics
+T2  - Proceedings of 2013 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
+SP  - 268
+EP  - 272
+AU  - N. J. Setiadi
+AU  - I. G. So
+AU  - Suprayitno
+PY  - 2013
+KW  - Computer simulation
+KW  - Computational modeling
+KW  - Art
+KW  - Education
+KW  - Software
+KW  - Reliability
+KW  - Correlation
+KW  - Creative behavior
+KW  - Creative-relevant personal characteristics
+KW  - Creativity simulation software
+KW  - Art and Design Student Learning
+DO  - 10.1109/TALE.2013.6654444
+JO  - Proceedings of 2013 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of 2013 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
+Y1  - 26-29 Aug. 2013
+AB  - Identification of creativity skill development among undergraduate art and design students was assessed using a computer software creativity simulation. This software has been developed and evaluated with two groups of Art and Design students of a private university in Indonesia. The study presents preliminary findings of an examination creative behavioral model. This examination presents data supporting reliability and validity of the instrument. Student learning of creativity skill was evident using the creative potential simulation software. Results of a factor analysis indicated a five factor solution of creative characteristics and behavior. Discussion of findings and the benefits of computer simulations for learning and assessment of creativity skills are presented.
+ER  - 
+
+TY  - CONF
+TI  - New technologies and their impact on the development of architectural education
+T2  - 2018 1st International Scientific Conference of Engineering Sciences - 3rd Scientific Conference of Engineering Science (ISCES)
+SP  - 231
+EP  - 236
+AU  - N. M. S. M. Kadhim
+PY  - 2018
+KW  - Education
+KW  - Three-dimensional displays
+KW  - Solid modeling
+KW  - Printers
+KW  - Computational modeling
+KW  - Three-dimensional printing
+KW  - Buildings
+KW  - modern technology
+KW  - three-dimensional (3D) printing
+KW  - internet of things
+KW  - architectural education
+KW  - E-learning
+DO  - 10.1109/ISCES.2018.8340559
+JO  - 2018 1st International Scientific Conference of Engineering Sciences - 3rd Scientific Conference of Engineering Science (ISCES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 1st International Scientific Conference of Engineering Sciences - 3rd Scientific Conference of Engineering Science (ISCES)
+Y1  - 10-11 Jan. 2018
+AB  - The advanced developments in the use of the modern technology, such as three-dimensional (3D) printing, internet of things and wearable devices have experienced a significant acceleration in terms of theoretical and practical aspects. These advanced techniques have played an important and vital role in many different fields of our life including the field of architecture. However, the presentation curriculum in the field of architectural education is still lacking in the actual application and optimal use of the (3D) printing technology at the local level in architectural departments for Iraqi universities. The paper aims to identify the innovative technologies and utilize them in the field of architectural education through developing an integrated framework for the Architectural Presentation curriculum using (3D) printer techniques. The latest methods and innovative technologies that have been accepted and applied in the field of E-learning and its utilization in the field of architectural education were reviewed and evaluated. In this paper, therefore, we focused in the proposed framework on the use of the three-dimensional (3D) printing technology in Architectural Presentation and analysing the obstacles that may face the implementation of this technology locally. The results illustrate that there is an urgent need to adopt such an innovative technology (3D printer) in our architectural presentation curriculum, because of its effectiveness as a powerful tool in the academic education. It is anticipated that the three-dimensional printing technology will help not only to develop the architect capabilities in generating the (3D) objects and models, but also to enable architects to implement their project with an accurate, ease and quick manner.
+ER  - 
+
+TY  - CONF
+TI  - Multi - Level Online Learning and Reasoning for Self-Integrating Systems
+T2  - 2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+SP  - 187
+EP  - 192
+AU  - M. Pol
+AU  - A. Diaconescu
+PY  - 2021
+KW  - Adaptation models
+KW  - Runtime
+KW  - Uncertainty
+KW  - Scalability
+KW  - Conferences
+KW  - Computational modeling
+KW  - Smart homes
+KW  - self-integration
+KW  - model-based adaptation
+KW  - multilevel
+KW  - online learning
+KW  - on the fly reasoning
+KW  - knowledge abstraction
+DO  - 10.1109/ACSOS-C52956.2021.00052
+JO  - 2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+Y1  - 27 Sept.-1 Oct. 2021
+AB  - Self-improving and self-integrating systems (SISSY) often employ runtime models to represent their state and environment, and reason upon them to determine the required adaptation logic for reaching their goals. However, most model-based approaches rely on static modeling languages and cannot handle runtime uncertainty (e.g. dynamically integrated resources) that requires online language extensions. In previous work, we proposed an approach to extend the system's modeling language with new monitoring and action dimensions. However, the solution generates a high number of new language elements, slowing down the reasoning process for large systems. In this position paper, we propose a multi-level approach for extending the modeling language at runtime, and aim to provide online learning and reasoning at multiple levels of abstraction. Increasing the modeling abstraction decreases the number of concepts to reason about, hence improving scalability. We provide a preliminary validation of this proposal by detecting novel abstract dimensions from monitoring data from the smart home domain.
+ER  - 
+
+TY  - CONF
+TI  - How Learning Style and Social Media Behaviour Influence Undergraduates' Information Literacy Level in China
+T2  - 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+SP  - 485
+EP  - 492
+AU  - W. Xu
+AU  - Z. -y. Shen
+PY  - 2021
+KW  - Data analysis
+KW  - Social networking (online)
+KW  - Conferences
+KW  - Computational modeling
+KW  - Education
+KW  - Information processing
+KW  - Media
+KW  - Information literacy
+KW  - social constructivism theory
+KW  - individual subjective factors
+KW  - external objective factors
+KW  - learning style
+KW  - social media behaviour
+KW  - content consumption behaviour
+KW  - content creation behaviour
+DO  - 10.1109/CSCWD49262.2021.9437720
+JO  - 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+Y1  - 5-7 May 2021
+AB  - Improving undergraduates' information literacy level is the focus of contemporary higher education authorities. The information literacy level of undergraduates forms the core of the 21st-century talents and skills, and it is also an important factor influencing other skills. The cultivation of individual information literacy is influenced by both individual subjective factors and external objective factors. Based on the social constructivism theory, this study explores the influence of internal subjective factors (information processing dimension of learning style) and external objective factors (social media behaviour) on undergraduates' information literacy level through quantitative questionnaire data analysis. This study constructs a model of the internal and external influencing factors of undergraduates' information literacy level and proposes four hypotheses. The results verify the four hypotheses and prove the rationality of the model construction. In addition, suggestions are provided for individual undergraduates, high school management, and the concerned authorities of the social cultural environment.
+ER  - 
+
+TY  - CONF
+TI  - CycleMVAE: Benchmarking End-to-End Cycle-Consistent Multi-Task Variational Autoencoder for EEG-Based Emotion Recognition
+T2  - 2023 IEEE Region 10 Symposium (TENSYMP)
+SP  - 1
+EP  - 6
+AU  - K. S. Kamble
+AU  - J. Sengupta
+PY  - 2023
+KW  - Emotion recognition
+KW  - Databases
+KW  - Computational modeling
+KW  - Multitasking
+KW  - Brain modeling
+KW  - Electroencephalography
+KW  - Signal reconstruction
+KW  - EEG
+KW  - Multi-task Variational Autoencoders
+KW  - Cycle-Consistent architecture
+KW  - Affective Computing
+KW  - Emotion Recognition
+DO  - 10.1109/TENSYMP55890.2023.10223616
+JO  - 2023 IEEE Region 10 Symposium (TENSYMP)
+IS  - 
+SN  - 2642-6102
+VO  - 
+VL  - 
+JA  - 2023 IEEE Region 10 Symposium (TENSYMP)
+Y1  - 6-8 Sept. 2023
+AB  - Affective computing, particularly the identification of emotions from multichannel electroencephalography (EEG) signals, has gained importance. In this study, we propose a novel deep neural network model called Cycle Consistent Multi-Task Variational Autoencoder (CycleMVAE) to simultaneously investigate pairwise translation of emotional features, signal reconstruction, and emotion classification across two different EEG recording samples. CycleMVAE comprises two Variational Autoencoders (VAEs) and a supervised classifier. Each VAE consists of an encoder and a decoder. The encoder of the first VAE transfers emotional properties from EEG sample X to a compact latent space Z, while the decoder retrieves these features from Z to transfer them to EEG sample Y. Similarly, the second VAE uses the compact latent space Z’ to transfer emotion features from EEG sample Y to EEG sample X. This forms a cyclic translation of feature among EEG sample recordings. The model is trained using reconstructed loss, cycle consistency loss, and latent vector regularization loss, with a supervised classifier used to categorize emotions into arousal, valence, and dominance categories. The proposed approach improves EEG classification performance while reducing pre-processing complexity. The effectiveness of the proposed approach has been validated by experimental findings on the multimodal DREAMER emotional database.
+ER  - 
+
+TY  - CONF
+TI  - A framework to examine fidelity of implementation of a hybrid instructional model for computer engineering courses
+T2  - 2013 IEEE Frontiers in Education Conference (FIE)
+SP  - 724
+EP  - 729
+AU  - J. -L. Lin
+AU  - A. S. Peng
+PY  - 2013
+KW  - Computational modeling
+KW  - Education
+KW  - Computers
+KW  - hybrid instructional model
+KW  - fidelity
+KW  - implemented curriculum
+KW  - intended curriculum
+KW  - learned curriculum
+KW  - pedagogical and content knowledge
+DO  - 10.1109/FIE.2013.6684921
+JO  - 2013 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2013 IEEE Frontiers in Education Conference (FIE)
+Y1  - 23-26 Oct. 2013
+AB  - This paper describes a framework adopted to examine the fidelity level of the implemented curriculum in a computer engineering course. The framework allows education researchers to analyze how an applied hybrid instructional model impacts student learning methodically. This study helps to gain insights into how instructors' pedagogical and content knowledge has shaped the curriculum implementation. Factors that influence the intended, implemented, and learned curriculum are discussed.
+ER  - 
+
+TY  - CONF
+TI  - Collective assessment of arguments in an online intelligent argumentation system for collaborative decision support
+T2  - 2013 International Conference on Collaboration Technologies and Systems (CTS)
+SP  - 411
+EP  - 418
+AU  - R. S. Arvapally
+AU  - X. Liu
+PY  - 2013
+KW  - Fuzzy logic
+KW  - Aggregates
+KW  - Artificial intelligence
+KW  - Collaboration
+KW  - Engines
+KW  - Decision making
+KW  - Computational modeling
+KW  - Collaborative decision support
+KW  - argumentation
+KW  - fuzzy logic
+KW  - aggregate thoughts
+KW  - individual thoughts
+KW  - K-means clustering algorithm
+KW  - intelligent argumenation system
+DO  - 10.1109/CTS.2013.6567263
+JO  - 2013 International Conference on Collaboration Technologies and Systems (CTS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Collaboration Technologies and Systems (CTS)
+Y1  - 20-24 May 2013
+AB  - We developed an intelligent argumentation system for collaborative decision support which allows stakeholders to exchange arguments, captures their rationale, and assesses aggregate thoughts on solution alternatives [1, 21]. In this article we propose and evaluate a method for computing aggregate thoughts of arguments on individual arguments, which represents individual thoughts, in an argumentation tree and further classifying arguments based on relationships between its aggregate thoughts and individual thoughts. A novel approach is developed to derive collective determination of an argument based on total support and attack that an argument receives in the argumentation tree. The collective determination value and the strength of an argument are used to analyze the relationship between aggregate thought and individual thought of arguments and cluster the arguments. The decision maker will be able to review clusters of arguments with opposing collective thoughts and supporting collective thoughts versus their individual thoughts. We have carried out an experiment to evaluate the proposed method, and the experimental results show that the proposed method is effective.
+ER  - 
+
+TY  - CONF
+TI  - Sarid: Arabic Storyteller Using a Fine-Tuned LLM and Text-to-Image Generation
+T2  - 2024 16th International Conference on Computer and Automation Engineering (ICCAE)
+SP  - 1
+EP  - 5
+AU  - M. Alabdulrahman
+AU  - R. Khayyat
+AU  - K. Almowallad
+AU  - Z. Alharz
+PY  - 2024
+KW  - Training
+KW  - Visualization
+KW  - Automation
+KW  - Image synthesis
+KW  - Computational modeling
+KW  - Pipelines
+KW  - Linguistics
+KW  - Artificial Intelligence
+KW  - Fine-tuning
+KW  - Generative Models
+KW  - Image Generation
+KW  - Text Generation
+DO  - 10.1109/ICCAE59995.2024.10569190
+JO  - 2024 16th International Conference on Computer and Automation Engineering (ICCAE)
+IS  - 
+SN  - 2154-4360
+VO  - 
+VL  - 
+JA  - 2024 16th International Conference on Computer and Automation Engineering (ICCAE)
+Y1  - 14-16 March 2024
+AB  - We propose a novel approach to Arabic story generation by fine-tuning a pre-trained Large Language Model (LLM). Our pipeline includes two stages: text generation and image generation. By fine-tuning the davinci-003 LLM on a dataset of 527 Arabic stories, we tailor the generated stories based on user preferences. For image generation, we utilize the Midjourney model. The results demonstrate the efficacy of fine-tuning a pre-trained image generation model on a limited dataset, as measured by the ROUGE score. Sarid's contributions include addressing the lack of Arabic story generation models, providing a comprehensive dataset of Arabic stories, and integrating text and image generation for a cohesive story generation pipeline.
+ER  - 
+
+TY  - CONF
+TI  - Using Computer-Generated Examples to Support Idea Generation
+T2  - 2020 International Conference on Fuzzy Theory and Its Applications (iFUZZY)
+SP  - 1
+EP  - 6
+AU  - Y. -J. Huang
+AU  - W. -C. Lin
+AU  - S. -S. Lee
+AU  - X. -Y. Huang
+PY  - 2020
+KW  - Computational modeling
+KW  - Task analysis
+KW  - Solid modeling
+KW  - Tools
+KW  - Three-dimensional displays
+KW  - Analytical models
+KW  - Prototypes
+KW  - computer-aided design system
+KW  - idea generation
+DO  - 10.1109/iFUZZY50310.2020.9297808
+JO  - 2020 International Conference on Fuzzy Theory and Its Applications (iFUZZY)
+IS  - 
+SN  - 2377-5831
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Fuzzy Theory and Its Applications (iFUZZY)
+Y1  - 4-7 Nov. 2020
+AB  - We present ComposIt, a creativity support tool that assists designers in finding inspiration by providing many computer-generated examples. These examples may be beyond humans' imagination and thus are helpful to inspire users to create new ideas. To automatically produce examples, our system adopts the deconstruction and construction strategies that are commonly used in the creative industries. Given a 3D model, the model deconstruction module analyzes the model and divides it into several elements. Then the model construction module synthesizes examples by composing the elements from different models. To evaluate the effectiveness of our system, we conducted a user study, in which artists were invited to design using our system. The results conclude that our system is able to inspire artists in their design process. The artists also shared their usage experience of our system in various aspects.
+ER  - 
+
+TY  - CONF
+TI  - Analytical approach of soft computing in big data issues
+T2  - 2015 Communication, Control and Intelligent Systems (CCIS)
+SP  - 442
+EP  - 449
+AU  - T. Anand
+AU  - R. Pal
+AU  - S. K. Dubey
+PY  - 2015
+KW  - Computational modeling
+KW  - Predictive models
+KW  - Writing
+KW  - Data mining
+KW  - Libraries
+KW  - Vehicles
+KW  - Big Data
+KW  - Soft Computing
+KW  - Neural Network
+KW  - Fuzzy Logic
+KW  - Genetic Algorithm
+DO  - 10.1109/CCIntelS.2015.7437957
+JO  - 2015 Communication, Control and Intelligent Systems (CCIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Communication, Control and Intelligent Systems (CCIS)
+Y1  - 7-8 Nov. 2015
+AB  - As big data computing is in emergence, therefore handling of large amount of data becoming a problematic day by day. Analyzing, visualizing, and managing this massive amount of data causing remarkable issues and challenges which are not even resolve through traditional technologies. Therefore it requires innovative technologies or methods to resolve issues and challenges. The main aim of this paper is to explore the effectiveness of combination of big data with soft computing to overcome the issues and challenges more efficiently and in less time. Here emphasis is given on three main soft computing techniques namely neural network, fuzzy logic and genetic for minimizing big data related problems. Research questions are also formed for this purpose in the present paper from 2004-2015 as primary study that will help the researchers in future in their related study.
+ER  - 
+
+TY  - CONF
+TI  - The issues of adopting simulation games in software engineering classes
+T2  - 2015 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - D. C. C. Peixoto
+AU  - R. F. Resende
+AU  - C. I. P. S. Pádua
+PY  - 2015
+KW  - Games
+KW  - Software engineering
+KW  - Software
+KW  - Computational modeling
+KW  - Context
+KW  - Semiotics
+KW  - Inspection
+KW  - simulation games
+KW  - software engineering
+KW  - adoption
+DO  - 10.1109/FIE.2015.7344071
+JO  - 2015 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Frontiers in Education Conference (FIE)
+Y1  - 21-24 Oct. 2015
+AB  - Previous researches have pointed out that simulation games can be an effective tool for enhancing the students' motivation to learn and understand complex subjects. Although the decision to use a simulation game is made mainly by the instructor, the students' perceptions are also important in order to support its usage. The increasing interest in educational simulation games motivates us to investigate relevant factors that influence the adoption of simulation games in Software Engineering courses. Based on a theoretical adoption model and on the evaluation of a specific simulation game, we identified crucial aspects beyond the ones usually considered, such as incorporating more industrial settings phenomena and pedagogical elements. These aspects are not always considered in Software Engineering simulation games, as we identified after an evaluation. Therefore, we concluded that this class of simulation games does not address suitably the adoption attributes that we found relevant.
+ER  - 
+
+TY  - CONF
+TI  - Building a Better Future Workforce: Digital Dexterity and Psychological Empowerment
+T2  - 2023 3rd International Conference on Computing and Information Technology (ICCIT)
+SP  - 626
+EP  - 632
+AU  - H. Akter
+AU  - W. Ahmed
+AU  - I. Sentosa
+AU  - S. M. Hizam
+AU  - F. H. Sharin
+AU  - I. Mina
+PY  - 2023
+KW  - Computers
+KW  - Surveys
+KW  - Data analysis
+KW  - Navigation
+KW  - Computational modeling
+KW  - Employment
+KW  - Psychology
+KW  - Digital Dexterity
+KW  - Work Engagement
+KW  - Psychological Empowerment
+KW  - Future Workforce
+KW  - PLS-SEM
+DO  - 10.1109/ICCIT58132.2023.10273912
+JO  - 2023 3rd International Conference on Computing and Information Technology (ICCIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 3rd International Conference on Computing and Information Technology (ICCIT)
+Y1  - 13-14 Sept. 2023
+AB  - As the business landscape progresses, the advancement of information systems is becoming increasingly valuable in shaping the future workforce. The rising demand for skilled employees who can navigate and manage technological tools and stay engaged in the workplace requires businesses to make significant efforts to advance their workforce's digital competencies and cognitive satisfaction. To understand this phenomenon better, considering the future workforce, specifically final-year students, could provide more valuable insights, as previous studies have been unable to capture this illustration fully. This research intends to understand willingness to engage behaviour of the future workforce through digital dexterity (i.e., personal-innovativeness, and computers self-efficacy) and psychological empowerment. A hypothesis-based framework delineated with seven paths, and data were collected through a questionnaire survey. To analyze the collected data from 147 respondents, a multivariate data analysis technique "PLS-SEM" was practiced. The study finding illustrated that personal innovativeness played a major role in impacting willingness to engage behavior followed by computer self-efficacy. These findings are novel and significant, providing new insights into the complex relationship between model variables among final-year students. The implications of this study would be particularly valuable for businesses looking to understand better and engage with the future workforce.
+ER  - 
+
+TY  - CONF
+TI  - The Effects of Perceived Visual Aesthetics on Process Satisfaction in GSS Use
+T2  - 2010 43rd Hawaii International Conference on System Sciences
+SP  - 1
+EP  - 10
+AU  - A. Ivanov
+AU  - C. Schneider
+PY  - 2010
+KW  - Human computer interaction
+KW  - Collaborative software
+KW  - Teamwork
+KW  - Space technology
+KW  - Computer interfaces
+KW  - Computational modeling
+KW  - Performance evaluation
+KW  - Globalization
+KW  - Organizational aspects
+KW  - Bridges
+DO  - 10.1109/HICSS.2010.376
+JO  - 2010 43rd Hawaii International Conference on System Sciences
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - 2010 43rd Hawaii International Conference on System Sciences
+Y1  - 5-8 Jan. 2010
+AB  - Although group support systems (GSS) can potentially have tremendous impacts in helping to solve the challenges faced by organizations and societies today, research to date has primarily focused on direct out-comes, with less research focusing on factors contributing to use and continuing use of GSS. Integrating hedonic elements into the human computer interface of GSS is one way to potentially enhance users' satisfaction with the meeting process, which in turn can influence usage intentions. Hence, this study explores the effects of perceived visual aesthetics on satisfaction with the meeting process using a free simulation study with twenty ad-hoc teams performing an idea generation and evaluation task. The results show a significant role of perceived visual aesthetics in predicting satisfaction with the meeting process.
+ER  - 
+
+TY  - CONF
+TI  - Facilitated conceptual modelling: Practical issues and reflections
+T2  - Proceedings of the 2012 Winter Simulation Conference (WSC)
+SP  - 1
+EP  - 12
+AU  - A. A. Tako
+AU  - K. Kotiadis
+PY  - 2012
+KW  - Conferences
+KW  - Computational modeling
+KW  - Data models
+KW  - Biological system modeling
+KW  - Analytical models
+KW  - Educational institutions
+KW  - Knowledge acquisition
+DO  - 10.1109/WSC.2012.6465192
+JO  - Proceedings of the 2012 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - Proceedings of the 2012 Winter Simulation Conference (WSC)
+Y1  - 9-12 Dec. 2012
+AB  - This paper discusses some practical issues relevant to facilitated conceptual modelling (CM). We consider facilitated CM as a process of undertaking CM primarily in facilitated workshops attended by a group of stakeholders. Facilitated workshops are a common practice in some fields of operational research (OR), System Dynamics (SD) and Problem Structuring Methods (PSM). The associated benefits of involving the stakeholders in the modelling process are reported in the literature such as enabling the mutual exploration of the problem situation and creating a strong ownership of the formulated problem. Further benefits related to CM are knowledge acquisition from domain experts, conflict resolution, fostering credibility and creativity. Reflecting on our experience, we consider the practical issues related to undertaking facilitated CM such as the group size and composition, team roles and the facilitator and the organization of workshops. The ideas put forward could be useful to modellers interested in undertaking facilitated CM.
+ER  - 
+
+TY  - CONF
+TI  - Stimulating Research Skills in Undergraduate Computing Students: An Experience Report
+T2  - 2022 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - S. C. Dos Santos
+AU  - A. C. Carvalho
+AU  - G. Leite
+AU  - L. Brito
+AU  - A. Gouveia
+PY  - 2022
+KW  - Technological innovation
+KW  - Pandemics
+KW  - Computational modeling
+KW  - Laboratories
+KW  - Education
+KW  - Reflection
+KW  - Teamwork
+KW  - Computing Higher Education (CHE)
+KW  - Problem Based Learning
+KW  - PBL
+KW  - Computing Skills
+KW  - Research Skills
+DO  - 10.1109/FIE56618.2022.9962694
+JO  - 2022 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2022 IEEE Frontiers in Education Conference (FIE)
+Y1  - 8-11 Oct. 2022
+AB  - Research skills are directly related to studying a problem thoroughly, investigating possible solutions, critically analyzing how to solve them, discussing, testing possibilities collaboratively, and adapting or creating new solutions. An undergraduate computing student with these competencies needs to understand and use different research methods, have a business vision, investigate technological alternatives, understand innovation models and their viability and, above all, know how to solve a problem systematically and collaboratively. Considering that these competencies are essentials in computing professionals, the following research question was defined: "How to stimulate research skills of undergraduate computing students?". Regarding answering that question, this Research Full Paper describes the design and implementation of an exchange program in the Research Laboratories of a public university in 2018 and 2019, aiming to foster research skills in undergraduate computing students. These experiences showed real benefits regarding students' performance in research, development, and innovation activities, besides improvement points for better management and execution. As the main contribution, it is possible to highlight the proposal for an exchange model between research laboratories, in which undergraduate students in Computing participate in research activities conducted in the PBL modality, learning through complex problems resolution under continuous monitoring and feedback.
+ER  - 
+
+TY  - CONF
+TI  - Interactive Virtual Archaeology: Constructing the Prehistoric Past at Avebury Henge
+T2  - 2016 15th International Conference on Ubiquitous Computing and Communications and 2016 International Symposium on Cyberspace and Security (IUCC-CSS)
+SP  - 153
+EP  - 158
+AU  - L. Falconer
+PY  - 2016
+KW  - Image reconstruction
+KW  - Virtual environments
+KW  - History
+KW  - Three-dimensional displays
+KW  - Collaboration
+KW  - Cultural differences
+KW  - Computational modeling
+KW  - interaction
+KW  - virtual environments
+KW  - history
+KW  - heritage
+KW  - virtual archaeology
+KW  - Avebury
+DO  - 10.1109/IUCC-CSS.2016.029
+JO  - 2016 15th International Conference on Ubiquitous Computing and Communications and 2016 International Symposium on Cyberspace and Security (IUCC-CSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 15th International Conference on Ubiquitous Computing and Communications and 2016 International Symposium on Cyberspace and Security (IUCC-CSS)
+Y1  - 14-16 Dec. 2016
+AB  - Avebury Henge is situated approximately 20 miles north of Stonehenge in Wiltshire, U.K. and contains the largest known Neolithic stone circle in Europe. It is part of the Avebury, Stonehenge and Associated Sites World Heritage Site but is less well-known than Stonehenge, despite being an impressive monument with a ditch and bank system more than 400m in diameter. In the past 20 years or so many computer-based simulations of archaeological sites around the world have been created, but many of these digital reconstructions lack both the ability to enable personal presence of the user in the virtual landscape itself, and the facility for users to interact with others and the virtual environment around them in real time. The project described in this paper aims to research the issues of presence and interaction in virtually reconstructed ancient landscapes through a reconstruction of Avebury Henge in a virtual world environment, as it might have been circa 2,300 BCE. This paper describes and evaluates the construction phase of the project in a virtual world environment.
+ER  - 
+
+TY  - CONF
+TI  - Mini-Case Study Pedagogy: Experience from a Technical Course in an Information Systems Program
+T2  - 2018 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - V. Shankararaman
+AU  - S. Gottipati
+AU  - A. Megargel
+PY  - 2018
+KW  - Education
+KW  - Information systems
+KW  - Software engineering
+KW  - Computational modeling
+KW  - Task analysis
+KW  - Software tools
+KW  - Mini-Case
+KW  - Case Method
+KW  - Information Systems
+KW  - Pedagogy
+KW  - Enterprise Integration
+KW  - Technology Courses
+DO  - 10.1109/FIE.2018.8659161
+JO  - 2018 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2018 IEEE Frontiers in Education Conference (FIE)
+Y1  - 3-6 Oct. 2018
+AB  - This Innovate Practice full paper, describes our experience in using the mini-case pedagogy to design and deliver a technical course, “Enterprise Integration” which is a year two course in the Information Systems undergraduate program. Case method is one approach that has been widely adopted in teaching many professions including law, medicine and business. The general practice is to ask students to read the case, usually four to eight pages long, prior to the session, and then spend the whole session discussing the case. However, for technology courses, the students are required to learn concepts and apply them using hands-on software tools through lab sessions. Hence, rather than use long cases, that cover the entire session, we need to use mini-cases that are usually one to two pages long. This pedagogy approach allows the class session to be designed with tight integration across the concept presentation lecture, mini-case analysis and hands-on lab session. We share the pedagogy implementation details and challenges, and discuss our findings and lessons learnt in designing and implementing the mini-case pedagogy. Thus providing one pathway for Information Systems and Computer Science professors to, implement the mini-case pedagogy in “technology heavy” courses.
+ER  - 
+
+TY  - CONF
+TI  - Escape room in education: Evaluating using Experience Pyramid Model
+T2  - 2020 5th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)
+SP  - 1
+EP  - 8
+AU  - Z. Karageorgiou
+AU  - E. Mavrommati
+AU  - P. Fotaris
+AU  - E. Christopoulou
+PY  - 2020
+KW  - Learning systems
+KW  - Technological innovation
+KW  - Social networking (online)
+KW  - Computational modeling
+KW  - Space cooling
+KW  - Games
+KW  - Organizations
+KW  - escape room
+KW  - evaluation
+KW  - education
+KW  - Experience Pyramid Model
+KW  - STEAM
+DO  - 10.1109/SEEDA-CECNSM49515.2020.9221798
+JO  - 2020 5th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 5th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)
+Y1  - 25-27 Sept. 2020
+AB  - Escape Rooms in the school environment are excellent educational tools that promote communication, teamwork and peer learning. It is important, though to highlight their contribution in opening up schools to broader community. “La Casa de Papel” Escape room is a STEAM-focused live-action game that was implemented in a Vocational School of Greece. The present paper presents all the questions/statements from an online questionnaire, that was created based on the Experience Pyramid Model, and from an interview of a student who participated in every phase of the project. In advance it offers a quick view of the results that came out and helped the evaluation. It aims to provide educators and researchers with an example of how they might develop and support such evaluation methods when they develop escape room projects, and a database with statements and questions to employ.
+ER  - 
+
+TY  - JOUR
+TI  - Exploring the Impact of Social Communication on the Innovation Potential of Open Science Communities
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+SP  - 271
+EP  - 281
+AU  - G. Zou
+AU  - L. Yilmaz
+PY  - 2016
+KW  - Communities
+KW  - Technological innovation
+KW  - Communication networks
+KW  - Ecosystems
+KW  - Computational modeling
+KW  - Biological system modeling
+KW  - Cybernetics
+KW  - Agent-based model
+KW  - collective creativity
+KW  - communication theories
+KW  - creative artificial ecosystems
+KW  - Agent-based model
+KW  - collective creativity
+KW  - communication theories
+KW  - creative artificial ecosystems
+DO  - 10.1109/TSMC.2015.2455956
+JO  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+IS  - 2
+SN  - 2168-2232
+VO  - 46
+VL  - 46
+JA  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+Y1  - Feb. 2016
+AB  - As scientific communities become increasingly complex and interdisciplinary, implementing policies that foster collective creativity for science-based innovation emerges as a critical issue. In this paper, we investigate the impact of socio-communication strategies on innovation capacity based on experiments using a general-purpose model that aims to study dynamic processes of collective creativity in scientific communities. Experimental results indicate that low communication frequency, openness and receptivity lead to higher variety. On the contrary, variety decreases with increasing receptivity under high communication frequency. If more communication channels exist, the connectivity-driven preferential attachment strategy is beneficial in fostering innovation in terms of generated networks with low density and high centrality. Additionally, balance theory suggests higher levels of knowledge diffusion efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Overcoming Intelligently Some of the Drawbacks of Fuzzy Cognitive Maps
+T2  - 2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA)
+SP  - 1
+EP  - 6
+AU  - P. P. Groumpos
+PY  - 2018
+KW  - Fuzzy cognitive maps
+KW  - Mathematical model
+KW  - Robots
+KW  - Control systems
+KW  - Hebbian theory
+KW  - Computational modeling
+KW  - Task analysis
+KW  - modelling
+KW  - complex dynamic systems
+KW  - state space
+KW  - intelligent systems
+KW  - fuzzy cognitive maps
+KW  - drawbacks
+DO  - 10.1109/IISA.2018.8633622
+JO  - 2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA)
+Y1  - 23-25 July 2018
+AB  - Today's physical and human made systems have become more and more complex and dynamic. The concept of complex dynamic systems (CDS) arises in many scientific fields, technological areas and everyday's problems. Modelling and controlling complex dynamic systems is a very difficult and challenging task. Theories of Fuzzy Cognitive Maps have been proposed and mathematically formulated as a new way to model and control complex dynamic systems. FCM theories have been used successfully in many applications, they still present several limitations. These limitations as well as the increasing complexity of the systems dictate the need to reapproach Fuzzy Cognitive Maps to make them more efficient. Well-known drawbacks and limitations of FCM are described and certain solutions to overcome them are given in an integrated and unified way. The state space approach is used to address these drawbacks and the concepts of the FCM are categorized into fuzzy state concepts, input concepts and output concept. A number of solutions to the drawbacks are provided. A novel innovative approach been called, Advanced FCM theories is presented. Conclusions are given and future research directions are provided.
+ER  - 
+
+TY  - CONF
+TI  - Framing Foundational Taxonomy of Multimedia Tangibility in Education Setting for Children
+T2  - 2017 2nd International Conference on Multimedia and Image Processing (ICMIP)
+SP  - 309
+EP  - 314
+AU  - C. K. Tsong
+AU  - Z. Samsudin
+AU  - W. A. J. Wan Yahaya
+PY  - 2017
+KW  - Multimedia communication
+KW  - Taxonomy
+KW  - Media
+KW  - Concrete
+KW  - Streaming media
+KW  - Semantics
+KW  - Computational modeling
+KW  - tangibility
+KW  - tangible multimedia
+KW  - taxonomy
+KW  - preschoolers
+DO  - 10.1109/ICMIP.2017.21
+JO  - 2017 2nd International Conference on Multimedia and Image Processing (ICMIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 2nd International Conference on Multimedia and Image Processing (ICMIP)
+Y1  - 17-19 March 2017
+AB  - The paper describes a new foundational taxonomy of tangible multimedia, a genre of multimedia which deploys the use of tangible artefacts, based on Piagets theory of cognitive development. A taxonomy for setting tangibility in multimedia realm is required for grounding guideline stipulating the consistent way of using tangible artefacts within multimedia context. This paper begins discussion by looking into facets of tangibility dimension by way of literature review. The taxonomy suggests multimedia tangibility can be achieved at least on six facets, namely abdication, loose, naturalness, link semantics, cardinality, and comprehensive mapping facets. Discussion followed by elaboration of each of their associated functions. The paper is concluded with a brief description of a research results, which revealed the efficacy of tangible multimedia compliant with some of the facets of the taxonomy in elevating learners learning performance.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning with Explainability for Suicide Ideation Detection from Social Media Data
+T2  - 2023 10th International Conference on Behavioural and Social Computing (BESC)
+SP  - 1
+EP  - 6
+AU  - M. R. Islam
+AU  - M. Kowsar Hossain Sakib
+AU  - S. A. Prome
+AU  - X. Wang
+AU  - A. Ulhaq
+AU  - C. Sanin
+AU  - D. Asirvatham
+PY  - 2023
+KW  - Support vector machines
+KW  - Radio frequency
+KW  - Deep learning
+KW  - Social computing
+KW  - Social networking (online)
+KW  - Computational modeling
+KW  - Data models
+KW  - Suicide Ideation
+KW  - Mental Health
+KW  - Explainability
+KW  - Classification
+KW  - Deep Learning
+KW  - Explainable AI
+DO  - 10.1109/BESC59560.2023.10386773
+JO  - 2023 10th International Conference on Behavioural and Social Computing (BESC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 10th International Conference on Behavioural and Social Computing (BESC)
+Y1  - 30 Oct.-1 Nov. 2023
+AB  - Suicide is one of the major causes of death globally. Analysis of social media posts and in-depth insights show that some people have suicide ideas. In order to save more lives, it is crucial to comprehend the behavior of suicidal attempters. However, identifying and explaining suicidal thoughts poses a significant challenge in psychiatry. Additionally, analysing suicidal behavior is a complex procedure involving several variables based on the individual’s preferences and the data type. Although traditional methods have been utilized to identify clinical factors for suicide ideation detection (SID), these models often lack interpretability and understanding. Therefore, the primary aim of this research is to apply several deep learning (DL) and machine learning (ML) techniques such as BERT, LSTM, BiLSTM, RF, SVM, GaussianNB, LR, and KNeighbors blending with interpretable models such as LIME and SHAP to provide valuable insights into the importance of different features and make models more transparent in the SID process. The experiments were conducted on a publicly available dataset comprising 24,101 posts, categorized as either suicidal or non-suicidal. The implemented method brings about significant enhancements in performance in comparison. A comparison of all performance measures reveals that the LSTM model is particularly good at processing and classifying textual data, with higher accuracy, precision, recall, and AUC scores than the other models tested.
+ER  - 
+
+TY  - CONF
+TI  - Multimedia generation using neural network DeepDream
+T2  - 2023 International Conference on Advances in Electronics, Communication, Computing and Intelligent Information Systems (ICAECIS)
+SP  - 167
+EP  - 172
+AU  - K. C R
+AU  - K. Kumar Bhushan
+AU  - P. H. Anthony
+AU  - H. A. Jahagirdar
+AU  - A. Mahadore
+AU  - S. Mustafa
+PY  - 2023
+KW  - Deep learning
+KW  - Machine learning algorithms
+KW  - Computational modeling
+KW  - Neural networks
+KW  - Multimedia computing
+KW  - Telecommunication computing
+KW  - Multimedia communication
+KW  - Audio Convolutional neural network (CNN)
+KW  - Imagination
+KW  - Artificial intelligence (AI)
+KW  - Images
+KW  - semantic segmentation
+KW  - syntactic lexicon
+DO  - 10.1109/ICAECIS58353.2023.10170138
+JO  - 2023 International Conference on Advances in Electronics, Communication, Computing and Intelligent Information Systems (ICAECIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Advances in Electronics, Communication, Computing and Intelligent Information Systems (ICAECIS)
+Y1  - 19-21 April 2023
+AB  - The field of machine learning and artificial intelligence is growing rapidly. The deep neural network is a field of ML which is showing greater possibility. The deep neural network has been widely acknowledged as being in a golden age and advancing with the advent of new technologies. It is slowly becoming the leader of the technological world in artificial intelligence. The models which are built by machine learning algorithms with great accuracy help in every sector of human evolution. Image and audio processing is done through many algorithms to intensify its behavioral pattern. The development of modern art is largely dependent on the painters who are developing the style. The Deep Dream algorithm can also do the artistic creation of the image and audio. The deep dream algorithm which googles engineer Alexander Mordvintsevin built in the year 2015. It enhances the patterns in the multimedia through algorithmic pareidolia. It creates a dream-like effect. It gives a new vision of hallucinations to images. This could be used in the health sector for the purpose of detecting diseases and defects through scans of the patients. It is redefining lower-definition multimedia to higher-definition multimedia. Previous model were able to only generate one of the multimedia format. Proposed system will be able to create multimedia based on DeepDream and link different formats together so that they appear to be generated together.
+ER  - 
+
+TY  - CONF
+TI  - Fostering an Entrepreneurial mindset in “Digital Systems” class through a Producer-Customer model
+T2  - 2016 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - N. Tabrizi
+PY  - 2016
+KW  - Field programmable gate arrays
+KW  - Transmitters
+KW  - Digital systems
+KW  - Integrated circuit modeling
+KW  - Receivers
+KW  - Digital circuits
+KW  - Computational modeling
+KW  - Digital systems
+KW  - entrepreneurial mindset
+KW  - FPGA
+KW  - innovation in education
+KW  - KEEN
+KW  - VHDL
+KW  - producer-customer model
+DO  - 10.1109/FIE.2016.7757368
+JO  - 2016 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Frontiers in Education Conference (FIE)
+Y1  - 12-15 Oct. 2016
+AB  - We introduce a Producer-Customer model and use it to add an innovative portion to the “Digital Systems” course materials. In this work, we have developed and tested ten Intellectual Property (IP) cores, real products, which are either defective or improvable. A defective product does not function as it should. An improvable product works in accordance with its specification; however, it has potential for improvement. Two different directions are possible for improvements: performance or area. Students will work in the customer and then producer settings to diagnose and then resolve the issues, respectively. This work is an attempt to fulfill the Kern Entrepreneurial Engineering Network (KEEN) Students Outcomes, hence help instill an entrepreneurial mindset in engineering undergraduates. We have received encouraging evaluations for our innovative work from students.
+ER  - 
+
+TY  - CONF
+TI  - Voices on the Core of Computing
+T2  - 2018 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - S. T. Frezza
+AU  - A. Clear
+AU  - A. M. Vichare
+PY  - 2018
+KW  - Ontologies
+KW  - Mathematics
+KW  - Software engineering
+KW  - Computational modeling
+KW  - Computer science
+KW  - Information systems
+KW  - History
+KW  - Philosophy of Computing
+KW  - Philosophy of Engineering
+KW  - Computing Curricula
+KW  - Computer Science
+KW  - Software Engineering
+KW  - Information Systems
+KW  - CS+X
+DO  - 10.1109/FIE.2018.8658484
+JO  - 2018 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2018 IEEE Frontiers in Education Conference (FIE)
+Y1  - 3-6 Oct. 2018
+AB  - What is Computing? This simple question has been surprisingly difficult to answer, resulting in confusion about what constitutes the core of Computing. This is particularly relevant when we consider curricula for various subdisciplines of computing. Examining various issues and voices, this paper lays out an informed case for defining the landscape of computing. This work proposes a Disciplinary Boundary Model, in contrast to a socially-constructed approach for defining computing subdisciplines. This model can be used to describe the computing landscape by examining the underlying “invariant” activity of human inquiry, and suggest that it be used for defining the landscape for various computing curricula.
+ER  - 
+
+TY  - CONF
+TI  - Study TOUR for Computer Science Students
+T2  - 2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)
+SP  - 242
+EP  - 251
+AU  - H. C. B. Chan
+AU  - H. V. Leong
+AU  - G. Ngai
+PY  - 2019
+KW  - Computational modeling
+KW  - Companies
+KW  - Computer science
+KW  - Seminars
+KW  - Cultural differences
+KW  - Information technology
+KW  - study tour
+KW  - experiential learning
+KW  - self improvement
+DO  - 10.1109/COMPSAC.2019.00043
+JO  - 2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)
+IS  - 
+SN  - 0730-3157
+VO  - 1
+VL  - 1
+JA  - 2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)
+Y1  - 15-19 Jul 2019
+AB  - This paper presents a general framework of an innovative TOUR model with four interrelated elements: Transformation, Outreach, Unification and Reinforcement, enhancing the learning experiences of computer science/computing students via a study tour. We brought our students on an overseas trip as an integral part of an academic course. The immediate goal of the study tour was to gear the students toward the program learning outcomes. Another goal was to take a first step in supporting the TOUR model, to immerse students within these four interrelated important learning and self-improvement elements, and to support each student in becoming a better person. The study tour comprises six core learning activities aligned with the TOUR elements. Evaluations were conducted based on a student survey and self-reflection. The results provide valuable insights into the design of the computer science student study tour, as well as the potential value of the TOUR model.
+ER  - 
+
+TY  - CONF
+TI  - Fostering an entrepreneurial mindset in “computer architecture and organization” class through a producer-customer model
+T2  - 2017 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1843
+EP  - 1850
+AU  - N. Tabrizi
+PY  - 2017
+KW  - Registers
+KW  - Organizations
+KW  - Computer architecture
+KW  - Computational modeling
+KW  - Computers
+KW  - Field programmable gate arrays
+KW  - Hardware
+KW  - Computer Architecture and Organization
+KW  - entrepreneurial mindset
+KW  - FPGA
+KW  - hardware description language
+KW  - innovation in education
+KW  - KEEN
+KW  - producer-customer model
+DO  - 10.1109/EDUCON.2017.7943101
+JO  - 2017 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2017 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 25-28 April 2017
+AB  - We recently introduced a producer-customer model to fulfill the Kern Entrepreneurial Engineering Network (KEEN) Students Outcomes, hence help foster an entrepreneurial mindset in students. In this paper, we use our producer-customer model to craft and add innovative lab assignments to the “Computer Architecture and Organization” course. The new lab assignments are based on the six products or IP cores that we have developed. Each product is either defective or improvable. There are some discrepancies between the behavior of a defective product and its user guide; in other words, a defective product does not work as it should. The performance of an improvable product can be enhanced. Each team of students will first work as a customer to identify the defects or the improvable aspects of a product. They will then challenge another team, the producer, to resolve the issues. We have received encouraging anonymous feedback from students.
+ER  - 
+
+TY  - CONF
+TI  - Critical Radical Analysis Network for Chinese Character Recognition
+T2  - 2022 26th International Conference on Pattern Recognition (ICPR)
+SP  - 2878
+EP  - 2884
+AU  - G. -F. Luo
+AU  - H. -Y. Yin
+AU  - D. -H. Wang
+AU  - X. -Y. Zhang
+AU  - S. -Z. Zhu
+PY  - 2022
+KW  - Training
+KW  - Analytical models
+KW  - Uncertainty
+KW  - Dictionaries
+KW  - Target recognition
+KW  - Computational modeling
+KW  - Character recognition
+KW  - Zero-shot learning
+KW  - Chinese character recognition
+DO  - 10.1109/ICPR56361.2022.9956076
+JO  - 2022 26th International Conference on Pattern Recognition (ICPR)
+IS  - 
+SN  - 2831-7475
+VO  - 
+VL  - 
+JA  - 2022 26th International Conference on Pattern Recognition (ICPR)
+Y1  - 21-25 Aug. 2022
+AB  - Zero-shot learning is a challenging problem in many tasks due to the lack of training samples of the unseen classes. The radical-based zero-shot Chinese character recognition methods treat Chinese characters as a combination of radicals and structures, and recognize Chinese characters by identifying the radicals and structures contained in them. Current approaches generally treat the contribution of all radicals to Chinese character recognition as the same, and the recognition results rely on the network’s ability to recognize radicals and their corresponding position information, ignoring the potential value of radicals themselves in eliminating the uncertainty of Chinese characters. In this paper, we model the problem of radical-based Chinese character recognition as an uncertainty elimination problem and propose a Critical Radical Analysis Network (CRAN) to explore the Ideographic Description Sequence (IDS) information for zero-shot Chinese character recognition. Specifically, we propose a novel method to compute the critical values of radicals based on information theory using the predefined Chinese character IDS dictionary. In recognition, we use an iterative approach to translate the predicted radical sequence to target Chinese characters. That is, the radicals of the predicted sequence are sorted in descending order of the critical value, and then the radicals are continuously selected in this order as the information obtained to eliminate the uncertainty of the Chinese character until the character is recognized. We conduct experiments on the CTW, CASIA-AHCDB, and CASIA-HWDB datasets. The experimental results show that the proposed method improves the ability of recognizing unseen Chinese characters, demonstrating the effectiveness of the proposed method.
+ER  - 
+
+TY  - JOUR
+TI  - Games for Health in Transportation Systems
+T2  - IEEE Access
+SP  - 95529
+EP  - 95547
+AU  - C. Zhang
+AU  - Y. Sun
+AU  - H. Lu
+PY  - 2024
+KW  - Transportation
+KW  - Games
+KW  - Databases
+KW  - Stakeholders
+KW  - Computational modeling
+KW  - Bibliometrics
+KW  - Medical services
+KW  - Public healthcare
+KW  - Reviews
+KW  - Virtual environments
+KW  - Simulation
+KW  - Avatars
+KW  - Design improvement strategy
+KW  - participatory approach
+KW  - public health
+KW  - game for health
+KW  - transportation system
+DO  - 10.1109/ACCESS.2024.3426079
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - Transportation systems design might be supported by participatory approaches refining service design, user experiences, and safety research. The evaluation of mobility alternatives as design improvement strategies requires more advanced instructional techniques with new structures of complexity that can demonstrate, analyze, or compare system performances in order to achieve environmental sustainability in general and the well-being of the end-users in particular. As an emerging technology, games are capable of representing operations and management of passenger freight transportation and increase situational awareness of capacity bottlenecks. However, few research efforts have been devoted to the synthesis of the research progress. Based on the profiling methodology that has been previously employed in retrospect of healthcare simulations, this article presents a bibliometric review of games for health in transportation systems. The study carries out a literature analysis of the modelling methods to assemble gamified scenarios from a planning and managerial perspective. The Web of Science Core Collections are used to identify research items and investigate all the game-based studies in the cross-disciplinary research area of transportation and public health. The technology, game mechanism, and the health-related issue addressed are grouped into broad categories. The research findings are three-fold. (1) The majority of publications are classified into research efforts revolving around slow and road transportation modes. (2) Although scores, badges, and challenges are considered as the frequently seen gamification features, environmental simulation, avatars, and narratives appear as game mechanisms for the activation of the individual decision-making process. (3) Introducing system dynamics, human-computer interaction design, and a stakeholder accountability framework into the multi-stakeholder simulation setting leverages gaming outcomes with health benefits amid transportation system end-users. The literature study concludes with an integrated framework summarizing the best design practices between 2002 and 2022 on how the lessons learned from serious gameplay in virtual environments could translate into real mobility improvements. A selection of future research questions is curated to envisage new links between transportation and health research communities.
+ER  - 
+
+TY  - CONF
+TI  - How Do Firms Transact? Guesstimation and Validation of Financial Transaction Networks with Satisfiability
+T2  - 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI)
+SP  - 15
+EP  - 22
+AU  - C. Tsigkanos
+AU  - A. Arleo
+AU  - J. Sorger
+AU  - S. Dustdar
+PY  - 2019
+KW  - Biological system modeling
+KW  - Companies
+KW  - Computational modeling
+KW  - Data models
+KW  - Knowledge engineering
+KW  - Taxonomy
+KW  - Finance
+KW  - Satisfiability Modulo Theories
+KW  - Financial Transaction Networks
+KW  - Model Validation
+KW  - Information Reuse
+DO  - 10.1109/IRI.2019.00017
+JO  - 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI)
+Y1  - 30 July-1 Aug. 2019
+AB  - Knowledge of monetary flow between firms can give a significant advantage both from a profit or research point of view. So-called firm-to-firm transaction networks are valuable in analyzing a market or an economy. However, such detailed and complete data is seldom available. In this work, we aim at supporting economists by reusing available financial information from different sources at different levels of detail and completeness. With our technique, experts' domain knowledge can be fused together with publicly available information to extract a representative, coherent instance of the transaction network. Supporting underspecification is important, as experts may develop partial econometric models. Our technique fills such blanks by systematically guesstimating missing information. Our approach builds upon formal foundations of satisfiability modulo theories and thus obtained transaction networks respect constraints imposed by domain knowledge and input data sources. We outline a taxonomy of general data types in the domain, and we programmatically construct formal predicates describing them. We demonstrate both guestimation of missing information of a transaction network and validation of external, expert-provided models. Finally, we investigate feasibility and performance of the advocated technique over a fragment of the Austrian economy.
+ER  - 
+
+TY  - CONF
+TI  - Toward an agent based approach for decisional systems modeling
+T2  - 2010 International Conference for Internet Technology and Secured Transactions
+SP  - 1
+EP  - 8
+AU  - B. Abdelhaq
+AU  - E. F. Abdelaziz
+AU  - A. O. Abdallah
+AU  - I. Aomar
+PY  - 2010
+KW  - Computational modeling
+KW  - Lead
+KW  - Context
+KW  - Genetics
+KW  - Context modeling
+DO  - 
+JO  - 2010 International Conference for Internet Technology and Secured Transactions
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference for Internet Technology and Secured Transactions
+Y1  - 8-11 Nov. 2010
+AB  - Facing problems related to the information systems (IS) evolution and consequently decisional systems (DS), conceptual models must facilitate the organisational environment representing in which the (IS) may evolve and strategic objectives on which they must align so as to understand the imposed requirements for their development. Thus, changes have to accompany an alignment of (IS) and (DS) within optimising and strategic stakes of the company. As a solution, we suggest a multi-agent approach for the DS modelling. This approach is based on a referential framework to analyse the requirements of strategic alignment. The objective of this work is to give an overview of the DS concepts. In order to describe this central concept in the research on information systems, we will refer to all theoretical supports of these systems integrating the approach of situational decision and the question of the necessary architecture to implement these systems.
+ER  - 
+
+TY  - CONF
+TI  - ChatGPT – Technical Research Model, Capability Analysis, and Application Prospects
+T2  - 2024 IEEE 7th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)
+SP  - 787
+EP  - 796
+AU  - T. Wang
+AU  - Q. Zhu
+PY  - 2024
+KW  - Training
+KW  - Ethics
+KW  - Analytical models
+KW  - Technological innovation
+KW  - Computational modeling
+KW  - Computer architecture
+KW  - Reinforcement learning
+KW  - large language models
+KW  - natural language processing
+KW  - chatgpt
+KW  - reinforcement learning from human feedback
+KW  - transformer
+DO  - 10.1109/IAEAC59436.2024.10503756
+JO  - 2024 IEEE 7th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)
+IS  - 
+SN  - 2689-6621
+VO  - 7
+VL  - 7
+JA  - 2024 IEEE 7th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)
+Y1  - 15-17 March 2024
+AB  - ChatGPT is one of the most advanced research achievements in the field of natural language processing. In order to showcase the research technology and application value of the large language model ChatGPT, this article provides a comprehensive summary of its development history, research status, and key technologies. This paper focuses on key technologies such as large-scale corpus training, support for high computing power, the fundamental model architecture of the Transformer, and reinforcement learning from human feedback. Three types of features are analyzed: the ChatGPT model GPT-4 Turbo, custom ChatGPT, and the multimodal API. In light of the limitations of technology based on current deep neural networks, which rely on big data and extensive computing power, and the presence of illusory performance, several suggestions are being proposed. The revolutionary applications of ChatGPT in the fields of education, search engines, metaverse, and high-tech enterprises are summarized. Finally, the full text is summarized and prospected.
+ER  - 
+
+TY  - CONF
+TI  - Dance, Dance, Dance With My Hands: Third-Party Human Robot-Human Interactions
+T2  - 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+SP  - 1997
+EP  - 2002
+AU  - S. -S. Cîrcu
+AU  - B. Yun
+AU  - A. Kheddar
+AU  - C. -Y. Chen
+AU  - M. Croitoru
+PY  - 2023
+KW  - Humanities
+KW  - Art
+KW  - Protocols
+KW  - Shape
+KW  - Computational modeling
+KW  - Human-robot interaction
+KW  - Psychology
+DO  - 10.1109/RO-MAN57019.2023.10309353
+JO  - 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+Y1  - 28-31 Aug. 2023
+AB  - A robot can affect its social environment beyond the person who is interacting with it. Within this context, we believe it is important to explore Human-Robot Interactions (HRI) in complex social settings. We examine the effect of different robot shapes in a multi-person context during dance routines and observe how the design of the robot enhances the artistic process. We identify key factors through which human preferences are being shaped, within a novel third party setting human-robot-human interaction (HRHI).
+ER  - 
+
+TY  - CONF
+TI  - Development and Application of E-Learning Software Aimed at Enhancing Learners' Motivation
+T2  - 2024 13th International Conference on Educational and Information Technology (ICEIT)
+SP  - 117
+EP  - 123
+AU  - Z. Liu
+AU  - G. Xu
+AU  - S. Wang
+PY  - 2024
+KW  - Visualization
+KW  - Electronic learning
+KW  - Computational modeling
+KW  - Education
+KW  - Focusing
+KW  - Market research
+KW  - Software
+KW  - software development
+KW  - E-learning
+KW  - motivation
+KW  - C#
+KW  - E-learning software
+KW  - digital resources
+DO  - 10.1109/ICEIT61397.2024.10540721
+JO  - 2024 13th International Conference on Educational and Information Technology (ICEIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 13th International Conference on Educational and Information Technology (ICEIT)
+Y1  - 22-24 March 2024
+AB  - Dull and abstract mechanical concepts, along with cumbersome formulas, often pose challenges for students in mechanical course learning. We propose an innovative approach that combines modeling, numerical computation, and E-learning software development to enhance students' learning enthusiasm. Focusing on the teaching knowledge point of “polar moment of inertia”, we examine the automotive transmission axle as a specific research case. By constructing a finite element model and conducting numerical calculations, we generated vivid visualization materials, including Mises stress and displacement cloud images. Leveraging the C# programming language, we developed E-learning software that incorporates the calculus derivation processes for axle torsion deformation. The results of our teaching experiment demonstrate the effectiveness of this teaching innovation, with a 90.63 % acceptance rate. Visualization materials, such as Mises stress cloud images, facilitate students' understanding of abstract concepts, garnering an 89.06% acceptance rate. Moreover, the E-learning software significantly increased students' learning enthusiasm, with an 85.91 % acceptance rate. The adoption of modeling and simulation to create digital materials for mechanical education provides a robust foundation for E-learning software development and classroom application. Digitalization and E-learning software are poised to be vital trends in future educational development, with ample opportunities for further exploration by scholars in the field.
+ER  - 
+
+TY  - CONF
+TI  - Pivot in Early Stage Startups: Key Factors and It’s Impact
+T2  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+SP  - 1
+EP  - 9
+AU  - A. Banerjee
+AU  - D. Ghosh
+AU  - N. Ray
+AU  - T. Majumder
+AU  - M. Roy
+AU  - N. C. Roy
+PY  - 2024
+KW  - Uncertainty
+KW  - Quantum computing
+KW  - Correlation
+KW  - Computational modeling
+KW  - Focusing
+KW  - Entrepreneurship
+KW  - Market research
+KW  - Startup
+KW  - Pivot
+KW  - Startup Pivot
+KW  - Entrepreneurship
+KW  - Sustainability
+DO  - 10.1109/TQCEBT59414.2024.10545100
+JO  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+Y1  - 22-23 March 2024
+AB  - The study aims to explore the pivotal moments that arise in early-stage startups. Early-stage startups encounter various obstacles and uncertainties while maneuvering through the competitive business environment. These obstacles frequently necessitate pivots to guarantee success and sustainability of the startup . The objective of this research paper is to identify and analyze the diverse elements that contribute to the process of pivot in early stage startups [23]. The study examined pertinent literature regarding the subject and identified several crucial elements that contribute to pivoting in early-stage startups via primary data gathering. Additionally, it assessed the influence of these key factors on early-stage startups by analyzing their effects on growth, performance, and overall success. The results of this investigation will offer valuable perspectives for entrepreneurs, investors, and policymakers engaged in early-stage startups.
+ER  - 
+
+TY  - CONF
+TI  - Interactive Narrative Generation of Aesthetics of Violence in Films
+T2  - 2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)
+SP  - 657
+EP  - 662
+AU  - T. Ma
+AU  - H. Liu
+AU  - H. Yang
+PY  - 2020
+KW  - Computer science
+KW  - Weight measurement
+KW  - Films
+KW  - Computational modeling
+KW  - Entertainment industry
+KW  - Software reliability
+KW  - Indexes
+KW  - the aesthetics of violence
+KW  - paradox
+KW  - philosophy
+KW  - cinematic strategies
+KW  - interactive narrative
+DO  - 10.1109/QRS-C51114.2020.00111
+JO  - 2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)
+Y1  - 11-14 Dec. 2020
+AB  - The aesthetics of violence creates a visual-auditory spectacle in the films and a significant cultural ethos in the postmodern context. The combination of violence and aesthetics in the films creates a sense of paradox, subverting the audience's stereotypes about violence and evoking a new aesthetic experience physically and psychologically. To achieve such complicated aesthetic effects to a new level in the digital era, it is innovative to synthesise the literary theory, aesthetic criticism, cinematic strategies, procedural modelling and creative computation to produce more attractive and experimental stories in the film industry. Computer science facilitates the stylisation of violent films in a narrative, technical and artistic way. The paper will take Freudian psychoanalysis and Kantian aestheticism as the philosophical foundation, present an index system of evaluation and a model to compute the weight of violence and artistic beauty and further measure the effect of aesthetics conveyed by the violence. The application of the model will promote the creativity in the interactive narrative about the aesthetics of violence in films.
+ER  - 
+
+TY  - CONF
+TI  - An Analysis On the Research Orientations in Healthcare Simulation Modeling
+T2  - 2019 Spring Simulation Conference (SpringSim)
+SP  - 1
+EP  - 12
+AU  - J. Chen
+AU  - D. Chun
+AU  - M. D. Oliveira
+AU  - A. Fernandes
+PY  - 2019
+KW  - Stakeholders
+KW  - Analytical models
+KW  - Hospitals
+KW  - Computational modeling
+KW  - Context modeling
+KW  - Systematics
+KW  - simulation and modeling
+KW  - framework analysis
+KW  - research orientation
+KW  - pluralism
+KW  - healthcare
+DO  - 10.23919/SpringSim.2019.8732880
+JO  - 2019 Spring Simulation Conference (SpringSim)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Spring Simulation Conference (SpringSim)
+Y1  - 29 April-2 May 2019
+AB  - Research orientation is about for whom and by whom the research is conceptualized and conducted. A clear understanding of this often-overlooked concept is crucial for the healthcare modeling community, which is searching for better stakeholder engagement, value demonstration and quality assessment. To review and categorize this concept for modelers and evaluators, we used the Framework Method to examine 35 purposively sampled studies of agent-based and discrete-event simulation modeling in healthcare operation and policy. Four research orientations emerged in the sampled studies, ranging from academic, unilateral passive stakeholder, unilateral active stakeholder, and multilateral stakeholders. From one orientation to the next, studies engage more stakeholders in more research steps and entail distinct requirements for quality assessment. Our analysis highlights the complexity of healthcare for which the best approach to engage stakeholders, demonstrate value and assess quality depends upon the research orientation.
+ER  - 
+
+TY  - CONF
+TI  - Coders Assembly - Peer Assisted Learning Model for Freshman Programming Courses
+T2  - 2022 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1128
+EP  - 1134
+AU  - K. J. Shim
+AU  - S. Gottipati
+AU  - V. Shankararaman
+PY  - 2022
+KW  - Productivity
+KW  - Computational modeling
+KW  - Conferences
+KW  - Force
+KW  - Remuneration
+KW  - Engineering education
+KW  - Programming profession
+KW  - peer assisted learning
+KW  - peer learning
+KW  - computing
+KW  - programming
+DO  - 10.1109/EDUCON52537.2022.9766798
+JO  - 2022 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2022 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 28-31 March 2022
+AB  - Today, computing graduates see a bright outlook thanks to the high demand for skills driven by the increasing importance of technology as the main driving force behind business transformation. As technology continues to grow exponentially over recent years, computing graduates have some of the highest starting salaries in the market [20] [19]. Even though universities have increased production of computing degree graduates in recent years, it is insufficient to fill the jobs available in the market [14]. Therefore, going forward, the demand is likely to further increase. The continued demand for computing programs in universities has led to an increased intake size, thus straining faculty workloads. Universities must consider funneling more resources into computing programs to address faculty’s increasing workload. Past studies have shown that peer learning environments enable increased productivity for faculty and enhanced educational quality for students [27] [15]. In this article, we describe a peer assisted learning model for an introductory programming course — Coders Assembly — designed and driven by undergraduate students in a computing program. Our model centers on four key areas – process, people, content, and technology. We reflect on our experience of implementing this peer assisted learning model and the result of a student survey.
+ER  - 
+
+TY  - CONF
+TI  - Indian Handloom Exports to the US Market: A Centralized Platform-Based Business Model Framework Powered by AI
+T2  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+SP  - 564
+EP  - 570
+AU  - R. S. Bisht
+AU  - S. Jain
+AU  - N. Sharma
+AU  - D. Sahoo
+PY  - 2024
+KW  - Analytical models
+KW  - Computational modeling
+KW  - Manuals
+KW  - Market research
+KW  - Weaving
+KW  - Data models
+KW  - Artificial intelligence
+KW  - Sustainable Business Model
+KW  - Artificial Intelligence
+KW  - Exploratory Data Analysis
+KW  - Data Modelling & Tuning
+DO  - 10.1109/IC3SE62002.2024.10593304
+JO  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+Y1  - 9-11 May 2024
+AB  - Handloom sector in India has been there for decades and weaving has been the profession by tradition for many of the communities that have existed since a longtime. If we observe the past few years, we see that there is a decline in the handloom export and an increase in the workforce attrition in this sector. There are multiple reasons for this shift in the workforce from handloom sector to other sectors which are more promising in terms of better pay and relatively less manual labour. This paper tries to propose a new business model that is backed up by artificial intelligence and machine language algorithms that will help and enable to create a centralized platform for the weavers that can give them the direct access to the market insights, customer preferences, latest trends, customer feedback, and much more. The objective of this paper is to reduce the burden from the weaver who other-wise have no insights on the market demand or customer preferences, which creates a demand supply gap and discourages them from continuing the profession of weaving as it costs them huge in terms of investment be it money needed for the looms or the time, and energy spent behind the loom in weaving the handwoven products.
+ER  - 
+
+TY  - CONF
+TI  - Measure students motivation in activities practices via Discourse Collective Subject
+T2  - 2019 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - S. Devincenzi
+AU  - F. P. d. Tolêdo
+AU  - V. Kwecko
+AU  - F. P. Mota
+AU  - S. S. d. C. Botelho
+PY  - 2019
+KW  - Computational modeling
+KW  - Computer science
+KW  - Task analysis
+KW  - Collaboration
+KW  - Adaptation models
+KW  - Tools
+KW  - Software engineering
+KW  - Students Motivation
+KW  - Measure motivation
+KW  - learning process
+KW  - Problem Based Learning
+KW  - PBL
+KW  - Discourse Collective Subject
+KW  - DCS
+DO  - 10.1109/FIE43999.2019.9028392
+JO  - 2019 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2019 IEEE Frontiers in Education Conference (FIE)
+Y1  - 16-19 Oct. 2019
+AB  - This Research to Practice Full Paper describes an study with Problem Based Learning (PBL). PBL promotes knowledge through the motivational appeal that problematization arouses. However, there are still points to be explored and potentialized, with the use of technologies to achieve Motivation. Thus, in this study we seek to understand how students' motivation to learn can be affected by sending automatic motivational triggers (sounds, notifications, etc.) during the execution of activities, in order to stimulate certain behaviors, such as studying, doing the task, complete an activity. The methodology for the validation of the triggers was developed in two moments: (i) in 2017 with the participation of 60 students of the Software Engineering course; and (ii) in 2018 with 23 students of the second year of the Computer Engineering course. At the end of each of these studies, students' views were grouped by class and expressed through the construction of the Discourse Collective Subject (DCS). Thus, this study contributes to the discussion and presentation of the DCS as an approach capable of assisting teachers during the evaluation of the activities proposed in the classroom, mainly because it makes it possible to observe the opinion of a group as a single subject.
+ER  - 
+
+TY  - JOUR
+TI  - CRule: Category-Aware Symbolic Multihop Reasoning on Knowledge Graphs
+T2  - IEEE Intelligent Systems
+SP  - 56
+EP  - 64
+AU  - Z. Wang
+AU  - L. Li
+AU  - J. Li
+AU  - P. Zhao
+AU  - D. Zeng
+PY  - 2023
+KW  - Cognition
+KW  - Intelligent systems
+KW  - Spread spectrum communication
+KW  - Data mining
+KW  - Computational modeling
+KW  - Complexity theory
+KW  - Knowledge graphs
+DO  - 10.1109/MIS.2023.3291567
+JO  - IEEE Intelligent Systems
+IS  - 5
+SN  - 1941-1294
+VO  - 38
+VL  - 38
+JA  - IEEE Intelligent Systems
+Y1  - Sept.-Oct. 2023
+AB  - Multihop reasoning is essential in knowledge graph (KG) research and applications. Current methods rely on specific KG entities, while human cognition operates at a more abstract level. This article proposes a category-aware rule-based (CRule) approach for symbolic multihop reasoning. Specifically, given a KG, CRule first categorizes entities and constructs a category-aware KG; it then uses rules retrieved from the categorized KG to perform multihop reasoning on the original KG. Experiments on five datasets show that CRule is simple, is effective, and combines the advantages of symbolic and neural network methods. It overcomes symbolic reasoning’s complexity limitations, can perform reasoning on KGs of more than 300,000 edges, and can be three times more efficient than neural network models.
+ER  - 
+
+TY  - CONF
+TI  - A programmable flexible simulation environment for discrete many-body systems: VideoEasel
+T2  - 2009 International Conference on Intelligent Engineering Systems
+SP  - 95
+EP  - 100
+AU  - S. Jeschke
+AU  - O. Pfeiffer
+AU  - T. Richter
+PY  - 2009
+KW  - Laboratories
+KW  - Computational modeling
+KW  - Computer simulation
+KW  - Education
+KW  - Information technology
+KW  - Multimedia systems
+KW  - Educational programs
+KW  - Dynamic programming
+KW  - Instruments
+KW  - Particle measurements
+DO  - 10.1109/INES.2009.4924744
+JO  - 2009 International Conference on Intelligent Engineering Systems
+IS  - 
+SN  - 1543-9259
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Intelligent Engineering Systems
+Y1  - 16-18 April 2009
+AB  - A virtual laboratory providing a simulation framework for discrete many-body systems is presented. The dynamics of the system and instruments are defined by programs while measuring equipment is easily implemented, edited and linked at run-time within a particular programming language. The field of application ranges from discrete difference equations, classical physical many-body systems to image processing problems; the target group are students and scientists.
+ER  - 
+
+TY  - CONF
+TI  - Navigating the AI Landscape: A Comparative Study of Models, Applications, and Emerging Trends
+T2  - 2024 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)
+SP  - 1
+EP  - 8
+AU  - V. H. Muthazhagu
+AU  - B. Surendiran
+AU  - N. Arulmurugaselvi
+PY  - 2024
+KW  - Industries
+KW  - Ethics
+KW  - Reviews
+KW  - Navigation
+KW  - Computational modeling
+KW  - Biological system modeling
+KW  - Speech recognition
+KW  - Artificial Intelligence
+KW  - AI Models
+KW  - Comparative Analysis
+KW  - Applications
+KW  - Future Trends
+DO  - 10.1109/IConSCEPT61884.2024.10627914
+JO  - 2024 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)
+Y1  - 4-5 July 2024
+AB  - In today's technology world, Artificial Intelligence (AI) has grown omnipresent, transforming industries and affecting many facets of our everyday lives. Given the abundance of AI models in many categories, it is critical to comprehend their advantages, disadvantages, and uses in order to make well-informed decisions and progress the field. NLP, Computer Vision, Speech Recognition, Robotics, Machine Learning (ML) algorithms, Deep Learning models, Reinforcement Learning, Generative Adversarial Networks (GANs), Expert Systems, Au- tonomous Vehicles, Recommendation Systems, and Predictive Analytics are just a few of the categories that this paper compares and reviews in depth. We assess each model's performance, scalability, and appropriateness for various applications through a methodical examination. By combining extant research with practical examples, we illustrate the state of AI technologies now and offer predictions for their future development. The goal of this assessment is to help experts in the industry, researchers, and practitioners navigate the intricate AI ecosystem and realize AI's full potential for the good of society.
+ER  - 
+
+TY  - CONF
+TI  - The Influence on Mobile Learning: Mobile Learning Contents, Higher Education Institutes, and Communication Technology
+T2  - 2020 2nd International Conference on Advancements in Computing (ICAC)
+SP  - 7
+EP  - 12
+AU  - D. D. M. Dolawattha
+AU  - S. Premadasa
+AU  - P. M. Jayaweera
+PY  - 2020
+KW  - Learning systems
+KW  - Computational modeling
+KW  - Bibliographies
+KW  - Education
+KW  - Communications technology
+KW  - Mobile applications
+KW  - Object recognition
+KW  - Mobile learning
+KW  - Higher education
+KW  - Mobile base teaching
+KW  - Teacher perspectives
+KW  - Learner perspectives
+DO  - 10.1109/ICAC51239.2020.9357139
+JO  - 2020 2nd International Conference on Advancements in Computing (ICAC)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2020 2nd International Conference on Advancements in Computing (ICAC)
+Y1  - 10-11 Dec. 2020
+AB  - In the present era, mobile learning has secured a better position in modern technology base learning paradigms. It surpasses other conventional learning methods because of ubiquity, mobility, attractive content, facilitated connectivity, and institutional engagements. The main objective of this study is to identify how mobile learning content, higher education institute, and communication technology factors influence learners and teachers when using sustainable mobile learning in higher education. Through the literature review, we developed three separate impact models i.e. mobile learning content, higher education institute, and communication technology with separate impact factors. We used pre and post usage survey questionnaires of 60 teachers and 60 learners to evaluate these models. Primarily, they were asked to fill the pre-usage questionnaire with their initial mobile learning experience. Then, they were allowed to use the modified Moodle mobile app and asked to fill the post-usage questionnaire. The results reveal that the most significant influencing factors are, ease of use in mobile learning content, and facilitating conditions for higher education institutes and communication technology models. Finally, we can conclude that users prefer to have easy to use mobile learning content with better service facilities in higher education institutes and communication technologies.
+ER  - 
+
+TY  - CONF
+TI  - Embracing Uncertainty and Approximations for Intelligent Problem-Solving with Soft Computing
+T2  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+SP  - 1
+EP  - 6
+AU  - A. Dodamani
+AU  - M. A. Sultan Ghori
+AU  - J. D. Patel
+AU  - S. K. R
+AU  - D. Dharamvir
+AU  - N. Kumar
+PY  - 2024
+KW  - Fuzzy logic
+KW  - Uncertainty
+KW  - Quantum computing
+KW  - Computational modeling
+KW  - Medical treatment
+KW  - Organizations
+KW  - Market research
+KW  - Soft Computing
+KW  - Intelligent Problem-solving
+KW  - Uncertainty
+KW  - Fuzzy Logic
+KW  - Algorithms
+DO  - 10.1109/TQCEBT59414.2024.10545184
+JO  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+Y1  - 22-23 March 2024
+AB  - Unlike traditional computing, soft computing solves difficult real-world problems and works with approximation models. Soft computing is more forgiving of approximations, ambiguity, partial truth, and imprecision than hard computing. The human mind is, in a sense, the ideal model for soft computing. Techniques like fuzzy logic, machine learning, genetic algorithms, expert systems, and artificial neural networks are the foundation of soft computing. Even though soft computing theory and methods were initially presented in the 1980s, automatic control engineering currently uses them as a major area of research and study. Soft computing techniques are currently being successfully applied in a wide range of commercial, industrial, and household applications. Soft computing techniques and application areas are expected to grow further with the introduction of low-cost, outstanding-performance digital processing units and the falling cost of memory chips. The purpose of this paper is to discuss embracing uncertainties and approximation for intelligent problem-solving with the help of soft computing. First, the study has discussed various soft computing systems. Moreover, the concept of fuzzy logic has been illustrated along with a description of its applications. In terms of research methodology, this research paper has followed a qualitative research approach by gathering knowledge based on reviewing a wide range of different studies regarding the research topic. According to the findings of this research, as computer processing units get cheaper and more powerful, intelligent systems and soft computing techniques become more significant. Complex algorithms must be used by intelligent systems to make difficult judgments and select the optimal solution from a range of options.
+ER  - 
+
+TY  - CONF
+TI  - Matrix-based multi-hierarchy fault tree generation and evaluation
+T2  - 2016 Annual IEEE Systems Conference (SysCon)
+SP  - 1
+EP  - 7
+AU  - M. Roth
+AU  - C. von Beetzen
+AU  - U. Lindemann
+PY  - 2016
+KW  - Fault trees
+KW  - Safety
+KW  - Manuals
+KW  - Adaptation models
+KW  - Computational modeling
+KW  - Complexity theory
+KW  - fault tree analysis
+KW  - design structure matrix
+KW  - hierarchical decomposition
+KW  - safety
+DO  - 10.1109/SYSCON.2016.7490535
+JO  - 2016 Annual IEEE Systems Conference (SysCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 Annual IEEE Systems Conference (SysCon)
+Y1  - 18-21 April 2016
+AB  - Due to increasing product complexity, variance and stricter safety regulations there is a need to improve safety analyses and to shift safety considerations to early stages of design. The fault tree analysis is one traditional method applied to safety analyses. Its major limitations are that it requires detailed system knowledge and involves high manual efforts. To shift it to the early stages it is necessary to improve efficiency and to cope with abstract concepts. This paper therefore, improves a matrix-based approach to automatically generate fault trees to solve the named challenges. It extends it by integrating multi-hierarchy models and enabling the automated generation of AND-gates. By that, it provides a preliminary FTA tailored to the phase of system design. It identifies critical system elements and allows the comparison of alternative concepts.
+ER  - 
+
+TY  - CONF
+TI  - Computer simulation at school scratch and programming language choosing criteria
+T2  - 2014 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 727
+EP  - 732
+AU  - V. O. Dzhenzher
+PY  - 2014
+KW  - Programming profession
+KW  - Educational institutions
+KW  - Computer languages
+KW  - Computational modeling
+KW  - Games
+DO  - 10.1109/EDUCON.2014.6826174
+JO  - 2014 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2014 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 3-5 April 2014
+AB  - Scratch is an excellent choice for schools. It can be used as a first language, and even as the main programming language. At the same time, Scratch is a magnificent environment for modeling and creative work [6-8, 12]. Despite its apparent simplicity and “toy-like” features, Scratch is based on the most advanced concepts of programming and prepares young programmers to use new technologies in the future.
+ER  - 
+
+TY  - JOUR
+TI  - Factors Influencing the Acquisition of Soft Skills in a Collaborative Learning Environment Supported by Game-Based Application
+T2  - IEEE Access
+SP  - 111045
+EP  - 111059
+AU  - J. A. Medina-Merodio
+AU  - A. Castillo-Martinez
+AU  - R. Barchino
+AU  - R. Estriegana
+AU  - R. Robina-Ramírez
+PY  - 2024
+KW  - Games
+KW  - Education
+KW  - Training
+KW  - Federated learning
+KW  - Mathematical models
+KW  - Computer science
+KW  - Computational modeling
+KW  - Behavioral sciences
+KW  - Equations
+KW  - Game-based learning apps
+KW  - competences
+KW  - soft skills
+KW  - motivation learning
+KW  - behavior change
+KW  - collaborative learning
+KW  - structural equation modeling
+DO  - 10.1109/ACCESS.2024.3441317
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - There is a growing search for methodologies and tools that foster student motivation and learning. This experimental study aims to examine students’ acceptance and attitude towards the use of game-based applications, as well as analyze how game-based learning impacts the acquisition and development of basic competences. To this end, online questionnaire responses from 135 undergraduate computer science students were analyzed using Structural Equation Modeling (SEM). The results indicate that students perceive these tools as useful and easy to use, thus exerting a positive influence on learning motivation and behavior change towards the implementation of game-based learning. Furthermore, the crucial role of game-based learning strategies in the development of formative collaborative learning is emphasized, as well as their positive influence on the acquisition of essential soft skills for the comprehensive training of computer science students. The conclusions underscore the importance of considering the GBL approach as a valuable educational strategy to motivate and enhance learning and develop fundamental skills in students.
+ER  - 
+
+TY  - CONF
+TI  - Mind Artist: Creating Artistic Snapshots with Human Thought
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 27197
+EP  - 27207
+AU  - J. Chen
+AU  - Y. Qi
+AU  - Y. Wang
+AU  - G. Pan
+PY  - 2024
+KW  - Visualization
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Computational modeling
+KW  - Semantics
+KW  - Linguistics
+KW  - Decoding
+KW  - Neural decoding
+KW  - Representation learning
+KW  - Multimodal learning
+DO  - 10.1109/CVPR52733.2024.02569
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+AB  - We introduce Mind Artist (MindArt), a novel and efficient neural decoding architecture to snap artistic photographs from our mind in a controllable manner. Recently, progress has been made in image reconstruction with non-invasive brain recordings, but it's still difficult to generate realistic images with high semantic fidelity due to the scarcity of data annotations. Unlike previous methods, this work casts the neural decoding into optimal transport (OT) and representation decoupling problems. Specifically, under discrete OT theory, we design a graph matching-guided neural representation learning framework to seek the underlying correspondences between conceptual semantics and neural signals, which yields a natural and meaningful self-supervisory task. Moreover, the proposed MindArt, structured with multiple stand-alone modal branches, enables the seamless incorporation of semantic representation into any visual style information, thus leaving it to have multi-modal reconstruction and training-free semantic editing capabilities. By doing so, the reconstructed images of MindArt have phenomenal realism both in terms of semantics and appearance. We compare our MindArt with leading alternatives, and achieve SOTA performance in different decoding tasks. Importantly, our approach can directly generate a series of stylized “mind snapshots” w/o extra optimizations, which may open up more potential applications. Code is available at https://github.com/JxuanC/MindArt.
+ER  - 
+
+TY  - CONF
+TI  - Brush2Prompt: Contextual Prompt Generator for Object Inpainting
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 12636
+EP  - 12645
+AU  - M. T. Chiu
+AU  - Y. Zhou
+AU  - L. Zhang
+AU  - Z. Lin
+AU  - C. Barnes
+AU  - S. Amirghodsi
+AU  - E. Shechtman
+AU  - H. Shi
+PY  - 2024
+KW  - Training
+KW  - Adaptation models
+KW  - Visualization
+KW  - Accuracy
+KW  - Shape
+KW  - Computational modeling
+KW  - Predictive models
+KW  - Application
+KW  - Prompt
+KW  - Inpainting
+KW  - Generative model
+DO  - 10.1109/CVPR52733.2024.01201
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+AB  - Object inpainting is a task that involves adding objects to real images and seamlessly compositing them. With the recent commercialization of products like Stable Diffusion and Generative Fill, inserting objects into images by using prompts has achieved impressive visual results. In this paper, we propose a prompt suggestion model to simplify the process of prompt input. When the user provides an image and a mask, our model predicts suitable prompts based on the partial contextual information in the masked image, and the shape and location of the mask. Specifically, we introduce a concept-diffusion in the CLIP space that predicts CLIP-text embeddings from a masked image. These diffused embeddings can be directly injected into open-source in-painting models like Stable Diffusion and its variants. Alternatively, they can be decoded into natural language for use in other publicly available applications such as Generative Fill. Our prompt suggestion model demonstrates a balanced accuracy and diversity, showing its capability to be both contextually aware and creatively adaptive.
+ER  - 
+
+TY  - CONF
+TI  - Does ChatGPT Spell the End of Automatic Question Generation Research?
+T2  - 2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)
+SP  - 1
+EP  - 6
+AU  - M. Singh
+AU  - C. Patvardhan
+AU  - C. V. Lakshmi
+PY  - 2023
+KW  - Measurement
+KW  - Computational modeling
+KW  - Taxonomy
+KW  - Manuals
+KW  - Syntactics
+KW  - Chatbots
+KW  - Cognition
+KW  - ChatGPT
+KW  - Transformer-based model
+KW  - Neural-based model
+KW  - Natural Language Processing
+KW  - Machine Learning
+DO  - 10.1109/CVMI59935.2023.10464618
+JO  - 2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)
+Y1  - 10-11 Dec. 2023
+AB  - We explore the potential of utilizing ChatGPT to automatically generate educational assessment questions. Despite the growing promise of ChatGPT across various natural language tasks, including question generation, there exists a challenge of producing content that is both reliable and desirable. This issue becomes particularly crucial in educational assessments, where the quality of the generated content and its alignment with the assessed material are paramount. This research examines questions produced by ChatGPT, focusing on their alignment with different levels of Bloom's Taxonomy and their overall fluency and coherence. To assess the quality of the generated questions, we establish several scenarios for generation and subsequently evaluate the questions using both automated metrics and manual examination. Our empirical analysis shows that ChatGPT tends to produce high-quality questions; however, these questions predominantly fall within the categories of Remember, Understand, and Apply in Bloom's Taxonomy. It exhibits limited capacity for generating questions that require higher-order reasoning. Further enhancements are therefore necessary to enhance the question quality of this model, particularly with regard to the diversity of question types based on Bloom's Taxonomy. This improvement is crucial to ensure the suitability of the generated questions for effective classroom assessments.
+ER  - 
+
+TY  - CONF
+TI  - Representative Paths Analysis
+T2  - SC17: International Conference for High Performance Computing, Networking, Storage and Analysis
+SP  - 1
+EP  - 12
+AU  - N. R. Tallent
+AU  - D. J. Kerbyson
+AU  - A. Hoisie
+PY  - 2017
+KW  - Sequential analysis
+KW  - Costs
+KW  - Heuristic algorithms
+KW  - High performance computing
+KW  - Computational modeling
+KW  - Programming
+KW  - Dynamic programming
+DO  - 
+JO  - SC17: International Conference for High Performance Computing, Networking, Storage and Analysis
+IS  - 
+SN  - 2167-4337
+VO  - 
+VL  - 
+JA  - SC17: International Conference for High Performance Computing, Networking, Storage and Analysis
+Y1  - 12-17 Nov. 2017
+AB  - Representative paths analysis generalizes and improves MPI critical path analysis. To improve diagnostic insight, we sample the distribution of program path costs and retain k representative paths. We describe scalable algorithms to collect representative paths and path profiles. To collect full paths efficiently, we introduce path pruning that reduces permanent space requirements from a trace (proportional to ranks and MPI events) to path length (the minimum). To make space requirements independent of ranks and events – even a small constant in practice – we profile program paths. Avoiding the limitations of prior path profiling approaches, we dynamically discover tasks and attribute costs in high resolution. We evaluate our algorithms on seven applications scaled up to 7000 MPI ranks. Full program paths use as little as 0.01% the permanent space of current methods; profiles require a nearly constant 100–1000KB. Execution overhead is under 5% when synchronization intervals are sufficiently large (a few milliseconds).
+ER  - 
+
+TY  - CONF
+TI  - Discovering Disease Patterns Using the Supervised Topic Model
+T2  - 2018 15th International Conference on Service Systems and Service Management (ICSSSM)
+SP  - 1
+EP  - 6
+AU  - S. Li
+AU  - J. Wang
+AU  - Y. Wang
+PY  - 2018
+KW  - Medical diagnostic imaging
+KW  - Diseases
+KW  - Data mining
+KW  - Data models
+KW  - Computational modeling
+KW  - Predictive models
+DO  - 10.1109/ICSSSM.2018.8465101
+JO  - 2018 15th International Conference on Service Systems and Service Management (ICSSSM)
+IS  - 
+SN  - 2161-1904
+VO  - 
+VL  - 
+JA  - 2018 15th International Conference on Service Systems and Service Management (ICSSSM)
+Y1  - 21-22 July 2018
+AB  - In this paper, we explore the methods of medical data mining. The medical data usually have some unique characteristics such as sparseness, highly correlated features and unbalanced sample categories. After researching the models commonly used in current medical data mining, we use the topic-based model for medical data mining. We build a supervised topic model (the SLDA model) and use Gibbs sampling to estimate parameters. From the results of the model, we can find some important relationships among features in our medical data. Finally, the SLDA model was combined with a Random Forest classifier, which gets good predictive performance in disease prediction.
+ER  - 
+
+TY  - CONF
+TI  - Challenging the Confirmation Bias: Using ChatGPT as a Virtual Peer for Peer Instruction in Computer Programming Education
+T2  - 2023 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 7
+AU  - O. L. Dos Santos
+AU  - D. Cury
+PY  - 2023
+KW  - Codes
+KW  - Computational modeling
+KW  - Education
+KW  - Learning (artificial intelligence)
+KW  - Chatbots
+KW  - Encoding
+KW  - Data models
+KW  - peer instruction
+KW  - pair programming
+KW  - artificial intelligence
+KW  - chatgpt
+DO  - 10.1109/FIE58773.2023.10343247
+JO  - 2023 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2023 IEEE Frontiers in Education Conference (FIE)
+Y1  - 18-21 Oct. 2023
+AB  - This paper proposes the implementation of Chat-GPT, a large language model, as a virtual peer for peer instruction in computer programming courses. The authors argue that AI tools, including ChatGPT, can bring benefits such as personalized learning, instant feedback, and active engagement to the classroom. An experiment was conducted with two groups of programming students: one receiving traditional instruction and the other utilizing the ChatGPT-based peer instruction model. Both groups were given the same programming assignments and assessments. The results indicated that the ChatGPT group outperformed the traditionally instructed group, demonstrating better programming skills and a deeper understanding of concepts. The ChatGPT group also reported higher engagement and satisfaction. However, some difficulties were observed when using ChatGPT for more abstract problems. Overall, the study highlights the effectiveness of using ChatGPT as a virtual peer to enhance active learning and student outcomes in computer programming courses, challenging biases regarding AI's potential benefits in education. The authors hope this study encourages educators to embrace AI tools in the classroom and overcome confirmation biases about their impact.
+ER  - 
+
+TY  - CONF
+TI  - MORPHO-Map: A new way to model animation of topological transformations
+T2  - 2014 International Conference on Computer Graphics Theory and Applications (GRAPP)
+SP  - 1
+EP  - 13
+AU  - A. Luciani
+AU  - A. Allaoui
+AU  - N. Castagné
+AU  - E. Darles
+AU  - X. Skapin
+AU  - P. Meseure
+PY  - 2014
+KW  - Animation
+KW  - Computational modeling
+KW  - Deformable models
+KW  - Solid modeling
+KW  - Shape
+KW  - Adaptation models
+KW  - Topology
+KW  - Computer Animation
+KW  - Topological Transformations
+KW  - Particle-based Animation
+KW  - Combinatorial Maps
+KW  - Fractures
+DO  - 
+JO  - 2014 International Conference on Computer Graphics Theory and Applications (GRAPP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Computer Graphics Theory and Applications (GRAPP)
+Y1  - 5-8 Jan. 2014
+AB  - Animation of topological transformations, such as fractures, cracks, tears, crumbles or fragmentations, is a new challenge in Computer Graphics and Animation. We propose a new way to model and animate topological changes, allowing the programmer to design any type of topological changes and animation mapping. This model is based on organizing the complex modeling activity into three clearly defined simpler sub-activities: 1) point-based animation, which enables a wide variety of possible temporal phenomena; 2) topological-based modeling, which makes it possible to manage a wide variety of shape-independent topologies and topological transformations; 3) free, non predetermined, association between both, and 4) final output of an animated geometrical model exhibiting any complex behavior. We experimented the proposed method by modeling tearing effects on deformable garments, on rifts and crack effects on 3D objects, and finally by modeling imaginary and paradoxical topological transformations associated with realistic Physics-based animation. Besides improving the consistency and the robustness of the modeling process of such complex phenomena, our aim is also to offer a user-centered programming environment to the Computer Graphics and Animation programmers and designers, to enlarge their modeling and experimentation abilities, and to stimulate their creativity.
+ER  - 
+
+TY  - CONF
+TI  - Computer Application Utilization Based on Creative Problem Solving Model in Calculus Learning Implementation
+T2  - 2019 1st International Conference on Cybernetics and Intelligent System (ICORIS)
+SP  - 79
+EP  - 84
+AU  - G. A. D. Sugiharni
+PY  - 2019
+KW  - Problem-solving
+KW  - Calculus
+KW  - Computer applications
+KW  - Computational modeling
+KW  - Media
+KW  - Interviews
+KW  - Education
+KW  - creative problem solving
+KW  - calculus learning
+DO  - 10.1109/ICORIS.2019.8874874
+JO  - 2019 1st International Conference on Cybernetics and Intelligent System (ICORIS)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2019 1st International Conference on Cybernetics and Intelligent System (ICORIS)
+Y1  - 22-23 Aug. 2019
+AB  - This study aimed to describe computer application utilization based on the creative problem-solving model in calculus learning implementation. This research methodology was in the form of a literature study to find out the utilization magnitude of computer applications based on the creative problem-solving model in implementing calculus learning at STIKOM Bali. The subjects in this study were students involved in calculus learning at STIKOM Bali, while those who were the object of research were STIKOM Bali lecturers who taught Calculus subject. The sampling technique that was used by researchers was purposive sampling. Researchers used data collection techniques by using observation, interviews, literature studies, and documentation. The results of observations and interviews showed the design of computer application utilization based on the creative problem-solving model in calculus learning implementing had met the criteria of education, application display that support and technical quality well. So students were able to act systematically following the stages of problem-solving when the execution of its utilization.
+ER  - 
+
+TY  - CONF
+TI  - Towards an emergent model of emotions
+T2  - 2011 6th International Conference on Industrial and Information Systems
+SP  - 364
+EP  - 369
+AU  - S. N. Nallaperuma
+AU  - A. S. Karunananda
+PY  - 2011
+KW  - Mood
+KW  - Artificial intelligence
+KW  - Humans
+KW  - Computational modeling
+KW  - Adaptation models
+KW  - History
+KW  - Cognition
+KW  - complex systems
+KW  - emotion
+KW  - human level AI
+KW  - man-machine interactions
+KW  - multi agent systems
+DO  - 10.1109/ICIINFS.2011.6038095
+JO  - 2011 6th International Conference on Industrial and Information Systems
+IS  - 
+SN  - 2164-7011
+VO  - 
+VL  - 
+JA  - 2011 6th International Conference on Industrial and Information Systems
+Y1  - 16-19 Aug. 2011
+AB  - Various attempts have been made throughout the history of artificial intelligence (AI) to incorporate emotional support in intelligent systems. Still some paths are left untraveled. This paper presents an attempt to model emotions as a complex system based on the hypothesis that mind state can be considered as an emergent phenomena resulting from autonomous, interactive, elementary entities called emotions. Inspiration for our approach is found in Buddhist philosophical concepts about thought formation by combination of emotions. Multi Agent Systems (MAS) technology has been used for the realization of above emotional model because interactions and emergence are intrinsic features of MAS. Capabilities of the model are exposed through a virtual agent application called EME who perceives, understands, uses and expresses emotions. Evaluation of the agent implementation has shown good results in achieving emotional intelligence with enhanced quality.
+ER  - 
+
+TY  - CONF
+TI  - Student Assessment in PBL-Based Teaching Computing: Proposals and Results
+T2  - 2021 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - G. B. Lopes
+AU  - S. C. dos Santos
+PY  - 2021
+KW  - Systematics
+KW  - Computational modeling
+KW  - Education
+KW  - Proposals
+KW  - Problem-solving
+KW  - Object recognition
+KW  - Usability
+KW  - Computing Education
+KW  - Problem-Based Learning
+KW  - PBL
+KW  - Student Assessment
+DO  - 10.1109/FIE49875.2021.9637056
+JO  - 2021 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2021 IEEE Frontiers in Education Conference (FIE)
+Y1  - 13-16 Oct. 2021
+AB  - This Research Full Paper presents an overview of student assessment proposals for Problem-Based Learning (PBL) in Computing Education. Computing teaching has many challenges, as it requires different skills from students, often subjective and difficult to assess. In fact, technical knowledge alone is not enough to fully understand what is being taught, but the interpretive and logical skills to deal with practical problems and non-technical skills such as group work, creativity, critical vision, ability to cooperate and communicate. Active learning methodologies as Problem-Based Learning (PBL) have been used to dealing with such challenges, broadly developing technical and non-techniques skills in students. However, despite the benefits of PBL, the student assessment process is one of the points that present its own adversities and, therefore, an aspect that deserves greater attention. To better understand the nuances of this process and how it can contributes to the teaching and learning process based on PBL, this study aimed to investigate primary studies in the last two decades, seeking answers to the following research questions: RQ1) What assessment models are being used?; RQ2) Which aspects are evaluated?; RQ3) What criteria and media have been defined?; RQ4) Who gets involved in the assessment process?; RQ5) What is the ideal frequency to conduct the evaluations?; RQ6) What can these models reveal? As a research method, this study used the Systematic Literature Review method proposed by Kitchenham. As main conclusions, it was possible to identify that: generally, computing education based on PBL occurs at the undergraduate level, having as main educational objective the teaching of technical content; in practice, the need for a diverse teaching team is not reflected, the traditional student-teacher remains; to evaluate students, it is necessary to consider several aspects, technical and non-technical, defining specific criteria for each one of them; the main benefits for students are related to changes in behavior, development of soft skills and better absorption of technical knowledge; as main challenges for students, the difficulty to understand the nuances of the proposed problem and to be the main responsible for devising a solution for it without the figure of a teacher to give a clear definition of how to do it stands out.
+ER  - 
+
+TY  - CONF
+TI  - Retrospective: A Look Back at 20+ Years of Experience in Parallel Computing Education
+T2  - 2020 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+SP  - 252
+EP  - 260
+AU  - J. C. Adams
+PY  - 2020
+KW  - Parallel processing
+KW  - Conferences
+KW  - Education
+KW  - Workstations
+KW  - Computational modeling
+KW  - History
+KW  - Software
+KW  - beowulf
+KW  - cluster
+KW  - computer science
+KW  - education
+KW  - high performance
+KW  - history
+KW  - multicore
+KW  - parallel
+KW  - software
+KW  - supercomputing
+DO  - 10.1109/IPDPSW50202.2020.00056
+JO  - 2020 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+Y1  - 18-22 May 2020
+AB  - The author has been teaching parallel computing since the late 1990s. This paper provides a brief history of some of the key experiences in his journey as a parallel computing educator, including formative faculty development workshops, technology shifts, NSF-sponsored projects, and courses taught. By reading this history, the reader may see how much has changed over the past two decades, and so gain insight into how to prepare for changes to parallel computing education in the future.
+ER  - 
+
+TY  - CONF
+TI  - A hybrid genetic algorithm for group formation at workplace
+T2  - 2015 IEEE Congress on Evolutionary Computation (CEC)
+SP  - 3287
+EP  - 3295
+AU  - S. S. Caetano
+AU  - D. J. Ferreira
+AU  - C. G. Camilo
+AU  - M. R. Diedrich Ullmann
+PY  - 2015
+KW  - Genetic algorithms
+KW  - Organizations
+KW  - Taxonomy
+KW  - Mathematical model
+KW  - Cities and towns
+KW  - Employment
+KW  - Computational modeling
+DO  - 10.1109/CEC.2015.7257301
+JO  - 2015 IEEE Congress on Evolutionary Computation (CEC)
+IS  - 
+SN  - 1941-0026
+VO  - 
+VL  - 
+JA  - 2015 IEEE Congress on Evolutionary Computation (CEC)
+Y1  - 25-28 May 2015
+AB  - Corporate university (CO) become a trend in organizations. However, functional characteristics are little explored by CO for boosting knowledge creation. One of them is functional diversity that has been pointed as a factor to increase innovation, contributing for the development of clear strategies and quick responses to changes at workplace. On the other hand, an appropriate distribution of roles helps to promote individual responsibility and group cohesion. It also contributes to the strengthening of positive interdependence of group members. These aspects are fundamental to the development of cooperative work. In this work, we propose a model for group formation for learning approaching dichotomous functional roles and preferred roles in order to improve the group performance into the courses offered by CO at Court of Justice of Goiás (CJG). From the proposed model, we constructed three group formation algorithms. The first algorithm forms groups randomly (AA). The second is a canonical genetic algorithm (CGA). The third is a hybrid genetic algorithm (HGA). After, we performed a comparative analysis of the results reached by the three algorithms. We observed that the HGA achieves superior results than the CGA and AA.
+ER  - 
+
+

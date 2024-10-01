@@ -1,0 +1,2989 @@
+TY  - CONF
+TI  - Automatic Academic Emotion Recognition and Its Evolution Analysis in Classroom
+T2  - 2023 5th International Conference on Computer Science and Technologies in Education (CSTE)
+SP  - 42
+EP  - 48
+AU  - J. Gao
+AU  - Y. Wei
+AU  - K. Wang
+AU  - Y. Shi
+PY  - 2023
+KW  - Emotion recognition
+KW  - Face recognition
+KW  - Computational modeling
+KW  - Education
+KW  - C languages
+KW  - Convolutional neural networks
+KW  - Programming profession
+KW  - facial expression recognition
+KW  - emotional evolution
+KW  - improving classroom teaching
+DO  - 10.1109/CSTE59648.2023.00015
+JO  - 2023 5th International Conference on Computer Science and Technologies in Education (CSTE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 5th International Conference on Computer Science and Technologies in Education (CSTE)
+Y1  - 21-23 April 2023
+AB  - Students' emotional state plays a vital role in learning. In this study, we examined the emotional changes of 69 students during the lectures of the C Language Programming Foundation and Computational Thinking in central China. This paper presents a method using Yolov7 and the convolutional neural network CoAtNet to monitor students' emotional evolution by analyzing their facial expressions and recognizing academic affective states, including boring, confused, focus, happy, and neutral. The trained model has achieved a test accuracy of 76.0%. The results showed that focus increased at the beginning of the first 10 minutes of class and then began to decline. With the decline of focus emotion, students' neutral emotions increased. We found that when a new teaching session is performed, or the teaching method of naming questions is used, the students' emotion of focus increases briefly, lasting about 8–10 minutes. Subsequently, even if the varied teaching method was used to stimulate students' attention, their level of engagement did not increase significantly. It can be suggested that teachers can use teaching methods appropriately to promote students' attention. However, students' attention span is limited, and teachers should pay attention to methods and time to improve teaching quality effectively.
+ER  - 
+
+TY  - CONF
+TI  - Context-Aware User Interface Field Classification
+T2  - 2016 6th International Conference on IT Convergence and Security (ICITCS)
+SP  - 1
+EP  - 5
+AU  - M. Tomasek
+AU  - T. Cerny
+PY  - 2016
+KW  - Context
+KW  - Business
+KW  - Software
+KW  - Computational modeling
+KW  - Concrete
+KW  - Security
+KW  - User interfaces
+DO  - 10.1109/ICITCS.2016.7740319
+JO  - 2016 6th International Conference on IT Convergence and Security (ICITCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 6th International Conference on IT Convergence and Security (ICITCS)
+Y1  - 26-26 Sept. 2016
+AB  - Software applications are designed with a concrete purpose in mind, specified by business owners basing on the individual requirements. The user-system interaction is specified in the analysis phase. This phase specifies inputs, outputs, interaction etc. These elements could be specified separately based on the target platform. The designers know that the mobile clients could have a different application flow than desktop clients. However, this is not a rule and designers often times do not think about the user context nor do they consider the application context. This implies that outputs, inputs and interactions do not change automatically during the software life cycle. In this paper we present techniques that are able to determine whether the user, which is in a particular context, should be required to spend his/her time to fill in fields that are not needed for accomplishing a specific business task. Moreover, these techniques are able to determine whether the fields should display or are not necessary, as well as how the system might interact with the user. Finally, we present a computational architecture that is able to make these types of determinations.
+ER  - 
+
+TY  - CONF
+TI  - Quantum Dynamic Network Modeling Algorithm in Mathematical Modeling Training Combined with BOPPPS Comprehensive Networking System Construction
+T2  - 2022 International Conference on Edge Computing and Applications (ICECAA)
+SP  - 379
+EP  - 382
+AU  - M. Li
+PY  - 2022
+KW  - Training
+KW  - Analytical models
+KW  - Computational modeling
+KW  - Heuristic algorithms
+KW  - Neural networks
+KW  - Clustering algorithms
+KW  - Mathematical models
+KW  - Quantum Dynamic Network
+KW  - Mathematical Modeling Training
+KW  - BOPPPS Comprehensive
+KW  - Networking System Construction
+DO  - 10.1109/ICECAA55415.2022.9936373
+JO  - 2022 International Conference on Edge Computing and Applications (ICECAA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Edge Computing and Applications (ICECAA)
+Y1  - 13-15 Oct. 2022
+AB  - A quantum self-organizing feature mapping network model and clustering algorithm are proposed. The inputs and weights of quantum neurons are quantum bits, and the output is real numbers. The characteristics and relationship of BOPPPS model and problem-driven teaching method are studied, BOPPPS model and teaching method The relationship between elements 5W, and taking the "Algorithm and Data Structure" course as an example, gives strategies and practices for cultivating computational thinking. The quantum self-organizing feature map network is composed of input layer and competition layer. The multi-objective programming model is established by mathematical methods such as linear weighting, objective programming and hierarchical sequence, and the solution to the dynamic allocation of resources in the logistics network is given by analyzing the model.
+ER  - 
+
+TY  - CONF
+TI  - Memory Prediction on Real-Time User Behavior Traffic Detection
+T2  - 2020 7th International Conference on Electrical Engineering, Computer Sciences and Informatics (EECSI)
+SP  - 4
+EP  - 4
+AU  - R. Budiarto
+PY  - 2020
+KW  - Computer science
+KW  - Computational modeling
+KW  - Biological neural networks
+KW  - Behavioral sciences
+KW  - Predictive models
+KW  - Microprocessors
+KW  - Malware
+DO  - 10.23919/EECSI50503.2020.9251295
+JO  - 2020 7th International Conference on Electrical Engineering, Computer Sciences and Informatics (EECSI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 7th International Conference on Electrical Engineering, Computer Sciences and Informatics (EECSI)
+Y1  - 1-2 Oct. 2020
+AB  - Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Human brain is a learning system. Human have to learn by getting exposed to something. This capability of learning system to recognize new patterns is called generalization. The abilities of human brain to perform generalization are yet to be matched by neural network or even by any of artificial intelligence algorithm in general. Thus, the need for new machine intelligence approach is imperative. Neural network is designed to take advantages of the speed of computers to solve engineering and computational complex problems intelligently. On the other hand, human brain is somewhat not computationally powerful. Human brain is not even able to calculate quadratic problems within milliseconds. Instead, it uses its vast amounts of memory to store everything human know and have learned. According to a modern neuroscience theory named memory-prediction framework, introduced by Hawkins and Blakeslee in 2005, human brain uses this memory-based model to make continuous predictions of future events. Therefore, a hybrid approach that possesses the ability to compute like neural network and at the same time think like human brain will shed some light in the advancement of machine learning research as well as the development of a truly intelligent machine. This talk discusses the memory-prediction framework and proposes simplified single cell assembled sequential hierarchical memory (s-SCASHM) model instead of hierarchical temporal memory (HTM) in order to speed up the learning convergence. s-SCASHM consists of single neuronal cell (SNC) model and simplified sequential hierarchical superset (SHS) platform. The SHS platform is designed by simplifying to have a region with four rows columnar architecture instead of having six rows per region as in human neocortex. Then, the s-SCASHM is implemented as the prediction engine of user behavior analysis tool to detect insider attacks/anomalies. As nearly half of incidents in enterprise security triggered by the Insider, it is important to deploy more intelligent defense system to assist the enterprise be able to pinpoint and resolve any incidents caused by the Insider or malicious software (malware). The attacks evolve; however, current detection systems that use the deep learning techniques cannot perform online (on-the-fly) learning. Thus, an intelligent detection system with on-the-fly learning capability is required. Experimental results show that the proposed memory model is able to predict user behavior traffic with significant level of accuracy and performs on-the-fly learning.
+ER  - 
+
+TY  - CONF
+TI  - How Useful TutorBot+ is for Teaching and Learning in Programming Courses: a Preliminary Study
+T2  - 2023 42nd IEEE International Conference of the Chilean Computer Science Society (SCCC)
+SP  - 1
+EP  - 7
+AU  - C. Martínez-Araneda
+AU  - M. Gutiérrez Valenzuela
+AU  - P. Gómez Meneses
+AU  - D. Maldonado Montiel
+AU  - A. Segura Navarrete
+AU  - C. Vidal-Castro
+PY  - 2023
+KW  - Databases
+KW  - Computational modeling
+KW  - Conferences
+KW  - Bibliographies
+KW  - Education
+KW  - Prototypes
+KW  - Focusing
+KW  - retroalimentación efectiva
+KW  - estrategias de aprendizaje
+KW  - evaluación
+KW  - chatGPT
+DO  - 10.1109/SCCC59417.2023.10315697
+JO  - 2023 42nd IEEE International Conference of the Chilean Computer Science Society (SCCC)
+IS  - 
+SN  - 2691-0632
+VO  - 
+VL  - 
+JA  - 2023 42nd IEEE International Conference of the Chilean Computer Science Society (SCCC)
+Y1  - 23-26 Oct. 2023
+AB  - Objective: The objective of this paper is to present preliminary work on the development of an EduChatBot tool and the measurement of the effects of its use aimed at providing effective feedback to programming course students. This bot, hereinafter referred to as tutorBot+, was constructed based on chatGPT3.5 and is tasked with assisting and providing timely positive feedback to students in computer science programming courses at UCSC. Methods/Analysis: The proposed method consists of four stages: (1) Immersion in the feedback and Large Language Models (LLMs) topic; (2) Development of tutorBot+ prototypes in both non-conversational and conversational versions; (3) Experiment design; and (4) Intervention and evaluation. The first stage involves a literature review on feedback and learning, the use of intelligent tutors in the educational context, as well as the topics of LLMs and chatGPT. The second and third stages detail the development of tutorBot+ in its two versions, and the final stage lays the foundation for a quasi-experimental study involving students in the curriculum activities of Programming Workshop and Database Workshop, focusing on learning outcomes related to the development of computational thinking skills, and facilitating the use and measurement of the tool’s effects. Findings: The preliminary results of this work are promising, as two functional prototypes of tutorBot+ have been developed for both the non-conversational and conversational versions. Additionally, there is ongoing exploration into the possibility of creating a domain-specific model based on pretrained models for programming, integrating tutorBot+ with other platforms, and designing an experiment to measure student performance, motivation, and the tool’s effectiveness.
+ER  - 
+
+TY  - CONF
+TI  - Teachers' Perception and Experiences of Computer Science Education in K-8 Schools
+T2  - 2023 Intermountain Engineering, Technology and Computing (IETC)
+SP  - 226
+EP  - 231
+AU  - V. Anu
+AU  - S. Hagiwara
+AU  - K. Herbert
+AU  - K. Z. Sultana
+AU  - M. Shin
+AU  - R. Goldstein
+AU  - P. Virella
+PY  - 2023
+KW  - Surveys
+KW  - Seminars
+KW  - Industries
+KW  - Data analysis
+KW  - Conferences
+KW  - Computational modeling
+KW  - Education
+KW  - computer science education
+KW  - K-8 teaching
+KW  - professional development
+KW  - survey
+DO  - 10.1109/IETC57902.2023.10152154
+JO  - 2023 Intermountain Engineering, Technology and Computing (IETC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 Intermountain Engineering, Technology and Computing (IETC)
+Y1  - 12-13 May 2023
+AB  - Supported by a state grant, our team of researchers (consisting of both Computer Science faculty and Teacher Education faculty) is offering a series of Professional Development sessions to K-8 teachers. These Professional Development (or PD) sessions are meant to help K-8 teachers develop their understanding of core computing concepts (such as algorithms, programming, data analysis, and networks) and thereby develop strong computer science programs for their students. In order to offer effective and meaningful Professional Development (PD) sessions, our research team first intended to understand the perceptions and experiences of K-8 teachers about Computer Science (CS) and Computational Thinking (CT) education. This paper presents the results of a K-8 teacher survey that we conducted as a pre-cursor to our PD series. The results of this survey provided valuable insights about elementary and middle-school teachers' perceptions of computer science education, self-perception of their ability to teach and learn CS, and understanding of CS discipline and those who typically engage in CS activities. The impact of teachers' perceptions impact how leaders in education and the CS industry can meet the needs of teachers, who in turn can meet the growing demand of CS education in K-8 schools.
+ER  - 
+
+TY  - JOUR
+TI  - A new method to estimate ocean-bottom-seismometer orientation using teleseismic receiver functions
+T2  - Geophysical Journal International
+SP  - 893
+EP  - 904
+AU  - H. Zheng
+AU  - J. Fan
+AU  - D. Zhao
+AU  - C. Li
+AU  - D. Dong
+AU  - G. Zhang
+AU  - X. Wang
+PY  - 2019
+KW  - Time-series analysis
+KW  - Body waves
+KW  - Computational seismology
+KW  - Seismic instruments
+DO  - 10.1093/gji/ggaa041
+JO  - Geophysical Journal International
+IS  - 1
+SN  - 1365-246X
+VO  - 221
+VL  - 221
+JA  - Geophysical Journal International
+Y1  - Dec. 2019
+AB  - The orientation of an ocean-bottom-seismometer (OBS) is a critical parameter for analysing three-component seismograms, but it is difficult to estimate because of the uncontrollable OBS posture after its deployment. In this study, we develop a new and effective method to estimate the OBS orientation by fitting the amplitude of direct P wave of teleseismic receiver functions. The reliability of this method is verified using synthetic data and observed waveforms recorded at land seismic stations in Shandong Province, China. Our extensive synthetic tests show that our new method is little affected by a thin sedimentary layer that has a low S-wave velocity. The orientations of OBS stations that we deployed in the Yap subduction zone in the Western Pacific Ocean are estimated and corrected using our new method. After the correction, the direct P waves of teleseismic receiver functions show very good consistency. The effects of white and coloured noise in different levels, epicentral distance and backazimuth are also investigated, and the results show that these factors have small effects on the new method. We also examine the effect of sensor tilting on estimation of the OBS orientation, and find that a tilting correction should be made before the misorientation correction. We compare the OBS orientations determined with the new method and other methods and find that they are generally consistent with each other. We also discuss advantages and shortcomings of various methods, and think that our new method is more robust than the existing methods.
+ER  - 
+
+TY  - CONF
+TI  - Mitigation of Hallucinations in Language Models in Education: A New Approach of Comparative and Cross-Verification
+T2  - 2024 IEEE International Conference on Advanced Learning Technologies (ICALT)
+SP  - 207
+EP  - 209
+AU  - W. de Almeida da Silva
+AU  - L. C. Costa Fonseca
+AU  - S. Labidi
+AU  - J. C. Lima Pacheco
+PY  - 2024
+KW  - Geography
+KW  - Solid modeling
+KW  - Accuracy
+KW  - Scalability
+KW  - Prevention and mitigation
+KW  - Computational modeling
+KW  - Education
+KW  - Educational Language Models -LLMs
+KW  - Hallucination Mitigation
+KW  - Comparative and Cross-Verification Prompting -CCVP
+KW  - Multi-model Approach
+KW  - Responsible LLM Use
+DO  - 10.1109/ICALT61570.2024.00066
+JO  - 2024 IEEE International Conference on Advanced Learning Technologies (ICALT)
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Advanced Learning Technologies (ICALT)
+Y1  - 1-4 July 2024
+AB  - The rapid growing application of language models (LLMs) in education offers exciting prospects for personalized learning and interactive experiences. However, a critical challenge emerges - the risk of "hallucinations," where LLMs generate factually incorrect or misleading information. This paper proposes Comparative and Cross-Verification Prompting (CCVP), a novel technique specifically designed to mitigate hallucinations in educational LLMs. CCVP leverages the strengths of multiple LLMs, a Principal Language Model (PLM) and Auxiliary Language Models (ALMs), to verify the accuracy and educational relevance of the PLM's response to a prompt. Through a series of prompts and assessments, CCVP harnesses the diverse perspectives of various LLMs and incorporates human expertise for intricate cases. This method addresses the limitations of relying on a single model and fosters critical thinking skills in learners within the educational context. We detail the CCVP approach with examples specifically applicable to educational settings, such as geography. We also discuss its strengths and limitations, including computational cost, data reliance, and ethical considerations. We highlight its potential applications in educational disciplines, including fact-checking content, detecting bias, and promoting responsible LLM use. CCVP presents a promising avenue for ensuring the accuracy and trustworthiness of LLM-generated educational content. Further research and development will refine its scalability, address potential biases, and solidify its position as a vital tool for harnessing the power of LLMs while fostering responsible knowledge dissemination in education.
+ER  - 
+
+TY  - CONF
+TI  - Light-field optics as optical encoding and decoding system for 3-D scene
+T2  - 2017 16th Workshop on Information Optics (WIO)
+SP  - 1
+EP  - 3
+AU  - T. Iwane
+PY  - 2017
+KW  - Lenses
+KW  - Optical imaging
+KW  - Three-dimensional displays
+KW  - Image reconstruction
+KW  - Holography
+KW  - Cameras
+KW  - Holographic optical components
+KW  - computational imaging
+KW  - three-dimensional image
+KW  - displays
+KW  - image reconstruction-restoration
+DO  - 10.1109/WIO.2017.8038113
+JO  - 2017 16th Workshop on Information Optics (WIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 16th Workshop on Information Optics (WIO)
+Y1  - 3-7 July 2017
+AB  - Film-based cameras were replaced with digital cameras in a very short period. Saving film costs for each shot is not only of advantage of this transition. The more important advantage by this digitization is that forming optically a completed image on detector is not necessary and acquired data are processable by a computer. We can think that, with optional optical system-lens array-, acquired data can be nuggets of information which contains both image and its depth or bunch of incident rays which are equal value to actual 3-D scene. These data represent 3-D situations and by computing them, various optical effect, e.g. focusing and changing field of depth, can also be realized or simulated virtually. My issue is to clarify how 3-D scene is transformed and expressed on 2-D detector and how this 2-D information is retrieved back again into 3-D scene through lens array and other optical devices. Light-field optics or lens array is one of those exchangeable methods of the transformation between actual 3-D scene and information encoded on 2-D plane. Recently new method for lens array was introduced; a circular zone plate instead of lens array. As for a 3-D Display which consists of flat display and lens array, the encoded data shown on a flat display and they are retrieved into real 3-D image by a lens-array. I will mention not only its advantage but its limitation of ability for 3-D image reconstruction.
+ER  - 
+
+TY  - CONF
+TI  - Exploration of recursive algorithm teaching based on BOPPPS model
+T2  - 2021 2nd International Conference on Artificial Intelligence and Education (ICAIE)
+SP  - 728
+EP  - 731
+AU  - J. Li
+AU  - X. Zhang
+AU  - L. Wang
+AU  - C. Sun
+PY  - 2021
+KW  - Training
+KW  - Computer aided instruction
+KW  - Electronic learning
+KW  - Design methodology
+KW  - Computational modeling
+KW  - Education
+KW  - Online services
+KW  - BOPPPS model
+KW  - Recursion
+KW  - Participation
+KW  - Instructional Design
+DO  - 10.1109/ICAIE53562.2021.00160
+JO  - 2021 2nd International Conference on Artificial Intelligence and Education (ICAIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 2nd International Conference on Artificial Intelligence and Education (ICAIE)
+Y1  - 18-20 June 2021
+AB  - Recursion is a typical algorithm design method, which plays an important role in training students to use computational thinking to analyze and solve problems. The BOPPPS model is a popular student-centered teaching mode at home and abroad in recent years, which emphasizes the participation of students and timely teaching feedback. In order to explore an effective teaching mode, this paper designs a recursive algorithm teaching design method combined with boppps model, which can effectively improve the participation of students and improve the quality of teaching.
+ER  - 
+
+TY  - JOUR
+TI  - Ontology Matching: State of the Art, Future Challenges, and Thinking Based on Utilized Information
+T2  - IEEE Access
+SP  - 91235
+EP  - 91243
+AU  - X. Liu
+AU  - Q. Tong
+AU  - X. Liu
+AU  - Z. Qin
+PY  - 2021
+KW  - Ontologies
+KW  - Semantics
+KW  - Information analysis
+KW  - Knowledge engineering
+KW  - Information science
+KW  - Dictionaries
+KW  - Information classification
+KW  - information analysis
+KW  - ontology matching
+KW  - semantic web
+DO  - 10.1109/ACCESS.2021.3057081
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Information used in existing ontology matching solutions are usually grouped into four categories: lexical information, structural information, semantic information, and external information, respectively. By summarizing and analyzing the approaches for utilizing the same kind of information, this paper finds that lexical information is mainly analyzed based on text and dictionary similarity. Similarly, structural information and semantic information are mainly analyzed based on graph structure and reasoner, respectively. The approaches for aggregating information analysis results are discussed. Challenges in the analysis of various types of information for existing ontology matching solutions are also described, and insights into directions for future research are provided.
+ER  - 
+
+TY  - CONF
+TI  - The Zeitgeist Juncture of “Big Data” and its Future Trends
+T2  - 2019 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon)
+SP  - 465
+EP  - 469
+AU  - S. Kumar
+AU  - P. Gupta
+AU  - S. Lakra
+AU  - L. Sharma
+AU  - R. Chatterjee
+PY  - 2019
+KW  - Big Data
+KW  - Market research
+KW  - Real-time systems
+KW  - Companies
+KW  - Machine learning
+KW  - Cloud computing
+KW  - Data Analytics
+KW  - MapReduce
+KW  - Big Data
+KW  - Artificial Intelligence
+KW  - Cloud Computing
+KW  - Cyber Security
+KW  - IoT
+DO  - 10.1109/COMITCon.2019.8862433
+JO  - 2019 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon)
+Y1  - 14-16 Feb. 2019
+AB  - With the prime objective of understanding the direction in which the field of big data is heading, this paper emphasizes on the recent and upcoming trends in big data. The human brain handles big data in all its forms very efficiently and almost instantaneously, no matter what is the granularity of the data. The idea behind the field of processing big data is to mimic the manner in which the natural brain works and handles big data. All the fields and subfields of machine intelligence are based on identifying and mimicking the natural methods which are used by mother nature to handle big data. The current trends are mainly moving towards processing big data using the cloud infrastructure and machine learning techniques. By and large the intention of artificial intelligence lies in developing a humanoid robot which can work, talk and think like a human being. The future trends of big data are being applied to such techniques as microprocessors processing big data in a robot’s-brain to plan its actions, express emotions and ultimately to think like a human being.
+ER  - 
+
+TY  - JOUR
+TI  - AI Takes a Dumpster Dive: Computer-vision systems sort your recyclables at superhuman speed
+T2  - IEEE Spectrum
+SP  - 22
+EP  - 27
+AU  - J. Calaiaro
+PY  - 2022
+KW  - Computer vision
+KW  - Recycling
+KW  - Environmental management
+KW  - Pollution control
+KW  - Sorting
+KW  - Industries
+KW  - Financial management
+KW  - Market research
+KW  - Neural networks
+KW  - Training data
+DO  - 10.1109/MSPEC.2022.9819884
+JO  - IEEE Spectrum
+IS  - 7
+SN  - 1939-9340
+VO  - 59
+VL  - 59
+JA  - IEEE Spectrum
+Y1  - July 2022
+AB  - It's Tuesday night. In front of your house sits a large blue bin, full of newspaper, cardboard, bottles, cans, foil take-out trays, and empty yogurt containers. You may feel virtuous, thinking you're doing your part to reduce waste. But after you rinse out that yogurt container and toss it into the bin, you probably don't think much about it ever again.
+ER  - 
+
+TY  - CONF
+TI  - Product definition on higher level in open PLM systems
+T2  - 2013 IEEE 11th International Symposium on Applied Machine Intelligence and Informatics (SAMI)
+SP  - 153
+EP  - 158
+AU  - L. Horváth
+AU  - I. J. Rudas
+PY  - 2013
+KW  - Object oriented modeling
+KW  - Context modeling
+KW  - Computational modeling
+KW  - Knowledge engineering
+KW  - Context
+KW  - Informatics
+KW  - Computers
+DO  - 10.1109/SAMI.2013.6480966
+JO  - 2013 IEEE 11th International Symposium on Applied Machine Intelligence and Informatics (SAMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 11th International Symposium on Applied Machine Intelligence and Informatics (SAMI)
+Y1  - 31 Jan.-2 Feb. 2013
+AB  - Product definition in space where objects are represented in a single contextual model brought a new thinking in work of engineers. This thinking is around the intended interaction with processes those are available for handling of objects in product modeling. Engineer defines a contribution to modify a product model development of which is result of contributions from various fields of engineering. Essential question is that what level results of human thinking process on objects can be applied as input at the model development. The answer depends on communication and representation capabilities of modeling procedures. This paper introduces a new definition of human interaction levels from the lowest to a proposed high level allowing input also on lower level if necessary. Increasing the level is the way towards intelligent product definition procedures. The proposed high level method realizes communication of awaited product characteristics and features together with methods those are assigned to fulfill these product characteristics and features. This paper is a new contribution to the earlier published coordinated request based product modeling (CRPM) methodology.
+ER  - 
+
+TY  - CONF
+TI  - Electronic model of human brain using verilog
+T2  - 2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT)
+SP  - 4250
+EP  - 4254
+AU  - S. Khatri
+AU  - S. Tiwari
+AU  - N. Z. Rizvi
+PY  - 2016
+KW  - Neurons
+KW  - Brain modeling
+KW  - Artificial neural networks
+KW  - Hardware
+KW  - Computers
+KW  - Computational modeling
+KW  - Transfer functions
+KW  - Neuron
+KW  - layer
+KW  - neural column
+KW  - activation function
+DO  - 10.1109/ICEEOT.2016.7755520
+JO  - 2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT)
+Y1  - 3-5 March 2016
+AB  - Computers are man-made machines which work according to the given set of inputs and perform some operation on the input to generate a new set of outputs. They can be programmed to perform huge and complex task yet they lack imagination and ability to understand things. On the hand human brain is a machine which can learn new tasks by process of acquiring knowledge and understanding through thought, experience and the senses. To make computer work or think like human, human brain modeling of machine is necessary. We need to know how human brain works. The basic component of human brain is neuron, which make us think and do smart things. Brains have billions of neurons and they communicate with each other using electrical impulse. These impulses are responsible for making brain think and to have a consciousness. This paper proposes such a model of a part of the brain.
+ER  - 
+
+TY  - CONF
+TI  - Data Structure and Simulation Model for Associative Reasoning
+T2  - 2022 12th International Conference on Advanced Computer Information Technologies (ACIT)
+SP  - 525
+EP  - 529
+AU  - J. Jelínek
+PY  - 2022
+KW  - Knowledge based systems
+KW  - Decision making
+KW  - Data structures
+KW  - Data processing
+KW  - Cognition
+KW  - Data models
+KW  - Sparse matrices
+KW  - associative reasoning
+KW  - human perception
+KW  - concept representation
+KW  - data structures
+DO  - 10.1109/ACIT54803.2022.9913127
+JO  - 2022 12th International Conference on Advanced Computer Information Technologies (ACIT)
+IS  - 
+SN  - 2770-5226
+VO  - 
+VL  - 
+JA  - 2022 12th International Conference on Advanced Computer Information Technologies (ACIT)
+Y1  - 26-28 Sept. 2022
+AB  - Implementing the human way of thinking in different systems is still an open issue in artificial intelligence. Part of this thinking is also the so-called associative reasoning, which is based on associations arising mainly from the simultaneous observations of individual concepts representing our world. These observations can take both the form of images and simultaneous perceptions through other human senses (e.g., sound perceptions). This paper focuses on how to represent these perceptions and their sequence and ways to implement associative reasoning based on them. A data model enabling this functionality on large volumes of data will be presented, as well as the results of experiments on it.
+ER  - 
+
+TY  - CONF
+TI  - Software Engineering: A System Dynamics Simulated Pedagogical Practice
+T2  - 2009 22nd Conference on Software Engineering Education and Training
+SP  - 280
+EP  - 283
+AU  - K. Saurabh
+AU  - B. Krishnan
+PY  - 2009
+KW  - Software engineering
+KW  - Predictive models
+KW  - Software performance
+KW  - Systems engineering and theory
+KW  - Costs
+KW  - Systems engineering education
+KW  - Computational modeling
+KW  - Analytical models
+KW  - Computer simulation
+KW  - Educational technology
+DO  - 10.1109/CSEET.2009.59
+JO  - 2009 22nd Conference on Software Engineering Education and Training
+IS  - 
+SN  - 2377-570X
+VO  - 
+VL  - 
+JA  - 2009 22nd Conference on Software Engineering Education and Training
+Y1  - 17-20 Feb. 2009
+AB  - System Theories, analysis and design have been deployed within every corporate function and within a broad section of businesses and markets. Systems thinking involve changing paradigms about the way the world works, the way corporations function, and the human role in each. In systems thinking, analysis and design we look for interrelationships among the elements of a system. System engineering technology involves the interactions of science, an organization, and its environment as well as the information and knowledge bases that support each. The purpose of systems engineering is to support organizations that desire improved performance. Software Process Simulation is directly linked to software process improvement. Organizations can use software process simulation at all levels of maturity to obtain significant benefits. The aim is to determine how to usefully model a teaching-learning system for a specific course taught to a fresh graduate, and use simulation and modeling to predict consequences of changes to the process.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning and Clinical Insights Analysis of BMI Dataset Predictive Models
+T2  - 2024 4th International Conference on Data Engineering and Communication Systems (ICDECS)
+SP  - 1
+EP  - 6
+AU  - L. Kadyan
+AU  - V. Neerugatti
+AU  - A. Taranum
+AU  - G. Rani
+AU  - J. Somasekar
+PY  - 2024
+KW  - Support vector machines
+KW  - Weight measurement
+KW  - Machine learning algorithms
+KW  - Machine learning
+KW  - Medical services
+KW  - Artificial neural networks
+KW  - Prediction algorithms
+KW  - Diabetes
+KW  - Bayes methods
+KW  - Wearable devices
+KW  - BMI
+KW  - Machine Learning
+KW  - Algorithm
+KW  - Health and Comparative Analysis
+DO  - 10.1109/ICDECS59733.2023.10503402
+JO  - 2024 4th International Conference on Data Engineering and Communication Systems (ICDECS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Data Engineering and Communication Systems (ICDECS)
+Y1  - 22-23 March 2024
+AB  - Machine learning (ML) has developed at a superlative rate, accompanying requests spanning various fields. This research investigates the experience of strength data, exceptionally the request of machine learning (ML) algorithms to a Body Mass Index (BMI) dataset. The basic aim of searching out unwinds the dossier’s many linkages and patterns, eventually chief to more thorough information of the variables deciding BMI. The study starts accompanying an initiation to the subject within reach, understood by a thorough study of appropriate work, a complex mechanics division, and an itemized reason of the reached results. However, because of advances in Machine Learning, we immediately have the talent to handle this issue in a more excellent manner. We’ve built an advance dossier-study system that can think a patient has diabetes, a suggestion of correction, admitting for early mediation. This predicting plan uses dossier analysis methods to extractable intuitions from a big number of diabetes-accompanying facts. Its basic aim is to correctly determine a patient’s risk of diabetes. We’ve working categorization plans to a degree Decision Tree, Artificial Neural Networks (ANN), Naive Bayes, and Support Vector Machine (SVM) algorithms to cultivate the model. These outcomes show the influence of the subsystems in thinking diabetes risk admit a large size of veracity. This predictive finish can create a meaningful dissimilarity in labeling at-risk things early and providing bureaucracy with essential care and counseling before the ailment progresses. In summary, our machine intelligence-located scheme offers a natural still strong solution to call the risk of diabetes in subjects. By controlling the wherewithal of dossier reasoning and categorization algorithms, we can enhance early discovery and deterrent measures for this weighty affliction, eventually reconstructing patient consequences and reducing the burden of BMI-related complications.
+ER  - 
+
+TY  - CONF
+TI  - Research on The Architecture of an Intelligent Assistant System for Commanders
+T2  - 2023 IEEE 14th International Conference on Software Engineering and Service Science (ICSESS)
+SP  - 122
+EP  - 125
+AU  - X. Jin
+AU  - Y. Wang
+AU  - W. Wu
+AU  - X. Li
+PY  - 2023
+KW  - Human computer interaction
+KW  - Integrated circuits
+KW  - Knowledge based systems
+KW  - Decision making
+KW  - Systems architecture
+KW  - Information sharing
+KW  - Computer architecture
+KW  - commanders and staff officers
+KW  - intelligent assistant system
+KW  - command information system
+KW  - system architecture
+KW  - technical architecture
+DO  - 10.1109/ICSESS58500.2023.10293079
+JO  - 2023 IEEE 14th International Conference on Software Engineering and Service Science (ICSESS)
+IS  - 
+SN  - 2327-0594
+VO  - 
+VL  - 
+JA  - 2023 IEEE 14th International Conference on Software Engineering and Service Science (ICSESS)
+Y1  - 17-18 Oct. 2023
+AB  - Battle commanders in modern war are facing new challenges such as massive information and short time windows. There is an urgent demand of intelligent assistant system to communicate with the commanders and staff officers, think about what they think, answer their questions, offer advises to their decision making, learn their experiences, and significantly improve their performance. Based on capability requirements analysis of such system, its system architecture was proposed, which shares data, knowledge, functions and computing power with the command information system currently in use. An AI framework based technical architecture was proposed, which has five characteristics: natural human-computer interaction, flexible function integration, knowledge system driven, continues ability evolution, and powerful computing support.
+ER  - 
+
+TY  - CONF
+TI  - System of systems engineering and geographical simulation: Towards a smart tourism industry information system
+T2  - 2013 15th International Conference on Advanced Communications Technology (ICACT)
+SP  - 1015
+EP  - 1018
+AU  - Liming Bai
+PY  - 2013
+KW  - Business
+KW  - Geographic information systems
+KW  - Industries
+KW  - Information systems
+KW  - Optimization
+KW  - System of systems (SoS)
+KW  - System of systems engineering (SoSE)
+KW  - geographical simulation
+KW  - tourism
+KW  - smart industry information system
+DO  - 
+JO  - 2013 15th International Conference on Advanced Communications Technology (ICACT)
+IS  - 
+SN  - 1738-9445
+VO  - 
+VL  - 
+JA  - 2013 15th International Conference on Advanced Communications Technology (ICACT)
+Y1  - 27-30 Jan. 2013
+AB  - The last few decades proves to be an era of booming communication and information disciplines, bringing about profound influence on people's life and every socio-economic sector. In this dramatically changed world, it is being found that many of the systems engineering principles and business practices that some industries have purposely pursued no longer function effectively in a System of Systems environment. This paper is inspired by the embedded, “system of systems (SoS) thinking” in the context of military programming. The purpose of this paper is to draw a conceptual framework for a smart tourism industry information system in responding to competitive challenges. The approach here is to illustrate how this SoS thinking and corresponding SoS engineering (SoSE) may be applied through the top-level design for the smart system. For designing a policy maker-responsive, informative system, an emerging complex spatial information approach, geographical simulation, is introduced. This holistic means includes: 1) simulation of the tourism SoS' architecture and evolution process through cellular automata (CA) and multi-agent systems (MAS) techniques, based on remote sensing data and GIS instrument; 2) illustration of the mechanism of industrial evolution by scale-free network analysis and social influence network with dynamic Bayesian network theory. This paper calls for a particular attention of communication specialists to concern the forefront of information (esp. spatial information) and systems engineering disciplines.
+ER  - 
+
+TY  - CONF
+TI  - The impact of culture on group model-building process
+T2  - Proceedings of PICMET '14 Conference: Portland International Center for Management of Engineering and Technology; Infrastructure and Service Integration
+SP  - 1585
+EP  - 1590
+AU  - R. Sadia
+PY  - 2014
+KW  - Feedback loop
+KW  - Buildings
+KW  - Organizations
+KW  - Computational modeling
+KW  - Mathematical model
+KW  - Production
+KW  - Maintenance engineering
+DO  - 
+JO  - Proceedings of PICMET '14 Conference: Portland International Center for Management of Engineering and Technology; Infrastructure and Service Integration
+IS  - 
+SN  - 2159-5100
+VO  - 
+VL  - 
+JA  - Proceedings of PICMET '14 Conference: Portland International Center for Management of Engineering and Technology; Infrastructure and Service Integration
+Y1  - 27-31 July 2014
+AB  - System thinking refers to the interrelationship between the parts of the organization that intend to design, produce and distribute products or services. System thinking is actually a conceptual language that encourages professionals into using “feedback loop" thinking rather than mere linear thinking. To solve a problem, systems thinking requires the building of a model by a diverse group with a varied input. The group modeling process which is an important process of system dynamics intervention in organizations is mainly developed by researchers from similar backgrounds and cultures. A research conducted in Israel, a country with a mixture of cultures and social backgrounds, evokes a different experience and approach to the more known group model building techniques. Since the participants in the group were from diverse backgrounds in terms of their culture, economic situation and their work position, they could easily be led by their social condition in their thinking and opinions. Therefore, knowledge elicitation through the group model building process during the group sessions and on the other hand, knowledge elicitation through personal conversation brought up contradictory information and called for constantly improving the elicitation process.
+ER  - 
+
+TY  - CONF
+TI  - EEG Analysis for Brainwave Balancing Index (BBI)
+T2  - 2010 2nd International Conference on Computational Intelligence, Communication Systems and Networks
+SP  - 389
+EP  - 393
+AU  - Z. H. Murat
+AU  - M. N. Taib
+AU  - S. Lias
+AU  - R. S. S. A. Kadir
+AU  - N. Sulaiman
+AU  - M. Mustafa
+PY  - 2010
+KW  - Electroencephalography
+KW  - Indexes
+KW  - Humans
+KW  - Electrical engineering
+KW  - Electrodes
+KW  - Electric potential
+KW  - Signal processing
+KW  - brainwave
+KW  - brainwave balancing index
+KW  - EEG
+DO  - 10.1109/CICSyN.2010.62
+JO  - 2010 2nd International Conference on Computational Intelligence, Communication Systems and Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 2nd International Conference on Computational Intelligence, Communication Systems and Networks
+Y1  - 28-30 July 2010
+AB  - The purpose of this research is to establish the fundamental brainwave balancing index (BBI) using EEG signals. Brainwave signals from EEG were measured and analyzed using intelligent signal processing techniques and specific algorithm. Consequently, the signals were statistically correlated with established psychoanalysis techniques to produce BBI system. The result shows that the PSD analysis provides reliable BBI with 80% conformity. The fundamental findings (brainwave balancing index and brain dominance) from this research can be served as a simple indicator of one's thinking leading to great opportunity for positive human potential development.
+ER  - 
+
+TY  - CONF
+TI  - Shark-EYE: A Deep Inference Convolutional Neural Network of Shark Detection for Underwater Diving Surveillance
+T2  - 2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+SP  - 384
+EP  - 388
+AU  - N. E. Merencilla
+AU  - A. Sarraga Alon
+AU  - G. J. O. Fernando
+AU  - E. M. Cepe
+AU  - D. C. Malunao
+PY  - 2021
+KW  - Training
+KW  - Knowledge engineering
+KW  - Surveillance
+KW  - Oceans
+KW  - Object detection
+KW  - Prediction algorithms
+KW  - Convolutional neural networks
+KW  - shark detection
+KW  - underwater surveillance
+KW  - deep learning
+KW  - object detection
+KW  - yolov3
+DO  - 10.1109/ICCIKE51210.2021.9410715
+JO  - 2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+Y1  - 17-18 March 2021
+AB  - People are anxious about the potential dangers of scuba diving and like in all sports, there are dangers involved in it. Typically, people think sharks and shark attacks are the dangers of scuba diving, as sharks are one of the ocean's biggest predators, and the great white shark, in particular, is one of the primary threats to divers. The study proposes a deep learning approach to shark detection for underwater diving surveillance. A large collection of great white sharks' datasets underwater is used by the system for training as sharks are hard to differentiate from other sharks like animals in an underwater environment. A YOLOv3 algorithm that uses convolutional neural networks for object detection, multiscale prediction, and bounding box prediction through the use of logistic regression is used in the study. And with this approach, the testing of the shark detection system generates a good result.
+ER  - 
+
+TY  - CONF
+TI  - A Review on Costing Issues in Big Data Analytics
+T2  - 2015 International Conference on Computational Intelligence and Communication Networks (CICN)
+SP  - 727
+EP  - 730
+AU  - K. S. Jadon
+AU  - R. S. Bhadoria
+AU  - G. S. Tomar
+PY  - 2015
+KW  - Big data
+KW  - Databases
+KW  - Organizations
+KW  - Technological innovation
+KW  - Costing
+KW  - Computer architecture
+KW  - Hadoop
+KW  - MapReduce
+KW  - Costing Issues in Big Data
+KW  - Storage & Processing
+DO  - 10.1109/CICN.2015.148
+JO  - 2015 International Conference on Computational Intelligence and Communication Networks (CICN)
+IS  - 
+SN  - 2472-7555
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Computational Intelligence and Communication Networks (CICN)
+Y1  - 12-14 Dec. 2015
+AB  - In 2004, Wall Mart guaranteed to have the biggest information stockroom with 500 terabytes stockpiling (identical to 50 printed accumulations of the US Library of Congress). In 2009, eBay stockpiling added up to eight petabytes (think about 104 years of HD-TV feature). After two years, the Yahoo distribution center totalled 170 petabytes1 (8.5 seasons of all hard circle drives made in 1995)2. Since the ascent of digitisation, undertakings from different verticals have amassed thriving measures of advanced information, catching trillions of bytes of data about their clients, suppliers and operations. Information volume is likewise developing exponentially because of the blast of machine-created (information records, web-log documents, sensor information) and from developing human engagement inside of the interpersonal organizations. So for handling this huge amount of data is really a big challenge, so it turns towards the concept of big data. This paper try to cover major aspects of big data is discussed in II Important Aspect's in Big Data along with its costing issues. The issues in transformation of traditional database into big data is discussed in III important points in transition from traditional data base to big data.
+ER  - 
+
+TY  - CONF
+TI  - Shape monitoring for wing structure using fiber Bragg grating sensors
+T2  - 2012 IEEE Fifth International Conference on Advanced Computational Intelligence (ICACI)
+SP  - 1032
+EP  - 1036
+AU  - J. Yi
+AU  - H. Zhang
+AU  - X. Qiao
+AU  - X. Zhu
+PY  - 2012
+KW  - Shape
+KW  - Fiber gratings
+KW  - Vibrations
+KW  - Sensor arrays
+KW  - Surface reconstruction
+DO  - 10.1109/ICACI.2012.6463329
+JO  - 2012 IEEE Fifth International Conference on Advanced Computational Intelligence (ICACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 IEEE Fifth International Conference on Advanced Computational Intelligence (ICACI)
+Y1  - 18-20 Oct. 2012
+AB  - To reconstruct the shape of wing structure using fiber Bragg grating sensors, an implementation method was presented in this paper. First, the principle of curvature measurement based upon fiber Bragg grating sensor was introduced, and the design of the layout of sensor's locations was optimized by the finite element (FE) analysis of the experimental model. Then, the algorithm description of surface reconstruction was given in detail. Finally, an experiment setup was built using an epoxy resin trapezoid plate equipped with distributed FBG sensors, combined with a data acquisition and a shape reconstruction algorithm system. Afterwards, the experiments of steady deformation and dynamic vibration behavior were implemented for the real-time shape reconstruction of wing model structure. The results verify the feasibility and effectiveness of the presented method of deformation shape detection for a sort of wing model structure based on fiber Bragg grating sensor array, and indicate that the proposed method can provide useful research thinking for the further study of active monitoring for aerospace wing structures.
+ER  - 
+
+TY  - CONF
+TI  - The advancing role of digitalisation through the example of the Perlmutter project from the user side
+T2  - 2023 IEEE 17th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000327
+EP  - 000332
+AU  - Á. Csiszráaik-Kocsir
+AU  - J. Varga
+PY  - 2023
+KW  - Economics
+KW  - Resistance
+KW  - Pandemics
+KW  - Green products
+KW  - Switches
+KW  - Market research
+KW  - Sustainable development
+KW  - change management
+KW  - innovation
+KW  - digitalisation
+KW  - digital switchover
+DO  - 10.1109/SACI58269.2023.10158552
+JO  - 2023 IEEE 17th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 2765-818X
+VO  - 
+VL  - 
+JA  - 2023 IEEE 17th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 23-26 May 2023
+AB  - The events of recent years have shed new light on the crisis and change management practices of economic actors. It has been a truism that actors who are more receptive to change can be more successful and efficient than their peers in business markets. Perhaps the most significant changes in recent years have confirmed this even more. One only has to think of the impact of pandemic COVID-19, the energy crisis or the Russian-Ukrainian conflict. In a very short period of time, these events have brought about very significant changes and their impact has been largely negative for most economic actors. If it has not been sufficiently understood so far why it can be important to adapt to changes in a timely and appropriate way, or why good crisis management practices can be important, perhaps everyone will now. Meanwhile, other trends are shaping the global economy and will have an impact on the future state of the economy and society. Examples include sustainability (or the green transition) and digitalisation. Two global changes that will certainly have a long-term impact on society and business processes. No one can afford the luxury of ignoring these changes. What is more, the most competitive economic players are seeking to turn them to their advantage and to reap the benefits of sustainability or digitalisation. It is clear that our world has become faster and more complex than ever before. More and more things are changing around us, with ever more intense consequences. We need to recognise in time how we can respond to changing environmental conditions or circumstances. This is the subject of the present paper, which, after a brief literature review, draws on research findings to illustrate the importance and relevance of digitalisation.
+ER  - 
+
+TY  - CONF
+TI  - AHP-TOPSIS on selection of new university students and the prediction of future employment
+T2  - 2017 1st International Conference on Informatics and Computational Sciences (ICICoS)
+SP  - 125
+EP  - 130
+AU  - Rianto
+AU  - D. Budiyanto
+AU  - Setyohadi
+AU  - Suyoto
+PY  - 2017
+KW  - Employment
+KW  - Analytic hierarchy process
+KW  - Load modeling
+KW  - Teamwork
+KW  - Informatics
+KW  - Predictive models
+KW  - criteria
+KW  - university student selection
+KW  - AHP
+KW  - TOPSIS
+DO  - 10.1109/ICICOS.2017.8276349
+JO  - 2017 1st International Conference on Informatics and Computational Sciences (ICICoS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 1st International Conference on Informatics and Computational Sciences (ICICoS)
+Y1  - 15-16 Nov. 2017
+AB  - Universities are institutions that educate and generate labor candidates; as a result, the process of selecting new university students should pay attention to several matters and these matters should be considered. Many universities in the process base the selection on the academic skills and consequently problems will appear when an individual should evaluate all the job criteria as he or she enters employment. Through this paper the researchers would like to propose a model, AHP-TOPSIS, for the process of selecting new university students and for predicting their future employment. With the sample of 30 students from Diploma 3 Aeronautics STTA Yogyakarta, an evaluation model was designed using the indicators of academic skills, English proficiency skills, psycho test, soft skills (communication, problem solving and critical thinking, time management, cooperation, and adaptation skills), and attitudes. The load for these indicators were attained using the AHP and then these indicators would be calculated using the TOPSIS in order to find the alternative rank of the students' selection. The rank was determined by gathering the interest score from the calculation using the AHP so that the integrated evaluation results could be provided. The main objective of this paper was assisting the decision-makers in the process of selecting new university students who have both academic and personality skills that would be necessary to support their performance in the future employment.
+ER  - 
+
+TY  - CONF
+TI  - LVCMOS Based Thermal Aware Energy Efficient Vedic Multiplier Design on FPGA
+T2  - 2014 International Conference on Computational Intelligence and Communication Networks
+SP  - 921
+EP  - 924
+AU  - K. Goswami
+AU  - B. Pandey
+PY  - 2014
+KW  - Field programmable gate arrays
+KW  - Power dissipation
+KW  - Standards
+KW  - Energy efficiency
+KW  - Junctions
+KW  - Mathematics
+KW  - Conferences
+KW  - Thermal aware
+KW  - Vedic Multiplier
+KW  - LVCMOS
+KW  - IO Standard
+KW  - Energy Efficient Design
+DO  - 10.1109/CICN.2014.194
+JO  - 2014 International Conference on Computational Intelligence and Communication Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Computational Intelligence and Communication Networks
+Y1  - 14-16 Nov. 2014
+AB  - In this work, we are integrating thermal aware design approach in energy efficient Vedic multiplier on FPGA. In the beginning of this universe, Veda describes heat receiving from the Sun god as Suryamrit (Surya i.e. Sun +Amrit i.e. Nectar= Suryamrit i.e. Nectar coming from the Sun God). Now, whole world is feeling anxious about temperature. How our thinking pattern is changing with evolution of mankind? This paper deals with that question and the whole work is going in direction to get solution of this problem with mechanism of ambient (room) temperature scaling and energy efficient LVCMOS I/O standard. LVCMOS is an acronym for low voltage complementary metal oxide semiconductor. In this Vedic multiplier, we are using three LVCMOS I/O standard. LVCMOS12 is available only in 65nm and 40nm FPGA. Rest LVCMOS18 and LVCMOS25 is available among 40nm, 65nm and 90nm FPGA. In order to test the thermal sustainability of our Vedic multiplier, we are testing it in three different room temperature 20°C, 30°C, and 40°C. Using LVCMOS25, there is 12.99%, 19.23% and 10.28% reduction in power dissipation on 90nm, 65nm and 40nm respectively. For LVCMOS25, when our Vedic multiplier design is migrated from 40nm design to 90nm design, there is 87.72% reduction in power dissipation of Vedic multiplier when temperature is constant 20°C.
+ER  - 
+
+TY  - CONF
+TI  - Development of Brainwave Balancing Index Using EEG
+T2  - 2011 Third International Conference on Computational Intelligence, Communication Systems and Networks
+SP  - 373
+EP  - 378
+AU  - Z. H. Murat
+AU  - M. N. Taib
+AU  - S. Lias
+AU  - R. S. S. A. Kadir
+AU  - N. Sulaiman
+AU  - Z. M. Hanafiah
+PY  - 2011
+KW  - Electroencephalography
+KW  - Indexes
+KW  - Data acquisition
+KW  - Graphics
+KW  - Electrodes
+KW  - Electric potential
+KW  - Humans
+KW  - Brainwaves
+KW  - brain dominance
+KW  - EEG
+KW  - Power Spectral Density
+DO  - 10.1109/CICSyN.2011.84
+JO  - 2011 Third International Conference on Computational Intelligence, Communication Systems and Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 Third International Conference on Computational Intelligence, Communication Systems and Networks
+Y1  - 26-28 July 2011
+AB  - In this research, Wireless EEG equipment via Bluetooth technology named g-Mobilab was used to measure the brainwave signals in the right and left frontal area of the brain. The recorded EEG signals were channelled into an automatic artifact removal analysis whereby signals above values of 100 micro-volts were removed by means of a program using Matlab. Consequently, Power Spectral Density techniques and specific algorithm were employed to further enhance the EEG signals. The correlation between the left and the right brainwaves were achieved using paired T test from SPSS. The results, which are brainwave balancing index (BBI) and brainwave dominance, were presented via Graphic User Interface (GUI). The outcome shows that BBI system could be established using EEG signals. These findings (brainwave dominance and BBI) could be used as a straightforward indicator of one's ability to think and work leading to vast opportunity for constructive human potential advancement.
+ER  - 
+
+TY  - CONF
+TI  - Are we Ready for Self-Driving Cars-a Case of Principal-Agent Theory
+T2  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000251
+EP  - 000254
+AU  - K. Lazányi
+PY  - 2018
+KW  - Autonomous automobiles
+KW  - Monitoring
+KW  - Automobiles
+KW  - Autonomous systems
+KW  - Task analysis
+KW  - Automation
+KW  - self-driving cars
+KW  - automated vehicles
+KW  - trust
+KW  - principal
+KW  - agent
+KW  - principal agent theory
+DO  - 10.1109/SACI.2018.8441011
+JO  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 17-19 May 2018
+AB  - ICT readiness is not an issue any more-or so we think. In the 21st century, when the industry and society are infused with IT one would reason the more the better, because there cannot possibly be anyone to detest, or stand up against automatization and IT. However, it is not so. Not only the elderly people, who were born before the 2nd world war, but even GenZ people can be afraid of the speed and scope of ICT and modern technology taking over territories of their lives [1]. Of course, there is a substantial part of people who are eagerly looking forward the future fully automatized, and there are others, who simply don't care. But there is a significant group of people, who are not prepared for automatization, who simply do not trust robots and autonomous systems in their lives. Present paper endeavours to approach the notion of ICT readiness from the social, psychological point of view, utilising the framework of the principal-agent theory.
+ER  - 
+
+TY  - CONF
+TI  - Deformation prediction of landslide based on genetic-simulated annealing algorithm and BP neural network
+T2  - The Fourth International Workshop on Advanced Computational Intelligence
+SP  - 675
+EP  - 679
+AU  - H. Chen
+AU  - Z. Zeng
+PY  - 2011
+KW  - Terrain factors
+KW  - Prediction algorithms
+KW  - Biological neural networks
+KW  - Artificial neural networks
+KW  - Annealing
+KW  - Predictive models
+KW  - Simulated annealing
+DO  - 10.1109/IWACI.2011.6160092
+JO  - The Fourth International Workshop on Advanced Computational Intelligence
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The Fourth International Workshop on Advanced Computational Intelligence
+Y1  - 19-21 Oct. 2011
+AB  - In this paper, a modified method for landslide prediction is presented. This method is based on the back propagation neural network(BPNN), and we use the combination of genetic algorithm and simulated annealing algorithm to optimize the weights and biases of the network. The improved BPNN modeling can work out the complex nonlinear relation by learning model and using the present data. This paper demonstrates that the revised BPNN modeling can be used to predict and calculate landslide deformation, quicken the learning speed of network and improve the predicting precision. Applying this thinking and method into research of some landslide in the Three Gorges reservoir, the validity and practical value of this model can be demonstrated. And it also shows that the dynamic prediction of landslide deformation is very crucial.
+ER  - 
+
+TY  - CONF
+TI  - New Private Information Retrieval Protocol Using Social Bees Lifstyle over Cloud Computing
+T2  - 2015 IEEE International Conference on Computational Intelligence & Communication Technology
+SP  - 161
+EP  - 165
+AU  - B. Hadj Ahmed
+AU  - A. Amine
+AU  - H. Reda Mohamed
+PY  - 2015
+KW  - Information retrieval
+KW  - Protocols
+KW  - Encryption
+KW  - Cloud computing
+KW  - Boosting
+KW  - Private Information Retrieval
+KW  - Visualisation
+KW  - Social bees
+KW  - Boosting Cryptosystem
+KW  - Cloud Computing
+DO  - 10.1109/CICT.2015.163
+JO  - 2015 IEEE International Conference on Computational Intelligence & Communication Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Computational Intelligence & Communication Technology
+Y1  - 13-14 Feb. 2015
+AB  - Recently, a novel form of web services had seen the light under the name of Cloud Computing which presents the dematerialisation of software, systems and infrastructures. However, in a world where digital information is everywhere, finding the desired information has become a crucial problem. In other hand, the users of cloud services starting asking about their privacy protection, particularly when they lose control of their data during the treatment and even some of them think about counting the service providers themselves as honest attackers. For that, new approaches had been published in every axis of the privacy preserving domain. One of these axis consists of a special retrieval models which allow both finding and hiding sensitive desired information at the same time. The substance of our work is a new system of private information retrieval protocol (PIR) composed of four steps the authentication to ensure the identification of authorised users. The encryption of stored documents by the server using the boosting algorithm based on the life of bees and multi-filter cryptosystems. The information retrieval step using a combination of distances by social bees where a document must pass through three dams controlled with three types of worker bees, the bee queen represents the query and the hive represents the class of relevant documents. Finally, a visualization step that permits the presentation of the results in graphical format understandable by humans as a 3D cube. Our objectives is to amend the response to users' demands.
+ER  - 
+
+TY  - CONF
+TI  - Unmanned level crossing controller and rail track broken detection system using IR sensors and Internet of Things technology
+T2  - 2017 International Conference on Inventive Communication and Computational Technologies (ICICCT)
+SP  - 206
+EP  - 210
+AU  - B. S. Dhande
+AU  - U. S. Pacharaney
+PY  - 2017
+KW  - Rail transportation
+KW  - Logic gates
+KW  - Global Positioning System
+KW  - Sensor systems
+KW  - Rails
+KW  - GSM
+KW  - unmanned gate crossingGSM modemGPS moduleIR transmitter and ReceiverInternet of Things technology
+DO  - 10.1109/ICICCT.2017.7975189
+JO  - 2017 International Conference on Inventive Communication and Computational Technologies (ICICCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Inventive Communication and Computational Technologies (ICICCT)
+Y1  - 10-11 March 2017
+AB  - Railways provide the cheapest and most convenient mode of passenger transport both for long distance and suburban traffic. Also, most of transport in India is being carried out by railway network. Still accidents are the major concern in terms of railway track crossing and unidentified crack in rail tracks in Indian railway. About 60% accidents are occurring at railway track crossing and due to crack in railway tracks resulting in loss of precious life and loss of economy. Therefore there is need to think about new technology which is robust, efficient and stable for both automatic gate closure system and crack detection in railway track. This paper proposes an unmanned gate crossing and faulty rail track detection. Unmanned level crossing is a IR sensors base system and crack detection is an dynamic approach which combines the use of GPS (global positioning system) tracking system and GSM (global system for mobile communication) modem to send geographical coordinate of location. Unmanned gate crossing controller system prevents accident which are caused due to railway track crossing and railway crack detection system prevents train derailment by detecting crack in railway track using internet of things technology.
+ER  - 
+
+TY  - CONF
+TI  - Economic Sizing of Solar Array for a Photovoltaic Building in Malaysia with Matlab
+T2  - 2011 First International Conference on Informatics and Computational Intelligence
+SP  - 306
+EP  - 311
+AU  - H. N. Afrouzi
+AU  - S. V. Mashak
+AU  - A. M. Dastgheib
+AU  - J. Tavalaei
+PY  - 2011
+KW  - Arrays
+KW  - Photovoltaic systems
+KW  - Radiation effects
+KW  - Mathematical model
+KW  - Equations
+KW  - Sun
+KW  - Photovoltaic
+KW  - Array
+KW  - Crystalline
+KW  - Solar Irradiation
+KW  - Matlab Software
+KW  - Sizing
+KW  - economic
+DO  - 10.1109/ICI.2011.57
+JO  - 2011 First International Conference on Informatics and Computational Intelligence
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 First International Conference on Informatics and Computational Intelligence
+Y1  - 12-14 Dec. 2011
+AB  - This article illustrates a simulation method to find a sizing and economic of a required photovoltaic array for a photovoltaic building in Malaysia. This paper represents the result using by Matlab software and also mathematic equation. It is known that the important factor for photovoltaic system is cost of a system, and because of several kinds of the photovoltaic array we have the right to select the best array with the best efficiency and best price. The popular types of materials are crystalline and thin films, which have differences in terms of light absorption efficiency, energy conversion efficiency, manufacturing technology and cost of production. Different kinds of crystalline materials like a mono-crystalline, polycrystalline are available. In this paper, the generated current and generated power by the photovoltaic array is calculated according to daily solar irradiation when the case study is Malaysia. Think over generated power of each array's and also according to required energy for a typically building, the number of photovoltaic array is estimated then the cost of the solar array is calculated. System is simulated by Matlab software, and the results are discussed. The simulation is about sizing and economic in order to select the best array for photovoltaic system to have a optimize system according to size and price of the system.
+ER  - 
+
+TY  - CONF
+TI  - Towards Auto-Generative Learning Objects for Industrial IT Services
+T2  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000155
+EP  - 000160
+AU  - F. -M. Costea
+AU  - C. -B. Chirila
+AU  - V. -L. Creţu
+PY  - 2018
+KW  - Linux
+KW  - Operating systems
+KW  - Load modeling
+KW  - Browsers
+KW  - Computers
+KW  - Libraries
+KW  - Europe
+DO  - 10.1109/SACI.2018.8441004
+JO  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 17-19 May 2018
+AB  - In eastern Europe, in the last few years the IT services industry has significantly grown due to the externalization of IT operations from western Europe and America: production plants, communications, satellites, etc. In this context the pressure on the eastern IT services labor market has increased. IT services companies employed students with no IT background and trained them in their in house academies in order to respond fast to their contractual obligations. The time frame to form IT operations specialists is very narrow so they need to think of new strategies to speedup their training. In this sense auto-generative learning objects as the second generation of learning objects are a potential solution since it allows autonomous learning anytime during the day, when queuing, in the subway or during school or job breaks. Learners are trained with automatically generated dynamic content, get automatic evaluation of their responses and receive dynamic feedback. Thus, they can exercise autonomously different learning situations benefiting from automatic evaluation.
+ER  - 
+
+TY  - CONF
+TI  - Application of Artificial Neural Network in the Typhoon Flood Prediction System - A Case Study in Shanghai, China
+T2  - 2010 International Conference on Artificial Intelligence and Computational Intelligence
+SP  - 191
+EP  - 195
+AU  - L. Xiaodong
+AU  - G. Zhongyang
+AU  - X. Ran
+AU  - D. Xiaoyan
+AU  - H. Yizhi
+AU  - Y. Shufeng
+PY  - 2010
+KW  - Typhoons
+KW  - Storms
+KW  - Surges
+KW  - Floods
+KW  - Predictive models
+KW  - Artificial neural networks
+KW  - Geographic Information Systems
+KW  - ANN
+KW  - BP
+KW  - storm flood
+KW  - prediction
+DO  - 10.1109/AICI.2010.46
+JO  - 2010 International Conference on Artificial Intelligence and Computational Intelligence
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2010 International Conference on Artificial Intelligence and Computational Intelligence
+Y1  - 23-24 Oct. 2010
+AB  - In order to decrease the damages caused by typhoon, an Artificial Neural Network (ANN) model has been established to predict the trend of storm flood in Shanghai, China. The model has capacity to simulate the brain’s thinking process objectively and avoid the influence of the forecasters’ subjective judgment. The present model is capable to predict the 12-hour ahead typhoon surge deviation in high tide efficiently. At the same time, an intelligent storm-flood forecasting system is designed and built, and the system not only can predict the storm flood in the future 12 hours, but also is useful to mitigate the typhoon disasters in Shanghai. It has been proved that the ANN model is a new effective way to predict the storm surge, and the intelligent storm-flood forecasting system is a kind of new method to manage the typhoon disasters as well.
+ER  - 
+
+TY  - CONF
+TI  - Survey on Evaluation of Student's Performance in Educational Data Mining
+T2  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+SP  - 209
+EP  - 213
+AU  - S. N. Bonde
+AU  - D. K. Kirange
+PY  - 2018
+KW  - Data mining
+KW  - Decision trees
+KW  - Education
+KW  - Classification algorithms
+KW  - Conferences
+KW  - Databases
+KW  - Predictive models
+KW  - Education Data Mining
+KW  - Students Performance
+KW  - Data mining techniques
+KW  - Association rule
+DO  - 10.1109/ICICCT.2018.8473228
+JO  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+Y1  - 20-21 April 2018
+AB  - Educational information mining is rising field that spotlights on breaking down educational information to create models for enhancing learning encounters and enhancing institutional viability. Expanding enthusiasm for information mining and educational frameworks, make educational information mining as another developing exploration group. Educational Data Mining intends to remove the concealed learning from expansive Educational databases with the utilization of procedures and apparatuses. Educational Data Mining grows new techniques to find information from Educational database and it is utilized for basic decision making in Educational framework. The knowledge is hidden among the Educational informational Sets and it is extractable through data mining techniques. It is essential to think about and dissect Educational information particularly understudies execution. Educational Data Mining (EDM) is the field of study relates about mining Educational information to discover intriguing examples and learning in Educational associations. This investigation is similarly worried about this subject, particularly, the understudies execution. This study investigates numerous components theoretically expected to influence student's performance in higher education, and finds a subjective model which best classifies and predicts the student's performance in light of related individual and phenomenal elements.
+ER  - 
+
+TY  - CONF
+TI  - Sizing of Required Photovoltaic Array for a Building in Malaysia with Matlab
+T2  - 2011 Third International Conference on Computational Intelligence, Modelling & Simulation
+SP  - 283
+EP  - 287
+AU  - H. N. Afrouzi
+AU  - S. V. Mashak
+AU  - K. Mehranzamir
+AU  - B. Salimi
+PY  - 2011
+KW  - Arrays
+KW  - Photovoltaic systems
+KW  - Radiation effects
+KW  - Mathematical model
+KW  - Silicon
+KW  - Equations
+KW  - Photovoltaic Array
+KW  - Crystalline
+KW  - Solar Irradiation
+KW  - Matlab Software
+KW  - Sizing
+DO  - 10.1109/CIMSim.2011.57
+JO  - 2011 Third International Conference on Computational Intelligence, Modelling & Simulation
+IS  - 
+SN  - 2166-8531
+VO  - 
+VL  - 
+JA  - 2011 Third International Conference on Computational Intelligence, Modelling & Simulation
+Y1  - 20-22 Sept. 2011
+AB  - This article illustrates a simulation method to find a sizing and economic of a required photovoltaic array for a photovoltaic building in Malaysia. This paper represents the result using by Matlab software. It is known that the important factor for photovoltaic system is cost of a system, and because of several kinds of the photovoltaic array we have the right to elect the best array with the best efficiency. The popular types of materials are crystalline and thin films, which have differences in terms of light absorption efficiency, energy conversion efficiency, manufacturing technology and cost of production. Different kinds of crystalline materials like a mono-crystalline, polycrystalline are available. In this paper, the generated current and generated power by the photovoltaic array is calculated according to daily solar irradiation when the case study is Malaysia. Think over generated power of each array's and also according to required energy for a typically building, the number of photovoltaic array is estimated then the cost of the solar array is calculated. System is simulated by Matlab software, and the results are discussed. The simulation is about sizing in order to select the best array for photovoltaic system to have a optimize system according to size of the system.
+ER  - 
+
+TY  - CONF
+TI  - Survey on routing protocol for low-power and lossy networks
+T2  - 2015 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
+SP  - 1
+EP  - 5
+AU  - D. Gadde
+AU  - M. S. Chaudhari
+PY  - 2015
+KW  - Routing Protocol
+KW  - Low Power and Lossy Network
+KW  - IPv6
+KW  - WSN
+DO  - 10.1109/ICCIC.2015.7435775
+JO  - 2015 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
+Y1  - 10-12 Dec. 2015
+AB  - The reason for this review is to introduce a basic diagram of steering convention for low power and lossy system. Additionally talk about the points of interest and impediments of a convention and think about them. Wireless sensor networks are appealing to specialists because of their extensive variety of use potential in ranges, for example, target identification and tracking, environmental monitoring, industrial process monitoring, and strategic frameworks. On the other hand, lower sensing ranges result in dense networks, which bring the need to accomplish a proficient medium access protocol subject to power imperatives. The IPv6 directing convention for low-power and lossy systems (RPL) has been as of late standardized by the Engineering Task Force (IETF) steering convention for low-control and Lossy networks (ROLL) working social event to bolster IPv6 directing for asset compelled contraptions in the present day, home, additionally, metropolitan situations. Regardless, a couple studies have created the impression that RPL may experience low delivery rates, especially in extensive scale organizations. This paper gives an in-depth examination of the protocol attributes and outline decisions that create such lack of quality issues. In proposed work, we perform data compression and trust calculation which will reduce data sending time and also improves lossless data transmission.
+ER  - 
+
+TY  - CONF
+TI  - Software Solution for Monitoring and Analyzing Driver Behavior
+T2  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000345
+EP  - 000350
+AU  - A. Găvrută
+AU  - M. Marcu
+AU  - R. Bogdan
+PY  - 2018
+KW  - Sensors
+KW  - Acceleration
+KW  - Automobiles
+KW  - Accelerometers
+KW  - Gyroscopes
+KW  - Monitoring
+DO  - 10.1109/SACI.2018.8440948
+JO  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 17-19 May 2018
+AB  - Our goal is to contribute at solving the car accidents and car pollution problem and propose and application that analyzes the driver's actions along with the car parameters and gives as result a driving score and advice to improve the driving style. We think that by giving to the user a reliable driving score, he can relate to it and be aware that there might be some problems in his actions so he becomes more attentive.
+ER  - 
+
+TY  - CONF
+TI  - Research on Application of Local Fruit E-Commerce Based on Internet of Things
+T2  - 2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+SP  - 191
+EP  - 194
+AU  - Y. Huang
+AU  - C. Zhou
+AU  - N. Cao
+AU  - L. Zhou
+PY  - 2017
+KW  - Production
+KW  - Internet of Things
+KW  - Industries
+KW  - Government
+KW  - Monitoring
+KW  - Supply and demand
+KW  - Local Fruit
+KW  - E-Commerce
+KW  - Internet of Things
+DO  - 10.1109/CSE-EUC.2017.218
+JO  - 2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+Y1  - 21-24 July 2017
+AB  - Fruit industry occupies a pivotal position in agricultural production, unsalable fruit is a major issue related to people's livelihood. The research puts forward the construction of e-commerce service platform based on the analysis of the sales status of local fruit. The platform uses the sensor technology to achieve the fruit tree growth environment and the whole process of growth of technical guidance and safety monitoring to facilitate the quality of fruit traceability. The industrialization of local fruit can be achieve through the construction of fruit supply and demand platform to open up fruit network sales channels with Internet thinking and broaden local fruit market.
+ER  - 
+
+TY  - CONF
+TI  - Application of Luenberger's observer in RFPT-based adaptive control — A case study
+T2  - 2013 IEEE 14th International Symposium on Computational Intelligence and Informatics (CINTI)
+SP  - 365
+EP  - 369
+AU  - K. Kósi
+AU  - J. K. Tar
+AU  - T. Haidegger
+PY  - 2013
+KW  - Observers
+KW  - Mathematical model
+KW  - Adaptation models
+KW  - Equations
+KW  - Adaptive control
+KW  - Trajectory
+DO  - 10.1109/CINTI.2013.6705223
+JO  - 2013 IEEE 14th International Symposium on Computational Intelligence and Informatics (CINTI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 14th International Symposium on Computational Intelligence and Informatics (CINTI)
+Y1  - 19-21 Nov. 2013
+AB  - The traditional way of thinking in controller design prefers the use of the “state space representation” introduced by R. Kalman in the early sixties of the past century. This system description is in close relationship with linear or at least partly linear system in which the linear part can be used in forming a quadratic Lyapunov function in the stability proof. In the standard model of such systems it is assumed that the state of the system is not directly observable, only certain linear functions of the state variable are directly measurable. Since such approaches introduce certain feedback gains for the state variable, observers are needed that calculate the estimation of the state variable on the basis of directly measurable quantities. The Luenberger observers solve this task via introducing a differential equation for the estimated state. In order to avoid the mathematical difficulties of Lyapunov's “direct method” the “Robust Fixed Point Transformations (RFPT)” were introduced in a novel adaptive technique that instead of the state space representation directly utilized the available approximate model of the system to estimate its “response function”. In this approach it was assumed that the system's response is directly observable and an iterative sequence was generated by the use of “Banach's Fixed Point Theorem” that converged to an appropriate deformation of the rough initial model to obtain precise trajectory tracking. In the present paper it is shown that the Luenberger observers and the RFPT-based mathod can be combined in a more conventional approach of the adaptive controllers that are designed on the basis of finding appropriate feedback gains. Illustrative simulation examples are presented to substantiate this statement.
+ER  - 
+
+TY  - CONF
+TI  - Design of Virtual Instrument Software System Based on Nested State Machine
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 3
+AU  - M. Yin
+AU  - Y. Xu
+AU  - X. Li
+PY  - 2009
+KW  - Instruments
+KW  - Software systems
+KW  - System testing
+KW  - Logic testing
+KW  - Design engineering
+KW  - Large-scale systems
+KW  - History
+KW  - Equations
+KW  - Application software
+KW  - Logic programming
+DO  - 10.1109/CISE.2009.5363662
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - The objective of this work is the design of virtual instrument software system based on state machine. Through the introduction of the basic principles of it, state machine described in detail the working mechanism and its implementation in LabVIEW, combined with the a test system. With the development of practice, for the multi-state system, the nested state machine design-type thinking. Practice has proved that the use of nested state machine model of the structure of the development of complex large-scale test system can process more clearly the logic of relations have greatly enhanced software systems reliability, reusability and maintainability.
+ER  - 
+
+TY  - CONF
+TI  - A Nonlinear Ensemble Prediction Model Based on Genetic Algorithm for Calculation Wind of the Wind Assessment
+T2  - 2010 Third International Joint Conference on Computational Science and Optimization
+SP  - 471
+EP  - 475
+AU  - K. -p. Lin
+AU  - X. -y. Huang
+AU  - W. -l. Liang
+AU  - B. -l. Chen
+PY  - 2010
+KW  - Wind forecasting
+KW  - Predictive models
+KW  - Genetic algorithms
+KW  - Artificial neural networks
+KW  - Weather forecasting
+KW  - Artificial intelligence
+KW  - Wind speed
+KW  - Evolutionary computation
+KW  - Accuracy
+KW  - Neural networks
+KW  - neural network
+KW  - genetic algorithm
+KW  - ensemble prediction
+KW  - wind assessment
+KW  - wind calculation
+DO  - 10.1109/CSO.2010.13
+JO  - 2010 Third International Joint Conference on Computational Science and Optimization
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2010 Third International Joint Conference on Computational Science and Optimization
+Y1  - 28-31 May 2010
+AB  - Following the thinking clue of the ensemble prediction in numerical weather prediction (NWP), a novel nonlinear artificial intelligence ensemble prediction (NAIEP) model for calculation wind speed of Mountain Darong in Guangxi has been developed based on the multiple neural networks with identical expected output created by using the genetic algorithm (GA) of evolutionary computation. The results show that the calculation accuracy by the nonlinear ensemble model of genetic - neural network for wind field is significantly higher than the traditional multiple linear regression model. Thus in practical application the long time sequence data of wind could be calculate according to the short time sequence data of the observation through the ANN nonlinear ensemble model, therefore this model is better practicability and popularize value for it provide the basis to research the exploitation wind resources.
+ER  - 
+
+TY  - CONF
+TI  - The Machine Predicted Market
+T2  - 2018 International Conference on Computational Techniques, Electronics and Mechanical Systems (CTEMS)
+SP  - 256
+EP  - 260
+AU  - S. Taneja
+AU  - D. Garg
+AU  - M. V. Tarun Kumar
+AU  - T. Choudhury
+PY  - 2018
+KW  - Prediction algorithms
+KW  - Machine learning algorithms
+KW  - Market research
+KW  - Machine learning
+KW  - Predictive models
+KW  - High frequency
+KW  - Algorithmic Trading
+KW  - Stocks
+KW  - Machine Learning
+KW  - Assets
+KW  - Prediction
+DO  - 10.1109/CTEMS.2018.8769306
+JO  - 2018 International Conference on Computational Techniques, Electronics and Mechanical Systems (CTEMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Computational Techniques, Electronics and Mechanical Systems (CTEMS)
+Y1  - 21-22 Dec. 2018
+AB  - Today the people are getting more and more dependent on machines, from retail to media and from finance to security we have been taking help of machines everywhere. And today with more and more research on Machine Learning they are making our jobs more and more easier even they have started thinking for us. Such is the case with Finance industry, the machines are being used to predict the future of the stocks and they have been doing it far better than the best of investors in the Wall Street. But, sometimes they also fail and people have to pay for their failure. This paper represents a comprehensive review of how the Machine predicted or so called Algorithmic Trading works, its working models and its failure along with its future.
+ER  - 
+
+TY  - CONF
+TI  - Design of embedded system for tracking and locating the patient suffering from Alzheimer's disease
+T2  - 2014 IEEE International Conference on Computational Intelligence and Computing Research
+SP  - 1
+EP  - 5
+AU  - S. R. Bhagya Shree
+AU  - H. S. Sheshadri
+AU  - R. Shivakumar
+AU  - H. S. V. Kumar
+PY  - 2014
+KW  - Global Positioning System
+KW  - GSM
+KW  - Dementia
+KW  - Real-time systems
+KW  - Monitoring
+KW  - GPS
+KW  - GSM
+KW  - LCD
+KW  - Tracking System
+KW  - PSOC
+KW  - Alzheimer's disease
+DO  - 10.1109/ICCIC.2014.7238291
+JO  - 2014 IEEE International Conference on Computational Intelligence and Computing Research
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Computational Intelligence and Computing Research
+Y1  - 18-20 Dec. 2014
+AB  - The proposed project is to design a system to track and locate mobile Alzheimer's disease patients who suffer from lapses of memory and concentration. Alzheimer's disease is a type of dementia that causes problems with memory, thinking and behavior and is the most common form of dementia. It is a progressive disease, where dementia symptoms gradually make over a number of years. In these circumstances, tracking and locating a patient becomes very essential. In this paper the patient carries a tracking module that when queried from the caregiver, automatically locates itself by a GPS receiver, and then relays this information to the caregiver via GSM. The system is highly useful in tracking the patient's and informing the caregivers regarding their position.
+ER  - 
+
+TY  - CONF
+TI  - Planning, optimizing and analyzing of safety and maintenance for the critical role of emergency power plant in saudi healthcare facilities
+T2  - 2010 IEEE Region 8 International Conference on Computational Technologies in Electrical and Electronics Engineering (SIBIRCON)
+SP  - 499
+EP  - 506
+AU  - M. S. BenSaleh
+AU  - A. S. Hermache
+PY  - 2010
+KW  - Hospitals
+KW  - Preventive maintenance
+KW  - Generators
+KW  - Uninterruptible power systems
+KW  - Emergency power plant managerial work
+KW  - Safe environment
+KW  - Job training
+KW  - Skills challenges
+DO  - 10.1109/SIBIRCON.2010.5555378
+JO  - 2010 IEEE Region 8 International Conference on Computational Technologies in Electrical and Electronics Engineering (SIBIRCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE Region 8 International Conference on Computational Technologies in Electrical and Electronics Engineering (SIBIRCON)
+Y1  - 11-15 July 2010
+AB  - The Plant Hospitals Maintenance Department maintains the physical environment and provides related services to support medical centers is in reaching their goal of excellence in the delivery of healthcare and public service. Thus, health-care facilities exist to save lives, improve patient health, and reduce pain. Administrators rightly do not consider themselves to be power reliability experts. Yet without emergency power to ensure continuous power to medical equipment, the health-care facility's life-saving mission can be jeopardized, costs can soar, and the profitability of the facility, on which its continued existence depends, can be threatened. With hospitals becoming more electronic, more must be protected by emergency power. Hospital systems increasingly overlap electronically. Well-designed emergency power systems adapt to the changing environment. Emergency power is thus critical and is expensive but if medical center does not have electricity, that's even more expensive. We should think of everything electronic a hospital runs on: security, radiology, cat scans, and operating rooms. And, that's just the big stuff. This paper act as a direct resource for some management plans supporting the environment of Care which should provide a safe, functional, supportive, and effective environment for patients, staff members, and individuals who come to Saudi medical centers facilities. The aims of the survey (this paper) are to: Understand managerial work of the stand by emergency power plant. Determine their most essential functions, roles, skills, challenges and on-job training issues. Identify differences in perceptions and professional practice, based on their qualification and managerial experience. Address maintenance methods of the hospitals emergency power systems, emergencies and electric safety for all members of the hospital community.
+ER  - 
+
+TY  - CONF
+TI  - Improvement of students abilities for quality of software through personal software process
+T2  - 2017 International Conference on Innovations in Electrical Engineering and Computational Technologies (ICIEECT)
+SP  - 1
+EP  - 4
+AU  - S. Mansoor
+AU  - A. Bhutto
+AU  - N. Bhatti
+AU  - N. a. Patoli
+AU  - M. Ahmed
+PY  - 2017
+KW  - Organizations
+KW  - Software engineering
+KW  - Computer architecture
+KW  - Entrepreneurship
+KW  - Software quality
+KW  - Personal software process (PSP)
+KW  - Improve personal performance
+KW  - Architecture Design in PSP
+KW  - Testing Defect
+KW  - PSP Certification
+KW  - personal software Project Management
+KW  - Entrepreneurship
+KW  - Marketing and Management Communication (MMC)
+DO  - 10.1109/ICIEECT.2017.7916550
+JO  - 2017 International Conference on Innovations in Electrical Engineering and Computational Technologies (ICIEECT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Innovations in Electrical Engineering and Computational Technologies (ICIEECT)
+Y1  - 5-7 April 2017
+AB  - The personal software process (PSP) is a personal improvement of individual engineers in software process. The goal of PSP to develop the software with high quality software on time and in budget. We have research and found some topics for researchers, Ph.D students and others organization such as IEEE, ACM and ISO. In this paper, we discussed the topics that will help the self-improvement of student, individual business man, engineers, developers and others (ones they new in software engineering field) to develop the personal skills for managing the quality of software through PSP because software development has changed continuously. We describe the new view of the personal software process (PSP) in which maintains the quality of software. The authors analyzed the future evolution direction of PSP. They think modern software engineers will depends on personal software development skills.
+ER  - 
+
+TY  - CONF
+TI  - Too Many Markers, Revisited: An Empirical Analysis of Web-Based Methods for Overcoming the Problem of Too Many Markers in Zoomable Mapping Applications
+T2  - 2014 14th International Conference on Computational Science and Its Applications
+SP  - 121
+EP  - 125
+AU  - S. Meier
+AU  - F. Heidmann
+PY  - 2014
+KW  - Data visualization
+KW  - Heating
+KW  - Visualization
+KW  - Spatial databases
+KW  - Image color analysis
+KW  - Presses
+KW  - Google
+KW  - Geovisualization
+KW  - maps
+KW  - web
+KW  - study
+KW  - marker
+KW  - cluster
+KW  - heatmap
+DO  - 10.1109/ICCSA.2014.31
+JO  - 2014 14th International Conference on Computational Science and Its Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 14th International Conference on Computational Science and Its Applications
+Y1  - 30 June-3 July 2014
+AB  - The growing amount of available data is creating a need for mass-data visualizations in many areas. The mapping of large spatial data sets is not only of interest for experts anymore but moves into the domain of public applications with regard to the latest advances in web cartography. This creates a need for usable and understandable interactive techniques that allow the visualization and exploration of large spatial data sets. In a series of experiments we look at a variety of technologies aiming at overcoming the obstacle of displaying large spatial datasets in interactive mapping applications. In this short paper we will present our ongoing research on the methods of Marker Clusters, Heat maps and Tiled Heat maps as well as a quantitative and qualitative empirical evaluations of the performance of each of these methods. We conclude with what we think should be a new direction for further research in this area.
+ER  - 
+
+TY  - CONF
+TI  - Realization of reliable high speed data transfer over UDP with continuous storage
+T2  - 2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)
+SP  - 307
+EP  - 310
+AU  - S. Tibor
+AU  - P. Dukán
+AU  - B. Odadžíc
+AU  - O. Péter
+PY  - 2010
+KW  - Protocols
+KW  - Real time systems
+KW  - Data acquisition
+KW  - Embedded systems
+KW  - Digital signal processing
+KW  - Computer network reliability
+KW  - UDP stream
+KW  - real time data transfer
+KW  - dedicated computer networks
+KW  - I2S
+KW  - Netburner MOD5270
+DO  - 10.1109/CINTI.2010.5672228
+JO  - 2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)
+Y1  - 18-20 Nov. 2010
+AB  - When speaking about high speed transfer, generally one thinks of 1-10 Gbps throughput. At the same time in case of a low performance device, 10-20 Mibps is also considered as high speed. The present case discusses the MOD5270 Ethernet module by Netburner Inc. for the 147,5 MHz processor of which it was a challenge to achieve this speed. The plan was to achieve 48 Mibps, however, according to the manufacturer this device is capable of reaching only about half of this speed. This fact was proven over TCP, so only the UDP was able to fulfill the given requirements. In that case the task was to recover the lost packets, therefore our own protocol was developed.
+ER  - 
+
+TY  - CONF
+TI  - Creativity performance following exposure to music
+T2  - 2020 13th International Symposium on Computational Intelligence and Design (ISCID)
+SP  - 322
+EP  - 325
+AU  - C. Zhou
+AU  - C. Chai
+AU  - J. Shi
+AU  - J. Liao
+PY  - 2020
+KW  - Creativity
+KW  - Music
+KW  - Task analysis
+KW  - Psychology
+KW  - Cognition
+KW  - Biological system modeling
+KW  - Training
+KW  - Music
+KW  - creativity
+KW  - music tempo
+KW  - novice designer
+KW  - design tasks
+DO  - 10.1109/ISCID51228.2020.00078
+JO  - 2020 13th International Symposium on Computational Intelligence and Design (ISCID)
+IS  - 
+SN  - 2473-3547
+VO  - 
+VL  - 
+JA  - 2020 13th International Symposium on Computational Intelligence and Design (ISCID)
+Y1  - 12-13 Dec. 2020
+AB  - In this paper, we investigate the impact of music exposure on novice designers' creativity performance. We found that compared to without-music, exposure to fast-tempo music significantly improved their ideas' fluency and flexibility. These results indicate that exposure to fast-tempo music can enhance novice designers' performance on design tasks. As a low-cost and convenient way of promoting creative thinking, music could use in creativity education and training.
+ER  - 
+
+TY  - CONF
+TI  - Transparent Data Encryption: Comparative Analysis and Performance Evaluation of Oracle Databases
+T2  - 2020 Fifth International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)
+SP  - 137
+EP  - 142
+AU  - K. Natarajan
+AU  - V. Shaik
+PY  - 2020
+KW  - Databases
+KW  - Encryption
+KW  - Servers
+KW  - Random access memory
+KW  - Software
+KW  - Metadata
+KW  - Resource management
+KW  - Cyber-Attack
+KW  - TDE
+KW  - Cons of Encryption
+KW  - DBA
+DO  - 10.1109/ICRCICN50933.2020.9296168
+JO  - 2020 Fifth International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 Fifth International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)
+Y1  - 26-27 Nov. 2020
+AB  - This Transparent Data Encryption (TDE) can provide enormous benefits to the Relational Databases in the aspects of Data Security, Cryptographic Encryption, and Compliances. For every transaction, the stored data must be decrypted before applying the updates as well as should be encrypted before permanently storing back at the storage level. By adding this extra functionality to the database, the general thinking denotes that the Database (DB) going to hit some performance overhead at the CPU and storage level. However, The Oracle Corporation has adversely claimed that their latest Oracle DB version 19c TDE feature can provide significant improvement in the optimization of CPU and no overhead at the storage level for data processing. Impressively, it is true. the results of this paper prove too. Most interestingly the results also revealed about highly impacted components in the servers which are not yet disclosed in any of the previous research work. This paper completely concentrates on CPU, IO, and RAM performance analysis and identifying the bottlenecks along with possible solutions.
+ER  - 
+
+TY  - CONF
+TI  - Study of Eye Movement Behavior Pattern Diversity between Chinese Ethnic Groups
+T2  - 2015 IEEE International Conference on Computational Intelligence & Communication Technology
+SP  - 767
+EP  - 770
+AU  - D. Xiaodong
+AU  - L. Bo
+AU  - L. Peng
+AU  - G. Chunhong
+PY  - 2015
+KW  - Tracking
+KW  - Support vector machines
+KW  - Learning systems
+KW  - Training
+KW  - Accuracy
+KW  - Benchmark testing
+KW  - ethnic groups
+KW  - Tobii eye tracker
+KW  - eye movement behavior
+KW  - data mining
+DO  - 10.1109/CICT.2015.160
+JO  - 2015 IEEE International Conference on Computational Intelligence & Communication Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Computational Intelligence & Communication Technology
+Y1  - 13-14 Feb. 2015
+AB  - China is a country of many different ethnic groups since genetic, geographical and culture formation of a different customs and ways of thinking. In order to study the eye movement behavior when the different ethnic groups observe things, firstly, we use Tobii eye tracker to record the representation data from the different ethnic groups which are used to solve Sudoku problem. Meanwhile, the data from different ethnic groups were compressed into 16 dimensional data and constructed the data sets. Secondly, we analysis the diversity of eye movement behavior data sets derive from Buyi, Mongolian, Korean, Dong and Han five ethnics respectively. Furthermore, a variety of machine learning methods are explored to analysis the eye movement behavior data sets. The experimental results show that eye movement behavior diversity between different ethnic groups.
+ER  - 
+
+TY  - CONF
+TI  - Comprehensive Evaluation Analysis of Mine Gas Safety Based on Integrated Method
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 4
+AU  - H. T. Liu
+AU  - L. L. Li
+PY  - 2009
+KW  - Ventilation
+KW  - Accidents
+KW  - Product safety
+KW  - Technology management
+KW  - Humans
+KW  - Security
+KW  - Production
+KW  - Electrical safety
+KW  - Educational institutions
+KW  - Monitoring
+DO  - 10.1109/CISE.2009.5363588
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - There are some weaknesses in the traditional safety evaluation methods, such as, slow reasoning, low accuracy and so on, so thinking of a variety of factors which affect gas safety, a gas safety evaluation index system is built, which focuses on the state of gas, mine ventilation, gas monitoring, safety management and kindling. Combining the fuzzy comprehensive evaluation method with gray correlation method and BP neural network method, taking Hei Longjiang Longmay Group as an example, a gas safety evaluation in its five mines was made. The results show that using different integrated comprehensive evaluation methods to evaluate the gas safety in the same mine, the results are different. It requires decision-makers to consider many factors and adopt more appropriate and scientific methods when making a comprehensive evaluation, which makes a right decision.
+ER  - 
+
+TY  - CONF
+TI  - Memory Database Index Optimization
+T2  - 2010 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 3
+AU  - W. Guo
+AU  - Z. Hu
+PY  - 2010
+KW  - Indexes
+KW  - Complexity theory
+KW  - Memory management
+KW  - Real time systems
+KW  - Books
+DO  - 10.1109/CISE.2010.5676836
+JO  - 2010 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Computational Intelligence and Software Engineering
+Y1  - 10-12 Dec. 2010
+AB  - Index is used to improve the efficiency of database queries. Because the database needs to handle very large amount of data, while the memory is expensive, limited capacity, and the database must meet certain real-time, finding an effective design approach of the index is very necessary. This paper describes that through the B and T tree performance analysis during the process of designing the index, put forward the new thinking of improving the index, after doing the experiment, as allow the database to either use the B tree or use the T tree, in time and space, how to select both timely in order to enhance the query, insert, and delete efficiency of the database index.
+ER  - 
+
+TY  - CONF
+TI  - Compressed Sensing with uncertainty - the Bayesian estimation perspective
+T2  - 2015 IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)
+SP  - 421
+EP  - 424
+AU  - S. Bernhardt
+AU  - R. Boyer
+AU  - S. Marcos
+AU  - P. Larzabal
+PY  - 2015
+KW  - Dictionaries
+KW  - Uncertainty
+KW  - Bayes methods
+KW  - Estimation
+KW  - Context
+KW  - Compressed sensing
+KW  - Reactive power
+KW  - Compressed Sensing with Uncertainty
+KW  - Off-Grid effect and Basis Mismatch
+KW  - Bayesian estimation
+DO  - 10.1109/CAMSAP.2015.7383826
+JO  - 2015 IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)
+Y1  - 13-16 Dec. 2015
+AB  - The Compressed Sensing (CS) framework outperforms the sampling rate limits given by Shannon's theory. This gap is possible since it is assumed that the signal of interest admits a linear decomposition of few vectors in a given sparsifying Basis (Fourier, Wavelet, ...). Unfortunately in realistic operating systems, uncertain knowledge of the CS model is inevitable and must be evaluated. Typically, this uncertainty drastically degrades the estimation performance of sparse-based estimators in the low noise variance regime. In this work, the Off-Grid (OG) and Basis Mismatch (BM) problems are compared in a Bayesian estimation perspective. At first glance, we are tempted to think that these two acronyms stand for the same problem. However, by comparing their Bayesian Cramèr-Rao Bounds (BCRB) for the estimation of a L-sparse amplitude vector based on N measurements, it is shown that the BM problem has a lower BCRB than the OG one in a general context. To go further into the analysis we provide for i.i.d. Gaussian amplitudes and in the low noise variance regime an interesting closed-form expression of a normalized 2-norm criterion of the difference of the two BCRB matrices. Based on the analysis of this closed-form expression, we obtain two conclusions. Firstly, the two uncertainty problems cannot be confused for a non-zero mismatch error variance and with finite N and L. Secondly, the two problems turn to be similar for any mismatch error variance in the large system regime, i.e., for N, L → ∞ with constant aspect ratio N/L → ρ.
+ER  - 
+
+TY  - CONF
+TI  - Economic Evaluation of EOR Project Based on Options Differential Equation Method
+T2  - 2013 International Conference on Computational and Information Sciences
+SP  - 633
+EP  - 637
+AU  - P. Zhong
+AU  - W. Wei
+AU  - L. Wei
+PY  - 2013
+KW  - Investment
+KW  - Uncertainty
+KW  - Differential equations
+KW  - Economics
+KW  - Mathematical model
+KW  - Petroleum
+KW  - Production
+KW  - real options
+KW  - EOR project evaluation
+KW  - differential equations
+DO  - 10.1109/ICCIS.2013.174
+JO  - 2013 International Conference on Computational and Information Sciences
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Computational and Information Sciences
+Y1  - 21-23 June 2013
+AB  - China began to research the tertiary oil recovery process from the 1980s. This technology is very mature in the current, but the economic benefits for the EOR project evaluation studies are relatively less and simple, moreover, the evaluation method is single, almost all enterprises have chosen to use net present value method. But net present value method ignores the flexibility which is managed by the decision-makers under uncertainty, not suitable for oil field development investment project evaluation. Real option valuation and strategic decision-making are an important way of thinking, often used in the evaluation of oil exploration, but for oil and gas production, dynamic process of evaluation studies are rarely involved. As the EOR project has the option characteristics, this article will introduce the idea of real options to the EOR project and try to establish the differential equation model of the EOR project evaluation. Differential equations are used for tertiary oil recovery project to analyze the option value.
+ER  - 
+
+TY  - CONF
+TI  - The Electronic Commerce in the Era of Internet of Things and Big Data
+T2  - 2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+SP  - 360
+EP  - 363
+AU  - J. Liu
+AU  - L. Sun
+AU  - R. Higgs
+AU  - Y. Zhang
+AU  - Y. Huang
+PY  - 2017
+KW  - Big Data
+KW  - Industries
+KW  - Companies
+KW  - Advertising
+KW  - Market research
+KW  - Data analysis
+KW  - Big Date
+KW  - E-Commerce
+KW  - Alibaba.com
+DO  - 10.1109/CSE-EUC.2017.252
+JO  - 2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+Y1  - 21-24 July 2017
+AB  - Nowadays big data is being used to create wealth in many fields, in particular e-commerce is playing an increasing role in modern life and the role of big data in this sphere is constantly evolving. The demand for e-commerce is creating massive amounts of data all the time and traditional processing techniques and ways of thinking have been unable to cope with it. Thus big data methodology has the capacity to launch the e-commerce industry into a new era. This paper briefly introduces the theory of e-commerce and analyses the Chinese e-commerce industry's development. Then, it considers the future development of large data technology and the present state of big data. It also studies the impact of big data on the Chinese e-commerce industry and analyzes the current methods used by the industry on large amounts of data, using Alibaba.com as an example. Finally, the main impact of big data on the e-commerce industry is summarized,the challenges it faces in the future are considered and possible solutions to these problems are proposed.
+ER  - 
+
+TY  - CONF
+TI  - A Gravity-Base Objects' Weight Clustering Algorithm
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 6
+AU  - X. Wei
+PY  - 2009
+KW  - Clustering algorithms
+KW  - Partitioning algorithms
+KW  - Gravity
+KW  - Costs
+KW  - Shape
+KW  - Noise shaping
+KW  - Databases
+KW  - Sampling methods
+KW  - Performance analysis
+KW  - Computer networks
+DO  - 10.1109/CISE.2009.5364783
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - Although many clustering algorithms have been proposed so far, seldom was focused on weight of objects. They totally or partially ignore the fact that not all data objects are equally important with respect to the clustering purpose, and that data objects which are close and dense should have more influence to sub-cluster centroid. we think that the similarity or dissimilarity of two objects is not depend on all attributes with special need, some attributes should be use to measure the dissimilarity, others attributes should impact the centroid in other way. A new weighted clustering algorithm call GBWCA is proposed to deal with different objects weight. To evaluate the proposed algorithm, we use some real and artificial dataset to compare with other algorithm, we present performance comparisons of GBWCA versus k-means and show that GBWCA is consistently superior.
+ER  - 
+
+TY  - CONF
+TI  - Cardio Monitoring and Cardiac disease prediction using Machine Learning
+T2  - 2023 International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI)
+SP  - 1
+EP  - 6
+AU  - C. V. Ravikanth
+AU  - Kolangiammal
+AU  - K. Chegondi
+AU  - V. Gowtham
+PY  - 2023
+KW  - Temperature sensors
+KW  - Support vector machines
+KW  - Technological innovation
+KW  - Medical services
+KW  - Machine learning
+KW  - Predictive models
+KW  - Capacitive sensors
+KW  - Machine learning
+KW  - ECG sensor
+KW  - Temperature
+KW  - Heart Beat
+KW  - Glucose
+KW  - IOT sever
+KW  - SVM and KNN models
+KW  - Per-formance
+DO  - 10.1109/RAEEUCCI57140.2023.10134081
+JO  - 2023 International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI)
+Y1  - 19-21 April 2023
+AB  - As methodology has created and sensors have been scaled down, there have been endeavors to utilize contemporary innovation in different fields to work on the nature of human existence. One of the significant areas of examination that has been distinguished is the consideration of innovation in the medical services business. Individuals who require medical care administrations think that they are preposterously costly, particularly in creating nations. The main part involves utilizing sensors like ECG signal, Temperature, Glucose and heart beat sensors to distinguish a patient's vitals, the second sending information to cloud capacity, and the third conveying the noticed information for ML model like SVM and KNN to anticipate regardless of whether the individual having heart illness or not and then the performance of both the models are compared. The information might be seen from a distance, permitting a specialist or gatekeeper to screen a patient's wellbeing state even while they are not in the emergency clinic. The Web of Things (IoT) has been generally used to interface promptly accessible clinical assets and give patients with insightful, trustworthy, and viable medical care administrations.
+ER  - 
+
+TY  - CONF
+TI  - A Deep Learning Approach for Twitter Bot Detection
+T2  - 2022 1st International Conference on Computational Science and Technology (ICCST)
+SP  - 374
+EP  - 377
+AU  - J. K. Periasamy
+AU  - R. Srinidhi
+AU  - S. Srividhya
+PY  - 2022
+KW  - Deep learning
+KW  - Social networking (online)
+KW  - Scientific computing
+KW  - Blogs
+KW  - Semantics
+KW  - Metadata
+KW  - Chatbots
+KW  - Deep learning
+KW  - Artificial Intelligence
+KW  - Transformers
+KW  - Bot Detection
+DO  - 10.1109/ICCST55948.2022.10040412
+JO  - 2022 1st International Conference on Computational Science and Technology (ICCST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 1st International Conference on Computational Science and Technology (ICCST)
+Y1  - 9-10 Nov. 2022
+AB  - Twitter, a social networking platform allows users to convey their ideas. on a wide range of topics, including politics, sports, the stock market, and entertainment. It has a big influence on how people think. A bot on Twitter sends spam messages. As a result, detecting bots aids in spam detection. In this paper, the detection of twitter bots using Deep Learning methods is addressed. At present, the used models aren't updated with latest datasets and have reduced accuracy and some aren't multilingual. A final classifier, Bot-DenseNet, is built on a dense neural network on combining additional metadata with text encodings. Existing methods consider metadata information or along with some semantic features of text in encoding the user account. It will be trained and then verified using extensive data sets collected from Kaggle and twitter API. Subsequently, comparison between the performance of the Bot-DenseNet and Bag-of-Words model is also analyzed.
+ER  - 
+
+TY  - CONF
+TI  - Alzheimer's disease detection through Deep learning techniques: A Study
+T2  - 2022 1st International Conference on Computational Science and Technology (ICCST)
+SP  - 429
+EP  - 434
+AU  - M. Thamizharasi
+AU  - M. Lakshmi
+PY  - 2022
+KW  - Deep learning
+KW  - Analytical models
+KW  - Machine learning algorithms
+KW  - Scientific computing
+KW  - Magnetic resonance imaging
+KW  - Interference
+KW  - Feature extraction
+KW  - Alzheimer's disease
+KW  - Machine learning
+KW  - Image processing
+KW  - Deep learning
+KW  - brain disorders
+DO  - 10.1109/ICCST55948.2022.10040274
+JO  - 2022 1st International Conference on Computational Science and Technology (ICCST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 1st International Conference on Computational Science and Technology (ICCST)
+Y1  - 9-10 Nov. 2022
+AB  - Alzheimer's disease is one of the commonly occurring disease in which the common cause of dementia called as memory loss will happen resiliently and damage the brain activity. It also produces cognitive abilities and serious impact of interference with the day today life. Disease contains 60% to 80% of dementia cases in the early stages are predicted and further actions are initiated to alert the patient behaviour from abnormal activity. The direct impact of Alzheimer's disease (AD) interfere with the regular activity and make complexity in making decisions, thinking capability, problem solving and speaking. The evaluation of artificial intelligence (AI) created numerous ways of analysing strategies, helpful for making the early prediction. In spite of image processing technology, Machine learning models are created to analyse the disease features, symptoms, Chronic records to perform AD detection. The role of deep learning algorithm incorporated with image processing, deep feature extraction, and deep feature fusion enhances the scope of research in AD analysis. Further the benefit of deep learning algorithm to provide search detection mechanism. The presented study discusses various criteria of AD detection and tabulated the findings.
+ER  - 
+
+TY  - CONF
+TI  - Virtual Office Life Desktop Game Application
+T2  - 2011 First International Conference on Informatics and Computational Intelligence
+SP  - 83
+EP  - 87
+AU  - R. Ginanjar
+AU  - C. S. M. Zebua
+PY  - 2011
+KW  - Games
+KW  - Mood
+KW  - Interviews
+KW  - Motion pictures
+KW  - Keyboards
+KW  - Encyclopedias
+KW  - Teleworking
+KW  - Office life game
+KW  - virtual game
+DO  - 10.1109/ICI.2011.24
+JO  - 2011 First International Conference on Informatics and Computational Intelligence
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 First International Conference on Informatics and Computational Intelligence
+Y1  - 12-14 Dec. 2011
+AB  - Office Life Game is one kind of virtual game that has working activities like in the real office. Through this game, the player can get some experiences about how to work in office. It starts from the interview session until players become an employee and finished the story. As the time management games, in this game, players have to finish the job with the limitation time, so players need to manage their time to finish the job on time. The office life game helps the players to understand that the situation in the real office is not easy as they think. The objective of this paper is to create a virtual office life game for desktop application. This game starts from the interview session which is the player has to answer the questions like in the real interview, deliver the task to the other employee, go to the shop for buying the office tools, and copy the files. Beside players have to do some job, they have to watch the mood meter too. People can enjoy this game free, anytime, anywhere, without the internet connection, with the interesting character and scenario.
+ER  - 
+
+TY  - CONF
+TI  - Power Systems Intrusion Detection Using Novel Wrapped Feature Selection Framework
+T2  - 2020 7th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)
+SP  - 446
+EP  - 450
+AU  - G. Zhiqiang
+AU  - C. Yuan
+AU  - H. Yongming
+PY  - 2020
+KW  - Training
+KW  - Support vector machines
+KW  - Adaptation models
+KW  - Intrusion detection
+KW  - Power system stability
+KW  - Feature extraction
+KW  - Stability analysis
+KW  - Power systems intrusion detection
+KW  - Wrapped feature selection
+KW  - Machine learning
+DO  - 10.1109/ICCSS52145.2020.9336831
+JO  - 2020 7th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)
+IS  - 
+SN  - 2639-4235
+VO  - 
+VL  - 
+JA  - 2020 7th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)
+Y1  - 13-15 Nov. 2020
+AB  - The power system measurement data has high-dimensional features and strong noise, which is difficult to be directly used for intrusion detection. Traditional feature extraction and selection methods take the feature processing as a preprocessing step and perform separately from the model training, which makes the features not well adapted to the model. Therefore, we propose a novel wrapped feature selection framework based on the Las Vegas algorithm, which can improve the detection accuracy by strengthening the coupling between the feature selection and the model training. The Las Vegas algorithm can evaluate a feature subset through a specified model. In this paper, a heuristic thinking is integrated into the Las Vegas algorithm, which greatly improves the search performance of the original method. Finally, the proposed framework is examined on the IEEE 14-bus, 39-bus and 57-bus test systems for two attacks and the experimental results proves the effectiveness and stability of the proposed framework.
+ER  - 
+
+TY  - CONF
+TI  - A Nonlinear Artificial Intelligence Ensemble Prediction Model Based on EOF for Typhoon Track
+T2  - 2011 Fourth International Joint Conference on Computational Sciences and Optimization
+SP  - 1329
+EP  - 1333
+AU  - X. -y. Huang
+AU  - L. Jin
+AU  - X. -m. Shi
+PY  - 2011
+KW  - Predictive models
+KW  - Typhoons
+KW  - Genetics
+KW  - Mathematical model
+KW  - Analytical models
+KW  - Artificial neural networks
+KW  - Meteorology
+KW  - EOF
+KW  - ensemble prediction
+KW  - genetic algorithm
+KW  - neutral network
+KW  - typhoon track
+DO  - 10.1109/CSO.2011.48
+JO  - 2011 Fourth International Joint Conference on Computational Sciences and Optimization
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 Fourth International Joint Conference on Computational Sciences and Optimization
+Y1  - 15-19 April 2011
+AB  - Using the capability of extraction the main signal feature from meteorological fields with random noise, and eliminate random disturbance by principal component analysis with conducted on empirical orthogonal functions(EOF), and following the thinking clue of the ensemble prediction in numerical weather prediction (NWP), a novel nonlinear artificial intelligence ensemble prediction (NAIEP) model has been developed based on the multiple neural networks with identical expected output created by using the genetic algorithm (GA) of evolutionary computation. Basing on the sample of typhoon in July from 1980 to 2009 for 30 years in the South China Sea, setting up the genetic neural network (GNN) ensemble prediction (GNNEP) model which selecting the predictors by the method of Stepwise regression and EOF both in the predictors of climatology persistence and Numerical forecasting(NWP) products to predict the typhoon track. The mean error for 24 hours of this new model is 125.7km, and the results of prediction experiments showed that the NAIEP model is obviously more skillful than the climatology and persistence (CLIPER) model with the circumstance of identical predictors and sample cases.
+ER  - 
+
+TY  - CONF
+TI  - Cyberbullying detection and classification with improved IG and BiLSTM
+T2  - 2022 International Conference on Electronics and Devices, Computational Science (ICEDCS)
+SP  - 259
+EP  - 262
+AU  - M. Xin
+AU  - J. Shen
+AU  - P. Hao
+PY  - 2022
+KW  - Scientific computing
+KW  - Blogs
+KW  - Neural networks
+KW  - Cyberbullying
+KW  - Feature extraction
+KW  - Classification algorithms
+KW  - cyberbullying
+KW  - bidirectional LSTM
+KW  - information gain
+DO  - 10.1109/ICEDCS57360.2022.00065
+JO  - 2022 International Conference on Electronics and Devices, Computational Science (ICEDCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Electronics and Devices, Computational Science (ICEDCS)
+Y1  - 20-22 Sept. 2022
+AB  - Twitter is a microblogging and social networking service platform; users can post what they feel and think about to share with others. Although it facilitates users' social behaviour, a high degree of freedom of speech also leads to cyberbullying. The statement released by UNICEF showed that 36.5% of middle and high school students experienced cyberbullying, and 87% observed cyberbullying. Cyberbullying has greatly affected people's daily lives. We conduct this study to detect whether online comments contain cyberbullying behaviours and classify cyberbullying to alleviate this problem. This paper uses an improved information gain algorithm for feature selection, and the bidirectional LSTM neural network is used for classification. On the premise that the information gain threshold is limited to 0.0004, the precision on the test set can reach 95.15%.
+ER  - 
+
+TY  - CONF
+TI  - A Preliminary Research and Implementation of a Hierarchical High Availability Network Disaster-Tolerant System
+T2  - 2011 International Conference on Computational and Information Sciences
+SP  - 769
+EP  - 772
+AU  - X. Mao
+AU  - X. Chen
+AU  - Y. Yang
+PY  - 2011
+KW  - Servers
+KW  - Availability
+KW  - Storage area networks
+KW  - Algorithm design and analysis
+KW  - Heart beat
+KW  - Detection algorithms
+KW  - IP networks
+KW  - Disaster-Tolerance
+KW  - High Availability
+KW  - Failure detection
+KW  - System migration
+DO  - 10.1109/ICCIS.2011.81
+JO  - 2011 International Conference on Computational and Information Sciences
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Conference on Computational and Information Sciences
+Y1  - 21-23 Oct. 2011
+AB  - Nowadays, data security and business continuity of information system become the hot spot of research. According to the fact of disaster occurrence frequently of information system, based on the thinking of high-availability, from the view of hierarchy, a network disaster-tolerant system is designed. The system is divided into three levels, which are Client Network Level, Server Level and SAN Level. Combined with Chen-FD algorithm and a new heartbeat failure detection algorithm, applied with IP service migration fail-over algorithm, this paper designs a local high availability server system and a remote disaster-tolerant server system in Server Level. In SAN Level, SAN mechanism is studied and improved, and Address Translation module is added in SAN server. A new data replication algorithm CB_DR is put forward and described in detail. Finally, a simulated system is realized and proves the high availability and satisfaction of user's requirement. This paper does some preliminary study of disaster-tolerant framework designing, and beneficial research of heartbeat detection and service migration and data replication, and makes a foundation of next work.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent referee system in Robot-Soccer Games based on conditional event algebra
+T2  - 2009 Asia-Pacific Conference on Computational Intelligence and Industrial Applications (PACIIA)
+SP  - 34
+EP  - 37
+AU  - Yanduo Zhang
+AU  - Li Peng
+AU  - Feng Min
+AU  - Deng Chen
+PY  - 2009
+KW  - Intelligent robots
+KW  - Intelligent systems
+KW  - Algebra
+KW  - conditional event algebra
+KW  - intelligent referee
+DO  - 10.1109/PACIIA.2009.5406591
+JO  - 2009 Asia-Pacific Conference on Computational Intelligence and Industrial Applications (PACIIA)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2009 Asia-Pacific Conference on Computational Intelligence and Industrial Applications (PACIIA)
+Y1  - 28-29 Nov. 2009
+AB  - In Robot-Soccer games, the intelligent referee system which is used to replace the human referee can perfectly simulate the thinking of human being. This paper presents an intelligent referee system, where we employ the conditional event algebra theory to make intelligent decision. In our system, we first estimate the single purpose of robots and overall purpose by searching the maximal probability of scheduled rules. Then we estimate the overall situation by calculating the favorable value according to the position and direction of ball, the home robots and the opponent robots. Combining the single and overall purpose with the field situation, we give the final results. In the experiments, the intelligent referee system based on conditional event algebra outputs satisfactory results.
+ER  - 
+
+TY  - CONF
+TI  - Application of Internet of Things Optimization Engine Based on RETE Algorithm in English Interactive Teaching
+T2  - 2023 International Conference on Electronics and Devices, Computational Science (ICEDCS)
+SP  - 254
+EP  - 259
+AU  - H. Li
+PY  - 2023
+KW  - Protocols
+KW  - Scientific computing
+KW  - Simulation
+KW  - Education
+KW  - Real-time systems
+KW  - Sensors
+KW  - Internet of Things
+KW  - English interactive teaching
+KW  - Internet of things
+KW  - Optimization engine
+DO  - 10.1109/ICEDCS60513.2023.00052
+JO  - 2023 International Conference on Electronics and Devices, Computational Science (ICEDCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Electronics and Devices, Computational Science (ICEDCS)
+Y1  - 22-24 Sept. 2023
+AB  - Interaction is a process in which two or more people exchange thoughts and feelings with each other, transmit information and influence both sides. Class interaction refers to the interaction between teachers, students and students in the special environment of classroom. IoT is a network that connects any goods with the Internet through various information sensing devices according to the agreed protocol, and carries out information exchange and communication, so as to realize intelligent identification, positioning, tracking, monitoring and management. Applying the conceptual model and thinking mode of the Internet of Things (IoT) to English Language Teaching (ELT) can also get good results, which leads to the change of ELT mode. This paper analyzes the shortcomings of the current IoT technology application process, and expounds the application of IoT optimization engine based on RETE algorithm in university ELT process. The simulation results show that the accuracy of IoT optimization engine based on RETE algorithm is higher than that of traditional algorithm. With the increase of the number of experiments, the accuracy of RETE algorithm is stable at about 95%, and the real-time wavelength tends to be stable. Therefore, applying the IoT optimization engine based on RETE algorithm to English interactive teaching can make IoT technology play a more active role in ELT in universities and achieve better implementation effect.
+ER  - 
+
+TY  - CONF
+TI  - Design and verification of the industrial robot effector with use of rapid prototyping method
+T2  - 2013 IEEE 8th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 99
+EP  - 102
+AU  - J. Novak-Marcincin
+AU  - M. Janak
+AU  - J. Barna
+AU  - L. Novakova-Marcincinova
+PY  - 2013
+KW  - Printing
+KW  - Solid modeling
+KW  - Prototypes
+KW  - Assembly
+KW  - Service robots
+KW  - Production
+DO  - 10.1109/SACI.2013.6608946
+JO  - 2013 IEEE 8th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 8th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 23-25 May 2013
+AB  - Designing of effectors of industrial robots is a creative constructional activity, where the engineering experiences and thinking can be support by use of created prototypes. Among the effective ways of prototype production of robotic effectors there are Rapid Prototyping methods. Paper describes the creation process of a simple effector prototype in order to realize the verification of its dimensions.
+ER  - 
+
+TY  - CONF
+TI  - Experimenting with neutrosophic ontologies for medical data classification
+T2  - 2015 IEEE Workshop on Computational Intelligence: Theories, Applications and Future Directions (WCI)
+SP  - 1
+EP  - 6
+AU  - K. Bhutani
+AU  - S. Aggarwal
+PY  - 2015
+KW  - Ontologies
+KW  - Fuzzy logic
+KW  - Training
+KW  - Testing
+KW  - Medical services
+KW  - Uncertainty
+KW  - Meteorology
+KW  - Classification
+KW  - fuzzy ontology
+KW  - neutrosophic ontology
+DO  - 10.1109/WCI.2015.7495535
+JO  - 2015 IEEE Workshop on Computational Intelligence: Theories, Applications and Future Directions (WCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Workshop on Computational Intelligence: Theories, Applications and Future Directions (WCI)
+Y1  - 14-17 Dec. 2015
+AB  - Ontology helps us to think about the real world with its semantic constraints. But there exist different uncertainties and ambiguities that cannot be considered using traditional ontologies. This paper mainly deals with classification using fuzzy ontology and Neutrosophic ontology. Classification based on Neutrosophic ontology incorporates Neutrosophic logic for its working and is compared with classification based on fuzzy ontology on appendicitis dataset from Knowledge extraction based on evolutionary learning.
+ER  - 
+
+TY  - CONF
+TI  - A Mathematical Educational Game Application for Primary School Slow Learner
+T2  - 2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM)
+SP  - 348
+EP  - 353
+AU  - N. S. B. Kamarulzaman
+AU  - D. N. E. Phon
+AU  - M. S. Baharuddin
+PY  - 2021
+KW  - Analytical models
+KW  - Scientific computing
+KW  - Education
+KW  - Games
+KW  - Tools
+KW  - Mathematics
+KW  - Information management
+KW  - educational game
+KW  - STEM
+KW  - game based learning
+KW  - slow learner
+KW  - gamification
+KW  - special education
+DO  - 10.1109/ICSECS52883.2021.00070
+JO  - 2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM)
+Y1  - 24-26 Aug. 2021
+AB  - Slow learner is a person who has low level intelligence of thinking skills compared to other people at average age rate. In Malaysia, slow learners have been recognized as students who need special education. The Ministry of Education has created classes for special needs in several schools in order to help them in learning. In class, slow learner students have difficulty in memorizing and understanding a topic especially in mathematics. Using a new technology as educational tools will help them in better understanding of a concept. Implementing educational game applications in learning will help them more focus and enjoy. However, educational games that focus on mathematics for slow learners are rarely found. Therefore, the aim of this paper is to develop an educational game for primary school slow learners that focus on mathematics. This project implements the ADDIE model for the development of the project. There are five phases including this model which are Analysis, Design, Development, Implementation and Evaluation. The testing and evaluation had been conducted at school at Temerloh, Pahang involved slow learner’s students and a teacher. The result indicated that the students and teacher give positive feedback and they agree that this application helps the slow learner to get better understanding in mathematics subjects.
+ER  - 
+
+TY  - CONF
+TI  - Taxonomy QoS-aware service provisioning in IoT Techniques
+T2  - 2022 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT)
+SP  - 1
+EP  - 4
+AU  - S. Pachar
+AU  - H. Sharma
+AU  - A. Kumar Shrivas
+AU  - G. Garg
+AU  - S. Vijayvargiya
+AU  - P. Singh
+PY  - 2022
+KW  - Cloud computing
+KW  - Taxonomy
+KW  - Quality of service
+KW  - Planning
+KW  - Meteorology
+KW  - IoT Provisioning
+KW  - IoT Services
+KW  - Resource maintenance
+KW  - QoS Resources
+KW  - IoT simulator
+DO  - 10.1109/CISCT55310.2022.10046490
+JO  - 2022 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT)
+Y1  - 23-24 Dec. 2022
+AB  - Cloud computing has arisen as a correlative response to deal with the troubles stood up to in figuring. While dispensed computing lets in us to greater deal extra with time/delay-delicate IoT functions (e.g., wise frameworks and ill-disposed climate), there is a scope of practical difficulties. For instance, the asset-compelled nature of mist hubs and heterogeneity of IoT occupations entangle endeavors to proficiently timetable errands. In this manner, to greater clean out time/delay-delicate unique IoE demands, the creators contribute by using imparting a sharp layer between IoE devices and haze hubs to contain a speedy and versatile learning-based mission planning strategy. We cautiously think about the exhibition of the proposed procedure the utilization of reproduction, as pleasantly as its accuracy the use of formal confirmation. The difference discoveries are promising, each in expressions of solidarity utilization and Quality of Service (QoS).
+ER  - 
+
+TY  - CONF
+TI  - Intrusion detection System based on Hybrid Whale-Genetic Algorithm
+T2  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+SP  - 822
+EP  - 825
+AU  - R. Bilaiya
+AU  - R. M. Sharma
+PY  - 2018
+KW  - Genetic algorithms
+KW  - Intrusion detection
+KW  - Whales
+KW  - Sociology
+KW  - Statistics
+KW  - Optimization
+KW  - IDS
+KW  - Genetic Algorithm
+KW  - Whale Optimization Algorithm
+KW  - Hybrid
+DO  - 10.1109/ICICCT.2018.8473082
+JO  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+Y1  - 20-21 April 2018
+AB  - As the community is now a days moving rapidly towards the cloud, its security is something we really need to think and research about. The problem of security is as old as the internet is, and hence a number of solutions for the problem has also been thought of. Many of the various solutions consists using firewalls for the network or in the host, anti-malware programs installed on the system, packet-sniffing techniques for detection of malicious entities as well as fake traffic, pattern and signature matching techniques for various files that the system has to deal with every now and then. One of these is solutions is deploying Intrusion Detection System (IDS) in the network. Here, we have devised a model that will be able to find any unwanted intrusions in the network. For this, we have employed Genetic Algorithm (GA) with the Whale Optimization Algorithm which we will see is an effective algorithm to use. In the first step, an Intrusion Detection System (IDS) is built using GA with natural selection method. The proposed hybrid algorithm in this scheme is then tested for the detection of malicious network traffic date set.
+ER  - 
+
+TY  - CONF
+TI  - A Robust Algorithm for the Detection of Cloning Forgery
+T2  - 2018 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
+SP  - 1
+EP  - 6
+AU  - T. Kaur
+AU  - A. Girdhar
+AU  - G. Gupta
+PY  - 2018
+KW  - Forgery
+KW  - Principal component analysis
+KW  - Cloning
+KW  - Feature extraction
+KW  - Digital images
+KW  - Matlab
+KW  - Images
+KW  - Digital Image Forensics
+KW  - Passive
+KW  - Copy Move Forgery
+KW  - Principle Component Analysis
+KW  - Grey Level Co-occurrence Matrix
+DO  - 10.1109/ICCIC.2018.8782292
+JO  - 2018 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
+IS  - 
+SN  - 2473-943X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
+Y1  - 13-15 Dec. 2018
+AB  - Today's era is of the digital images, what we think, imagined is created in the form of digital images. The forgery detection is technique which can detect the cloning from the images. The availability of different images, editing tools have made it easier for a common user to mislead the images and create digital fake images from it. The forgery detection has various techniques like active and passive techniques, moreover the properties like analysis, classification etc, are used to identify the forgery. The work presented in this paper is based on cloning forgery detection. The cloning forgery technique is one of the type of forgery detection techniques in which some area of the image is copied and moved to some another area of the same image which is not easy for the naked eyes to detect easily. The PCA (Principle Component Analysis) technique is used to find the mismatched pixels from the image. In the presented work, the GLCM (Grey Level Co-occurrence Matrix) technique is applied with the PCA for the forgery detection. The proposed work is implemented in MATLAB and results are analyzed in terms of PSNR, Recall, Precision and accuracy. In the presented work, the results are better due to less fault rate or able to recover two different attacks (Gaussian noise and motion blur). It is analyzed that the proposed algorithm performs well as compared to the existing algorithm. In existing method the results of their parameters like accuracy were less accurate then proposed method. Moreover, the proposed method achieves more accuracy precession and recall.
+ER  - 
+
+TY  - CONF
+TI  - Simplified Secure Wireless Railway for Public Transport
+T2  - 2013 Fifth International Conference on Computational Intelligence, Communication Systems and Networks
+SP  - 77
+EP  - 82
+AU  - J. Merja
+AU  - S. Shah
+PY  - 2013
+KW  - Fingerprint recognition
+KW  - GSM
+KW  - Thumb
+KW  - Software
+KW  - Rail transportation
+KW  - Europe
+KW  - Biometrics
+KW  - Fingerprint
+KW  - GSM
+KW  - Railway
+KW  - Security
+DO  - 10.1109/CICSYN.2013.78
+JO  - 2013 Fifth International Conference on Computational Intelligence, Communication Systems and Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 Fifth International Conference on Computational Intelligence, Communication Systems and Networks
+Y1  - 5-7 June 2013
+AB  - In the New era of technology all system has to be updated, Indian Railway is the 2nd largest Rail Network in India it is the backbone of public and goods transport in India. Bulk of long distance traffic is carried by the Indian Railway. RFID system at many transport system so we think to implement biometrics in our research and then decided to use fingerprint module also for the add-on for user flexibility using GSM module for Communication purpose of sending and receiving message. In our Project Research we are trying to minimize railway Reservation Fraud and give more facility to traveler and improve society. Also simplify the Reservation System in that we will take fingerprint of the person who goes for reservation/ticket booking and help a lot humanitarian by this innovative technology. Standalone module which contains Finger Print Module verify the person's identity. Using GSM before the journey message will be send to the user with information. At time of journey Ticket checker will verify fingerprint with previously stored data using standalone module as a part of verification. By this more number of paper will be saved by that can help Railway in increasing their income by saving cost of paper. No need to carry identity proof. Due to this complicated and bulky reservation and transport system can be corrected.
+ER  - 
+
+TY  - CONF
+TI  - User Oriented Approach to Website Navigation Concept Using Mathematical Model
+T2  - 2015 International Conference on Computational Intelligence and Communication Networks (CICN)
+SP  - 1431
+EP  - 1435
+AU  - S. S. Thorat
+AU  - P. More
+PY  - 2015
+KW  - Navigation
+KW  - Mathematical model
+KW  - Mathematical programming
+KW  - Load modeling
+KW  - Web sites
+KW  - Usability
+KW  - Maintenance engineering
+KW  - Mathematical programming model
+KW  - mini session
+KW  - Path threshold
+KW  - user navigation
+KW  - web mining
+DO  - 10.1109/CICN.2015.276
+JO  - 2015 International Conference on Computational Intelligence and Communication Networks (CICN)
+IS  - 
+SN  - 2472-7555
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Computational Intelligence and Communication Networks (CICN)
+Y1  - 12-14 Dec. 2015
+AB  - Web sites are most effective when they meet both the contents and usability needs of their users. Due to tremendous growth of web application, it increases the complexity of web applications and web navigation. Website design is easy task but, to navigate user efficiently is big challenge, one of the reason is user behavior is keep changing and web developer or designer not think according to user's behavior. Designing well-structured websites to facilitate effective user navigation patterns has long been a challenge in web usage mining with various applications like navigation prediction and improvement of website management. Different methods have been proposed to reorganize Web Pages to improve users navigation using users navigation data but it still causes disorienting users and increases user's cognitive load. There is a need to improve the efficiency and the performance of a website for effective user navigation. Through this Paper we will propose Mathematical programming model to improve user navigation while minimizing alteration to current structure. Optimal solution can be very quickly obtained. We are minimizing unnecessary changes to the present structure of a Web site and hence can be applied for Web site maintenance on a regular basis.
+ER  - 
+
+TY  - CONF
+TI  - The Trust Measurement Algorithm of Agent Internetware for Architecture-Centric Evolution Model
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 4
+AU  - X. Xia
+AU  - B. Cao
+AU  - J. Yu
+PY  - 2009
+KW  - Logic
+KW  - Decision making
+KW  - Computer architecture
+KW  - Web and internet services
+KW  - Connectors
+KW  - Power system modeling
+KW  - Feedback
+KW  - Flexible structures
+KW  - Buildings
+KW  - Network topology
+DO  - 10.1109/CISE.2009.5364233
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - Architecture-centric system is the logical model about self-adaptive goal's achievement of software. Based on this concept, requirement service is the driven power, the strategy definition of self-learning and self-(decision-making) is viewed as inner evolution of architecture's business mechanism. Agent is the basic internetware granularity of architecture, it is to build an architecture-centric reaction and evolution implementation sequence. Dividing agent's learning and decision-making thinking elements, from the center nerve point of trusts, autonomous "feedback learning" measurement process is designed, furthermore, evolutes and constricts the flexible structure of architecture.
+ER  - 
+
+TY  - CONF
+TI  - An Approach for Storing and Retrieving Health Informatics Big Data
+T2  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+SP  - 1017
+EP  - 1021
+AU  - M. Yalini
+AU  - S. Sridevi
+PY  - 2018
+KW  - Medical services
+KW  - Servers
+KW  - Cloud computing
+KW  - Big Data
+KW  - Relational databases
+KW  - Cryptography
+KW  - Healthcare System
+KW  - Relational database
+KW  - NOSQL
+KW  - Cloud Computing
+DO  - 10.1109/ICICCT.2018.8473032
+JO  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
+Y1  - 20-21 April 2018
+AB  - The quantity of healthcare information, which include distinct and variable text sorts, sounds, and photographs is increasing daily. Consequently, the garage and processing of this information is a necessary and difficult difficulty. Generally, relational databases are used for storing fitness records which aren't capable of managing the huge and numerous nature of them. Then, the statistics have been dispensed with the database via making use of the Shared belongings. The thinking about question time, statistics education, flexibility, and extensibility parameters. Additionally, the outcomes showed that the supplied version approximately accomplished similar to the SQL Server for reading the question at the same time as it acted more efficaciously than SQL Server for write queries. In presenting version changed into extra powerful for dealing with health statistics then relational database.
+ER  - 
+
+TY  - CONF
+TI  - Simulation and Experiment Study of Hydraulic Buffer of Track Vehicle
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 5
+AU  - M. Pang
+AU  - R. -m. Wu
+AU  - M. -x. Xie
+PY  - 2009
+KW  - Pistons
+KW  - Testing
+KW  - Springs
+KW  - Vehicle dynamics
+KW  - Shock absorbers
+KW  - Damping
+KW  - Analytical models
+KW  - Deformable models
+KW  - Temperature sensors
+KW  - Automotive engineering
+DO  - 10.1109/CISE.2009.5364885
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - Thinking of structure parameters, such as area of theittling orifice, fit clearance between piston spherical surface and cylinder wall, the model of hydraulic buffer used for track vehicle was built, dynamic characteristic and influencing factor of hydraulic buffer was simulated. A hydraulic buffer used in a type of track vehicle was test in hydraulic buffer performance rig. Results show hydraulic buffer characteristics are related to structural parameter itself and real impact load. Experiments display multiple impacts in real impact test reduce the nominal capacity, delay the dynamic response time of hydraulic buffer, and reduce the buffer effectiveness. Because of the return impact, the stiffness and pre-compression of return spring should be reduced as possible if satisfying the restore spring of hydraulic buffer.
+ER  - 
+
+TY  - CONF
+TI  - Modeling and Identifying the Acceleration Imposed on Maneuvering Spacecraft
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 4
+AU  - H. -n. Li
+AU  - J. -s. Li
+PY  - 2009
+KW  - Acceleration
+KW  - Space vehicles
+KW  - Accelerometers
+KW  - Extraterrestrial measurements
+KW  - Force measurement
+KW  - Differential equations
+KW  - Tracking
+KW  - Motion measurement
+KW  - Filters
+KW  - Real time systems
+DO  - 10.1109/CISE.2009.5363436
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - In consideration of maneuvering spacecraft, the uncertainty of thrust acceleration will cause enormous error to model and track the accelerating motion, it's reasonable to think that the measurements mainly reflect the uncertainty of the thrust acceleration. This paper focuses on modeling and building on-line filter to identify the continuous thrust acceleration to compensate the uncertainty of the force model during the maneuver process, an elegant differential equation is derived for variable acceleration, an extended Kalman filter (EKF) is developed for dynamic system to identify forwardly the variable acceleration in real time, also the variational equation for the measurement vector to acceleration is put forward to linearise the discrete-time measurement equations. The mission flight scenery shows the algorithm developed here can estimate the acceleration and determine the orbital parameters precisely during the continuous thrust maneuver process.
+ER  - 
+
+TY  - CONF
+TI  - Tool Wear Detection Based on Wavelet Packet and BP Neural Network
+T2  - 2010 International Conference on Computational Intelligence and Security
+SP  - 33
+EP  - 36
+AU  - Y. Qin
+AU  - L. Guo
+AU  - J. Wang
+PY  - 2010
+KW  - Artificial neural networks
+KW  - Wavelet packets
+KW  - Acoustic emission
+KW  - Pattern recognition
+KW  - Employee welfare
+KW  - Neurons
+KW  - Wavelet analysis
+KW  - wavelet packet
+KW  - BP neural network
+KW  - pattern recognition
+KW  - Tool condition identification
+DO  - 10.1109/CIS.2010.14
+JO  - 2010 International Conference on Computational Intelligence and Security
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Computational Intelligence and Security
+Y1  - 11-14 Dec. 2010
+AB  - Based on wavelet packet decomposition and the BP neural network of pattern recognition theory, this article puts forward the theory that can identify the different tool wear conditions during the cutting process, and thus we can use this theory to forecast the tool breakage accurately. The main thinking of this article is that decomposing tool acoustic emission signal by using wavelet packet to get spectrum coefficient as eigenvector, and then putting it into the BP neural network to be trained in order to accomplish the final pattern recognition of tool wear conditions by making use of BP algorithm. By testing the samples of well-trained network, it is proved that the BP neural network constructed has good generalization ability which can identify tool conditions accurately.
+ER  - 
+
+TY  - CONF
+TI  - Multinational Enterprise Investment Strategy Evaluation - Option to Growth or Option to Abandon of Binomial Options Application
+T2  - 2019 15th International Conference on Computational Intelligence and Security (CIS)
+SP  - 328
+EP  - 331
+AU  - C. -C. Ko
+AU  - Y. -J. Yang
+AU  - C. -Y. Liu
+PY  - 2019
+KW  - Investment
+KW  - Exchange rates
+KW  - Uncertainty
+KW  - International collaboration
+KW  - Authorization
+KW  - Urban areas
+KW  - Uncertainty
+KW  - Multinational Enterprises
+KW  - Binomial Options
+KW  - Growth Options
+KW  - Abandonment Options
+DO  - 10.1109/CIS.2019.00076
+JO  - 2019 15th International Conference on Computational Intelligence and Security (CIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 15th International Conference on Computational Intelligence and Security (CIS)
+Y1  - 13-16 Dec. 2019
+AB  - This paper aims to consider the changes in the international investment environment and bring high uncertainty to multinational enterprises. Therefore, multinational enterprises invest in overseas markets according to the degree of capital expenditure, and adopt progressive investment. The order of capital expenditure (low to high) is divided into four stages, the first stage of export or authorization, and the second stage of opening the franchise chain, the third stage of joint venture, the fourth stage of acquisition or the establishment of foreign branch. Under the uncertainty of investment cash flow and exchange rate changes, use the option to growth or option to abandon of binomial options evaluation method to predict the four-stage cash flow and exchange rate changes. In view of the four stages of multinational enterprises' orderly capital costs (low to high), each stage selects the best decision, uses the option to growth to invest capital or option to abandon to give up the investment. This paper constructs a dynamic and successive investment binomial options decision model, estimates the equity value of overseas investment of multinational enterprises, and conducts investment strategy feasibility assessment. And compare the traditional investment decision NPV method, providing managers with a more flexible decision-making thinking mode for multinational enterprise investment.
+ER  - 
+
+TY  - CONF
+TI  - Research on Industrial Building's Reliability Assessment Based on Projection Pursuit Model
+T2  - 2011 Seventh International Conference on Computational Intelligence and Security
+SP  - 1345
+EP  - 1349
+AU  - Z. Lei
+AU  - J. Liu
+PY  - 2011
+KW  - Indexes
+KW  - Steel
+KW  - Buildings
+KW  - Reliability theory
+KW  - Educational institutions
+KW  - Safety
+KW  - industrial building
+KW  - reliability
+KW  - projection pursuit classification technique
+KW  - composite simplex method Introduction
+DO  - 10.1109/CIS.2011.299
+JO  - 2011 Seventh International Conference on Computational Intelligence and Security
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 Seventh International Conference on Computational Intelligence and Security
+Y1  - 3-4 Dec. 2011
+AB  - Assessment industrial building's reliability accurately is important in working of industrial building's alteration, reused and daily management. In the analysis of factors that influenced industrial building's reliability, 11 assessment factors on three aspects of load-bearing structural system, structural arrangement and the support system, and maintenance structure system are selected as the assessment index system. Then a industrial building's reliability model is presented based on projection pursuit classification technique. The optimal projection direction is obtained by using composite simplex method. According to the projection value to asses the industrial building's reliability. This approach has advantages of robust, accuracy and objective. It provides a new thinking in assessing the industrial building's reliability.
+ER  - 
+
+TY  - CONF
+TI  - An improved niche-based adaptive genetic algorithm for WTA problem solving
+T2  - International Conference on Computational Problem-Solving
+SP  - 27
+EP  - 30
+AU  - Bai Fan
+AU  - Chang Tianqing
+AU  - Li Yong
+PY  - 2010
+KW  - Weapons
+KW  - Legged locomotion
+KW  - genetic algorithm
+KW  - niche
+KW  - adaptive
+KW  - weapon-target assignment
+DO  - 
+JO  - International Conference on Computational Problem-Solving
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Conference on Computational Problem-Solving
+Y1  - 3-5 Dec. 2010
+AB  - In order to solve the weapon-target assignment (WTA) problem rapidly, several key operations in genetic algorithm are improved. A unique fire unit sorting-based population initialization method is addressed. With the niche share function and adaptive thinking, an improved niche-based adaptive genetic algorithm (NAGA) is designed and achieved. In the end, the simulation for real time and reliability is examined. The result illustrates that this algorithm is valid with better performance and convergence rate.
+ER  - 
+
+TY  - CONF
+TI  - Identifying Influential Actors in Social Network Platforms
+T2  - 2015 11th International Conference on Computational Intelligence and Security (CIS)
+SP  - 223
+EP  - 226
+AU  - Q. Liu
+AU  - Z. Ma
+AU  - X. Yang
+AU  - H. Zhu
+PY  - 2015
+KW  - Motion pictures
+KW  - Silicon
+KW  - Nickel
+KW  - Correlation
+KW  - Internet
+KW  - Indexes
+KW  - Social network services
+KW  - actor influence
+KW  - SPIA influence model
+KW  - data fusion
+KW  - h-index
+DO  - 10.1109/CIS.2015.62
+JO  - 2015 11th International Conference on Computational Intelligence and Security (CIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 11th International Conference on Computational Intelligence and Security (CIS)
+Y1  - 19-20 Dec. 2015
+AB  - Entertainment industry growing very fast, as an essential pillar, actors become more and more influential. An effective influence model will help investors a lot. In this paper, we propose SPIA influence model, considering actors' both social influence and professional influence. In this way we can choose the most influential actors with no obvious shortcomings. We take Sina Weibo, the largest micro-blogging platform in China, and Douban Movie, the most popular movie community in China, two platforms as background data. We form a graph with their information to combine social and professional influence together, which is the fundamental of SPIA influence model. We try to check the efficiency of SPIA influence model by using of Spearman's Rank Correlation Coefficient with Forbes celebrity list. After a series of experiments, we think SPIA influence can merge actors' social influence and professional influence well, and help to choose the most influential actors.
+ER  - 
+
+TY  - CONF
+TI  - Performance Analysis of Phase Error Cancellation of PAL-D Television System Using Labview
+T2  - 2011 International Conference on Computational Intelligence and Communication Networks
+SP  - 591
+EP  - 595
+AU  - C. Patel
+AU  - G. R. Kulkarni
+PY  - 2011
+KW  - Color
+KW  - Image color analysis
+KW  - TV
+KW  - Phase modulation
+KW  - Cameras
+KW  - Simulation
+KW  - PAL
+KW  - QAM
+KW  - Phase error
+KW  - weighted factor
+KW  - chrominance
+KW  - luminance
+DO  - 10.1109/CICN.2011.128
+JO  - 2011 International Conference on Computational Intelligence and Communication Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Conference on Computational Intelligence and Communication Networks
+Y1  - 7-9 Oct. 2011
+AB  - Television has been a part of our day to day life. So, sometimes we think how this system really works! In between Transmission and Reception, Information Signal passes through plenty of complex process and stages. We have Implemented, the process made on Chrominance signal (|C|) with the help of simulator, Lab VIEW 9, made by National Instruments in 1986. The Selection of appropriate camera is depending upon the three primary color of object. There are mainly three characteristic of chrominance signal. Hue, Saturation & Luminance. Amplitude of chrominance signal defines Saturation level and Phase angle of the signal determines Hue. So Chrominance circle, with magnitude level contains all colours of the world. Model describes the magnitude level and phase angle for the particular colour. Two colour difference signals are modulated in Quadrature Amplitude Modulation (QAM) manner. So by using this model you can show that how the QAM waves are looks like for particular colour. As well as the model describes how PAL-D System, used in the Asian country, works and how it is superior then the NTSC system used in American Country. Thus the concept of, Colour Television Transmission is designed in an oversimplified way.
+ER  - 
+
+TY  - CONF
+TI  - Analysing Shifts in Perceptions of Indians during COVID-19 Pandemic by Mining Tweets
+T2  - 2023 3rd International Conference on Intelligent Communication and Computational Techniques (ICCT)
+SP  - 1
+EP  - 5
+AU  - R. Saxena
+AU  - M. Jadeja
+PY  - 2023
+KW  - COVID-19
+KW  - Visualization
+KW  - Social networking (online)
+KW  - Pandemics
+KW  - Computer viruses
+KW  - Mood
+KW  - Blogs
+KW  - COVID-19
+KW  - Corona Virus
+KW  - Twitter India
+KW  - Sentiment Analysis
+DO  - 10.1109/ICCT56969.2023.10075775
+JO  - 2023 3rd International Conference on Intelligent Communication and Computational Techniques (ICCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 3rd International Conference on Intelligent Communication and Computational Techniques (ICCT)
+Y1  - 19-20 Jan. 2023
+AB  - Current pandemic situation has a significant impact affecting human life not only socially and economically, but emotionally and psychologically as well. This impact can be easily observed on social media platforms. Along with the knowledge exchange related to Covid-19 pandemic on social media, there is an emotional trauma wave that can be felt by carefully analyzing the activities of this social media. Keeping this view in thought, we analyze around 12000 tweets of Indian people to find out whether there is a trend shift of thinking pattern and mindset of Indian people as the pandemic progresses. The study is bifurcated into stages to clearly see the paradigm shift. We use tweets since twitter is a rich medium that can be leveraged to its optimum to have a good amount of understanding of the sentiments of the people. Analyzing the twitter dataset, we derive results and find out whether the amount of negative tweets v/s positive (or motivational) tweets have increased or not as the pandemic progresses. The study is supported by graphical visualizations of the polarity of the tweets month wise. Further, Wordmap approach is used to perform qualitative mining analysis in addition to the sentiment score based calculation. This work helps us to understand how the public opinions are changing with the changes in the spread dynamics of the virus. This kind of mood mining helps in identifying the Covid-19 situation from the psychological perspective that whether there is a sense of fear among people or they are quite optimistic of the situation. It can help in a great extend to the strategic and decision making bodies to plan out for future decisions. Further, such kind of studies can be used as reference to provide insights about mental health of people for any future incident or event of such nature.
+ER  - 
+
+TY  - CONF
+TI  - The CBR for Solving Complex Problems Based on Ontology
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 3
+AU  - M. -x. Wu
+AU  - F. Li
+AU  - S. -l. Huang
+PY  - 2009
+KW  - Ontologies
+KW  - Technology management
+KW  - Engineering management
+KW  - Problem-solving
+KW  - Information analysis
+KW  - Brain modeling
+KW  - Accreditation
+KW  - Humans
+KW  - Decision making
+KW  - Databases
+DO  - 10.1109/CISE.2009.5363953
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - Ontology is a normative explanation on formal common concept and it is a grade conceptual description about the given object and its relationship. In view of the difficulty of the problem representation, simulating the thinking circumstance of the expert solving problem, a new CBR for solving complex problems based on ontology is proposed in this paper. Besides that, this paper analyses the key technologies about solving problem based on ontology and CBR.
+ER  - 
+
+TY  - CONF
+TI  - Human fricatives
+T2  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+SP  - 1
+EP  - 1
+AU  - K. Nozaki
+PY  - 2017
+KW  - Dentistry
+KW  - Artificial intelligence
+KW  - Informatics
+KW  - Birds
+KW  - Hospitals
+KW  - Research and development
+DO  - 10.1109/ICIEV.2017.8338531
+JO  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+Y1  - 1-3 Sept. 2017
+AB  - There are still many mysteries as to why humans can talk. Especially in birds there is something that can reproduce human's pronunciation. For monkeys as well, it is possible to perform human pronunciation functionally in terms of airway configuration. However, these animals do not have language features. In recent years, research and development of AI which gained a deep impression on deep learning and big data is prevalent. After learning sound, AI can recognize and utter a conversation. Monkeys can see things by eye, recognize them, and eat for food if it is food. AI can cause the robot to take similar actions. Given the mechanism of speech recognition, it is identified as a word unit, a phrase or a sentence by identification of sound, coding of maximum likelihood, and probabilistic syllable estimation using existing databases such as triphones. It can be thought that birds or monkeys can do this sound again through the articulation mechanism. However, it is impossible to freely extract words and phrases from learned sentences, create sentences with new meanings, and pronounce them. Here, I think that the boundary of presence or absence of language is the presence or absence of this function. I'm studying to predict the factors that language has in human beings from the dental field. In the dental field, various information such as the shape of teeth and jaws are accumulated historically and over time. Recent studies have shown that vowels can be pronounced like humans, not humans. However, it is my expectation that consonants, especially fricatives, that adjust the advanced sound with the tongue will probably be difficult. Even children, it is difficult to pronounce fricatives until about 6 years old. I have been conducting research using aerodynamic acoustic techniques to understand why it is difficult to acquire fricative sounds, so I will tell you about things that have been understood so far.
+ER  - 
+
+TY  - CONF
+TI  - Effect of the Generalized Self-Correlativity to Flexible Logic NOT Operation Model in [0,8) Interval
+T2  - 2010 International Conference on Artificial Intelligence and Computational Intelligence
+SP  - 347
+EP  - 351
+AU  - Y. Fan
+AU  - Z. Yang
+AU  - H. He
+PY  - 2010
+KW  - Measurement uncertainty
+KW  - Cognition
+KW  - Generators
+KW  - Artificial intelligence
+KW  - Fuzzy logic
+KW  - Correlation
+KW  - Mathematical model
+KW  - AI
+KW  - flexible logics
+KW  - flexible NOT propositon
+KW  - triangle norm
+KW  - generalized self-correlativity
+KW  - N-generator integrity cluster
+DO  - 10.1109/AICI.2010.194
+JO  - 2010 International Conference on Artificial Intelligence and Computational Intelligence
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2010 International Conference on Artificial Intelligence and Computational Intelligence
+Y1  - 23-24 Oct. 2010
+AB  - The deep development of AI urgently needs a unified logic that could describe the whole course of thinking laws as its basic theory. The research goal of flexible logics is to explore the general law of logic. Measure error of flexible propositional truth value affects all the flexible logical operations by affecting the truth value calculation of flexible NOT propositions. In this paper, the general principles of N-Norm in triangle norm theory are introduced. The effect of the generalized self-correlativity to logic NOT operator model in [0,∞) is clarified theoretically by N-norm. Hence we acquire an important element for generating flexible logical operation models - N-generator integrity cluster, which is helpful to find the general rules of the definition of flexible NOT propositional connective in [0,∞) interval. These researches provide the important theoretical base for 1-level operation model in [0,∞) interval in flexible logics.
+ER  - 
+
+TY  - CONF
+TI  - Recent advance in hyperspectral sensors and applications
+T2  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+SP  - 1
+EP  - 1
+AU  - C. -C. Wu
+AU  - J. -C. Chen
+PY  - 2017
+KW  - Authentication
+KW  - Drugs
+KW  - Self-assembly
+KW  - Radiation effects
+KW  - Lasers
+KW  - Informatics
+KW  - Hyperspectral sensors
+DO  - 10.1109/ICIEV.2017.8338533
+JO  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+Y1  - 1-3 Sept. 2017
+AB  - T Fake drugs threatens medical supply chain frightfully over 124 countries in the world. Even in Japan, although nobody expected counterfeits violate the maintained distribution of this country, fake harvoni for hepatitis C sold at an authorized pharmacy shocked officials in Ministry of Health, Labor and Welfare. Anti-counterfeit to prevent fake drugs requires rapid-authenticating, costless, and more than anythings, high-security technology. Recent advances in nanotechnology accelerate developments of nanotag identifiers. Thinking of rapidness and high security in authentication, surface enhanced Raman scattering (SERS) produced from well-designed noble metal nanostructure is promised to apply new authentication method. We have developed SERS active nanostructures by self-assembling of gold nanoparticles (AuNP) with Raman active reporting molecules. A few nanogram amounts of the AuNP assembles were directly deposited onto commercial tablet Mucodyne. For on-dose authentication outside of a laboratory, 80 g weight and smart-phone driven palm-top Raman detector was used. Shelf-life in SERS activity of the AuNP self-assemble liquid stocked at room temperature was over six months. The nanotag labeled Mucodyne tablet showed special SERS signal derived from the reporting molecule, and 0.2 s irradiation of 785 nm (5 mW) laser was enough to produce distinguishable SERS spectra from intact tablet. Excellent longevity of SERS signal over three years on the labeled tablets was confirmed. By just 0.2 second laser irradiation with a palmtop Raman spectrometer, rapid on-dose authentication was successfully achieved.
+ER  - 
+
+TY  - CONF
+TI  - Simulation and performance analysis of NTSC television system and standards
+T2  - 2010 IEEE International Conference on Computational Intelligence and Computing Research
+SP  - 1
+EP  - 5
+AU  - C. Patel
+AU  - G. R. Kulkarni
+PY  - 2010
+KW  - Color
+KW  - Image color analysis
+KW  - TV
+KW  - Quadrature amplitude modulation
+KW  - Cameras
+KW  - Bandwidth
+KW  - Encoding
+KW  - QAM
+KW  - I & Q Channel
+KW  - weighting factor
+KW  - NTSC system
+KW  - colour difference signal
+KW  - chrominance signal
+DO  - 10.1109/ICCIC.2010.5705785
+JO  - 2010 IEEE International Conference on Computational Intelligence and Computing Research
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE International Conference on Computational Intelligence and Computing Research
+Y1  - 28-29 Dec. 2010
+AB  - Television has been a part of our day to day life. So, sometimes we think how this system really works! In between Transmission and Reception, Information Signal passes through plenty of complex process and stages. We have Implemented, the process made on Chrominance signal (|C|) with the help of simulator, Lab VIEW 9, made by National Instruments in 1986. The Selection of appropriate camera is depending upon the three primary color of object. There are mainly three characteristic of chrominance signal. Hue, Saturation & Luminance. Amplitude of chrominance signal defines Saturation level and Phase angle of the signal determines Hue. So Chrominance circle, with magnitude level contains all colours of the world. Model describes the magnitude level and phase angle for the particular colour. Two colour difference signals are modulated in quadrature Amplitude Modulation (QAM) manner. So by using this model you can show that how the QAM waves are looks like for particular colour. As well as the model describes how NTSC System, used in the Asian country, works and how it is different from the PAL-D system used in Asian Country. Thus the concept of, Colour Television Transmission is designed in an oversimplified way.
+ER  - 
+
+TY  - CONF
+TI  - Electronic robustness by circuit polling and reconfiguration
+T2  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+SP  - 251
+EP  - 256
+AU  - G. Györök
+PY  - 2013
+KW  - Field programmable analog arrays
+KW  - Robustness
+KW  - Multiplexing
+KW  - Electronic circuits
+KW  - Equations
+DO  - 10.1109/ICCCyb.2013.6617598
+JO  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+Y1  - 8-10 July 2013
+AB  - Nowadays the uses of electronic circuits, often the opposite trend are seen. To produce a hand are getting cheaper circuits, on the other hand becoming more reliable ones. The first distinction is certainly true in electronic circuits which are used in commercial application, even just thinking of cheap consumer electronics [1] [18] [13] [12] [17]. Another group of electronic circuits made for the high reliability use. This group includes a variety of medical, safety, military technology, aviation and aerospace applications. Reliability of these beyond, are often formulated as special needs, low weight, adaptivity, the reconfigurability, the circuit robustness [6] [4] [7]. In this article we test the different possibilities for such operations the creation of robust circuits, in particular the use of programmable analog circuits.
+ER  - 
+
+TY  - CONF
+TI  - The Metering Research of Words in Tibetan Network News
+T2  - 2012 Fifth International Symposium on Computational Intelligence and Design
+SP  - 535
+EP  - 538
+AU  - H. Cao
+AU  - X. Meng
+PY  - 2012
+KW  - Vocabulary
+KW  - Software
+KW  - Dictionaries
+KW  - Pragmatics
+KW  - Educational institutions
+KW  - Accuracy
+KW  - Information technology
+KW  - Tibetan
+KW  - Network News
+KW  - Word research
+DO  - 10.1109/ISCID.2012.139
+JO  - 2012 Fifth International Symposium on Computational Intelligence and Design
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2012 Fifth International Symposium on Computational Intelligence and Design
+Y1  - 28-29 Oct. 2012
+AB  - Along with the development and popularization of network news, the vocabulary of network news has gradually become the most sensitive information in public social life. as times change, the development of science and technology, the progress of the thinking, the Tibetan vocabulary is also constantly forward. This article focuses on words of the Tibetan network news. This study can not only understand the usage and features of Tibetan vocabulary in the network news, and to a certain extent reflect the hot topics, the occurrence of major events, and Tibetan folk customs in Tibetan areas.
+ER  - 
+
+TY  - CONF
+TI  - Security and Authentication Issues in Emerging Network Architectures with Special Reference to SONATE
+T2  - 2011 International Conference on Computational Intelligence and Communication Networks
+SP  - 658
+EP  - 662
+AU  - B. Rudra
+AU  - A. P. Manu
+AU  - O. P. Vyas
+PY  - 2011
+KW  - Security
+KW  - Protocols
+KW  - Computer architecture
+KW  - Service oriented architecture
+KW  - RNA
+KW  - Architecture
+KW  - Architecture
+KW  - Network Service
+KW  - Security
+KW  - SOA
+KW  - SONATE
+DO  - 10.1109/CICN.2011.143
+JO  - 2011 International Conference on Computational Intelligence and Communication Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Conference on Computational Intelligence and Communication Networks
+Y1  - 7-9 Oct. 2011
+AB  - The emerging research to develop new architecture for next generation networks have made us think about the security incorporates "inside" the network architecture during the evolution phase. The aim is to provide better services to the user in a secured fashion. In this paper we describe three different security level approaches namely Micro level security, Medium level security and Macro level security with special reference to Service Oriented Network Architecture (SONATE).
+ER  - 
+
+TY  - CONF
+TI  - Keynote 4
+T2  - 2011 14th IEEE International Conference on Computational Science and Engineering
+SP  - xxxii
+EP  - xxxii
+AU  - Jianhua Ma
+PY  - 2011
+DO  - 10.1109/CSE.2011.15
+JO  - 2011 14th IEEE International Conference on Computational Science and Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 14th IEEE International Conference on Computational Science and Engineering
+Y1  - 24-26 Aug. 2011
+AB  - Summary form only given. The amount of digital information and the number of digital services are increasing explosively, and being beyond the human ability to use such massive information and services by direct operations on computers/devices. As a user, one may not know exactly what is the most needed, among which is the most suitable, and where is the best place to go in the digitally explosive world. In recent years, autonomic computing, context-aware computing, human-centric computing and so on have been proposed to make computers/devices capable of taking automatic responses according to users' states, preferences, ambient information, etc. Individual-aware computing is a computing paradigm based on the digital clone, called Cyber-Individual or Cyber-I, which is a correspondent of a real individual (Real-I). Cyber-I is far beyond merely a user model or a software agent to assist a user. It is aimed at providing the most comprehensive digital entities for its corresponding Real-I in terms of individual's experience, behavior and thinking as well as its birth, growth, and death. Cyber-I enables a Real-I to have a new form of existence in the cyber world and exhibit symbiosis with the Real-I. A Real-I's abilities may be continuously extended with increasing services or applications based on the Cyber-I. Individual-aware computing and Cyber-I are to aggregate multidisciplinary and interdisciplinary studies as well as a variety of technologies for realizing the harmony of humans, computers, and things.
+ER  - 
+
+TY  - CONF
+TI  - The Construction and Application of Distance and Open Experimental Platform
+T2  - 2011 Seventh International Conference on Computational Intelligence and Security
+SP  - 1562
+EP  - 1565
+AU  - Y. Jiangfeng
+AU  - Q. Youju
+PY  - 2011
+KW  - Educational institutions
+KW  - Laboratories
+KW  - Software
+KW  - TV
+KW  - Employee welfare
+KW  - Organizations
+KW  - Distance and Open Experimental Platform
+KW  - Practice Courses System
+KW  - Distance Education
+DO  - 10.1109/CIS.2011.350
+JO  - 2011 Seventh International Conference on Computational Intelligence and Security
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 Seventh International Conference on Computational Intelligence and Security
+Y1  - 3-4 Dec. 2011
+AB  - Distance and open experimental education in distance education can greatly stimulate the enthusiasm of students for learning, thinking and developing the ability to innovate. This article researches on the importance of distance and open experimental education and the architecture of distance and open experimental platform and courses. This article also researches on the teaching organization and management of the distance and open experimental platform and highlights the advantages of this platform. The construction and application of distance and open experimental platform will form a sustainable modern advanced practice courses system in the field of experiment education. It will also solve the contradiction between university's scale and teaching quality which a university now faces, and it will overcome issues related to the imbalance in experimental resources or lack of innovative capacity. Consequently, the distance and open experimental platform will effectively improve the quality of personnel training of distance education, and will provide a truly effective means and environment of experimental education.
+ER  - 
+
+TY  - CONF
+TI  - Research Method of Fuzzy Neural Network of Reservoir Heterogeneity
+T2  - 2012 Fourth International Conference on Computational and Information Sciences
+SP  - 1315
+EP  - 1317
+AU  - L. Guorong
+AU  - H. Jingjing
+AU  - L. Taiping
+AU  - L. Zhicheng
+AU  - Z. Furong
+PY  - 2012
+KW  - Reservoirs
+KW  - Fuzzy neural networks
+KW  - Neural networks
+KW  - Partitioning algorithms
+KW  - Fuzzy logic
+KW  - Educational institutions
+KW  - Cognition
+KW  - fuzzy neural network
+KW  - reservoir
+KW  - heterogeneity
+DO  - 10.1109/ICCIS.2012.229
+JO  - 2012 Fourth International Conference on Computational and Information Sciences
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 Fourth International Conference on Computational and Information Sciences
+Y1  - 17-19 Aug. 2012
+AB  - For analysis of the reservoir, due to complexity of the reservoir heterogeneity, the relationship between the logging response value and the non-homogenous reservoir is complex and fuzzy. The use of fuzzy clustering method of neural network combines the adaptivity and the fault tolerance of the neural network organic manner with the fuzzy comprehensive discrimination in the human thinking simulation of fuzzy logic, so as to recognize the reservoir heterogeneity through multi-factor fuzzy comprehensive judgment and reasoning. This method has been used to treat the data about the 135 wells in Xujiahe Group in central Sichuan, and has shown good results, with a coincidence rate as high as 87.6%. The result demonstrates that this method enjoys good adaptivity against the problem of automatic recognition of the reservoir heterogeneity, and could improve the precision of automatic recognition of the reservoir heterogeneity.
+ER  - 
+
+TY  - CONF
+TI  - How is biomechanical knowledge useful for understanding shoulder disorders?
+T2  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+SP  - 1
+EP  - 1
+AU  - H. Inui
+AU  - M. Tomoyuki
+AU  - H. Ninomiya
+AU  - K. Nobuhara
+PY  - 2017
+KW  - Joints
+KW  - Shoulder
+KW  - Biomechanics
+KW  - Head
+KW  - Stability analysis
+KW  - Informatics
+KW  - Biomedical imaging
+DO  - 10.1109/ICIEV.2017.8338541
+JO  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 6th International Conference on Informatics, Electronics and Vision & 2017 7th International Symposium in Computational Medical and Health Technology (ICIEV-ISCMHT)
+Y1  - 1-3 Sept. 2017
+AB  - Shoulder has a wide range of motion. Contact point between the glenoid and the humeral head, tension of soft tissue, and alignment of muscles connecting the bones drastically change in its range of motion. Mechanism stabilizing shoulder joint is influenced by arm positioning. Assessment of joint stability should always take arm positioning into consideration. In fact, there is a subtle instability which can only be detected when the arm is elevated. The glenoid dysplasia might be a cause for its instability. These findings can be detected only by 3D computer generated images except in some typical cases. Generally, joint stability is judged by location of the humeral head center in the glenoid. More intricate approach is necessary for some disorders. Analysis of contact area and other glenohumeral relation can clarify instability which cannot be detected through investigating location of joint center. The studies using those parameters showed that the joint is inherently unstable with the arm externally rotated at 90 degrees of elevation, and that joint positioning would be more apt to be affected from the cocking to the acceleration phase during throwing activity. We think such instability might lead to throwing disorders.
+ER  - 
+
+

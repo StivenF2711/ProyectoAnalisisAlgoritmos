@@ -1,0 +1,120 @@
+TY  - CONF
+TI  - A Fault-Tolerant Scheme for Complex Transaction Patterns in J2EE
+T2  - 2006 10th IEEE International Enterprise Distributed Object Computing Conference (EDOC'06)
+SP  - 165
+EP  - 174
+AU  - L. Zuo
+AU  - S. Liu
+AU  - J. Wei
+PY  - 2006
+KW  - Fault tolerance
+KW  - Buildings
+KW  - Large-scale systems
+KW  - Computer architecture
+KW  - Distributed computing
+KW  - Safety
+KW  - Fault diagnosis
+KW  - Logic
+KW  - Availability
+KW  - Protocols
+DO  - 10.1109/EDOC.2006.8
+JO  - 2006 10th IEEE International Enterprise Distributed Object Computing Conference (EDOC'06)
+IS  - 
+SN  - 1541-7719
+VO  - 
+VL  - 
+JA  - 2006 10th IEEE International Enterprise Distributed Object Computing Conference (EDOC'06)
+Y1  - 16-20 Oct. 2006
+AB  - End-to-end reliability is an important issue in building large-scale distributed enterprise applications based on multi-tier architecture, but the support of reliability as adopted in conventional replication or transactions mechanisms is not enough due to their distinct objectives - replication guarantees the liveness of computational operations by using forward error recovery, while transactions guarantee the safety of application data by using backward error recovery. Combining the two mechanisms for stronger reliability is a challenging task Current solutions, however, are typically on the assumption of simple transaction pattern where a request from a single client executes in the context of exactly one transaction at the middle-tier application server, and seldom think about some complex patterns, such as client transaction enclosing multiple client requests or nested transactions. In this paper, we first identify four transaction pattern classes, and then propose a fault-tolerant scheme that can uniformly provide exactly-once semantic reliability support for these patterns. In this scheme, application servers are passively replicated to endow business logics with high reliability and high availability. In addition, by replicating transaction coordinator, the blocking problem of 2PC protocol during distributed transactions processing is eliminated. We have implemented this approach and integrated it into our own J2EE application server, OnceAS. Also, its effectiveness is discussed in different transaction patterns and the corresponding performance is evaluated
+ER  - 
+
+TY  - CONF
+TI  - Computational thinking and thinking about computing
+T2  - 2008 IEEE International Symposium on Parallel and Distributed Processing
+SP  - 1
+EP  - 1
+AU  - J. Wing
+PY  - 2008
+KW  - Computer science
+KW  - Computer vision
+KW  - Information science
+KW  - Technological innovation
+KW  - Councils
+KW  - Writing
+KW  - Arithmetic
+KW  - Art
+KW  - Computer languages
+KW  - Information technology
+DO  - 10.1109/IPDPS.2008.4536091
+JO  - 2008 IEEE International Symposium on Parallel and Distributed Processing
+IS  - 
+SN  - 1530-2075
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Symposium on Parallel and Distributed Processing
+Y1  - 14-18 April 2008
+AB  - Summary form only given. My vision for the 21st Century: computational thinking will be a fundamental skill used by everyone in the world. To reading, writing, and arithmetic, let's add computational thinking to every child's analytical ability. Computational thinking has already influenced other disciplines, from the sciences to the arts. The new NSF cyber-enabled discovery and innovation initiative in a nutshell is computational thinking for science and engineering. Realizing this vision gives the field of computing both exciting research opportunities and novel educational challenges. The field of computing is driven by technology innovation, societal demands, and scientific questions. We are often too easily swept up with the rapid progress in technology and the surprising uses by society of our technology, that we forget about the science that underlies our field. In thinking about computing, I have started a list of "Deep Questions in Computing," with the hope of encouraging the community to think about the scientific drivers of our field.
+ER  - 
+
+TY  - JOUR
+TI  - How Big Can You Think? Challenges at the Frontier
+T2  - Computing in Science & Engineering
+SP  - 62
+EP  - 67
+AU  - D. Kusnezov
+PY  - 2007
+KW  - Computational modeling
+KW  - Computer simulation
+KW  - National security
+KW  - Stability analysis
+KW  - Leg
+KW  - Investments
+KW  - Technological innovation
+KW  - Computer vision
+KW  - Engineering profession
+KW  - Face recognition
+KW  - nuclear simulation
+KW  - supercomputing
+KW  - grid computing
+KW  - computational science
+KW  - At Issue
+DO  - 10.1109/MCSE.2007.98
+JO  - Computing in Science & Engineering
+IS  - 5
+SN  - 1558-366X
+VO  - 9
+VL  - 9
+JA  - Computing in Science & Engineering
+Y1  - Sept.-Oct. 2007
+AB  - The world is on the threshold of a remarkable era of computing, in which raw computational power is no longer the limiting factor. The author argues that today's approach to computational science requires revision. This is becoming critical as simulation exerts greater influence on high-consequence decisions with societal impact.
+ER  - 
+
+TY  - CONF
+TI  - Chance Discovery and Chance Creation: A Data-Visualization Approach to Value Sensitive Innovation
+T2  - 2008 Second Asia International Conference on Modelling & Simulation (AMS)
+SP  - xx
+EP  - xxi
+AU  - Y. Ohsawa
+PY  - 2008
+KW  - Technological innovation
+KW  - Humans
+KW  - Game theory
+KW  - Decision making
+KW  - Visualization
+KW  - Risk management
+KW  - Companies
+KW  - Annealing
+KW  - Abstracts
+KW  - Cognitive science
+DO  - 10.1109/AMS.2008.188
+JO  - 2008 Second Asia International Conference on Modelling & Simulation (AMS)
+IS  - 
+SN  - 2376-1172
+VO  - 
+VL  - 
+JA  - 2008 Second Asia International Conference on Modelling & Simulation (AMS)
+Y1  - 13-15 May 2008
+AB  - Summary form only given. A scenario is a meaningful sequence of events. For the decision of human, it is essential to create valuable scenarios of the future and choose one to realize. This talk is composed of two topics: (1) computational methods for visualizing a scenario map: a figure visualizing the relations between events, on which humans can think about scenarios. The obtained scenarios can be regarded as patterns of event occurrences in the past or beneficial plans to be executed in the future. (2) Human's competencies for sensing a (or a sequence of) valuable event, and new criteria for evaluating the value of forthcoming events. We have been studying this talent from the viewpoint of cognitive science and business management.
+ER  - 
+
+

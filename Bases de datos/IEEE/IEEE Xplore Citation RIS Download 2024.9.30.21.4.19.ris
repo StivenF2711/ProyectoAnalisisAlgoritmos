@@ -1,0 +1,3035 @@
+TY  - CONF
+TI  - Measuring Semantic Similarity in Wordnet
+T2  - 2007 International Conference on Machine Learning and Cybernetics
+SP  - 3431
+EP  - 3435
+AU  - X. -Y. Liu
+AU  - Y. -M. Zhou
+AU  - R. -S. Zheng
+PY  - 2007
+KW  - Humans
+KW  - Length measurement
+KW  - Taxonomy
+KW  - Machine learning
+KW  - Cybernetics
+KW  - Joining processes
+KW  - Brain modeling
+KW  - Benchmark testing
+KW  - Solid modeling
+KW  - Computer science
+KW  - Semantic similarity
+KW  - Correlation
+KW  - Lexical database
+DO  - 10.1109/ICMLC.2007.4370741
+JO  - 2007 International Conference on Machine Learning and Cybernetics
+IS  - 
+SN  - 2160-1348
+VO  - 6
+VL  - 6
+JA  - 2007 International Conference on Machine Learning and Cybernetics
+Y1  - 19-22 Aug. 2007
+AB  - Semantic similarity between words is a generic problem for many applications of computational linguistics and artificial intelligence. The difficulty of this task lies in how to find an effective way to simulate the process of human judgment of word similarity by combining and processing a number of information sources. This paper presents a novel model to measure semantic similarity between words in the WordNet, using edge-counting techniques. The fundamental idea of this model is based on the assumption that human judgment process for semantic similarity can be simulated by the ratio of common features to the total features between words. According to the experiment against a benchmark set by human similarity judgment, our measure achieves a better result. The correlation is 0.926 with average human judgment on a standard 28 word-pair dataset, which outperforms other previous reported methods.
+ER  - 
+
+TY  - CONF
+TI  - Stretch It - Realistic Smooth Skinning
+T2  - International Conference on Computer Graphics, Imaging and Visualisation (CGIV'06)
+SP  - 323
+EP  - 328
+AU  - Xiaosong Yang
+AU  - J. J. Zhang
+PY  - 2006
+KW  - Animation
+KW  - Skin
+KW  - Skeleton
+KW  - Muscles
+KW  - Humans
+KW  - Joints
+KW  - Elbow
+KW  - Anatomy
+KW  - Shape control
+KW  - Computer industry
+DO  - 10.1109/CGIV.2006.81
+JO  - International Conference on Computer Graphics, Imaging and Visualisation (CGIV'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Conference on Computer Graphics, Imaging and Visualisation (CGIV'06)
+Y1  - 26-28 July 2006
+AB  - Smooth Skinning is still the most popular method for the animation of deformable human and creature characters. It has became almost an industry standard because of its intuitiveness to use and efficiency to compute. However it suffers from a number of problems, such as the collapsing elbow and candywrapper effect. In this paper, we present a new method, which is able to solve these defects with very little extra stretching computations. The advantage of this method is its compatibility with the current animation workflow. The animator can change the skin weight any way they like and therefore it favours creativity. The aim of our method is trying to retain the realism and computational efficiency at the same time. It is suitable for situations, where real time response is necessary, like computer games. A practical implementation in the form of a Maya plug-in is created to demonstrate the viability of the method.
+ER  - 
+
+TY  - CONF
+TI  - Tactical Situation Assessment Technologies (TSAT)
+T2  - 2008 IEEE International Conference on Semantic Computing
+SP  - 577
+EP  - 580
+AU  - E. W. Medina
+AU  - L. T. Duffy
+PY  - 2008
+KW  - Visualization
+KW  - Internet
+KW  - Wireless communication
+KW  - Software
+KW  - Wireless sensor networks
+KW  - Keyboards
+KW  - Fingers
+KW  - data glove
+KW  - gesture recognition
+KW  - visual language
+KW  - linguistic analysis
+DO  - 10.1109/ICSC.2008.60
+JO  - 2008 IEEE International Conference on Semantic Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Semantic Computing
+Y1  - 4-7 Aug. 2008
+AB  - In distributed command and control (C2), the primary tool for consistency in operational situational assessment (SA) is the common operational picture(COP) and continuous text updates that define relevant objects, their relationships, and their intent. Context often resides in the warfighterpsilas "conversation," or in manual hand gestures in the battlefield. The primary tactical method for capturing this information resides in text chat and voice communications. There is a primary reliance on text chat (due to its persistence) in hostile tactical environments with little to inform its practice or its improvement. We focus on three areas to improve the ability to communicate SA context by (1) developing a computational approach to acquiring chat SA themes from unstructured text; (2) exploiting the use of icons, images, and symbols in developing an SA language; and (3) prototyping a new technology of inscription with the development of data-generating gloves.
+ER  - 
+
+TY  - CONF
+TI  - Fundamentals of measurement science and instrumentation
+T2  - 2006 IEEE Instrumentation and Measurement Technology Conference Proceedings
+SP  - VIII
+EP  - IX
+AU  - A. Ferrero
+AU  - J. L. Schmalzel
+PY  - 2006
+KW  - Instruments
+KW  - Mathematical model
+KW  - Autocorrelation
+KW  - Particle measurements
+KW  - Pollution measurement
+KW  - Electric variables measurement
+KW  - Voltage
+KW  - Electrical resistance measurement
+KW  - Time measurement
+KW  - Stochastic processes
+DO  - 10.1109/IMTC.2006.328289
+JO  - 2006 IEEE Instrumentation and Measurement Technology Conference Proceedings
+IS  - 
+SN  - 1091-5281
+VO  - 
+VL  - 
+JA  - 2006 IEEE Instrumentation and Measurement Technology Conference Proceedings
+Y1  - 24-27 April 2006
+AB  - Summary form only for tutorial. Measuring systems and instruments are becoming more and more complex and are presently capable of performing advanced measurement operations. The recent developments in sensor technology, analog-to-digital converters, and computational capabilities of DSP devices, and the relative simplicity with which these components can be interconnected have opened new possibilities to measurement science and practice. These developments are revealing a number of new issues involving the very fundamentals of the measurement science, from the definition of a new measurement paradigm to the metrological characterization of the measured results. This tutorial is therefore aimed at reconsidering these basic issues, having in mind their application to the modern measuring systems. A model of the measurement process, as a bridge between the empirical world and the world of knowledge and abstract concepts, will be presented. Within this model, the measurement process is only capable of providing incomplete knowledge (the measurement result) about the measurand. It will be shown how an incomplete knowledge about the measurand is still acceptable, provided that we are capable of estimating how incomplete this knowledge is. Starting from this consideration, the methods for characterizing the result of a measurement will be discussed, focusing mainly on the uncertainty, calibration, and traceability concepts. A short survey on the International Metrology Organizations will be also given. After having introduced the basic concept of metrology, a basic instrument diagram will be introduced, and the diagram of the modern systems based on digital signal processing techniques will be discussed in deeper details.
+ER  - 
+
+TY  - CONF
+TI  - On Intelligence Science and Recent Progresses
+T2  - 2006 5th IEEE International Conference on Cognitive Informatics
+SP  - 16
+EP  - 16
+AU  - Z. Shi
+PY  - 2006
+KW  - Artificial intelligence
+KW  - Cognitive science
+KW  - Learning systems
+KW  - Neurons
+KW  - Brain modeling
+KW  - Humans
+KW  - Data structures
+KW  - Computational and artificial intelligence
+KW  - Machine intelligence
+KW  - Temporal lobe
+DO  - 10.1109/COGINF.2006.365669
+JO  - 2006 5th IEEE International Conference on Cognitive Informatics
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2006 5th IEEE International Conference on Cognitive Informatics
+Y1  - 17-19 July 2006
+AB  - Summary form only given. Intelligence science is a cross-discipline that dedicates to joint research on basic theory and technology of intelligence by brain science, cognitive science, artificial intelligence and others. Brain science explores the essence of brain, research on the principle and model of natural intelligence in molecular, cell and behavior level. Cognitive science studies human mental activity, such as perception, learning, memory, thinking, consciousness etc. In order to implement machine intelligence, Artificial intelligence attempts simulation, extension and expansion of human intelligence using artificial methodology and technology. The above three disciplines work together to explore new concept, new theory, new methodology. It will be successful and create a brilliant future in the 21 century. Brain science points out that perceptive lobes have special function separately, the occipital lobe processes the visual information, the temporal lobe processes auditory information, the parietal lobe processes the information from the somatic sensors. All of three lobes deal with information perceived from the physical world. Each lobe is covered with cortex where the bodies of neurons are located. Cortex consists of primary, intermediate and advanced areas at least. Information is processed in the primary area first, then is passed to intermediate and advanced areas. Comparing with computer system, the brain is the same as hardware and the mind looks like software. Most work in cognitive science assumes that the mind has mental representations analogous to computer data structures, and computational procedures similar to computational algorithms. Connectionists have proposed novel ideas to use neurons and their connections as inspirations for data structures, and neuron firing and spreading activation as inspirations for algorithms. Cognitive science then works with a complex 3-way analogy among the mind, the brain, and computers. Mind, brain, and computation can each be used to suggest new ideas about the others. There is no single computational model of mind, since different kinds of computers and programming approaches suggest different ways in which the mind might work. The mind contains perception, rational, consciousness and emotion. The long-term scientific goal of artificial intelligence is human-level intelligence. In this lecture, we will discuss basic research topics related to intelligence science, such as learning, memory, thought, language, consciousness etc. We also report the recent progresses containing: visual perception; introspective learning; linguistic cognition; consciousness model; and platform of agent-grid intelligence
+ER  - 
+
+TY  - JOUR
+TI  - A Cognitive Model of Improvisation in Emergency Management
+T2  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+SP  - 547
+EP  - 561
+AU  - D. J. Mendonca
+AU  - W. A. Wallace
+PY  - 2007
+KW  - Disaster management
+KW  - Art
+KW  - Time factors
+KW  - Risk management
+KW  - Decision making
+KW  - Technology planning
+KW  - Terrorism
+KW  - Telecommunication services
+KW  - Cities and towns
+KW  - Information systems
+KW  - Cognitive science
+KW  - decision making
+DO  - 10.1109/TSMCA.2007.897581
+JO  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+IS  - 4
+SN  - 1558-2426
+VO  - 37
+VL  - 37
+JA  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+Y1  - July 2007
+AB  - An enduring characteristic of emergencies is the need for near-simultaneous development and deployment of new management procedures. This need can arise with the onset of highly novel problems and the need to act quickly-factors that reduce opportunities for extensive planning in managing the emergency. As a result, decision makers in emergencies must be prepared to improvise. By understanding the cognitive processes in improvisation, organizations can better learn how to plan for, manage, and learn from improvised action. To help create this understanding, this paper reviews and synthesizes prior results on improvisation in the art of jazz, exploring how these results may be applied to improvisation in emergency management. A theory of improvisation in emergency management is then developed and expressed as a cognitive model. The modelpsilas implementation in computer-executable code is then reviewed, along with an illustration of how the model improvises in an emergency situation. Finally, implications of this model and opportunities for future research are presented.
+ER  - 
+
+TY  - JOUR
+TI  - Engineering, Liberal Arts, and Technological Literacy in Higher Education
+T2  - IEEE Technology and Society Magazine
+SP  - 23
+EP  - 28
+AU  - J. D. Klein
+AU  - R. Balmer
+PY  - 2007
+KW  - Art
+KW  - Educational technology
+KW  - Educational institutions
+KW  - Technological innovation
+KW  - Computer science education
+KW  - Physics education
+KW  - Chemical technology
+KW  - Biology computing
+KW  - Computer science
+KW  - Materials science and technology
+DO  - 10.1109/MTS.2007.911066
+JO  - IEEE Technology and Society Magazine
+IS  - 4
+SN  - 1937-416X
+VO  - 26
+VL  - 26
+JA  - IEEE Technology and Society Magazine
+Y1  - Winter 2007
+AB  - A small private liberal arts college with engineering, is experimenting with a new undergraduate paradigm for integrating the arts, humanities, and sciences with modern technology and engineering in a way that will enhance student's technological literacy for the 21st century. Union College brings together faculty from engineering and the liberal arts so that students graduate with an understanding beyond that provided by a traditional disciplinary major.
+ER  - 
+
+TY  - CONF
+TI  - A Novel Criticality Computation Method in Statistical Timing Analysis
+T2  - 2007 Design, Automation & Test in Europe Conference & Exhibition
+SP  - 1
+EP  - 6
+AU  - F. Wang
+AU  - Y. Xie
+AU  - H. Ju
+PY  - 2007
+KW  - Timing
+KW  - Delay
+KW  - Performance analysis
+KW  - Circuit optimization
+KW  - Laboratories
+KW  - Gaussian distribution
+KW  - Information analysis
+KW  - Convergence
+KW  - Tree graphs
+KW  - Monte Carlo methods
+DO  - 10.1109/DATE.2007.364532
+JO  - 2007 Design, Automation & Test in Europe Conference & Exhibition
+IS  - 
+SN  - 1558-1101
+VO  - 
+VL  - 
+JA  - 2007 Design, Automation & Test in Europe Conference & Exhibition
+Y1  - 16-20 April 2007
+AB  - The impact of process variations increases as technology scales to nanometer region. Under large process variations, the path and arc/node criticality provide effective metrics in guiding circuit optimization. To facilitate the criticality computation considering the correlation, the authors define the critical region for the path and arc/node in a timing graph, and propose an efficient method to compute the criticality for paths and arcs/nodes simultaneously by a single breadth-first graph traversal during the backward propagation. Instead of choosing a set of paths for analysis prematurely, we develop a new property of the path criticality to prune those paths with low criticality at very earlier stages, so that our path criticality computation method has linear complexity with respect of the timing edges in a timing graph. To improve the computation accuracy, cutset and path criticality properties are exploited to calibrate the computation results. The experimental results on ISCAS benchmark circuits show that our criticality computation method can achieve high accuracy with fast speed
+ER  - 
+
+TY  - CONF
+TI  - New models for computing education
+T2  - 2007 37th Annual Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports
+SP  - F3H-11
+EP  - F3H-16
+AU  - J. Impagliazzo
+AU  - A. D. McGettrick
+PY  - 2007
+KW  - Computer science education
+KW  - Educational programs
+KW  - Computer science
+KW  - Information systems
+KW  - Software engineering
+KW  - Absorption
+KW  - Systems engineering and theory
+KW  - Information technology
+KW  - Teamwork
+KW  - Computer security
+KW  - Curricula models
+KW  - computing education
+KW  - computing curricula
+KW  - innovative models
+DO  - 10.1109/FIE.2007.4417991
+JO  - 2007 37th Annual Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2007 37th Annual Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports
+Y1  - 10-13 Oct. 2007
+AB  - The motivation for this work stems from the falling enrollments in the computing discipline and the subsequent challenge to present the study of computing in a manner that is attractive to a wider range of potential students. This paper seeks to capture a new notion of "curriculum models" and to draw attention to the range of possible approaches programs might adopt. This paper addresses issues that may underpin some of this transformational process. It mentions some of the underlying assumptions regarding the situation and explores the affect of curricula reports in computer science, computer engineering, information systems, information technology, and software engineering as published by ACM and the computer society of IEEE. (Both authors have co-authored some of these documents.) From these reports, the paper explores the framework of new curricula models based on broad strategies for creating or developing a curriculum from organization and orientation points of view. Considerations for these new models would include not only topic areas, but also contrasts between traditional and novel approaches. While the paper addresses some structural models, it also explores integrative approaches such as absorption and separatist models as well as modular frameworks and negotiated programs. This topic is very timely and appropriate given the current crisis facing computing education today.
+ER  - 
+
+TY  - CONF
+TI  - Critical path analysis of the TRIPS architecture
+T2  - 2006 IEEE International Symposium on Performance Analysis of Systems and Software
+SP  - 37
+EP  - 47
+AU  - R. Nagarajan
+AU  - Xia Chen
+AU  - R. G. McDonald
+AU  - D. Burger
+AU  - S. W. Keckler
+PY  - 2006
+KW  - Performance analysis
+KW  - Analytical models
+KW  - Computer architecture
+KW  - Hardware
+KW  - Microarchitecture
+KW  - Abstracts
+KW  - Laboratories
+KW  - Process design
+KW  - Application software
+KW  - Computational modeling
+DO  - 10.1109/ISPASS.2006.1620788
+JO  - 2006 IEEE International Symposium on Performance Analysis of Systems and Software
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Symposium on Performance Analysis of Systems and Software
+Y1  - 19-21 March 2006
+AB  - Fast, accurate, and effective performance analysis is essential for the design of modern processor architectures and improving application performance. Recent trends toward highly concurrent processors make this goal increasingly difficult. Conventional techniques, based on simulators and performance monitors, are ill-equipped to analyze how a plethora of concurrent events interact and how they affect performance. Prior research has shown the utility of critical path analysis in solving this problem. This analysis abstracts the execution of a program with a dependence graph. With simple manipulations on the graph, designers can gain insights into the bottlenecks of a design. This paper extends critical path analysis to understand the performance of a next-generation, high-ILP architecture. The TRIPS architecture introduces new features not present in conventional superscalar architectures. We show how dependence constraints introduced by these features, specifically the execution model and operand communication links, can be modeled with a dependence graph. We describe a new algorithm that tracks critical path information at a fine-grained level and yet can deliver an order of magnitude (30x) improvement in performance over previously proposed techniques. Finally, we provide a breakdown of the critical path for a select set of benchmarks and show an example where we use this information to improve the performance of a heavily-hand-optimized program by as much as 11%.
+ER  - 
+
+TY  - CONF
+TI  - A Human-Machine Dimensional Inference Ontology that Weaves Human Intentions and Requirements of Context Awareness Systems
+T2  - 2008 32nd Annual IEEE International Computer Software and Applications Conference
+SP  - 287
+EP  - 294
+AU  - K. Oyama
+AU  - H. Jaygarl
+AU  - J. Xia
+AU  - C. K. Chang
+AU  - A. Takeuchi
+AU  - H. Fujimoto
+PY  - 2008
+KW  - Ontologies
+KW  - Context modeling
+KW  - Cognition
+KW  - Computational modeling
+KW  - Pervasive computing
+KW  - Computers
+KW  - Man machine systems
+KW  - Human Intention
+KW  - Ontology
+KW  - Context Awareness
+KW  - BDI Logic
+DO  - 10.1109/COMPSAC.2008.238
+JO  - 2008 32nd Annual IEEE International Computer Software and Applications Conference
+IS  - 
+SN  - 0730-3157
+VO  - 
+VL  - 
+JA  - 2008 32nd Annual IEEE International Computer Software and Applications Conference
+Y1  - 28 July-1 Aug. 2008
+AB  - Changing system requirements, especially for context awareness (CA) systems, often cause modifications in the software systems in order to adapt to dynamic environments. Since the requirements may become temporarily obsolete or contrary to human intentions, the CA systems need to be tuned to resolve the conflict. On the other hand, most CA design methods rely on pre-defined requirements and reasoning engine, thus, fail to address all the possible situations. Consequently, services provided by such a CA system are limited to accommodate some situations and unable to react as expected. Therefore, it is critical for CA systems to capture exceptions at runtime, infer changed human intentions, and adapt to these changes. This study focuses on inference of ever-changing human intentions and monitoring human intentions to handle system evolution. In this paper, we present an inference mechanism of human intentions via the human-machine dimensional inference ontology (HDIO). This ontology gives inference rules based on the BDI logic to deduce human intentions from contexts. Furthermore, the inference exercises of a healthcare system example shows how user intentions relate to system requirements and how they help improve self-adaptability of CA systems.
+ER  - 
+
+TY  - JOUR
+TI  - The Effect of Problem-Solving Instruction on Computer Engineering Majors' Performance in Verilog Programming
+T2  - IEEE Transactions on Education
+SP  - 131
+EP  - 137
+AU  - Y. -C. Hung
+PY  - 2008
+KW  - Problem-solving
+KW  - Programming
+KW  - Computers
+KW  - Programming profession
+KW  - Computational modeling
+KW  - Computer languages
+KW  - Psychology
+KW  - Cognition
+KW  - Analogy
+KW  - deduction
+KW  - problem solving
+KW  - programming
+KW  - Verilog
+DO  - 10.1109/TE.2007.906912
+JO  - IEEE Transactions on Education
+IS  - 1
+SN  - 1557-9638
+VO  - 51
+VL  - 51
+JA  - IEEE Transactions on Education
+Y1  - Feb. 2008
+AB  - This study investigated the effect of instruction in problem-solving skills on computer engineering majors' performance in programming in the Verilog. Comparisons were made among two treatment groups (deduction and analogy) and a control group, whose pretest and posttest scores were analyzed with the analysis of covariance (ANCOVA) statistical procedure. Results showed that problem-solving skills' instruction significantly increased students' achievement.
+ER  - 
+
+TY  - CONF
+TI  - Decision making in systems engineering: The foundation
+T2  - 2007 International Symposium on Collaborative Technologies and Systems
+SP  - 236
+EP  - 246
+AU  - G. L. Roth
+PY  - 2007
+KW  - Biological system modeling
+KW  - Mathematical model
+KW  - Decision making
+KW  - Computational modeling
+KW  - Uncertainty
+KW  - Psychology
+KW  - Analytical models
+KW  - engineering design
+KW  - decision making
+KW  - systems engineering
+KW  - cognitive science
+KW  - sociology of scientific knowledge
+KW  - decisions under risk
+KW  - uncertainty
+KW  - ambiguity
+DO  - 10.1109/CTS.2007.4621761
+JO  - 2007 International Symposium on Collaborative Technologies and Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 International Symposium on Collaborative Technologies and Systems
+Y1  - 25-25 May 2007
+AB  - Engineering design is inherently a social activity as are all applied disciplines. Humans are typically the recipients of applied sciences, and as such the sociology of science and of knowledge is important. The following strives to illuminate the human biases present in modeling reality, the types of decision making often employed, the need for a holistic systems of systems approach, the need to consider the human side of engineering, the complexities involved, and the need for collaboration to solve todaypsilas toughest problems. Finally, hints for future engineering problem solving methodologies involving human tendencies is introduced.
+ER  - 
+
+TY  - CONF
+TI  - Experiences in simulation-based education in engineering processes
+T2  - 2008 38th Annual Frontiers in Education Conference
+SP  - S1C-21
+EP  - S1C-26
+AU  - H. McManus
+AU  - E. Rebentisch
+PY  - 2008
+KW  - Aerospace simulation
+KW  - Design engineering
+KW  - Aerospace engineering
+KW  - Aerospace industry
+KW  - Aerospace materials
+KW  - Knowledge engineering
+KW  - Analytical models
+KW  - Context modeling
+KW  - Computational modeling
+KW  - Computer simulation
+KW  - Enterprise
+KW  - Engineering Process
+KW  - Game
+KW  - Lean Engineering
+KW  - Simulation
+DO  - 10.1109/FIE.2008.4720679
+JO  - 2008 38th Annual Frontiers in Education Conference
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2008 38th Annual Frontiers in Education Conference
+Y1  - 22-25 Oct. 2008
+AB  - The lean advancement (formerly lean aerospace) Initiative at MIT has applied lean business processes to the Aerospace Industry. The material has proven difficult to teach to engineers, as it is empirical and based on processes founded on human interactions, not scientific and based on mathematical and physical laws. Simulation-based education has proven highly effective in getting past this barrier. Design of a number of pedagogical simulations, and experience with both professional and student audiences are discussed. Data is available to evaluate both a manufacturing simulation and a full simulation of an aerospace enterprise and its supply and engineering chains which capture enterprise interactions. Good data on student satisfaction and perceived outcomes, and lower-quality data on some directly-measured outcomes, support the idea that simulation-based education is highly effective in this challenging situation.
+ER  - 
+
+TY  - CONF
+TI  - Effects of Object Building Activities in Second Life on Players' Spatial Reasoning
+T2  - 2008 Second IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning
+SP  - 62
+EP  - 69
+AU  - J. Hwang
+AU  - H. Park
+AU  - J. Cha
+AU  - B. Shin
+PY  - 2008
+KW  - Second Life
+KW  - Virtual reality
+KW  - Visualization
+KW  - Cognition
+KW  - Intelligent structures
+KW  - Concrete
+KW  - Information processing
+KW  - Humans
+KW  - Machine intelligence
+KW  - Computational intelligence
+KW  - Saptial reasoning
+KW  - learning style
+KW  - object building
+KW  - Second Life
+DO  - 10.1109/DIGITEL.2008.14
+JO  - 2008 Second IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 Second IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning
+Y1  - 17-19 Nov. 2008
+AB  - The purpose of this study is to examine the effects of object building activities in Second Life on playerspsila spatial reasoning and to explore the relationships between learnerspsila information perceiving styles and spatial reasoning. The participants of this study included 70 undergraduate students who were taking the class dasiaNew Media in Educationpsila. For this study, Kolbpsilas learning style inventory was administered to the participants in advance of activities in Second Life. Also they were given instructions on building objects related to spatial reasoning activities (e.g., analysis and synthesis, deductive reasoning, development and application of visualization methods, systematic approach, and transformation) in Second Life. As a result, it was discovered that Second Life activities are more effective for the abstract conceptualization group than for the concrete experience group. This implies that activities provided in Second Life were more positively effective to abstract conceptualization learners on their information processing such as spatial reasoning.
+ER  - 
+
+TY  - CONF
+TI  - Teaching queueing theory with an inquiry-based learning approach: A case for applying webquest in a course in simulation and statistical analysis
+T2  - 2007 37th Annual Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports
+SP  - F3C-1
+EP  - F3C-6
+AU  - Yuen-Yan Chan
+PY  - 2007
+KW  - Queueing analysis
+KW  - Analytical models
+KW  - Statistical analysis
+KW  - Computational modeling
+KW  - Collaborative work
+KW  - Engineering education
+KW  - Mathematical analysis
+KW  - Communication networks
+KW  - Computer networks
+KW  - Collaboration
+KW  - Queueing Theory
+KW  - Simulation
+KW  - WebQuest
+KW  - Inquiry-based learning
+DO  - 10.1109/FIE.2007.4418162
+JO  - 2007 37th Annual Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2007 37th Annual Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports
+Y1  - 10-13 Oct. 2007
+AB  - This paper presents a case on applying WebQuest, a model for constructivist inquiry-based learning, to facilitate the teaching and learning of queueing theory. The author is a faculty member in an information engineering department, teaching an undergraduate course titled Simulation and Statistical Analysis in which queueing theory is a key topic. In this paper, the author shares her experience of adopting WebQuest as a pedagogical tool. Overviews of constructivist pedagogies related to WebQuest, namely inquiry-based learning, collaborative learning, and scaffolding, are also provided. Instead of teaching the classic topic in an instructorcentered, direct instruction approach, the author constructed a WebQuest to help the students to design and conduct simulation projects to answer several nontrivial questions related to queueing theory. Scaffolding aids such as detailed descriptions of procedures and useful links to web resources, as well as an evaluation rubric, were also included in the WebQuest. This paper also includes results of a quantitative analysis on the effectiveness of adopting WebQuest to motivate students’ learning. Students’ interview comments and the author’s own reflection are also given.
+ER  - 
+
+TY  - CONF
+TI  - Agile optimization for coercion
+T2  - 2007 Winter Simulation Conference
+SP  - 900
+EP  - 909
+AU  - L. Tang
+AU  - P. F. Reynolds
+PY  - 2007
+KW  - Optimization methods
+KW  - Constraint optimization
+KW  - Computational modeling
+KW  - Tin
+KW  - Humans
+KW  - Switches
+KW  - Visualization
+KW  - Computer science
+KW  - Numerical simulation
+KW  - Condition monitoring
+DO  - 10.1109/WSC.2007.4419686
+JO  - 2007 Winter Simulation Conference
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2007 Winter Simulation Conference
+Y1  - 9-12 Dec. 2007
+AB  - Coercion combines flexible points, semi-automated optimization and expert guided manual code modification for adapting simulations to meet new requirements. Coercion can improve simulation adaptation efficiency by offloading large portions of work to automated search. This paper identifies requirements and related challenges in coercion, presents methods for gaining insight, and describes how to use these insights to make agile strategy decisions during a coercion. We call our optimization method agile optimization, because it allows users to preempt optimization and flexibly interleave alternative optimization methods and manual code modification, as needed. Agile optimization exploits the combined strengths of human insight and process automation to improve efficiency. We describe a prototype system and a case study that together demonstrate the benefits that can accrue from agile optimization.
+ER  - 
+
+TY  - CONF
+TI  - State Causality Analysis of Conservative Parallel Network Simulation
+T2  - 41st Annual Simulation Symposium (anss-41 2008)
+SP  - 251
+EP  - 260
+AU  - S. Lin
+AU  - X. Cheng
+AU  - J. Lv
+PY  - 2008
+KW  - Analytical models
+KW  - Discrete event simulation
+KW  - Computational modeling
+KW  - Performance analysis
+KW  - Algorithm design and analysis
+KW  - Parallel processing
+KW  - Delay effects
+KW  - Computers
+KW  - Upper bound
+KW  - Predictive models
+KW  - conservative simulation
+KW  - critical path analysis
+KW  - speedup
+KW  - parallel efficiency
+KW  - performance evaluation
+DO  - 10.1109/ANSS-41.2008.21
+JO  - 41st Annual Simulation Symposium (anss-41 2008)
+IS  - 
+SN  - 2331-107X
+VO  - 
+VL  - 
+JA  - 41st Annual Simulation Symposium (anss-41 2008)
+Y1  - 13-16 April 2008
+AB  - Critical path analysis is a traditional way to study the parallelism of conservative parallel simulation. In this paper, we propose a new technique called state causality analysis to accurately model the conservative parallel network simulation. A theorem of simulation time advancement is presented and proved. Different from critical path analysis, our method focuses on the dependency of the logical process states instead of the unpredictable events. The effects of many algorithm-independent factors, such as lookahead, I/O overhead, physical transfer delay, processor speed and event distribution, are all taken into consideration. With this method, the complicated relations between parallel performance and the algorithm-independent factors can be revealed distinctly, which however cannot be revealed by critical path analysis in most cases. The theoretical analyses and experiments show that our method always predict a stricter upper bound on the performance of a given network simulation task than critical path analysis, which may provide a baseline to evaluate the conservative synchronization algorithms excluding the effects of algorithm-independent factors.
+ER  - 
+
+TY  - CONF
+TI  - Panel discussion: What makes good research in modeling and simulation: Sustaining the growth and vitality of the M&S discipline
+T2  - 2008 Winter Simulation Conference
+SP  - 677
+EP  - 688
+AU  - L. Yilmaz
+AU  - P. Davis
+AU  - P. A. Fishwick
+AU  - Xiaolin Hu
+AU  - J. A. Miller
+AU  - M. Hybinette
+AU  - T. I. Oren
+AU  - P. Reynolds
+AU  - H. Sarjoughian
+AU  - A. Tolk
+PY  - 2008
+KW  - Uncertainty
+KW  - Problem-solving
+KW  - Computer science
+KW  - USA Councils
+KW  - Computational modeling
+KW  - Educational programs
+KW  - Power engineering and energy
+KW  - Application software
+KW  - Home computing
+KW  - Predictive models
+DO  - 10.1109/WSC.2008.4736129
+JO  - 2008 Winter Simulation Conference
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2008 Winter Simulation Conference
+Y1  - 7-10 Dec. 2008
+AB  - The aim of this panel session is to promote discussion on emergent challenges and the need for advancements in the theory, methodology, applications, education in M&S. The changing landscape in science and engineering (e.g., industrial and defense application, medicine, predictive homeland security, energy and environment) introduces new types of problems and challenges into the M&S domain. In light of these emergent needs how can M&S stay relevant as new critical fields such as global climate change mitigation, energy restructuring, genetic engineering impacts on society and universal health care emerge and come into prominence? Surely the systems point of view and the tools that M&S brings to the table are key to these new directions. So, what are the critical issues and challenges facing M&S community in the face of change and need for rapid discovery?
+ER  - 
+
+TY  - CONF
+TI  - Access Control Strategies for Virtualized Environments in Grid Computing Systems
+T2  - 11th IEEE International Workshop on Future Trends of Distributed Computing Systems (FTDCS'07)
+SP  - 48
+EP  - 54
+AU  - A. C. Squicciarini
+AU  - E. Bertino
+AU  - S. Goasguen
+PY  - 2007
+KW  - Access control
+KW  - Grid computing
+KW  - Authorization
+KW  - Authentication
+KW  - Computer science
+KW  - Scalability
+KW  - Computer security
+KW  - Resource management
+KW  - Standards development
+KW  - Proposals
+DO  - 10.1109/FTDCS.2007.10
+JO  - 11th IEEE International Workshop on Future Trends of Distributed Computing Systems (FTDCS'07)
+IS  - 
+SN  - 1071-0485
+VO  - 
+VL  - 
+JA  - 11th IEEE International Workshop on Future Trends of Distributed Computing Systems (FTDCS'07)
+Y1  - 21-23 March 2007
+AB  - The development of adequate security solutions and in particular of authentication and authorization techniques for grid computing systems is a challenging task. Challenges arise from the heterogeneity of users, the presence of multiple security administration entities, the heterogeneity of security techniques used at the various grid hosts, the scalability requirements, and the need for high-level policies concerning resource sharing. Recent trends, like accessing grid through science gateways and the use of virtual organizations (VO) for managing user communities, further complicate the problem of security for grid computing systems. Currently, the GSI component developed as part of the Globus Toolkit, the de-facto standard for grid infrastructures is not fully suited to meet those challenges. The main drawback of such an approach is that it relies on a low level identity-based authorization scheme. .A low-level access control policy maps a user's identity (distinguished name) to a local account. Such approach does not scale and does not address many of the outlined requirements. We thus need security solutions that go beyond the simple solutions currently in use. The goal of this paper is to make a first step towards such solutions. The paper discusses and analyzes authentication and authorization solutions that better fit novel grid infrastructures characterized by virtual organizations and science gateways. Some of these solutions derive from ongoing work in current grid infrastructure projects; others are new proposals that we think worthy of discussion. In particular, we analyze the solutions proposed as part of the GridShib and the VO Privilege projects
+ER  - 
+
+TY  - CONF
+TI  - Specification and performance evaluation of Flexible Manufacturing Systems using a Bounded True Concurrent Process Algebra
+T2  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+SP  - 46
+EP  - 46
+AU  - M. C. Ruiz
+AU  - D. Cazorla
+AU  - F. Cuartero
+AU  - J. J. Pardo
+PY  - 2006
+KW  - Flexible manufacturing systems
+KW  - Algebra
+KW  - System recovery
+KW  - Petri nets
+KW  - Manufacturing industries
+KW  - Concurrent computing
+KW  - Manufacturing processes
+KW  - Costs
+KW  - Material storage
+KW  - Computational intelligence
+DO  - 10.1109/CIMCA.2006.200
+JO  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+Y1  - 28 Nov.-1 Dec. 2006
+AB  - This paper deals with the specification and analysis of Flexible Manufacturing Systems (FMS). We use a timed process algebra called BTC (for Bounded True Concurrency) that we have developed from CSP and which takes into account that the available resources in a system have to be shared by all the processes. It is able to consider heterogeneous resources of any type (preemptable and non- preemptable) which makes it suitable for specifying FMS. We show by means of an example that the specifications obtained suit the real systems quite well, are straightforward and deadlock-free. Due to the great interest (and need) in obtaining shorter manufacturing lead times, we also carry out a performance evaluation using an algorithm which allows us to estimate the time required to evolve between states. To the best of our knowledge, this is the first attempt to do this with process algebras, and we think that it is a good way to be able to split up the system into subsystems, which will be easily analyzed without the deadlock problems that researchers in Petri Nets have encountered.
+ER  - 
+
+TY  - CONF
+TI  - Factors Impact on e-Business Alliances Establishing Stage in Taiwan
+T2  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+SP  - 126
+EP  - 126
+AU  - Y. -l. Wen
+AU  - C. -c. Wen
+PY  - 2006
+KW  - Companies
+KW  - Internet
+KW  - Business
+KW  - Consumer electronics
+KW  - Government
+KW  - Computational intelligence
+KW  - Educational institutions
+KW  - Writing
+KW  - Motion pictures
+KW  - Testing
+KW  - Taiwan
+KW  - SME
+KW  - business-to-business
+KW  - e-business
+KW  - strategic alliance
+KW  - case study
+DO  - 10.1109/CIMCA.2006.96
+JO  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+Y1  - 28 Nov.-1 Dec. 2006
+AB  - Research examined the problem: 'key factors that lead to e-companies' success or failure in establishing strategic alliance'- with case materials from Taiwan. Based on the research problem and theoretic framework developed, a number of research questions allowed solutions to be found. Research issues addressed the following questions:Do you think e-alliances are important? Why? What key factors influence enterprises to establish e-business and strategic alliances? Research achieved varied goals for different stakeholders involved in e-business and strategic alliances in Taiwan - researchers, governments and business enterprises or organisations.
+ER  - 
+
+TY  - CONF
+TI  - Globally optimal distributed synchronous batch reconfiguration for efficient hazard-free dynamic provisioning: How an entire network can “think globally and act locally”
+T2  - 2007 6th International Workshop on Design and Reliable Communication Networks
+SP  - 1
+EP  - 8
+AU  - W. D. Grover
+PY  - 2007
+KW  - Peer to peer computing
+KW  - Databases
+KW  - Hazards
+KW  - Computer networks
+KW  - Proposals
+KW  - Centralized control
+KW  - Communication system operations and management
+KW  - Operations research
+KW  - Communication networks
+KW  - Tellurium
+KW  - dynamic provisioning
+KW  - incremental optimization
+KW  - database hazard avoidance
+KW  - on-line O.R.
+DO  - 10.1109/DRCN.2007.4762268
+JO  - 2007 6th International Workshop on Design and Reliable Communication Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 6th International Workshop on Design and Reliable Communication Networks
+Y1  - 7-10 Oct. 2007
+AB  - This paper proposes an alternative concept for handling dynamic provisioning changes and ongoing network reconfiguration and reoptimization in general. A prime motivation is concern about the dependency of existing concepts for dynamic provisioning on the real-time coherence of databases of network state at diverse geographic locations. Not only is the continual updating of such global state everywhere in the network an intensive real-time load, but inevitable incoherencies pose hazards in network operation. The alternative proposal is a framework that makes use of precise time synchronization and the computational power of network nodes to solve identical local instances of incremental reoptimization problems in situ. The scheme removes the database coherency hazard, reduces signaling volumes, and increases resource efficiencies in service provisioning. It also provides a framework in general for continually ongoing distributed reoptimization of network configuration. The proposal also points directions towards some new research questions such as implementation of optimization models for identical solution on disparate platforms and definition of a variety of incremental batch reoptimization problems. It is thought that this may be one of the first application concepts for transport network management that would involve on-line embedded use of operations research methods in communication networks.
+ER  - 
+
+TY  - CONF
+TI  - The general philosophy of Artificial Adaptive Systems
+T2  - NAFIPS 2008 - 2008 Annual Meeting of the North American Fuzzy Information Processing Society
+SP  - 1
+EP  - 14
+AU  - M. Buscema
+PY  - 2008
+KW  - Adaptive systems
+KW  - Computational modeling
+KW  - Artificial intelligence
+KW  - Cultural differences
+KW  - Learning systems
+KW  - Taxonomy
+KW  - Algebra
+KW  - Artificial neural networks
+KW  - Computer networks
+KW  - Drugs
+DO  - 10.1109/NAFIPS.2008.4531358
+JO  - NAFIPS 2008 - 2008 Annual Meeting of the North American Fuzzy Information Processing Society
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - NAFIPS 2008 - 2008 Annual Meeting of the North American Fuzzy Information Processing Society
+Y1  - 19-22 May 2008
+AB  - This paper has the objective of describing the structure and placing in a taxonomy the Artificial Adaptive Systems (AAS). These systems form part of the vast world of Artificial Intelligence (AI) nowadays called more properly Artificial Sciences (AS). Artificial Sciences means those sciences for which an understanding of natural and/or cultural processes is achieved by the recreation of those processes through automatic models. In particular, Natural Computation tries to construct automatic models of complex processes, using the local interaction of elementary micro-processes, simulating the original process functioning. Such models organize themselves in space and time and connect in a non-linear way to the global process they are part of, trying to reproduce the complexity through the dynamic creation of specific and independent local rules that transform themselves in relation to the dynamics of the process. Natural Computation constitutes the alternative to Classical Computation (CC). This one, in fact, has great difficulty in facing natural/cultural processes, especially when it tries to impose external rules to understand and reproduce them, trying to formalize these processes in an artificial model. In Natural Computation ambit, Artificial Adaptive Systems are theories which generative algebras are able to create artificial models simulating natural phenomenon. The learning and growing process of the models is isomorphic to the natural process evolution, that is, it's itself an artificial model comparable with the origin of the natural process. We are dealing with theories adopting the "time of development" of the model as a formal model of "time of process" itself. Artificial Adaptive Systems comprise Evolutive Systems and Learning Systems. Artificial Neural Networks are the more diffused and best-known Learning Systems models in Natural Computation. For this reason we present in this paper an application of new Artificial Adaptive Systems to a very hard and pragmatic topic: drug trafficking. That because we think that "real world" is often the best theory.
+ER  - 
+
+TY  - CONF
+TI  - A Visual Computer Simulator and its Applications to An ICT-based Higher Education
+T2  - 2006 7th International Conference on Information Technology Based Higher Education and Training
+SP  - nil13
+EP  - nil20
+AU  - Y. Imai
+AU  - K. Kaneko
+AU  - M. Nakagawa
+PY  - 2006
+KW  - Computational modeling
+KW  - Computer simulation
+KW  - Application software
+KW  - Computer science education
+KW  - Educational programs
+KW  - Computer science
+KW  - Computer architecture
+KW  - Assembly
+KW  - Programming profession
+KW  - Java
+KW  - Educational tool
+KW  - Collaborative learning
+KW  - Visual simulator
+KW  - Java programming language
+KW  - Computer literacy
+DO  - 10.1109/ITHET.2006.339722
+JO  - 2006 7th International Conference on Information Technology Based Higher Education and Training
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 7th International Conference on Information Technology Based Higher Education and Training
+Y1  - 10-13 July 2006
+AB  - A visual computer simulator, called "VisuSim", has been developed and applied to real education for Computer Science at Kagawa University. It is one of educational tools associated with lectures on computer architecture and assembly programming. The simulator is written in the pure Java programming language, executed in several kinds of environment (free for types of OS and CPU) and invoked in the applet mode as well as in the stand-alone one. Typical usages of our simulator are two-fold. Teachers employ our simulator, "VisuSim" to demonstrate visually how a computer processes its program. Students use the simulators in class or access our Website, download "VisuSim", and invoke applet-based "VisuSim" on their browsers. After receiving feedback from users, we have provided communication support facility as a new function of "VisuSim". With such a communication facility, can send their programs, ask questions on them to their classmates and the classmates can test received programs with their "VisuSim" to think together about the questions
+ER  - 
+
+TY  - CONF
+TI  - III-Phase Verification and Validation of IEC Standard Programmable Logic Controller
+T2  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+SP  - 111
+EP  - 111
+AU  - D. Thapa
+AU  - C. M. Park
+AU  - S. Dangol
+AU  - G. -n. Wang
+PY  - 2006
+KW  - IEC standards
+KW  - Programmable control
+KW  - Logic
+KW  - Formal verification
+KW  - Manufacturing industries
+KW  - Control systems
+KW  - Agile manufacturing
+KW  - Flexible manufacturing systems
+KW  - Electrical equipment industry
+KW  - Electric breakdown
+KW  - Verification & Validation (V&V)
+KW  - Virtual Commissioning
+KW  - Model Checking
+KW  - PLC
+KW  - Flexible Manufacturing System (FMS).
+DO  - 10.1109/CIMCA.2006.118
+JO  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+Y1  - 28 Nov.-1 Dec. 2006
+AB  - The objective of this paper is to define an integrated approach for offline verification and validation of the control logics to provide absolute solution by implementing the Ill-phase V&V method in a manufacturing industry. The control logic plays vital role in an agile manufacturing system for proper functioning of the FMS. The effort to integrate the formal verification techniques with virtual commissioning is emerging, which is still not in a full fledged industrial usage, due to the isolated thinking of the user about formal verification techniques. Existing techniques like simulation has not been able to detect the hidden errors, which may propagate from one workcell to another workcell in a long run and create a complete breakdown in the manufacturing unit. These errors required to be carefully tested before the real time implementation. Control logics play a vital role to reduce the down-time and ramp-up time in a manufacturing industry. We need an integrated approach and techniques to support the consistent running of the production cycle. This paper explained about the positive aspects of manual and software based automated and virtual commissioning techniques to provide an applicable solution to the fast paced manufacturing industries.
+ER  - 
+
+TY  - CONF
+TI  - Four-Parameter Generalized Gamma Distribution used for Stock Return Modelling
+T2  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+SP  - 380
+EP  - 386
+AU  - O. Gomes
+AU  - C. Combes
+AU  - A. Dussauchoy
+PY  - 2006
+KW  - Gaussian distribution
+KW  - Probability distribution
+KW  - Systems engineering and theory
+KW  - Random variables
+KW  - Postal services
+KW  - Petroleum
+KW  - Companies
+KW  - Density functional theory
+KW  - Testing
+KW  - Performance evaluation
+KW  - Four-parameter generalized gamma distribution
+KW  - stock return modelling
+KW  - normal distribution
+KW  - fat tails
+KW  - asymmetry
+DO  - 10.1109/CESA.2006.4281682
+JO  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+Y1  - 4-6 Oct. 2006
+AB  - This article focuses on the stock return modelling. Even if normal distribution has been considered over many years, the raised problem by asymmetry or fat tails phenomenon leads to think about others distributions taking into account this typical feature. In this article, we try to prove that a four-parameter generalized gamma distribution fits more correctly stock-market than a normal distribution. We also provide some results on the use of such a distribution on stock-return of French enterprises (Alcatel, Cap Gemini, Total Oil Company, Renault and Carrefour) and of CAC40 index (index including the 40 more important French enterprises).
+ER  - 
+
+TY  - CONF
+TI  - Towards Skolemize Clauses Binding for Reasoning in Inference Engine
+T2  - 2007 International Conference on Computational Science and its Applications (ICCSA 2007)
+SP  - 273
+EP  - 282
+AU  - R. A.K.
+AU  - T. M. T. Sembok
+AU  - H. B.Z.
+PY  - 2007
+KW  - Engines
+KW  - Data mining
+KW  - Natural languages
+KW  - Joining processes
+KW  - Computer applications
+KW  - Application software
+KW  - Multimedia systems
+KW  - Information technology
+KW  - Information retrieval
+KW  - Sufficient conditions
+DO  - 10.1109/ICCSA.2007.24
+JO  - 2007 International Conference on Computational Science and its Applications (ICCSA 2007)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 International Conference on Computational Science and its Applications (ICCSA 2007)
+Y1  - 26-29 Aug. 2007
+AB  - The paper presents a reasoning technique for open-domain question answering (QA) system. QA system has attracted more attention to meet information needs providing users with more precise and focused retrieval answers. We proposed a skolemize clauses binding (SCB) for reasoning, along with the theorem proving to provide the basis answer extraction. QA systems employing combination of SCB and resolution theorem proving have been used to provide both satisfying and hypothetical answers. Satisfying answers are associated with ground term corresponding with questions whose logical form contains variables. Hypothetical answer is an answer which comes from the story or plot of text, and required logical thinking because it is not explicitly stated in the knowledge domain. In this case, the answer can be considered as a set of logical formula called skolemize clauses defining sufficient conditions characteristic the tuples of individuals which satisfying the query.
+ER  - 
+
+TY  - CONF
+TI  - Modeling the Supplier Agent's Risk Strategy based on Fuzzy Logic Combined with the Q-Learning Algorithm
+T2  - 2006 International Conference on Computational Intelligence and Security
+SP  - 159
+EP  - 163
+AU  - M. Rahimiyan
+AU  - H. R. Mashhadi
+PY  - 2006
+KW  - Fuzzy logic
+KW  - Power markets
+KW  - Electricity supply industry
+KW  - Humans
+KW  - Learning
+KW  - Intelligent agent
+KW  - Power system modeling
+KW  - Power engineering and energy
+KW  - Decision making
+KW  - Electricity supply industry deregulation
+DO  - 10.1109/ICCIAS.2006.294112
+JO  - 2006 International Conference on Computational Intelligence and Security
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2006 International Conference on Computational Intelligence and Security
+Y1  - 3-6 Nov. 2006
+AB  - The human's ability for taking risk, which is one of the most important human attributes, has strong effect on his decision making. The bidding problem is an important issue for supplier agent participating in the power market. Thus, in order to get realistic insight about the supplier behavior, it is necessary to model the supplier's risk strategy and evaluate its effect on the bidding problem. Considering the human's thinking fuzzy nature, the supplier agent's risk characteristic is modeled using the fuzzy logic. Combining the fuzzy logic with the Q-learning algorithm, the intelligent supplier agent' bidding strategy is determined based on his risk strategy. A simulator is designed based on the proposed method. The supplier agents' realistic behaviors with different characteristics are studied numerically using the designed simulator
+ER  - 
+
+TY  - CONF
+TI  - A Quantitative Measurement for Reputation of Web Service and Providers Based on Cloud Model
+T2  - 2008 International Conference on Computational Intelligence for Modelling Control & Automation
+SP  - 500
+EP  - 505
+AU  - S. Wang
+AU  - L. Zhang
+AU  - N. Ma
+PY  - 2008
+KW  - Web services
+KW  - Clouds
+KW  - Electronic commerce
+KW  - Context-aware services
+KW  - Area measurement
+KW  - Software measurement
+KW  - Software engineering
+KW  - Logistics
+KW  - Research and development
+KW  - Computers
+KW  - reputation
+KW  - web services
+KW  - service providers
+KW  - the cloud model
+DO  - 10.1109/CIMCA.2008.11
+JO  - 2008 International Conference on Computational Intelligence for Modelling Control & Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 International Conference on Computational Intelligence for Modelling Control & Automation
+Y1  - 10-12 Dec. 2008
+AB  - Quality of Web service, especially the reputation, has become a benchmark to differentiate the services and providers. Unfortunately, the current reputation research in the field of Web services don't reasonably and correctly think about the randomicity and fuzziness which has been the basic issue in the relative research area about trust. We proposed two novel metrics to qualify the reputation of Web services and providers. We designed two kinds of trust model based on cloud model theory to describe the randomicity and fuzziness of the two metrics. Furthermore, a formalized calculation was provided to obtain the trust degree of services requestors to Web services and providers.
+ER  - 
+
+TY  - CONF
+TI  - Proposal for a New Home Security System in terms of User-friendliness and Prompt Intrusion Notification
+T2  - 2006 IEEE International Conference on Computational Intelligence for Homeland Security and Personal Safety
+SP  - 61
+EP  - 66
+AU  - M. Fujikawa
+AU  - H. Doi
+AU  - S. Tsujii
+PY  - 2006
+KW  - Proposals
+KW  - Security
+KW  - Tellurium
+KW  - Tin
+KW  - Read only memory
+KW  - Radio frequency
+KW  - alarm modes
+KW  - user recognition
+KW  - grasping of movements
+DO  - 10.1109/CIHSPS.2006.313308
+JO  - 2006 IEEE International Conference on Computational Intelligence for Homeland Security and Personal Safety
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Conference on Computational Intelligence for Homeland Security and Personal Safety
+Y1  - 16-17 Oct. 2006
+AB  - With the present home security system, a timer is incorporated in a terminal installed in the home. The purpose is to allow the user time to change the alarm mode of the terminal from disarmed to armed and close the door when leaving the residence; conversely, the user needs time to open the door and change the alarm mode from armed to disarmed when returning to the residence. However, we think the timer is stressful for the user and represents a problem that, should an intruder gain entry, the situation cannot be reported immediately. Therefore, we propose a system to solve these problems. Since the proposed system is capable of recognizing the principal user through the use of an RFID tag, the terminal can appropriately change the alarm modes and quickly provide notification of an intruder. We will also confirm that the proposed system functions effectively through experiments, describe the effectiveness of the proposed system, and consider feasibility studies.
+ER  - 
+
+TY  - CONF
+TI  - The Isomorphism Theorem of Partheno-genetic Algorithm and Traditional Ggenetic Algorithm
+T2  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+SP  - 516
+EP  - 519
+AU  - Li Maojun
+PY  - 2006
+KW  - Electronics packaging
+KW  - Genetic algorithms
+KW  - Biological cells
+KW  - Systems engineering and theory
+KW  - Convergence
+KW  - Educational institutions
+KW  - Genetic engineering
+KW  - Biology computing
+KW  - Traveling salesman problems
+KW  - Mathematics
+KW  - Partheno-Genetic Algorithm (PGA)
+KW  - Genetic Algorithm (GA)
+KW  - Genetic Operator
+KW  - Abstract System
+KW  - Isomorphism
+DO  - 10.1109/CESA.2006.4281707
+JO  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+Y1  - 4-6 Oct. 2006
+AB  - Partheno-Genetic Algorithm (PGA) repeals crossover operators of Traditional Genetic Algorithm (TGA) while uses the reproduction manner with only parent. Comparing with TGA, the genetic operation of PGA is simpler; the initial population of PGA need not be varied; there is no "immature convergence" during using PGA; the searching efficiency of PGA is higher. As PGA uses the reproduction manner with only parent while no using the reproduction manner with double parents as such most of the biology, most of the scholar thinks that PGA does not belong to the category of genetic algorithms. In this paper, based on concept of abstract system, two abstract systems, PGA and TGA are constructed and it is proved that the two abstract systems are isomorphic, so PGA has the same computing mechanism as TGA, that is to say, PGA belongs to the category of genetic algorithms as TGA.
+ER  - 
+
+TY  - CONF
+TI  - The prediction of applying Smooth Support Vector Regression and Back Propagation Network in mutual fund performance
+T2  - 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence)
+SP  - 3192
+EP  - 3196
+AU  - Ruei-Shan Lu
+AU  - Shang-Wu Yu
+AU  - Yi-Hsien Lin
+PY  - 2008
+KW  - Joints
+KW  - Artificial neural networks
+KW  - Support vector machines
+KW  - Predictive models
+KW  - Conferences
+KW  - Mutual funds
+KW  - Business
+DO  - 10.1109/IJCNN.2008.4634250
+JO  - 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence)
+Y1  - 1-8 June 2008
+AB  - This study used smooth support vector regression and back propagation network as the basic theory in study of the mutual fund performance prediction. This paper used return on performance and return on market to make a comparison, and through the risk values, explored each modelpsilas advantages and disadvantages. This study used Taiwanpsilas equity fund as the prediction target, the validation study period was January 2004 to December 2004. The empirical results showed that the SSVR application and BPN application can both increase return on investment, and will receive an even better return in the bull market. In addition, applying SSVR prediction model, in the bear market, will also result in excess return, and reduction of the investorspsila loss. This study thinks that with smooth support vector regression model and back propagation networking model respectively, according to different risk preferences of investors, investors can, based on their personal risk preferences, choose a suitable prediction model in order to create the excess return in line with the expectations.
+ER  - 
+
+TY  - CONF
+TI  - Communication and Knowledge in Product Model Supported Engineering Processes
+T2  - 2008 IEEE International Conference on Computational Cybernetics
+SP  - 203
+EP  - 208
+AU  - L. Horvath
+AU  - I. J. Rudas
+PY  - 2008
+KW  - Knowledge engineering
+KW  - Humans
+KW  - Systems engineering and theory
+KW  - Problem-solving
+KW  - Product design
+KW  - Process design
+KW  - Ontologies
+KW  - Internet
+KW  - Informatics
+KW  - Intelligent systems
+DO  - 10.1109/ICCCYB.2008.4721406
+JO  - 2008 IEEE International Conference on Computational Cybernetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Computational Cybernetics
+Y1  - 27-29 Nov. 2008
+AB  - Main purpose of engineering is transfer of intent from different humans into product definition. Application of an integrated product model has a chance of establishment of highly efficient processes for product definition. Product modeling has reached a level where sophisticated representations of object data and relationships are available at every day engineering activities. This information based model is defined by the authors as classical product model. The problem is at the application of this model because information in it is a result of a complex human thinking process content of which is not communicated with the model from the decision maker to the engineer who applies or revises the model. In this paper, the authors introduce their approach and method for a product model that is suitable for better communication between human and processes at generation of classical product model. After a short introduction of related research works, the authors analyzed the changed role of knowledge in product definition. Following this, knowledge and human intent are discussed in order to establish human intent based knowledge representations in product model. In the rest of the paper, the authors introduce the concept of content of product information and propose a multilevel structure for integrated information and information content based product modeling. Finally, future research and implementation are outlined.
+ER  - 
+
+TY  - CONF
+TI  - A Method of Diagnosing Steam Turbogenerator Set's Vibration Multi-fault Based on Multi-layer Fuzzy Model
+T2  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+SP  - 1731
+EP  - 1735
+AU  - Z. Bide
+AU  - F. Chunen
+AU  - Z. Houxuan
+AU  - Z. Aihua
+AU  - C. Ting
+PY  - 2006
+KW  - Turbogenerators
+KW  - Fuzzy sets
+KW  - Fault diagnosis
+KW  - Systems engineering and theory
+KW  - Virtual manufacturing
+KW  - Electronic mail
+KW  - Frequency
+KW  - Petroleum
+KW  - Friction
+KW  - steam turbogenerator set
+KW  - vibration multi-faults
+KW  - multi-layer fuzzy model
+DO  - 10.1109/CESA.2006.4281917
+JO  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - The Proceedings of the Multiconference on "Computational Engineering in Systems Applications"
+Y1  - 4-6 Oct. 2006
+AB  - Vibration multi-fault often occur for the steam turbogenerator set. Up to now, the method of diagnosing multi-fault isn't well-rounded. In this paper, a new method based on multi-layer fuzzy model is put forward. The method thinks that multi-fault can be diagnosed correctly if some predominant symptoms are known. It overcomes the limitation of traditional fuzzy generalization judgment. The experimental results show that the method is available to diagnose steam turbogenerator set's vibration multi-fault and it can be used extensively in future.
+ER  - 
+
+TY  - CONF
+TI  - Comments on an evolutionary intensity inhomogeneity correction algorithm
+T2  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+SP  - 4146
+EP  - 4150
+AU  - M. Garcia-Sebastian
+AU  - A. M. Savio
+AU  - M. Grana
+PY  - 2008
+KW  - Nonhomogeneous media
+KW  - Minimization
+KW  - Magnetic resonance imaging
+KW  - Evolutionary computation
+KW  - Algorithm design and analysis
+KW  - Robustness
+KW  - Evolution (biology)
+DO  - 10.1109/CEC.2008.4631363
+JO  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+IS  - 
+SN  - 1941-0026
+VO  - 
+VL  - 
+JA  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+Y1  - 1-6 June 2008
+AB  - We discuss some aspects of a well known algorithm for inhomogeneity intensity correction in Magnetic Resonance Imaging (MRI), the parametric bias correction (PABIC) algorithm. In this approach, the intensity inhomogeneity is modelled by a linear combination of 2D or 3D Legengre polynomials (computed as outer products of 1D polynomials). The model parameter estimation process proposed in the original paper is similar to a (1+1) Evolution Strategy, with some small and subtle differences. In this paper we discuss some features of the algorithm elements, trying to uncover sources of undesired behaviors and the limits to its applicability. We study the energy function proposed in the original paper and its relation to the image formation model. We also discuss the original minimization algorithm behavior. We think that this detailed discussion is needed because of the high impact that the original paper had in the literature, leading to an implementation into the well known ITK library, which means that it has become a de facto standard.
+ER  - 
+
+TY  - CONF
+TI  - The Realization of Fuzzy Control Arithmetic Based on XML and OOP
+T2  - 2006 International Conference on Computational Intelligence and Security
+SP  - 125
+EP  - 128
+AU  - S. gui-ling
+AU  - Y. zi-feng
+AU  - X. peng-peng
+AU  - L. wei-xiang
+PY  - 2006
+KW  - Fuzzy control
+KW  - Arithmetic
+KW  - XML
+KW  - Microwave technology
+KW  - Chemical technology
+KW  - Input variables
+KW  - Information science
+KW  - Temperature control
+KW  - Control systems
+KW  - Temperature sensors
+DO  - 10.1109/ICCIAS.2006.294104
+JO  - 2006 International Conference on Computational Intelligence and Security
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2006 International Conference on Computational Intelligence and Security
+Y1  - 3-6 Nov. 2006
+AB  - The auto control temperature system is used for microwave assisting chemical reaction. The realization of the system is based on fuzzy control arithmetic. The continuous fuzzy control unit, which includes two input ports and one output port, is adopted in the system. The arithmetic is demonstrated and stored by use of Extensible Markup Language (XML). The realization of arithmetic depends on thinking in OOP and C++ language. It is proved by practice that the design is easy to realize and is of very strong expansibility.
+ER  - 
+
+TY  - CONF
+TI  - Formation and cooperation for SWARMed intelligent robots
+T2  - 2008 IEEE Region 8 International Conference on Computational Technologies in Electrical and Electronics Engineering
+SP  - 252
+EP  - 252
+AU  - Wei Cao
+AU  - Yanqing Yang
+PY  - 2008
+KW  - Intelligent robots
+KW  - Microcontrollers
+KW  - Mobile robots
+KW  - Path planning
+KW  - Sensors
+KW  - Robot sensing systems
+KW  - Robot kinematics
+DO  - 10.1109/SIBIRCON.2008.4602595
+JO  - 2008 IEEE Region 8 International Conference on Computational Technologies in Electrical and Electronics Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE Region 8 International Conference on Computational Technologies in Electrical and Electronics Engineering
+Y1  - 21-25 July 2008
+AB  - Summary form only given. An intelligent robot is different with the traditional mobile robot. The traditional mobile robot uses a powerful microcontroller to control the movement, with the help of sensing devices it normally is able to make a tactic decision but could not do any sophisticate thinking since the limitation of the computation power provided by microcontroller. However, the intelligent robot adds a separate layer of computation core, such as laptop or a single motherboard, on the top of the movement control microcontroller. That means, by adding a "brain' the traditional mobile robot is upgraded to an intelligent machine, which is capable to undertake many sophisticate environment sensing and decision making. The prototype version of the intelligent management algorithm for swarmed intelligent robots has been simulated using Matlab and it is currently tested and evaluated using advanced intelligent robots system.
+ER  - 
+
+TY  - JOUR
+TI  - What Hackers Learn that the Rest of Us Don't: Notes on Hacker Curriculum
+T2  - IEEE Security & Privacy
+SP  - 72
+EP  - 75
+AU  - S. Bratus
+PY  - 2007
+KW  - Computer hacking
+KW  - Hardware
+KW  - Computer security
+KW  - Standards development
+KW  - Education
+KW  - Operating systems
+KW  - Reverse engineering
+KW  - Software testing
+KW  - System testing
+KW  - Computer industry
+KW  - hackers
+KW  - attackers
+KW  - black hats
+KW  - white hats
+KW  - gray hats
+KW  - CS curriculum
+DO  - 10.1109/MSP.2007.101
+JO  - IEEE Security & Privacy
+IS  - 4
+SN  - 1558-4046
+VO  - 5
+VL  - 5
+JA  - IEEE Security & Privacy
+Y1  - July-Aug. 2007
+AB  - To learn security skills, students and developers must be able to switch from their traditional conditioning to the attacker's way of thinking. Exposure to the hacker culture through hacker conferences such as Defcon and others, Phrack and similar publications, and to comprehensive collections such as Packet Storm helps provide the necessary culture slunk or "a-ha" moment and should be integral to every in-depth security curriculum. Recipes for preventing particular kinds of exploits are only a small part of the value these materials provide. The primary and much underappreciated value of these sources lies in facilitating a deeper understanding of the underlying systems by exposing their designers' implicit assumptions and concentrating the students' and developers' attention on the bigger picture of the system and its environment, especially on issues typically glossed over.
+ER  - 
+
+TY  - CONF
+TI  - Making science in the Grid world: using glideins to maximize scientific output
+T2  - 2007 IEEE Nuclear Science Symposium Conference Record
+SP  - 1107
+EP  - 1109
+AU  - I. Sfiligoi
+PY  - 2007
+KW  - Grid computing
+KW  - Production facilities
+KW  - Distributed computing
+KW  - Nuclear and plasma sciences
+KW  - Software tools
+KW  - Collaborative work
+KW  - US Department of Energy
+KW  - Computer architecture
+KW  - Security
+KW  - Monitoring
+DO  - 10.1109/NSSMIC.2007.4437201
+JO  - 2007 IEEE Nuclear Science Symposium Conference Record
+IS  - 
+SN  - 1082-3654
+VO  - 2
+VL  - 2
+JA  - 2007 IEEE Nuclear Science Symposium Conference Record
+Y1  - 26 Oct.-3 Nov. 2007
+AB  - The current grid computing model is based on a set of independent computing clusters, with only a thin common software layer among them and grid users are expected to adapt. However, scientists are supposed to do science and time spent on computing problems is subtracting time available for scientific thinking. In this paper we present the glidein approach that aims to make the grid computing as easy as working in a local batch environment.
+ER  - 
+
+TY  - JOUR
+TI  - Adopting Software Engineering Trends in AI
+T2  - IEEE Intelligent Systems
+SP  - 59
+EP  - 66
+AU  - D. Djuric
+AU  - V. Devedzic
+AU  - D. Gasevic
+PY  - 2007
+KW  - Software engineering
+KW  - Artificial intelligence
+KW  - Ontologies
+KW  - Computational modeling
+KW  - Application software
+KW  - Intelligent systems
+KW  - Metamodeling
+KW  - Switches
+KW  - Acoustical engineering
+KW  - Reliability engineering
+KW  - model-driven architecture
+KW  - metamodeling
+KW  - software engineering
+KW  - ontology engineering
+KW  - AI tools
+KW  - Eclipse
+DO  - 10.1109/MIS.2007.2
+JO  - IEEE Intelligent Systems
+IS  - 1
+SN  - 1941-1294
+VO  - 22
+VL  - 22
+JA  - IEEE Intelligent Systems
+Y1  - Jan.-Feb. 2007
+AB  - In the past few years, software engineering has witnessed two major shifts: model-driven engineering has entered the mainstream, and some leading development tools have become open and extensible. AI has provided new ideas to software engineering, but most of its gems stayed buried in the laboratories, available only to a limited number of AI practitioners. Should AI tools be integrated into mainstream tools? And can this be done? We think it is feasible and that both communities can benefit from this integration. In fact, some efforts in this direction have already taken place, both from major industrial standardization bodies such as OMG and from academic laboratories. The example presented here should inspire readers to think about integrating their work with mainstream tools.
+ER  - 
+
+TY  - CONF
+TI  - Cloud Computing - Was Thomas Watson Right After All?
+T2  - 2008 IEEE 24th International Conference on Data Engineering
+SP  - 8
+EP  - 8
+AU  - R. Ramakrishnan
+PY  - 2008
+KW  - Cloud computing
+KW  - Grid computing
+KW  - Computer networks
+KW  - Distributed computing
+KW  - Programming profession
+KW  - Web services
+KW  - Strontium
+KW  - Application software
+KW  - Computer bugs
+KW  - Electron tubes
+DO  - 10.1109/ICDE.2008.4497407
+JO  - 2008 IEEE 24th International Conference on Data Engineering
+IS  - 
+SN  - 2375-026X
+VO  - 
+VL  - 
+JA  - 2008 IEEE 24th International Conference on Data Engineering
+Y1  - 7-12 April 2008
+AB  - The infamous prediction "I think there is a world market for maybe five computers," was allegedly made by Thomas Watson, Sr. Perhaps he was merely a little ahead of his time, if he was referring to farms of computers accessed over networks, i.e., "computers in the clouds." Mainframes once dominated the computing landscape, drawing programmers from afar to submit their applications, along with burnt offerings (especially if bugs got into the vacuum tubes). The old order changed, however, and mainframes gave way to a myriad diaspora that took computing power to programmers' desktops.
+ER  - 
+
+TY  - CONF
+TI  - A Transceiver Saving Auxiliary Graph Model for Dynamic Traffic Grooming in WDM Mesh Networks
+T2  - Proceedings. 2006 31st IEEE Conference on Local Computer Networks
+SP  - 319
+EP  - 326
+AU  - H. Yao
+AU  - Z. Yang
+AU  - L. Ou
+AU  - X. Tan
+PY  - 2006
+KW  - Transceivers
+KW  - Telecommunication traffic
+KW  - Traffic control
+KW  - Wavelength division multiplexing
+KW  - WDM networks
+KW  - Mesh networks
+KW  - Network topology
+KW  - Optical fiber networks
+KW  - Bandwidth
+KW  - Optical wavelength conversion
+DO  - 10.1109/LCN.2006.322115
+JO  - Proceedings. 2006 31st IEEE Conference on Local Computer Networks
+IS  - 
+SN  - 0742-1303
+VO  - 
+VL  - 
+JA  - Proceedings. 2006 31st IEEE Conference on Local Computer Networks
+Y1  - 14-16 Nov. 2006
+AB  - This paper addresses the dynamic traffic grooming problem in wavelength-division-multiplexed (WDM) mesh optical networks subject to wavelength constraint and transceiver constraint. As an improvement over the existing link bundled auxiliary graph (LBAG) model which thinks all traffic streams must go though the grooming fabric before entering the wavelength switch fabric, we introduce a transceiver saving auxiliary graph (TSAG) model and propose the TSAG method. In the TSAG model, we can determine whether a traffic stream should consume grooming ports or not. Various grooming policies are achieved by assigning the weight value of different edges in the auxiliary graph and their blocking performance are compared through simulations. Results show that the TSAG model has a lower blocking probability than LBAG while consuming the less running time, and TSAG can reduce the number of transceivers utilized while improving the wavelength utilization.
+ER  - 
+
+TY  - CONF
+TI  - An example of balanced truncation method and its surprising time domain performance
+T2  - 2008 IEEE Conference on Cybernetics and Intelligent Systems
+SP  - 823
+EP  - 828
+AU  - S. -G. Wang
+AU  - B. Wang
+PY  - 2008
+KW  - Reduced order systems
+KW  - Integrated circuit interconnections
+KW  - Approximation error
+KW  - Frequency domain analysis
+KW  - RLC circuits
+KW  - Upper bound
+KW  - State-space methods
+KW  - Computer networks
+KW  - Distributed parameter circuits
+KW  - Delay lines
+KW  - complex system
+KW  - balanced truncation method
+KW  - example
+KW  - time domain performance
+KW  - model reduction error
+DO  - 10.1109/ICCIS.2008.4670791
+JO  - 2008 IEEE Conference on Cybernetics and Intelligent Systems
+IS  - 
+SN  - 2326-8239
+VO  - 
+VL  - 
+JA  - 2008 IEEE Conference on Cybernetics and Intelligent Systems
+Y1  - 21-24 Sept. 2008
+AB  - This paper presents an example of using the balanced truncation method (BTM) for a distributed RLC interconnect model reduction. The example shows a surprising result and some possible hidden phenomenon in model reduction methods. We find that a high order BTM model has much worse performance than a low order BTM model, in view of the original model and their step responses in the time domain. This unexpected finding contradicts to our common expectation from the well-known approximation error upper bound results of the BTM in frequency domain. It reveals a fact that though the high order system keeps more states than the low order system, the approximation error behavior in the time domain may be totally different from its counterpart in the frequency domain. In addition, the paper also presents a closed form of the state space model for general evenly distributed RLC interconnect line circuits. The closed form has a very low computation complexity of O(1), which may be extended for use not only in circuits, but also in various complex systems with transmission lines, networks, or delay lines. Since the BTM is a popular practical model reduction method in various areas, thus this example may bring some further insight thinking for development.
+ER  - 
+
+TY  - CONF
+TI  - Individual Differences in Learning with Simulation Tool: A Pilot Study
+T2  - 2008 Eighth IEEE International Conference on Advanced Learning Technologies
+SP  - 501
+EP  - 503
+AU  - T. -C. Liu
+AU  - Y. -C. Lin
+AU  - Kinshuk
+AU  - M. Chang
+PY  - 2008
+KW  - Computational modeling
+KW  - Statistics
+KW  - Testing
+KW  - Statistical learning
+KW  - Contracts
+KW  - Delay effects
+KW  - Computer aided instruction
+KW  - Information systems
+KW  - Design methodology
+KW  - Analytical models
+KW  - Simulation
+KW  - Individual differences
+KW  - Statistics
+DO  - 10.1109/ICALT.2008.302
+JO  - 2008 Eighth IEEE International Conference on Advanced Learning Technologies
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2008 Eighth IEEE International Conference on Advanced Learning Technologies
+Y1  - 1-5 July 2008
+AB  - In order to explore why some learners have better learning effects with the simulation tool, and the others do not, the  researchers used the quasi-experimental design and think-aloud method to investigate the relations between individual differences and learning effects from students’ learning processes with the simulation tool, Dynamic Simulation Assisted Statistical Learning (DSASL). The results show that the DSASL can correct the students’ misconceptions and enhance their concept understandings. However, there are individual differences in students’ learning effects when learning with DSASL. Finally, the researchers analyze the transcripts of think-aloud and find that the learning process may influence the students' learning effects.
+ER  - 
+
+TY  - CONF
+TI  - Quantum Model of Genetic Algorithm
+T2  - 2008 International Symposium on Knowledge Acquisition and Modeling
+SP  - 576
+EP  - 580
+AU  - W. Peng
+PY  - 2008
+KW  - Genetic algorithms
+KW  - Quantum computing
+KW  - Parallel processing
+KW  - Concurrent computing
+KW  - Quantum mechanics
+KW  - Arithmetic
+KW  - Algorithm design and analysis
+KW  - NP-complete problem
+KW  - Knowledge acquisition
+KW  - Laboratories
+KW  - genetic algorithm
+KW  - implicit parallelism
+KW  - quantum model
+KW  - quantum theory
+DO  - 10.1109/KAM.2008.11
+JO  - 2008 International Symposium on Knowledge Acquisition and Modeling
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 International Symposium on Knowledge Acquisition and Modeling
+Y1  - 21-22 Dec. 2008
+AB  - Similarities of genetic algorithm and quantum algorithm have been analyzed based on implicit parallelism. The genetic algorithm has been described by quantum theory. Some genetic operators are seen as a kind of quantum operator. So it implies genetic algorithm is essentially a kind of quantum algorithm in the classical computer on the reduced order to achieve. It through genetic manipulation to input superposition states data into classical computer. In the evolutionary process, a lot of implicit modes have been measured, so as to realize the parallel search and processing in the model space. The uncertainty characteristic of genetic algorithm is the essential cause of implicit parallelism. This thinking could explain the immanent cause of artificial intelligence.
+ER  - 
+
+TY  - CONF
+TI  - Content oriented methods for knowledge assisted engineering decisions
+T2  - 2008 6th International Symposium on Applied Machine Intelligence and Informatics
+SP  - 95
+EP  - 100
+AU  - L. Horvath
+AU  - I. J. Rudas
+PY  - 2008
+KW  - Knowledge engineering
+KW  - Humans
+KW  - Knowledge management
+KW  - Systems engineering and theory
+KW  - Information analysis
+KW  - Product design
+KW  - Ontologies
+KW  - Internet
+KW  - Application software
+KW  - Intelligent systems
+DO  - 10.1109/SAMI.2008.4469143
+JO  - 2008 6th International Symposium on Applied Machine Intelligence and Informatics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 6th International Symposium on Applied Machine Intelligence and Informatics
+Y1  - 21-22 Jan. 2008
+AB  - This paper presents a method for enhanced knowledge content of product models. The basic idea is to acquire human intent in the product model by the application of improved communication process between human and information content based model creation procedure. Analyses were conducted to reveal characteristics of information content during process of human thinking about engineering objects and in interactive definition of product entities. New information content based modeling procedures and model entities were defined and structured. Conventional product model structure was rearranged for its improved communication with the information context based entities. The proposed methodology utilizes model description of complex intent composed using intent of several influencing humans. Knowledge advising in recent PLM systems for definition, import, capturing, sharing, reusing, management, and maintenance of corporate knowledge is considered as an entry-level starting point to information content based product modeling. Implementation of the proposed modeling relies upon open system development capabilities of industrial PLM systems.
+ER  - 
+
+TY  - CONF
+TI  - Use the reverse engineering technique to link COMSOL and ANSYS softwares
+T2  - EuroSimE 2008 - International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Micro-Systems
+SP  - 1
+EP  - 5
+AU  - H. Achkar
+AU  - F. Pennec
+AU  - D. Peyrou
+AU  - M. Sartor
+AU  - R. Plana
+AU  - P. Pons
+PY  - 2008
+KW  - Reverse engineering
+KW  - Deformable models
+KW  - Micromechanical devices
+KW  - Physics
+KW  - Solid modeling
+KW  - Geometry
+KW  - Application software
+KW  - Contacts
+KW  - Thermal stresses
+KW  - Analytical models
+DO  - 10.1109/ESIME.2008.4525052
+JO  - EuroSimE 2008 - International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Micro-Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - EuroSimE 2008 - International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Micro-Systems
+Y1  - 20-23 April 2008
+AB  - To simulate different topologies of deformable micro structures, some multiphysics softwares that forms our simulation platform are under investigation. The criteria for weighing the software is the precision of the results with an acceptable time of calculation to simulate different models with multiple variables. The existance of COMSOL 3.3, at a time linking all the physics and having a good interactive interface seemed to be a good solution. Being new, and under development, COMSOL 3.3 needed to be valid on different points and specialy needs to be linked to another software to complete what COMSOL cannot do. As a first step, we validated the numerical platform by comparing results of different softwares and also some analytical solutions. The basic advantages and drawbacks of each software were considered then we have developed a method to link COMSOL and ANSYS since we think they are complementary. In terms of time of calculation, an interesting result concerning the speed of COMSOL to solve the problem when compared to ANSYS, while keeping the same precision of calculation.
+ER  - 
+
+TY  - CONF
+TI  - The Research of Tele-education System Frame Based on Pervasive Environment
+T2  - 2006 First International Symposium on Pervasive Computing and Applications
+SP  - 482
+EP  - 485
+AU  - X. Xie
+AU  - Q. Niu
+AU  - J. Li
+PY  - 2006
+KW  - Pervasive computing
+KW  - Education
+KW  - Grid computing
+KW  - Embedded computing
+KW  - Application software
+KW  - Educational technology
+KW  - Humans
+KW  - Computer networks
+KW  - Information technology
+KW  - Distance learning
+KW  - Pervasive computing
+KW  - PETF
+KW  - Grid
+KW  - Tele-education
+DO  - 10.1109/SPCA.2006.297440
+JO  - 2006 First International Symposium on Pervasive Computing and Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 First International Symposium on Pervasive Computing and Applications
+Y1  - 3-5 Aug. 2006
+AB  - Pervasive computing, as one of the real "big definition" in information technology, has basically changed people's thinking towards information technology and the way we live and work, and the Internet revolution resulted from a grid will change the setup of the whole computer area. This article introduces the definitions, the technology characteristics of pervasive computing technology and network technology and the relationships between the two. In order to solve the disadvantages of the present tele-education system, with the help of grid and pervasive computing technology, this article builds a real-time distance education system framework (PETF), and describes the achieved functions and features of this framework
+ER  - 
+
+TY  - CONF
+TI  - Intellectual Properties Data Mining over Internet
+T2  - IECON 2007 - 33rd Annual Conference of the IEEE Industrial Electronics Society
+SP  - 117
+EP  - 118
+AU  - Y. -H. Cheng
+AU  - J. Lu
+PY  - 2007
+KW  - Intellectual property
+KW  - Data mining
+KW  - Internet
+KW  - Databases
+KW  - Companies
+KW  - Government
+KW  - Competitive intelligence
+KW  - Data analysis
+KW  - Algorithm design and analysis
+KW  - Programming profession
+DO  - 10.1109/IECON.2007.4460409
+JO  - IECON 2007 - 33rd Annual Conference of the IEEE Industrial Electronics Society
+IS  - 
+SN  - 1553-572X
+VO  - 
+VL  - 
+JA  - IECON 2007 - 33rd Annual Conference of the IEEE Industrial Electronics Society
+Y1  - 5-8 Nov. 2007
+AB  - This research is based on needs from enterprises spread in each different area of expertise. No matter car manufacture, government, high-tech area, media/publication, research institute, academics and other areas, people have the desire of knowing what the top research and discovery today is. For sure, industrial company would not think the same as academic organizations while they both see the same report about latest intellectual properties. However, it is undeniable to conclude that knowledge of newest intellectual properties is so important for company that wants to dominate the market in next generation, academics that wants to win prizes in coming year and so on. And related researches in this area are many, such as 'Sameer Singh, Maneesha Singh, Chid Apte, Petra Perner' [1], 'Xue Li, Shuliang Wang, Zhao Yang Dong'[2], 'Petra Perner, Atsushi Imiya' [3] and so on. This activity of research must have potential of helping any desires of data mining over Internet in any area in the future.
+ER  - 
+
+TY  - CONF
+TI  - An Agent Approach for Intelligent Traffic-Light Control
+T2  - First Asia International Conference on Modelling & Simulation (AMS'07)
+SP  - 496
+EP  - 501
+AU  - V. Hirankitti
+AU  - J. Krohkaew
+PY  - 2007
+KW  - Intelligent agent
+KW  - Intelligent control
+KW  - Traffic control
+KW  - Lighting control
+KW  - Communication system traffic control
+KW  - Roads
+KW  - Intelligent transportation systems
+KW  - Delay effects
+KW  - Engines
+KW  - Computational modeling
+DO  - 10.1109/AMS.2007.11
+JO  - First Asia International Conference on Modelling & Simulation (AMS'07)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - First Asia International Conference on Modelling & Simulation (AMS'07)
+Y1  - 27-30 March 2007
+AB  - In this paper we have adopted an agent approach for traffic light control. According to this approach, our system consists of agents and their world. In the traffic context, the world consists of cars, road networks, traffic lights, etc. Each of these agents controls all traffic lights at a road junction by an observe-think-act cycle. That is, the agent repeatedly observes the current traffic condition at the junction, it then uses this information to reason with condition-action rules to determine how the agent should act in what traffic condition, and finally it performs those actions in order to efficiently manage the traffic flows. We have also developed a NetLogo-based traffic simulator to serve as the agents' world. Our approach is experimented with traffic control of a few connected junctions and the result obtained is promising; it can reduce the average delayed time of each car at each traffic-light near a junction rather substantially when compared with other approaches
+ER  - 
+
+TY  - CONF
+TI  - Towards a framework for healthcare simulation
+T2  - 2007 Winter Simulation Conference
+SP  - 1454
+EP  - 1460
+AU  - T. Eldabi
+AU  - T. Young
+PY  - 2007
+KW  - Medical services
+KW  - Costs
+KW  - Pharmaceutical technology
+KW  - Joining processes
+KW  - Computational modeling
+KW  - Monitoring
+KW  - Drugs
+KW  - Government
+KW  - Technological innovation
+KW  - Information systems
+DO  - 10.1109/WSC.2007.4419756
+JO  - 2007 Winter Simulation Conference
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2007 Winter Simulation Conference
+Y1  - 9-12 Dec. 2007
+AB  - The changing needs of healthcare provision around the world are forcing service designers and decision makers to adopt new tools in design and evaluation of processes. Apart from the pressure to deliver better services from constrained resources, the increasing use of metrics to monitor and manage care delivery, also means that service providers require a clearer idea of how a service improvement will perform prior to implementation. In turn, this opens up an opportunity for a much greater use of simulation and modeling techniques, provided they can be set within an appropriate framework. This paper discusses and describes a research project aimed at conducting pilot work for developing a framework that facilitates joined up thinking and enables integrative modeling. An approach to achieving such an end is described and progress to date is reported. Since this is an ongoing project, some of the latest results are presented at the conference.
+ER  - 
+
+TY  - CONF
+TI  - Concrete Programming: Using Small Robots in Primary Schools
+T2  - 2008 Eighth IEEE International Conference on Advanced Learning Technologies
+SP  - 301
+EP  - 302
+AU  - G. B. Demo
+AU  - G. Marcianò
+AU  - S. Siega
+PY  - 2008
+KW  - Concrete
+KW  - Robot programming
+KW  - Cognitive robotics
+KW  - Educational institutions
+KW  - Legged locomotion
+KW  - Robot sensing systems
+KW  - Path planning
+KW  - Computational geometry
+KW  - Virtual colonoscopy
+KW  - Computer languages
+KW  - Primary Schools
+KW  - Mindstorms
+KW  - programmable robots
+DO  - 10.1109/ICALT.2008.190
+JO  - 2008 Eighth IEEE International Conference on Advanced Learning Technologies
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2008 Eighth IEEE International Conference on Advanced Learning Technologies
+Y1  - 1-5 July 2008
+AB  - Small robots are very simple computers that can move autonomously. Their use in primary schools allows pupils to have concrete yet full programming experiences at the age in which Piaget situates the concrete operational stage of cognitive development. Indeed, for their first robotic activities, pupils think of paths where the robot moves forward, decides which direction to go when getting to a crossroad or repeats part of its previous trip. In planning a path for their robot, children walk it themselves thus finding out its successive tangible parts and related features. Our pupils use NQCBaby and NXCJunior programming languages for the formal specification of their robot's behaviour. These are textual languages, mother-tongue-based and Logo-like, in order to be oriented to children rather than to robots. Thus, when programming small robots, children are introduced to a deep computer competence because they deal with the basic blocks of algorithmics (sequence, selection and iteration) and learn how to specify them.
+ER  - 
+
+TY  - CONF
+TI  - Empirical Models of TCP and UDP End-User Network Traffic from NETI@home Data Analysis
+T2  - 20th Workshop on Principles of Advanced and Distributed Simulation (PADS'06)
+SP  - 166
+EP  - 174
+AU  - C. R. Simpson
+AU  - D. Reddy
+AU  - G. F. Riley
+PY  - 2006
+KW  - Telecommunication traffic
+KW  - Traffic control
+KW  - Data analysis
+KW  - Computational modeling
+KW  - Computer networks
+KW  - Computer simulation
+KW  - Internet
+KW  - Analytical models
+KW  - Statistics
+KW  - Data engineering
+DO  - 10.1109/PADS.2006.17
+JO  - 20th Workshop on Principles of Advanced and Distributed Simulation (PADS'06)
+IS  - 
+SN  - 1087-4097
+VO  - 
+VL  - 
+JA  - 20th Workshop on Principles of Advanced and Distributed Simulation (PADS'06)
+Y1  - 24-26 May 2006
+AB  - The simulation of computer networks requires accurate models of user behavior. To this end, we present empirical models of end-user network traffic derived from the analysis of NETI@home data. There are two forms of models presented. The first models traffic for a specific TCP or UDP port. The second models all TCP or UDP traffic for an end-user. These models are meant to be network- independent and contain aspects such as bytes sent, bytes received, and user think time. The empirical models derived in this study can then be used to enable more realistic simulations of computer networks.
+ER  - 
+
+TY  - CONF
+TI  - Adapted relation structure algorithm for Word Sense Disambiguation
+T2  - 2008 Third International Conference on Digital Information Management
+SP  - 684
+EP  - 688
+AU  - M. Hwang
+AU  - P. Kim
+PY  - 2008
+KW  - Laboratories
+KW  - Buildings
+KW  - Dictionaries
+KW  - Intelligent structures
+KW  - Information processing
+KW  - Computational linguistics
+KW  - Information retrieval
+KW  - Ontologies
+KW  - Taxonomy
+KW  - Indexing
+DO  - 10.1109/ICDIM.2008.4746825
+JO  - 2008 Third International Conference on Digital Information Management
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 Third International Conference on Digital Information Management
+Y1  - 13-16 Nov. 2008
+AB  - This paper deals with an adapted relation structure (a-RS) algorithm for WSD. In the previous research, we confirmed that the volume of knowledge base does not affect to the performance especially, on precision of WSD. We think the precision is more important than recall rate because WSD is core for other semantic information processing fields and relates to the results deeply. Therefore, we propose an adapted method to improve the precision based on relation structure (RS) algorithm. Through experiment comparing 3 kinds (SSI, RS, and a-RS) of WSD method, we show the performance of a-RS algorithm.
+ER  - 
+
+TY  - CONF
+TI  - Cellular neural networks for NP-hard optimization
+T2  - 2008 11th International Workshop on Cellular Neural Networks and Their Applications
+SP  - 52
+EP  - 56
+AU  - M. Ercsey-Ravasz
+AU  - T. Roska
+AU  - Z. Neda
+PY  - 2008
+KW  - Optimization
+KW  - Lattices
+KW  - Computational modeling
+KW  - Computers
+KW  - Simulated annealing
+KW  - Mathematical model
+KW  - Glass
+DO  - 10.1109/CNNA.2008.4588649
+JO  - 2008 11th International Workshop on Cellular Neural Networks and Their Applications
+IS  - 
+SN  - 2165-0152
+VO  - 
+VL  - 
+JA  - 2008 11th International Workshop on Cellular Neural Networks and Their Applications
+Y1  - 14-16 July 2008
+AB  - We prove, that a CNN in which the parameters of all cells can be separately controlled, is the analog correspondent of a two-dimensional Ising type (Edwards-Anderson) spin-glass system. Using the properties of CNN we show that one single operation (template) always yields a local minimum of the spin-glass energy function. This way a very fast optimization method, similar to simulated annealing, can be built. Estimating the simulation time needed with our optimization algorithm on CNN based computers, and comparing it with the time needed on normal digital computers using the simulated annealing algorithm, the results are astonishing: CNN computers could be faster than digital computers already at 10times10 lattice sizes. The local control of the template parameters was already partially realized on some of the hardwares, we think this study could further motivate their development in this direction.
+ER  - 
+
+TY  - CONF
+TI  - Television Stream Structuring with Program Guides
+T2  - Eighth IEEE International Symposium on Multimedia (ISM'06)
+SP  - 329
+EP  - 334
+AU  - J. -p. Poli
+AU  - J. Carrive
+PY  - 2006
+KW  - Streaming media
+KW  - Advertising
+KW  - Hidden Markov models
+KW  - Regression tree analysis
+KW  - Computational efficiency
+KW  - Feature extraction
+KW  - TV broadcasting
+KW  - Indexing
+KW  - Weather forecasting
+KW  - Large scale integration
+KW  - Television Stream Structuring
+KW  - Contextual Hidden Markov Model
+KW  - Regression Trees
+DO  - 10.1109/ISM.2006.148
+JO  - Eighth IEEE International Symposium on Multimedia (ISM'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Eighth IEEE International Symposium on Multimedia (ISM'06)
+Y1  - 11-13 Dec. 2006
+AB  - We propose in this paper an original approach to the TV stream structuring problem. The goal of our work is to automatically break the TV stream into telecasts and advertisings and to label each telecast with its genre. One can think the TV stream structuring problem can be solved by an alignment of the program guide on the stream. But our study shows that, in average, only 25% of the telecasts per day are presented in the program guide. Hence, our method consists in improving statistically these program guides in order to reduce the TV stream structuring problem to a simple alignment problem. The improvement consists in adding the missing telecasts. We present an original system that lays on the modeling of past TV schedules by a contextual hidden Markov model and a regression tree. Interesting results are presented at the end of the paper
+ER  - 
+
+TY  - CONF
+TI  - Electrical Power System security analysis using problem-based learning
+T2  - 2008 43rd International Universities Power Engineering Conference
+SP  - 1
+EP  - 4
+AU  - M. M. Travassos Valdez
+AU  - C. I. Faustino Agreira
+AU  - C. Machado Ferreira
+AU  - F. P. Maciel Barbosa
+PY  - 2008
+KW  - Power systems
+KW  - Security
+KW  - Education
+KW  - Software packages
+KW  - Steady-state
+KW  - Power system dynamics
+KW  - Computational modeling
+DO  - 10.1109/UPEC.2008.4651687
+JO  - 2008 43rd International Universities Power Engineering Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 43rd International Universities Power Engineering Conference
+Y1  - 1-4 Sept. 2008
+AB  - In a competitive world such as ours, students must be prepared beforehand to be autonomous, industrious and skilful. Problem-based learning (PBL) is a methodology that can help the students to explore and put to use their own resources, and it can be applied to a wide range of students and subject matters. The project incorporates aspects of electrical engineering and computing skills. This study is dedicated to the learning process to help students to deal with the complexity of an electric power network. This study has conducted a new methodology in educational research by adopting technology for teaching and learning. PBL, as an instructional strategy of active learning, was used and adapted for use in Analysis in Electrical Power Systems programme. This methodology addresses many of the concerns of teachers and professional organizations. Above all, it encourages students to be in charge of their education. It emphasizes critical thinking skills, understanding, learning how to learn, and working cooperatively with others. The benefits of PBL in the Electrical Power Systems course are seen in the way students improved the study and analysis of the security in an electrical power system. This method can also be seen as a benefit for Electric Power Systems where educators strive for improved teaching and learning.
+ER  - 
+
+TY  - CONF
+TI  - A 3D Collaborative Creation Environment with Tile Programming on Croquet
+T2  - Fifth International Conference on Creating, Connecting and Collaborating through Computing (C5 '07)
+SP  - 125
+EP  - 130
+AU  - H. TAKADA
+PY  - 2007
+KW  - Collaboration
+KW  - Tiles
+KW  - Microcomputers
+KW  - Educational institutions
+KW  - Peer to peer computing
+KW  - Collaborative work
+KW  - Computational modeling
+KW  - Object oriented modeling
+KW  - Computer graphics
+KW  - Programming environments
+DO  - 10.1109/C5.2007.1
+JO  - Fifth International Conference on Creating, Connecting and Collaborating through Computing (C5 '07)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Fifth International Conference on Creating, Connecting and Collaborating through Computing (C5 '07)
+Y1  - 24-26 Jan. 2007
+AB  - In this paper, a collaborative creation environment for learning activities in a classroom is proposed. It becomes more and more important to think on how learners can collaboratively learn in a classroom, as personal computers are introduced to schools. This learning environment incorporates a typical setting of personal computer classrooms and enables learners to create their own project on their personal computer and share it with others by publishing it to a shared computer. The Squeak eToy tile programming feature is adopted to make scripts for a project and a sharing mechanism of the project is built on the 3D peer-to-peer collaboration environment. Some project examples for this environment are also presented.
+ER  - 
+
+TY  - CONF
+TI  - Türkçe metin benzerlik hesaplamasi için yeni bir yöntem
+T2  - 2008 IEEE 16th Signal Processing, Communication and Applications Conference
+SP  - 1
+EP  - 4
+AU  - B. Dursun
+AU  - A. C. Sonmez
+PY  - 2008
+KW  - Distance measurement
+KW  - Computational modeling
+KW  - Presses
+KW  - Speech recognition
+KW  - Medical services
+KW  - Smoothing methods
+KW  - Genetic algorithms
+DO  - 10.1109/SIU.2008.4632581
+JO  - 2008 IEEE 16th Signal Processing, Communication and Applications Conference
+IS  - 
+SN  - 2165-0608
+VO  - 
+VL  - 
+JA  - 2008 IEEE 16th Signal Processing, Communication and Applications Conference
+Y1  - 20-22 April 2008
+AB  - There are many methods to compute the similarity rate of two texst. String similarity computing methods are generally improved through thinking English. Thus, even they are succesfull for the texts in English; they may not perform as the same for Turkish texts. Therefore, in this work a new similarity computing method has been improved by modeling some misspelling cases oftenly encountered in matching Turkish texts and computing similarities.
+ER  - 
+
+TY  - CONF
+TI  - A proposed home agent architecture to infer user feeling from user action pattern
+T2  - 2006 IEEE International Conference on Systems, Man and Cybernetics
+SP  - 4818
+EP  - 4824
+AU  - M. Takada
+AU  - S. Tano
+AU  - M. Iwata
+AU  - T. Hashiyama
+PY  - 2006
+KW  - Home appliances
+KW  - Electrical products
+KW  - Information technology
+KW  - Computerized monitoring
+KW  - Remote monitoring
+KW  - Cellular phones
+KW  - Cybernetics
+KW  - Architecture
+KW  - Computational modeling
+KW  - Predictive models
+KW  - Home Agent
+KW  - Emotion Extraction
+KW  - Intention Extraction
+KW  - Ubiquitous Computing
+DO  - 10.1109/ICSMC.2006.385068
+JO  - 2006 IEEE International Conference on Systems, Man and Cybernetics
+IS  - 
+SN  - 1062-922X
+VO  - 6
+VL  - 6
+JA  - 2006 IEEE International Conference on Systems, Man and Cybernetics
+Y1  - 8-11 Oct. 2006
+AB  - Many household electrical appliances that use information technology have recently been developed. We can operate these appliances from anywhere, and research has shown that such appliances support users in their daily lives. The basis for supporting the user is detecting repetitive operation by the user. We think it is important for a home agent to detect user operation and consider the users feeling when they are operating the appliance. The home agent takes into account the degree of importance and pleasure of the operation pattern. In this paper, we propose a home agent that predicts the user's operation, detects forgotten operation and supposes a degree of importance and pleasure for an operation pattern and evaluated its performance in a simulated environment.
+ER  - 
+
+TY  - CONF
+TI  - Mathematical Theory Exploration
+T2  - 2006 Eighth International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+SP  - 3
+EP  - 4
+AU  - B. Buchberger
+PY  - 2006
+KW  - Mathematics
+KW  - Reduced instruction set computing
+KW  - Automation
+KW  - Power generation
+KW  - Humans
+KW  - Failure analysis
+KW  - Data mining
+KW  - Scientific computing
+KW  - Computational geometry
+KW  - Algorithm design and analysis
+DO  - 10.1109/SYNASC.2006.50
+JO  - 2006 Eighth International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 Eighth International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+Y1  - 26-29 Sept. 2006
+AB  - Summary form only given. Mathematics is characterized by its method of gaining knowledge, namely reasoning. The automation of reasoning has seen significant advances over the past decades and, thus, the expectation was that these advances would also have significant impact on the practice of doing mathematics. However, so far, this impact is small. We think that the reason for this is the fact that automated reasoning so far concentrated on the automated proof of individual theorems whereas, in the practice of mathematics, one proceeds by building up entire theories in a step-by-step process. This process of exploring mathematical theories consists of the invention of notions, the invention and proof of propositions (lemmas, theorems), the invention of problems, and the invention and verification of methods (algorithms) that solve problems
+ER  - 
+
+TY  - CONF
+TI  - The design of electric power equipment information search system
+T2  - 2008 9th International Conference on Computer-Aided Industrial Design and Conceptual Design
+SP  - 349
+EP  - 353
+AU  - Ping Yu
+AU  - Hui Yuan
+AU  - Zhenbing Zhao
+PY  - 2008
+KW  - Image storage
+KW  - Image databases
+KW  - Power system management
+KW  - Displays
+KW  - Logic
+KW  - Energy management
+KW  - Power system reliability
+KW  - Information retrieval
+KW  - Internet
+KW  - Computational Intelligence Society
+KW  - Information Search
+KW  - MVC Frame
+KW  - BLOB Interface
+KW  - Database Linking Pool
+KW  - Photograph Classify
+DO  - 10.1109/CAIDCD.2008.4730586
+JO  - 2008 9th International Conference on Computer-Aided Industrial Design and Conceptual Design
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 9th International Conference on Computer-Aided Industrial Design and Conceptual Design
+Y1  - 22-25 Nov. 2008
+AB  - Starting with the current situation and development of electric power equipment information administration, structured a networked electric power equipment images management Information System that is safe, reliable and efficient to run. System is on basic of B/S structure, realizes dynamic interactive Web application based on MVC frame, adopting SIFT algorithm to carry out fast matching, realize retrieval and classification for equipment photographs in image database, program execution of BLOB interface aiming at JDBC achieved storage, display for equipment photograph and relevant information. In addition, malfunction administration module is able to add abnormal equipment information such ad exceed the time limit with the service life or consumer thinks false to abnormal form, warn of operators at the regular time.
+ER  - 
+
+TY  - JOUR
+TI  - Lessons Learned on Five Large-Scale System Developments
+T2  - IEEE Instrumentation & Measurement Magazine
+SP  - 18
+EP  - 23
+AU  - N. Ozarin
+PY  - 2008
+KW  - Large-scale systems
+KW  - Computational modeling
+KW  - Aircraft
+KW  - Project management
+KW  - Aerospace electronics
+KW  - Software systems
+KW  - Airborne radar
+KW  - Documentation
+KW  - Network address translation
+KW  - Instruments
+DO  - 10.1109/IM-M.2008.4449010
+JO  - IEEE Instrumentation & Measurement Magazine
+IS  - 1
+SN  - 1941-0123
+VO  - 11
+VL  - 11
+JA  - IEEE Instrumentation & Measurement Magazine
+Y1  - Feb. 2008
+AB  - System planners, architects, and developers often make the same mistakes on grand scales, but we usually stay with familiar approaches, especially under deadline pressures. Engineers and managers embrace the concept of process improvement, yet they rarely take time (or have the privilege of taking the time) to consider how something that has worked in the past could be improved. It is equally rare for them to make the effort to change plans and processes to benefit from mistakes. This article explores several high-level lessons learned, mostly on large system developments that were not always successful. The lessons concern project difficulties caused by thinking that's stuck in the present; excessive faith in code reuse; failure to see the big picture; absence of independent failure analysis; and estimation processes driven by fear and ignorance.
+ER  - 
+
+TY  - CONF
+TI  - SSB : A Grid-based Infrastructure for HLA Systems
+T2  - Sixth IEEE International Symposium on Cluster Computing and the Grid (CCGRID'06)
+SP  - 68
+EP  - 68
+AU  - Xu Li-juan
+AU  - Peng Xiao-yuan
+PY  - 2006
+KW  - Amplitude modulation
+KW  - Computational modeling
+KW  - Web services
+KW  - Runtime
+KW  - Resource management
+KW  - Data security
+KW  - Prototypes
+KW  - Standards development
+KW  - Large-scale systems
+KW  - Context modeling
+DO  - 10.1109/CCGRID.2006.1630958
+JO  - Sixth IEEE International Symposium on Cluster Computing and the Grid (CCGRID'06)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - Sixth IEEE International Symposium on Cluster Computing and the Grid (CCGRID'06)
+Y1  - 16-19 May 2006
+AB  - Service Oriented EXtensible Modeling and Simulation Supporting Environment Architecture (SO-XMSSEA) is presented based on XMSF thinking and the new technology development of web service and grid. Simulation Service Bus (SSB) is the underlying infrastructure to take charge of services communicating in SO-XMSSEA including message dispatch, integration, services interaction, management with services quality and security, and adaptation with other domain applications. We introduce the main mechanism of SSB structure and survey the communication and data transferring between clients and server. As the most important approach for composing HLA systems, the core module of SO-RTI Server and System Integration Server are discussed in detail. WSRF based grid technology is selected to construct prototype SSB implementation. A test HLA system based on SSB shows the interoperability on heterogeneous systems so that different types of systems can communicate smoothly through WAN and makes more facility to maintain and evolve.
+ER  - 
+
+TY  - CONF
+TI  - Complex Autopoietic System and its Emergence
+T2  - 2006 Chinese Control Conference
+SP  - 356
+EP  - 360
+AU  - L. Dong
+AU  - H. Yu
+AU  - W. He
+PY  - 2006
+KW  - Adaptive systems
+KW  - Computational modeling
+KW  - Analytical models
+KW  - Computer simulation
+KW  - Set theory
+KW  - Time series analysis
+KW  - Nonlinear dynamical systems
+KW  - Supply and demand
+KW  - Stock markets
+KW  - Control systems
+KW  - Complex Adaptive System(CAS)
+KW  - Autopoiesis
+KW  - Agent
+KW  - All Set
+KW  - Artificial Emergence
+DO  - 10.1109/CHICC.2006.280987
+JO  - 2006 Chinese Control Conference
+IS  - 
+SN  - 2161-2927
+VO  - 
+VL  - 
+JA  - 2006 Chinese Control Conference
+Y1  - 7-11 Aug. 2006
+AB  - In this paper we apply the modeling theory of complex adaptive system and the computer simulating methods in the economical researches, and we put forward an autopoietic economic system based on the All Set theory, whose key model is Artificial Model and key technology is All Set modeling, autopoietic method and the analysis of the emergence. In order to analyse the emergence concretely, we use nonlinear time series proceeding the emergences result of the dynamic evolve regulation such as the relationship of supply and demand, stock market, price regulation etc. Thus we provide a kind of thinking method of decisions and controls applied in the economic systems.
+ER  - 
+
+TY  - CONF
+TI  - Minitrack Introduction
+T2  - Proceedings of the 41st Annual Hawaii International Conference on System Sciences (HICSS 2008)
+SP  - 488
+EP  - 488
+PY  - 2008
+KW  - Unified modeling language
+KW  - Computational modeling
+KW  - Information systems
+KW  - Mathematical model
+KW  - Business
+KW  - Collaboration
+KW  - Analytical models
+DO  - 10.1109/HICSS.2008.316
+JO  - Proceedings of the 41st Annual Hawaii International Conference on System Sciences (HICSS 2008)
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - Proceedings of the 41st Annual Hawaii International Conference on System Sciences (HICSS 2008)
+Y1  - 7-10 Jan. 2008
+AB  - The organizational environment increasingly requires that information systems are capable of meeting changing business needs. This situation is evidenced in the general cost profile of systems development where the bulk of spending and effort lies in the (evolutionary) maintenance, integration and interoperability of existing systems. This situation provides a challenge to the generally accepted approaches to systems development and, in response, one stream of thought seeks to divorce business issues from the underlying technology platforms by placing 'models' at the heart of systems development. In principle, model-driven approaches see the system development process as consisting only of models and their transformations. A concern for these approaches is that of providing a structure within which models can be developed at the right level of abstraction and can then be transformed into more concrete models. In fundamental terms, however, model-driven development requires significant thinking in relation to both models and the modeling process.
+ER  - 
+
+TY  - CONF
+TI  - Formalizing Object Typicality in Context-Aware Ontology
+T2  - 2008 20th IEEE International Conference on Tools with Artificial Intelligence
+SP  - 233
+EP  - 240
+AU  - Y. Cai
+AU  - H. -f. Leung
+PY  - 2008
+KW  - Ontologies
+KW  - Psychology
+KW  - Context modeling
+KW  - Prototypes
+KW  - Computer science
+KW  - Humans
+KW  - Knowledge representation
+KW  - Particle measurements
+KW  - Frequency estimation
+KW  - Bicycles
+KW  - Object Typicality
+KW  - Ontology
+KW  - Context
+DO  - 10.1109/ICTAI.2008.81
+JO  - 2008 20th IEEE International Conference on Tools with Artificial Intelligence
+IS  - 
+SN  - 2375-0197
+VO  - 2
+VL  - 2
+JA  - 2008 20th IEEE International Conference on Tools with Artificial Intelligence
+Y1  - 3-5 Nov. 2008
+AB  - According to the studies of cognitive psychology, object typicality plays an important role in concept representation in human cognitive process. However, computational ontologies cannot reflect the typicality of objects in concepts. Besides, context is important in measuring object typicality. In this paper, we present a formal model of context-aware ontology with multi-prototype concept and object typicality based on studies of cognitive psychology. It can tackle the problem of formalizing object typicality in context-aware ontology, which is unsolved in previous models.
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of Criticality Analysis Measurements in Resource-Constrained Projects
+T2  - 2006 IEEE International Conference on Systems, Man and Cybernetics
+SP  - 4709
+EP  - 4716
+AU  - W. Cui
+AU  - B. Song
+AU  - C. Yue
+AU  - J. Qin
+PY  - 2006
+KW  - Processor scheduling
+KW  - Project management
+KW  - Chaos
+KW  - Algorithm design and analysis
+KW  - Geoscience
+KW  - Delay effects
+KW  - Cybernetics
+KW  - Scheduling algorithm
+KW  - Mathematical model
+KW  - Risk management
+DO  - 10.1109/ICSMC.2006.385048
+JO  - 2006 IEEE International Conference on Systems, Man and Cybernetics
+IS  - 
+SN  - 1062-922X
+VO  - 6
+VL  - 6
+JA  - 2006 IEEE International Conference on Systems, Man and Cybernetics
+Y1  - 8-11 Oct. 2006
+AB  - Criticality analysis of activity and path is an important problem in resource-constrained projects. This paper proposes the method of minimal feasible sets (MFS) for the identification of critical activities and critical sequences. And then, we compare MFS with seven related previous methods. Computational results manifest that MFS does not perform inferior to other methods at least and excel them in most situations in establishing resource links and computing floats.
+ER  - 
+
+TY  - CONF
+TI  - Design of cooperative visualization environment with intensive data management in project lifecycle
+T2  - 2008 Workshop on Ultrascale Visualization
+SP  - 55
+EP  - 61
+AU  - K. Ono
+AU  - J. Nonaka
+PY  - 2008
+KW  - Data visualization
+KW  - Environmental management
+KW  - Project management
+KW  - Concurrent computing
+KW  - Data processing
+KW  - Physics computing
+KW  - Computational modeling
+KW  - Chemical processes
+KW  - Parallel processing
+KW  - Computer architecture
+DO  - 10.1109/ULTRAVIS.2008.5154064
+JO  - 2008 Workshop on Ultrascale Visualization
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 Workshop on Ultrascale Visualization
+Y1  - 16-16 Nov. 2008
+AB  - Scientific data processing and visualization of computational simulation data have played an important role in knowledge creation, and its transfer for the benefit of society, through scientific discovery and understanding of physical and chemical phenomena. Massively parallel processing architecture has greatly contributed to increase the computational power and to enlarge the scale of computation. This facilitated the generation of larger and larger amounts of data. To tackle this oncoming tsunami of data, we propose a post-processing system for large-scale data focusing on the idea that a post-processing system needs to be an assistant of the researchers thinking process. We present a probable design solution targeting continuous development, and the technologies for productivity improvement such as collaborative work and visualization. This paper describes the current development status of a post-processing system designed for the next-generation 10-petaflop supercomputer under development in Japan.
+ER  - 
+
+TY  - CONF
+TI  - Is there a concept of fuzziness in the epistemological systems of Heinrich Hertz and Ludwig Wittgenstein?
+T2  - 2008 IEEE International Conference on Fuzzy Systems (IEEE World Congress on Computational Intelligence)
+SP  - 498
+EP  - 505
+AU  - R. Seising
+PY  - 2008
+KW  - Fuzzy systems
+KW  - Conferences
+DO  - 10.1109/FUZZY.2008.4630414
+JO  - 2008 IEEE International Conference on Fuzzy Systems (IEEE World Congress on Computational Intelligence)
+IS  - 
+SN  - 1098-7584
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Fuzzy Systems (IEEE World Congress on Computational Intelligence)
+Y1  - 1-6 June 2008
+AB  - "A picture is a model of reality", "A picture is a fact", and "We picture facts to ourselves" asserted Ludwig Wittgenstein in his Tractatus logico-philosophicus, thereby confirming the influence on his thinking - which he himself acknowledged - of Heinrich Hertz's Prinzipien der Mechanik (principles of mechanics). In this contribution the "picture" concept, which has a long tradition in philosophy, serves as the starting point of an interpretation of the relationship between real systems and theoretical structures of modern science. In addition, the approach dubbed as the "structuralist" approach of scientific theories in the 20th century will be extended and enhanced by the concept of "fuzzy sets" and "fuzzy relations". This fuzzy structuralist view on scientific theories enables us to combine philosophy of science with the methodologies of Computing with words (CW) and the computational theory of perceptions (CTP). Finally we give future prospects of this work.
+ER  - 
+
+TY  - CONF
+TI  - The simplest evolution/learning hybrid: LEM with KNN
+T2  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+SP  - 3244
+EP  - 3251
+AU  - G. Sheri
+AU  - D. W. Corne
+PY  - 2008
+KW  - Gallium
+KW  - Pediatrics
+KW  - Evolution (biology)
+KW  - Next generation networking
+KW  - Learning systems
+KW  - Evolutionary computation
+KW  - Prediction algorithms
+DO  - 10.1109/CEC.2008.4631237
+JO  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+IS  - 
+SN  - 1941-0026
+VO  - 
+VL  - 
+JA  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+Y1  - 1-6 June 2008
+AB  - The learnable evolution model (LEM) was introduced by Michalski in 2000, and involves interleaved bouts of evolution and learning. Here we investigate LEM in (we think) its simplest form, using k-nearest neighbour as the dasialearningpsila mechanism. The essence of the hybridisation is that candidate children are filtered, before evaluation, based on predictions from the learning mechanism (which learns based on previous populations). We test the resulting dasiaKNNGApsila on the same set of problems that were used in the original LEM paper. We find that KNNGA provides very significant advantages in both solution speed and quality over the unadorned GA. This is in keeping with the original LEM paperpsilas results, in which the learning mechanism was AQ and the evolution/learning interface was more sophisticated. It is surprising and interesting to see such beneficial improvement in the GA after such a simple learning-based intervention. Since the only application-specific demand of KNN is a suitable distance measure (in that way it is more generally applicable than many other learning mechanisms), LEM methods using KNN are clearly recommended to explore for large-scale optimization tasks in which savings in evaluation time are necessary.
+ER  - 
+
+TY  - CONF
+TI  - Autonomous algorithms for terrain coverage metrics, classification and evaluation
+T2  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+SP  - 1641
+EP  - 1648
+AU  - J. Mason
+AU  - R. Menezes
+PY  - 2008
+KW  - Classification algorithms
+KW  - Algorithm design and analysis
+KW  - Time measurement
+KW  - Lattices
+KW  - Evolutionary computation
+KW  - Redundancy
+KW  - Area measurement
+DO  - 10.1109/CEC.2008.4631011
+JO  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+IS  - 
+SN  - 1941-0026
+VO  - 
+VL  - 
+JA  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+Y1  - 1-6 June 2008
+AB  - Terrain coverage algorithms are quite common in the computer science literature and for a good reason: they are able to deal with a diverse set of problems we face. From Web crawling to automated harvesting, from spell checking to area reconnaissance by unmanned aerial vehicles (UAVs), a good terrain coverage algorithm lies at the core of a successful approach to these and other problems. Despite the popularity of terrain coverage, none of the works in the field addresses the important issue of classification and evaluation of these algorithms. It is easy to think that all algorithms (since they are all called terrain coverage) deal with the same problem but this is a fallacy that this paper tries to correct. This paper presents a summary of many algorithms in the field, classifies them based on their goals, introduces metrics to evaluate them, and finally performs the evaluation.
+ER  - 
+
+TY  - CONF
+TI  - Improving Program Guides for Reducing TV Stream Structuring Problem to a Simple Alignment Problem
+T2  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+SP  - 31
+EP  - 31
+AU  - J. -p. Poli
+AU  - J. Carrive
+PY  - 2006
+KW  - Streaming media
+KW  - Hidden Markov models
+KW  - Context modeling
+KW  - Advertising
+KW  - Regression tree analysis
+KW  - Processor scheduling
+KW  - Layout
+KW  - TV broadcasting
+KW  - Predictive models
+KW  - Indexing
+DO  - 10.1109/CIMCA.2006.124
+JO  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 International Conference on Computational Inteligence for Modelling Control and Automation and International Conference on Intelligent Agents Web Technologies and International Commerce (CIMCA'06)
+Y1  - 28 Nov.-1 Dec. 2006
+AB  - TV stream structuring is the first step in the description process of telecasts for TV archives holders like the French National Audiovisual Institute. It consists in breaking down automatically the stream into telecasts and advertisings. One can think TV stream structuring consists in a simple alignment of the TV guide (for example electronic program guide or TV magazines) on the stream. But our study shows that only 34% of telecasts appear in program guides. In average, 2 hours per day, composed of short telecasts and advertisings, are missing. We propose in this article a way to model and predict TV schedules (one day or one week of telecasts on a channel) by using a new extension of Markov models and regression trees. The goal is that the improved schedules obtained by the prediction can be aligned on the stream.
+ER  - 
+
+TY  - CONF
+TI  - Modeling and simulation research on diffusion of the public voice
+T2  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+SP  - 3866
+EP  - 3873
+AU  - Shuai Jin
+AU  - Zhaohan Sheng
+PY  - 2008
+KW  - Evolutionary computation
+DO  - 10.1109/CEC.2008.4631323
+JO  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+IS  - 
+SN  - 1941-0026
+VO  - 
+VL  - 
+JA  - 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+Y1  - 1-6 June 2008
+AB  - The public opinion formation is becoming of a strategic importance at all levels of society. Public voice, a consequence of an asymmetrical informational structure, is interwoven by viewpoints of many individuals involved in the issue. The control and possible handling to manipulate information are now major issues in social organizations, including economy, politics, fashion, and even personal affairs. This paper focuses on simulation of the public voice diffusing based on the social mechanisms at individual level. At first, an analysis was performed to establish a multi-agent-based model analogous to a cellular automata model; it incorporated the variables of individual characters and other individualspsila impact to describe the thinking process of individuals, when they were confronted with the public voice. The attributes and hypothesizes referred in the model would be detailed in this section. Then another analyses followed further examine the functions of some parameters and mechanisms in the public voice forming, based on simulation experiments and sensitivity analysis. Finally, exploratory discussions and limitations on the model were presented.
+ER  - 
+
+TY  - JOUR
+TI  - Musing on the use of dynamic software and mathematics epistemology
+T2  - Teaching Mathematics and Its Applications: International Journal of the IMA
+SP  - 167
+EP  - 178
+AU  - M. Santos-Trigo
+AU  - A. Reyes-Rodríguez
+AU  - H. Espinosa-Pérez
+PY  - 2007
+DO  - 10.1093/teamat/hrl019
+JO  - Teaching Mathematics and Its Applications: International Journal of the IMA
+IS  - 4
+SN  - 1471-6976
+VO  - 26
+VL  - 26
+JA  - Teaching Mathematics and Its Applications: International Journal of the IMA
+Y1  - Dec. 2007
+AB  - Different computational tools may offer teachers and students distinct opportunities in representing, exploring and solving mathematical tasks. In this context, we illustrate that the use of dynamic software (Cabri Geometry) helped high school teachers to think of and represent a particular task dynamically. In this process, the teachers had the opportunity of identifying, exploring and supporting mathematical relations that emerged during the solution of the task. We distinguish problem-solving episodes that teachers exhibited while understanding and representing the task, thinking of a solution plan, searching and presenting mathematical arguments and looking for connections.
+ER  - 
+
+TY  - CONF
+TI  - Cognitive Informatics Foundations of Nature and Machine Intelligence
+T2  - 6th IEEE International Conference on Cognitive Informatics
+SP  - 3
+EP  - 12
+AU  - Y. Wang
+PY  - 2007
+KW  - Cognitive informatics
+KW  - Machine intelligence
+KW  - Learning systems
+KW  - Humans
+KW  - Problem-solving
+KW  - Taxonomy
+KW  - Information analysis
+KW  - Brain modeling
+KW  - Artificial intelligence
+KW  - Intelligent systems
+KW  - Cognitive informatics
+KW  - brain science
+KW  - intelligence science
+KW  - denotational mathematics
+KW  - cognitive models
+KW  - cognitive processes
+KW  - mathematical models
+KW  - concept algebra
+KW  - RTPA
+KW  - intelligent measurement
+KW  - intelligent quotient
+KW  - intelligent metrics
+KW  - LRMB
+KW  - OAR
+KW  - GIM
+KW  - AI
+DO  - 10.1109/COGINF.2007.4341867
+JO  - 6th IEEE International Conference on Cognitive Informatics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 6th IEEE International Conference on Cognitive Informatics
+Y1  - 6-8 Aug. 2007
+AB  - Intelligence is a driving force or an ability to acquire and use knowledge and skills, or to inference in problem solving. This keynote lecture describes the taxonomy and nature of intelligence. It analyzes roles of information in the evolution of human intelligence, and the needs for logical abstraction in modeling the brain and natural intelligence. A formal model of intelligence is developed known as the generic intelligence mode (GIM), which provides a foundation to explain the mechanisms of advanced natural intelligence such as thinking, learning, and inferences. A measurement framework of intelligent capability of humans and systems is presented in the forms of intelligent quotient, intelligent equivalence, and intelligent metrics. On the basis of GIM model and theories, the compatibility of nature and machine intelligence is revealed, which forms a theoretical foundation for rigorous study in machine intelligence, AI, and intelligent systems.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Dynamic Modularity in a Connectionist Model of Context-Dependent Idea Generation
+T2  - 2007 International Joint Conference on Neural Networks
+SP  - 2183
+EP  - 2188
+AU  - S. Doboli
+AU  - A. A. Minai
+AU  - V. R. Brown
+PY  - 2007
+KW  - Context modeling
+KW  - Brain modeling
+KW  - Biological system modeling
+KW  - Biological neural networks
+KW  - Cognition
+KW  - Programmable control
+KW  - Adaptive control
+KW  - Intelligent networks
+KW  - Pathology
+KW  - Path planning
+DO  - 10.1109/IJCNN.2007.4371296
+JO  - 2007 International Joint Conference on Neural Networks
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2007 International Joint Conference on Neural Networks
+Y1  - 12-17 Aug. 2007
+AB  - Cognitive control -the ability to produce appropriate behavior in complex situations -is a fundamental aspect of intelligence. It is increasingly evident that this control arises from the interaction of dynamics in several brain regions, and depends significantly on processes of modulation and dynamical biasing. While most research has focused on explanations of behavioral responses seen in experiments and pathologies, it is reasonable to expect that internal functions such as planning and thinking would also use similar control mechanisms. In this paper, we present a connectionist model for an idea generation process that can rapidly retrieve old ideas in familiar contexts and search for novel ideas in unfamiliar ones. Based on a simple reinforcement signal, the system learns context-dependent biases that represent effective internal "response systems" for generating ideas from conceptual elements. A broad goal of the research is to show that preconfigured structural modularity, limited real-time selectivity, and adaptive modulation can interact to produce the flexible functionality necessary for cognition and intelligent behavior.
+ER  - 
+
+TY  - CONF
+TI  - Connectionist Reinforcement Learning with Cursory Intrinsic Motivations and Linear Dependencies to Multiple Representations
+T2  - The 2006 IEEE International Joint Conference on Neural Network Proceedings
+SP  - 54
+EP  - 61
+AU  - J. Takeuchi
+AU  - O. Shouno
+AU  - H. Tsujino
+PY  - 2006
+KW  - Basal ganglia
+KW  - Machine intelligence
+KW  - Intelligent sensors
+KW  - Animals
+KW  - Brain modeling
+KW  - Learning systems
+KW  - Intelligent systems
+KW  - Decision making
+KW  - Machine learning
+KW  - Information representation
+DO  - 10.1109/IJCNN.2006.246659
+JO  - The 2006 IEEE International Joint Conference on Neural Network Proceedings
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - The 2006 IEEE International Joint Conference on Neural Network Proceedings
+Y1  - 16-21 July 2006
+AB  - A significant feature of brain intelligence is flexibility. This is generally lacking in current machine intelligence We think that learning that effectively uses the combination of multiple information representations is the key to constructing flexible machine intelligence. This hypothesis is demonstrated by means of a simple connectionist model of intrinsically motivated reinforcement learning. A linear approximation of reward functions that depends on multiple representations is engaged in our model. We show preliminary results for a model network that enables a flexible learning response to several different situations. Multiple representations in our model accelerate the learning not only in complex situations that need many kinds of information, but also in simple situations.
+ER  - 
+
+TY  - CONF
+TI  - Neo-symbiosis: A Conceptual Tool for System Design
+T2  - 2007 40th Annual Hawaii International Conference on System Sciences (HICSS'07)
+SP  - 294b
+EP  - 294b
+AU  - D. Griffith
+PY  - 2007
+KW  - Symbiosis
+KW  - Humans
+KW  - Usability
+KW  - Man machine systems
+KW  - Laboratories
+KW  - Information systems
+KW  - Cognition
+KW  - Information processing
+KW  - Computerized monitoring
+KW  - Process design
+DO  - 10.1109/HICSS.2007.397
+JO  - 2007 40th Annual Hawaii International Conference on System Sciences (HICSS'07)
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - 2007 40th Annual Hawaii International Conference on System Sciences (HICSS'07)
+Y1  - 3-6 Jan. 2007
+AB  - In 1960 Licklider advanced the notion of symbiosis between humans and computers that would think as no human brain has ever thought. This paper updates Licklider 's vision of symbiosis and recasts it into current theories of cognition. This updated version of Licklider's vision is termed neo-symbiosis. Kahneman's notion of two processing systems provides a useful theoretical framework for capturing both expertise and information processing biases. System 1, termed intuition, is fast and effortless. It is simultaneously the source of much human expertise, while also being the locus of cognitive and perceptual illusions. System 2, termed reasoning, is the locus of rational thought. It also has the task of monitoring System 1 output. Computers need to support System 2 processing. A neo-symbiotic design philosophy is presented followed by an illustrative example. Evaluative metrics are discussed. It is concluded that even absent evaluation metrics, neo-symbiosis provides a desirable design goal
+ER  - 
+
+TY  - CONF
+TI  - Rethinking Programming
+T2  - Third International Conference on Information Technology: New Generations (ITNG'06)
+SP  - 149
+EP  - 154
+AU  - W. M. Beynon
+AU  - R. C. Boyatt
+AU  - S. B. Russ
+PY  - 2006
+KW  - Application software
+KW  - Pervasive computing
+KW  - Functional programming
+KW  - Concrete
+KW  - Computer languages
+KW  - Computer science
+KW  - Computer applications
+KW  - Constraint theory
+KW  - Reliability engineering
+KW  - History
+KW  - programming
+KW  - specification
+KW  - identification
+KW  - prescription
+DO  - 10.1109/ITNG.2006.114
+JO  - Third International Conference on Information Technology: New Generations (ITNG'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Third International Conference on Information Technology: New Generations (ITNG'06)
+Y1  - 10-12 April 2006
+AB  - The accepted view of programming, rooted in Turing's fundamental characterization of algorithms, has had a profound impact on the theory and practice of computing with yet broader implications for thinking about mind and culture. Where programming is traditionally conceived in terms of requirements, specification and implementation, this paper argues for a complementary conceptualization to support the development of the next generation of computing applications. It briefly reviews an extended programme of research into empirical modeling, an approach to creating interactive environments to enable programming based on identification and prescription
+ER  - 
+
+TY  - CONF
+TI  - Learning Non-Unanimous Ontology Concepts to Communicate with Groups of Agents
+T2  - 2006 IEEE/WIC/ACM International Conference on Intelligent Agent Technology
+SP  - 211
+EP  - 217
+AU  - M. Afsharchi
+AU  - B. H. Far
+AU  - J. Denzinger
+PY  - 2006
+KW  - Ontologies
+KW  - Humans
+KW  - Computer science
+KW  - Multiagent systems
+KW  - Education
+KW  - Broadcasting
+DO  - 10.1109/IAT.2006.85
+JO  - 2006 IEEE/WIC/ACM International Conference on Intelligent Agent Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE/WIC/ACM International Conference on Intelligent Agent Technology
+Y1  - 18-22 Dec. 2006
+AB  - We present an extension to the definition of a concept in an ontology that allows an agent to simultaneously communicate with a group of agents that might have different understandings of some concepts. We also provide a way to learn such non-unanimous concepts by using a method for learning concepts from a group of teachers. The general idea of non-unanimous concepts is to use the teachers to identify the core of a concept everyone agrees on and what else at least some of the teachers think belongs into the concept. The learning agent also decides what belongs to the concept for itself and whenever it needs to communicate with a group of other agents and needs to be precise it makes use of these three concept aspects by providing additional example objects for what might be misunderstood.
+ER  - 
+
+TY  - CONF
+TI  - A Topic-based approach to express dynamic capabilities of Semantic WS-Resources
+T2  - Advanced Int'l Conference on Telecommunications and Int'l Conference on Internet and Web Applications and Services (AICT-ICIW'06)
+SP  - 181
+EP  - 181
+AU  - R. Rodriguez
+AU  - C. Costilla
+AU  - A. Calleja
+PY  - 2006
+KW  - Web services
+KW  - Service oriented architecture
+KW  - Computer architecture
+KW  - Semantic Web
+KW  - Information systems
+KW  - Databases
+KW  - Cyclic redundancy check
+KW  - Information technology
+KW  - Solids
+KW  - XML
+DO  - 10.1109/AICT-ICIW.2006.39
+JO  - Advanced Int'l Conference on Telecommunications and Int'l Conference on Internet and Web Applications and Services (AICT-ICIW'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Advanced Int'l Conference on Telecommunications and Int'l Conference on Internet and Web Applications and Services (AICT-ICIW'06)
+Y1  - 19-25 Feb. 2006
+AB  - The release of WSRF showed that an OGSA infrastructure of stateful WS-Resources could be built on top of plain WSDL, while retaining Web services as stateless entities. This Grid and SOA convergence allows developers to focus on enrich descriptions with current Semantic Web services technologies (SWS), whereas WSRF and WSNotification provide the mechanisms to build stateful and distributed architectures. However, we think a direct exportation of SWS interfaces to describe WS-Resources would be of limited value, due to property changes are not properly captured with static profiles, and current WSRF lacks of semantic features. We propose a topic-based modeling of WS-Resource capabilities, along with simple WSRF and WSNotification extensions to achieve 'semantic-by-design' WS-Resource descriptions. We also illustrate how these enhancements can be applied to our Semantic Web Data Sources Integrated Architecture (DAWIS), allowing dynamic matching and discovering of Semantic WSResources.
+ER  - 
+
+TY  - JOUR
+TI  - Stochastic modeling and simulation of gene networks - A review of the state-of-the-art research on stochastic simulations
+T2  - IEEE Signal Processing Magazine
+SP  - 27
+EP  - 36
+AU  - X. Cai
+AU  - X. Wang
+PY  - 2007
+KW  - Stochastic processes
+KW  - Computational modeling
+KW  - Gene expression
+KW  - RNA
+KW  - Biological system modeling
+KW  - Polymers
+KW  - Computer networks
+KW  - Working environment noise
+KW  - Kinetic theory
+KW  - DNA
+DO  - 10.1109/MSP.2007.273051
+JO  - IEEE Signal Processing Magazine
+IS  - 1
+SN  - 1558-0792
+VO  - 24
+VL  - 24
+JA  - IEEE Signal Processing Magazine
+Y1  - Jan. 2007
+AB  - This paper provides a comprehensive review of the state-of-the-art research on stochastic simulations. It stimulates the interest of tackling the problem of stochastic simulation using statistical signal processing methods, as well as innovative thinking of stochastic modeling of gene networks from the viewpoint of signal processing
+ER  - 
+
+TY  - CONF
+TI  - Symbolic Modeling of Signal Transduction in Pathway Logic
+T2  - Proceedings of the 2006 Winter Simulation Conference
+SP  - 1656
+EP  - 1665
+AU  - C. Talcott
+PY  - 2006
+KW  - Logic
+KW  - Biological system modeling
+KW  - Biological processes
+KW  - Proteins
+KW  - Systems biology
+KW  - Signal processing
+KW  - Biology computing
+KW  - Predictive models
+KW  - Cognitive science
+KW  - Computational modeling
+DO  - 10.1109/WSC.2006.322940
+JO  - Proceedings of the 2006 Winter Simulation Conference
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - Proceedings of the 2006 Winter Simulation Conference
+Y1  - 3-6 Dec. 2006
+AB  - Pathway logic is a step towards a vision of symbolic systems biology. It is an approach to modeling cellular processes based on formal methods. In particular, formal executable models of processes such as signal transduction, metabolic pathways, and immune system cell-cell signaling are developed using the rewriting logic language Maude and a variety of formal tools are used to query these models. An important objective of Pathway Logic is to reflect the ways that biologists think about problems using informal models, and to provide bench biologists with tools for computing with and analyzing these models that are natural. In this paper we describe the pathway logic approach to the modeling and analysis of signal transduction, and the use of the pathway logic assistant tool to browse and query these models. The Rac1 signaling pathway is used to illustrate the concepts
+ER  - 
+
+TY  - CONF
+TI  - 3D molecular modeling: from theory to applications
+T2  - 2008 Conference on Human System Interactions
+SP  - 350
+EP  - 355
+AU  - M. Essabbah
+AU  - S. Otmane
+AU  - M. Mallem
+PY  - 2008
+KW  - Biological system modeling
+KW  - Biology
+KW  - Computational modeling
+KW  - Three dimensional displays
+KW  - Solid modeling
+KW  - Proteins
+KW  - RNA
+KW  - Molecular biology
+KW  - 3D modeling
+KW  - 3D visualization
+KW  - 3D interactive systems
+DO  - 10.1109/HSI.2008.4581462
+JO  - 2008 Conference on Human System Interactions
+IS  - 
+SN  - 2158-2254
+VO  - 
+VL  - 
+JA  - 2008 Conference on Human System Interactions
+Y1  - 25-27 May 2008
+AB  - Genomic sequences are initially known by their linear form. However, they have also a three-dimensional structure which can be useful for genomes analysis. This 3D structure representation brings a new point of view for the sequences analysis. It was established that the importance of the molecular spatial structure has created increasingly a growing interest for 3D modeling molecules. Therefore, several studies have described the design of software for 3D molecular visualization. Some of these tools offer even 3D molecular manipulation through virtual models. But these 3D models are often based on predictive methods leading to a family of so-called predictive models. This constraint has meant that biologists doubt the effectiveness of these models, thinking they lack of structural realism and therefore functional one. The solution that we propose is the confrontation between models and real data. This approach compares 3D virtual models and real microscopic images of the same molecule in order to validate and/or improve the 3D model. User interaction is possible to enhance comparison.
+ER  - 
+
+TY  - CONF
+TI  - A cybernetic approach to multi-agent system simulation in Tijuana-San Diego using the Viable Systems Model
+T2  - 2007 IEEE International Conference on Systems, Man and Cybernetics
+SP  - 1648
+EP  - 1652
+AU  - S. J. Jones
+AU  - A. Rodriguez-Diaz
+AU  - L. Hall
+AU  - M. Castanon-Puga
+AU  - D. L. Flores-Gutierrez
+AU  - C. Gaxiola-Pacheco
+PY  - 2007
+KW  - Cybernetics
+KW  - Multiagent systems
+KW  - Context modeling
+KW  - Stability
+KW  - Environmental management
+KW  - Information management
+KW  - Computational modeling
+KW  - US Government
+KW  - Employment
+KW  - Urban areas
+DO  - 10.1109/ICSMC.2007.4413698
+JO  - 2007 IEEE International Conference on Systems, Man and Cybernetics
+IS  - 
+SN  - 1062-922X
+VO  - 
+VL  - 
+JA  - 2007 IEEE International Conference on Systems, Man and Cybernetics
+Y1  - 7-10 Oct. 2007
+AB  - The trans-border region of Tijuana-San Diego with its multi-ethnic, multi-cultural society experiences a broad spectrum of social problems. The use of multi-agent systems to simulate such societies has increasingly been used as social research tool in these contexts, but is constrained by a lack of well defined contextual models. This paper proposes the use of the Viable Systems Model to underpin theory in multi-agent systems research and explores the benefits of using cybernetic thinking to understanding the problems being experienced in the Tijuana-San Diego conurbation.
+ER  - 
+
+TY  - CONF
+TI  - An Empirical Comparison of Task Sequences for Immersive Virtual Environments
+T2  - 2007 IEEE Symposium on 3D User Interfaces
+SP  - 1
+EP  - 
+AU  - R. P. Mcmahan
+AU  - D. A. Bowman
+PY  - 2007
+KW  - Virtual environment
+KW  - Control systems
+KW  - Productivity
+KW  - Graphical user interfaces
+KW  - User interfaces
+KW  - Computer science
+KW  - Computational modeling
+KW  - Analytical models
+KW  - Computer simulation
+KW  - Application software
+DO  - 10.1109/3DUI.2007.340770
+JO  - 2007 IEEE Symposium on 3D User Interfaces
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 IEEE Symposium on 3D User Interfaces
+Y1  - 10-11 March 2007
+AB  - System control - the issuing of commands - is a critical, but largely unexplored task in 3D user interfaces (3DUIs) for immersive virtual environments (IVEs). The task sequence (the order of operations in a system control task) is an important aspect of the design of a system control interface (SCI), because it affects the way the user must think about accomplishing the task. Most command line interfaces are based on the action-object task sequence (e.g. "rm foo.txt"). Most graphical user interfaces (GUIs) are based on the object-action task sequence (e.g. click on an icon then select "delete" from a pop-up menu). An SCI for an IVE should be transparent and induce minimal cognitive load, but it is not clear which task sequences support this goal. We designed an experiment using an interior design application context to determine the cognitive loads induced by various task sequences in IVEs. By subtracting the expected time for a user to complete the task from the total time, we have estimated the cognitive time, dependent only on task sequence. Our experiment showed that task sequence has a significant effect on the cognitive loads induced in IVEs. The object-action sequence and similar task sequences induce smaller cognitive loads than those induced by the action-object sequence. These results can be used to create guidelines for creating 3DUIs for IVEs
+ER  - 
+
+TY  - CONF
+TI  - A New Landmark of Study on System Complexity -On the Development and Inspiration of the Complex Adaptive System Theory
+T2  - 2007 International Conference on Management Science and Engineering
+SP  - 495
+EP  - 501
+AU  - X. Li-qing
+AU  - S. Shao-rong
+PY  - 2007
+KW  - Adaptive systems
+KW  - Content addressable storage
+KW  - Conference management
+KW  - Technology management
+KW  - Engineering management
+KW  - Control systems
+KW  - Chaos
+KW  - Iron
+KW  - Sun
+KW  - Computational modeling
+KW  - adaptive agents
+KW  - agent-based computer modeling
+KW  - CAS theory
+KW  - classifier systems
+KW  - echo model
+KW  - interaction
+DO  - 10.1109/ICMSE.2007.4421896
+JO  - 2007 International Conference on Management Science and Engineering
+IS  - 
+SN  - 2155-1855
+VO  - 
+VL  - 
+JA  - 2007 International Conference on Management Science and Engineering
+Y1  - 20-22 Aug. 2007
+AB  - CAS (short for "complex adaptive system") theory advanced by Holland broke through the limitation of previous study on the complex systems from a new visual angle. This paper introduces in detail the origin and development, traits, applications and the meaning on methodologies of the theory. The study of the system complexity is very important in the contemporary scientific study. CAS theory has provided new thinking methods to know, understand, control and manage the complex systems for the researchers. Holland defines the complex adaptive system as such systems that consist of large number of individuals that interact by sending and receiving signals and adapt or learn as they interact. These individuals are called as "adaptive agents" enjoying very large initiative and positivity and the internal mechanism of these agents are defined as the classifier systems. The basic frame of CAS theory includes four characteristics- aggregation, nonlinearity, flow, diversity and three mechanisms- tagging, internal model, building blocks of the adaptive agent, and the stimulus-response model of the agents and Echo Model of the macrosystem. Holland describes them by means of metaphorical method and suggests the computer-based modeling and simulating method should be adopted mainly to study the complex adaptive system.
+ER  - 
+
+TY  - CONF
+TI  - Multicasting in groupware?
+T2  - 2007 International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2007)
+SP  - 168
+EP  - 177
+AU  - S. Junuzovic
+AU  - P. Dewan
+PY  - 2007
+KW  - Collaborative software
+KW  - Collaborative work
+KW  - Collaboration
+KW  - Computer architecture
+KW  - Processor scheduling
+KW  - Degradation
+KW  - Computational modeling
+KW  - Distributed computing
+KW  - Cost function
+KW  - Unicast
+KW  - Multicast
+KW  - Response
+KW  - Feedthrough
+KW  - Task Completion Times
+DO  - 10.1109/COLCOM.2007.4553826
+JO  - 2007 International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2007)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2007)
+Y1  - 12-15 Nov. 2007
+AB  - While multicast has been studied extensively in many domains such as content streaming and file sharing, there is little research applying it to synchronous collaborations involving shared access to a distributed object. Based on several cases of real-world collaborations involving instant messaging, distributed lectures, and computationally-intensive collaborative game playing, we show that compared to traditional centralized and replicated collaboration architectures, a new bi-architecture collaboration system model with multicasting support can improve response, feedthrough, and task completion times. In addition, we show that to optimize performance, the set of traditionally considered factors, consisting of network delays and transmission costs, must be expanded to include several new factors, such as processing costs, scheduling policies, and think times. In one or more of the real-world collaborations we consider, we show that multicast (a) can increase feedthrough times if processing costs and scheduling policies are not considered and (b) may degrade or improve task completion times depending on the cost of computing the multicast overlay.
+ER  - 
+
+TY  - JOUR
+TI  - Clover: Connecting technology and character education using personally-constructed animated vignettes
+T2  - Interacting with Computers
+SP  - 793
+EP  - 819
+AU  - B. P. Bailey
+AU  - S. Y. Tettegah
+AU  - T. J. Bradley
+PY  - 2006
+KW  - Animation
+KW  - Character education
+KW  - Multimedia
+KW  - Narratives
+KW  - Vignettes
+DO  - 10.1016/j.intcom.2005.11.013
+JO  - Interacting with Computers
+IS  - 4
+SN  - 1873-7951
+VO  - 18
+VL  - 18
+JA  - Interacting with Computers
+Y1  - July 2006
+AB  - Schools are increasingly integrating character education to facilitate improved moral thinking and pro social behavior among students. An effective method for delivering character education is problem solving moral and social situations represented visually as animated vignettes. However, schools are rarely able to use animated vignettes since existing tools do not allow them to be easily created and having them created externally is overly expensive. In this paper, we describe the design, use, and evaluation of a computational tool that enables students to construct their own animated vignettes. By building, sharing, and responding to vignettes, students become engaged in problem solving moral and social situations. Evaluations showed that users are able to build meaningful vignettes, our tool is easy to learn and fun to use, and our tool’s multimedia features are often used and well-liked. Educators can download and use our tool while researchers can draw upon our design rationale and lessons learned when building similar tools.
+ER  - 
+
+TY  - JOUR
+TI  - Innovative Standards for Innovative Software
+T2  - Computer
+SP  - 88
+EP  - 89
+AU  - D. Kelly
+PY  - 2008
+KW  - Software standards
+KW  - Software safety
+KW  - Software quality
+KW  - Standards development
+KW  - Standards publication
+KW  - Military standards
+KW  - Military aircraft
+KW  - Product safety
+KW  - Educational institutions
+KW  - Aerospace control
+KW  - standards
+KW  - safety-critical software
+KW  - software development
+KW  - analysis software
+DO  - 10.1109/MC.2008.229
+JO  - Computer
+IS  - 7
+SN  - 1558-0814
+VO  - 41
+VL  - 41
+JA  - Computer
+Y1  - July 2008
+AB  - Developers must revise current approaches to standards for analysis software to account for its unique characteristics. When developers think of software standards, they envision software for aircraft cockpits, nuclear reactors, high-speed trains, medical devices, and spacecraft: software that directly controls some component related to the product's safe operation, with or without a person in the loop. Standards for such safety-critical software that have evolved over the past two decades make specific assumptions about the software's development environment. If the software provides computational data that is wrong, and the resulting decision based on that data is faulty, safety is compromised. The software itself is not safety-critical. Nevertheless, safety is involved, sometimes with a lengthy time component and many people in the loop. As with safety-critical software, certain standards address the production of quality computational software or, as it is often called, analysis software. Standards for developing analysis software are based on standards used for other software types. However, the characteristics of analysis software are very different.
+ER  - 
+
+TY  - BOOK
+TI  - Opinion Mining and Sentiment Analysis
+SP  - 1
+EP  - 
+AU  - Bo Pang
+AU  - Lillian Lee
+PY  - 2008
+KW  - ARTIFICIAL INTELLIGENCE / MACHINE LEARNING
+DO  - 10.1561/1500000011
+PB  - now
+SN  - 9781601981516
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8187070
+AB  - An important part of our information-gathering behavior has always been to find out what other people think. With the growing availability and popularity of opinion-rich resources such as online review sites and personal blogs, new opportunities and challenges arise as people can, and do, actively use information technologies to seek out and understand the opinions of others. The sudden eruption of activity in the area of opinion mining and sentiment analysis, which deals with the computational treatment of opinion, sentiment, and subjectivity in text, has thus occurred at least in part as a direct response to the surge of interest in new systems that deal directly with opinions as a first-class object. Opinion Mining and Sentiment Analysis covers techniques and approaches that promise to directly enable opinion-oriented information-seeking systems. The focus is on methods that seek to address the new challenges raised by sentiment-aware applications, as compared to those that are already present in more traditional fact-based analysis. The survey includes an enumeration of the various applications, a look at general challenges and discusses categorization, extraction and summarization. Finally, it moves beyond just the technical issues, devoting significant attention to the broader implications that the development of opinion-oriented information-access services have: questions of privacy, vulnerability to manipulation, and whether or not reviews can have measurable economic impact. To facilitate future work, a discussion of available resources, benchmark datasets, and evaluation campaigns is also provided. Opinion Mining and Sentiment Analysis is the first such comprehensive survey of this vibrant and important research area and will be of interest to anyone with an interest in opinion-oriented information-seeking systems.
+ER  - 
+
+TY  - JOUR
+TI  - There's Nothing Like a Good Argument ...
+T2  - IEEE Software
+SP  - 21
+EP  - 23
+AU  - S. B. Shum
+PY  - 2007
+KW  - Indexing
+KW  - Engineering management
+KW  - Software engineering
+KW  - Software testing
+KW  - System testing
+KW  - Design engineering
+KW  - Knowledge engineering
+KW  - Software libraries
+KW  - Software tools
+KW  - Real time systems
+KW  - software requirements
+KW  - argument schemes
+KW  - concept mapping
+KW  - tools
+DO  - 10.1109/MS.2007.148
+JO  - IEEE Software
+IS  - 5
+SN  - 1937-4194
+VO  - 24
+VL  - 24
+JA  - IEEE Software
+Y1  - Sept.-Oct. 2007
+AB  - Since computing pioneers Vannevar Bush and Doug Engelbart envisioned computational support for argumentation, many have pursued the exciting vision of tools for capturing and augmenting collective reasoning. Designers would be able to capture their deliberations on the fly during design sessions, with intuitive visualizations assisting participatory analysis by diverse stakeholders. These traces would later help recover design rationale. When managing requirements, we can think of argument schemes as reusable patterns for tightening up deliberations. Project reviews are an obvious candidate, where decisions must be justified, often to be signed off, and resources committed. As meeting capture becomes a practical reality, we have the basis for requirements platforms that provide new forms of multimedia requirements and rationale traceability.
+ER  - 
+
+TY  - CONF
+TI  - Clouds, clusters and ManyCore: The revolution ahead
+T2  - 2008 IEEE International Conference on Cluster Computing
+SP  - 1
+EP  - 1
+AU  - D. A. Reed
+PY  - 2008
+DO  - 10.1109/CLUSTR.2008.4663749
+JO  - 2008 IEEE International Conference on Cluster Computing
+IS  - 
+SN  - 2168-9253
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Cluster Computing
+Y1  - 29 Sept.-1 Oct. 2008
+AB  - Without doubt, scientific discovery, business practice and social interactions are moving rapidly from a world of homogeneous and local systems to a world of distributed software, virtual organizations and cloud computing infrastructure, all powered by multicore processors and large-scale infrastructure. In science, a tsunami of new experimental and computational data and a suite of increasingly ubiquitous sensors pose vexing problems in data analysis, transport, visualization and collaboration. In society and business, software as a service and cloud computing are empowering distributed groups. Letpsilas step back and think about the longer term future. Where is the technology going and what are the implications? What architectures are appropriate? How to we manage power and scale? What are the right size building blocks? How do we come to grips with the fact that our clusters and data centers are now bigger than the Internet was just a few years ago? How do we develop and support malleable software? What is the ecosystem of components in which distributed, data rich applications will operate? How do we optimize performance and reliability? How do we program these systems?
+ER  - 
+
+TY  - CONF
+TI  - If Constraint-Based Mining is the Answer: What is the Constraint? (Invited Talk)
+T2  - 2008 IEEE International Conference on Data Mining Workshops
+SP  - 730
+EP  - 730
+AU  - J. -F. Boulicaut
+PY  - 2008
+KW  - Databases
+KW  - Data mining
+KW  - Constraint optimization
+KW  - Constraint theory
+KW  - Clustering algorithms
+KW  - Cyclic redundancy check
+KW  - Conferences
+KW  - Algorithm design and analysis
+KW  - FETs
+KW  - Itemsets
+KW  - constraints
+KW  - data mining
+KW  - inductive databases
+DO  - 10.1109/ICDMW.2008.96
+JO  - 2008 IEEE International Conference on Data Mining Workshops
+IS  - 
+SN  - 2375-9259
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Data Mining Workshops
+Y1  - 15-19 Dec. 2008
+AB  - Constraint-based mining has been proven to be extremely useful. It has been applied not only to many pattern discovery settings (e.g., for sequential pattern mining) but also, recently, on classification and clustering tasks (see, e.g., ). It appears as a key technology for an inductive database perspective on knowledge discovery in databases (KDD), and constraint-based mining is indeed an answer to important data mining issues (e.g., for supporting a priori relevancy and subjective interestingness but also to achieve computational feasibility). However, few authors study the nature of constraints and their semantics. Considering several examples of non trivial KDD processes, we discuss the Hows, Whys, and Whens of constraints in a broader context than. Our thesis is that most of the typical data mining methods are constraint-based techniques and that it is worth studying and designing them as such. In many cases, we exploit constraints that are not really explicit (e.g., the objective function optimization of a clustering for a given similarity measure) and/or constraints whose operational semantics are relaxed w.r.t. their declarative counterparts (e.g., the optimization constraint is not enforced because of some local optimization heuristics). We think that is important to explicit every primitive constraint and the operators that combine them because this constitutes the declarative semantics of the constraints and thus the mining queries. Then, a well-studied challenge is to design some operational semantics like correct and complete solvers and/or relaxation schemes for more or less complex constraints. Designing complete solvers has been extensively studied in useful but yet limited settings (see, e.g., the algorithms for exploiting combinations of monotonic and anti-monotonic primitives). It is however clear that many relevant constraints lack from such nice properties. On another hand, understanding constraint relaxation strategies remains fairly open, certainly because of its intrinsically heuristic nature. Interestingly, the recent approaches that suggest global pattern or model construction based on local patterns enable to revisit the relaxation issue thanks to constraint back propagation possibilities. This can be discussed within a case study on constrained co-clustering.
+ER  - 
+
+TY  - JOUR
+TI  - Practical aspects of microwave filter development
+T2  - IEEE Microwave Magazine
+SP  - 42
+EP  - 54
+AU  - R. V. Snyder
+PY  - 2007
+KW  - Microwave filters
+KW  - Costs
+KW  - Economic forecasting
+KW  - Resonance
+KW  - Fabrication
+KW  - Assembly
+KW  - Process design
+KW  - Laboratories
+KW  - Production
+KW  - Manufacturing
+DO  - 10.1109/MMW.2007.335528
+JO  - IEEE Microwave Magazine
+IS  - 2
+SN  - 1557-9581
+VO  - 8
+VL  - 8
+JA  - IEEE Microwave Magazine
+Y1  - April 2007
+AB  - Design of practical filters involves consideration of a large variety of disciplines and factors. These include the electrical, physical, and economic properties of resonant and coupled elements, the materials and processes used for fabrication (properties and cost factors), and the labor cost associated with assembly and adjustment. Modeling is a vital asset in the design process, but the real properties of filter elements must be incorporated into the modeling process, using an evolutional method in which the model is adjusted to compensate for the unavoidable nonideal nature of the elements, stray couplings, and the like. This is similar to the older, laboratory "cut and try" method, but far less costly and time-consuming. This implies that modeling should accept available measured data as input. Designers should always think about minimizing production labor, considering manufacturing tolerances possibly as a trade-off against tuning time and recognizing that availability of skilled labor is more than simply a cost but rather a constraint on delivery rate. Continued development of accurate and complete models of parts, enclosures, and interconnects, in conjunction with ever-better computational capabilities, could (if properly used) enable rapid and accurate designs of filters with very predictable and producible results
+ER  - 
+
+TY  - CONF
+TI  - The Focus Problem in Mobile Learning
+T2  - 2006 Fourth IEEE International Workshop on Wireless, Mobile and Ubiquitous Technology in Education (WMTE'06)
+SP  - 153
+EP  - 160
+AU  - C. Goth
+AU  - D. Frohberg
+AU  - G. Schwabe
+PY  - 2006
+KW  - Legged locomotion
+KW  - Biology computing
+KW  - Mobile handsets
+KW  - Handheld computers
+KW  - Glass
+KW  - Guidelines
+KW  - Humans
+KW  - Filters
+KW  - Computer crashes
+DO  - 10.1109/WMTE.2006.261366
+JO  - 2006 Fourth IEEE International Workshop on Wireless, Mobile and Ubiquitous Technology in Education (WMTE'06)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 Fourth IEEE International Workshop on Wireless, Mobile and Ubiquitous Technology in Education (WMTE'06)
+Y1  - 16-17 Nov. 2006
+AB  - Mobile learning has a lot of potential for supporting learning in situations such as in a museum, at a tourist sight or when exploring biological phenomena at a riverside. There learners can interact with their environment and still make use of the advantages of computational power. However, we have found many of such projects hindered by placing the technology too much in the focus of the learner. Instead of interacting with the environment, we found the learners interacting with the device, heads down and ignoring the environment. We found the issue of focus to be a massive problem, one which needs a completely new metaphor for the design of an educational and technical setting. Until now, the mobile devices have been interpreted as small desktops, always in the foreground of the learners' focus. Instead, we propose a different approach, deduced from the usage of mobile phones. Mobile applications need to be designed explicitly to free the learners' focus and push the application to the background. The good news is that the actual changes to be made in existing systems are not as fundamental as one may think
+ER  - 
+
+TY  - CONF
+TI  - User needs analysis to design a 3D multimodal protein-docking interface
+T2  - 2008 IEEE Symposium on 3D User Interfaces
+SP  - 125
+EP  - 132
+AU  - N. Ferey
+AU  - G. Bouyer
+AU  - C. Martin
+AU  - P. Bourdot
+AU  - J. Nelson
+AU  - J. -M. Burkhardt
+PY  - 2008
+KW  - Proteins
+KW  - Virtual reality
+KW  - Virtual environment
+KW  - Ergonomics
+KW  - Genetics
+KW  - Amino acids
+KW  - Biological system modeling
+KW  - Biological information theory
+KW  - User interfaces
+KW  - Graphical user interfaces
+KW  - Protein-protein docking
+KW  - User centered design
+KW  - Virtual Reality
+KW  - Multimodal rendering
+KW  - H.5.2 [User Interfaces]: Ergonomics, User-centered design, Graphical user interfaces (GUI), Auditory feedback, Voice I/O, Auditory (non-speech) feedback, Haptic I/O
+KW  - H.5.1 [Multimedia Information Systems]: Artificial, augmented, and virtual realities, Audio input/output, Evaluation/methodology
+KW  - J.3 [Life and Medical Sciences]: Biology and genetics
+DO  - 10.1109/3DUI.2008.4476602
+JO  - 2008 IEEE Symposium on 3D User Interfaces
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE Symposium on 3D User Interfaces
+Y1  - 8-9 March 2008
+AB  - Protein-Protein docking is a recent practice in biological research which involves using 3D models of proteins to predict the structure of complexes formed by these proteins. Studying protein-protein interactions and how proteins form molecular complexes allows researchers to better understand their function in the cell. Currently, the most common methods used for docking are fully computational approaches, followed by the use of molecular visualization tools to evaluate results. However, these approaches are time consuming and provide a large number of potential solutions. Our basic hypothesis is that a virtual reality (VR) framework for molecular docking can combine the benefits of multimodal rendering, of the biologist's expertise in the field of docking, and of automated docking algorithms. We think this approach will increase efficiency in reaching the solution of a docking problem. However designing immersive and multimodal virtual environments (VE) based on VR technology calls for clear and early identification of user needs. To this end, we have analyzed the task of protein-protein docking as it is carried out today, in order to identify benefits and shortcomings of existing tools, and support the design of new interactive paradigms. Using these results, we have defined a new approach and designed a multimodal application for molecular docking in a virtual reality context.
+ER  - 
+
+TY  - CONF
+TI  - OLLAF : A dual plane reconfigurable architecture for OS support
+T2  - 2008 3rd International Design and Test Workshop
+SP  - 282
+EP  - 287
+AU  - S. Garcia
+AU  - B. Granado
+PY  - 2008
+KW  - Reconfigurable architectures
+KW  - Kernel
+KW  - Resource management
+KW  - Field programmable gate arrays
+KW  - Real time systems
+KW  - System-on-a-chip
+KW  - Embedded computing
+KW  - Hardware
+KW  - Computer architecture
+KW  - History
+DO  - 10.1109/IDT.2008.4802514
+JO  - 2008 3rd International Design and Test Workshop
+IS  - 
+SN  - 2162-061X
+VO  - 
+VL  - 
+JA  - 2008 3rd International Design and Test Workshop
+Y1  - 20-22 Dec. 2008
+AB  - In the context of large versatile platform for embedded real time system on chip, a fine grained dynamically reconfigurable architecture could be used as one possible computational resource. In order to manage efficiently this resource we need a specific OS kernel able to manage such a hardware adaptable architecture. Both the history of micro-processor based system and our previous work based on currently available FPGA devices led us to think that not only an OS kernel must be defined to handle an FGDRA but a FGDRA must also be designed to handle this OS kernel. This article relate our original work in this direction. OLLAF, an original FGDRA core that we have designed will be presented. A comparison with other methods used today using commercially available FPGA is also presented concerning the particular preemption service.
+ER  - 
+
+
