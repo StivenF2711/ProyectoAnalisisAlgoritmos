@@ -1,0 +1,2310 @@
+TY  - JOUR
+T1  - Defining and computing Least Common Subsumers in RDF
+AU  - Colucci, S.
+AU  - Donini, F.M.
+AU  - Giannini, S.
+AU  - Di Sciascio, E.
+JO  - Journal of Web Semantics
+VL  - 39
+SP  - 62
+EP  - 80
+PY  - 2016
+DA  - 2016/08/01/
+SN  - 1570-8268
+DO  - https://doi.org/10.1016/j.websem.2016.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1570826816000160
+KW  - Least Common Subsumer
+KW  - RDF
+KW  - Rooted-graph
+KW  - Selection of RDF triples
+KW  - RDF simple-entailment
+AB  - Several application scenarios in the Web of Data share the need to identify the commonalities between a pair of RDF  resources. Motivated by such needs, we propose the definition and the computation of Least Common Subsumers (LCSs) in RDF. To this aim, we provide some original and fundamental reformulations, to deal with the peculiarities of RDF. First, we adapt a few definitions from Graph Theory to paths and connectedness in RDF-graphs. Second, we define rootedRDF-graphs (r-graphs), in order to focus on a particular resource inside an RDF-graph. Third, we change the definitions of LCSs originally set up for Description Logics to r-graphs. According to the above reformulations, we investigate the computational properties of LCS in RDF, and find a polynomial-time characterization using a form of graph composition. This result remarkably distinguishes LCSs from Entailment in RDF, which is an NP-complete graph matching problem. We then devise algorithms for computing an LCS. A prototypical implementation works as a proof-of-concept for the whole approach in three application scenarios, and shows usefulness and feasibility of our proposal. Most of our examples are taken directly from real datasets, and are fully replicable thanks to the fact that the choice about which triples are selected for the computation is made explicit and flexible.
+ER  - 
+
+TY  - JOUR
+T1  - Unraveling diabetes complexity through natural products, miRNAs modulation, and future paradigms in precision medicine and global health
+AU  - Nurkolis, Fahrul
+AU  - Wiyarta, Elvan
+AU  - Taslim, Nurpudji Astuti
+AU  - Kurniawan, Rudy
+AU  - Thibault, Ronan
+AU  - Fernandez, Maria Luz
+AU  - Yang, Yuexin
+AU  - Han, Junhua
+AU  - Tsopmo, Apollinaire
+AU  - Mayulu, Nelly
+AU  - Tjandrawinata, Raymond Rubianto
+AU  - Tallei, Trina Ekawati
+AU  - Hardinsyah, Hardinsyah
+JO  - Clinical Nutrition ESPEN
+VL  - 63
+SP  - 283
+EP  - 293
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 2405-4577
+DO  - https://doi.org/10.1016/j.clnesp.2024.06.043
+UR  - https://www.sciencedirect.com/science/article/pii/S240545772400189X
+KW  - Diabetes
+KW  - Natural product
+KW  - miRNA
+KW  - Bioinformatics
+KW  - Nutrition
+KW  - Molecular metabolism
+KW  - Novel insights
+KW  - Therapeutic strategies
+AB  - Summary
+Background and aims
+The challenge posed by diabetes necessitates a paradigm shift from conventional diagnostic approaches focusing on glucose and lipid levels to the transformative realm of precision medicine. This approach, leveraging advancements in genomics and proteomics, acknowledges the individualistic genetic variations, dietary preferences, and environmental exposures in diabetes management. The study comprehensively analyzes the evolving diabetes landscape, emphasizing the pivotal role of genomics, proteomics, microRNAs (miRNAs), metabolomics, and bioinformatics.
+Results
+Precision medicine revolutionizes diabetes research and treatment by diverging from traditional diagnostic methods, recognizing the heterogeneous nature of the condition. MiRNAs, crucial post-transcriptional gene regulators, emerge as promising therapeutic targets, influencing key facets such as insulin signaling and glucose homeostasis. Metabolomics, an integral component of omics sciences, contributes significantly to diabetes research, elucidating metabolic disruptions, and offering potential biomarkers for early diagnosis and personalized therapies. Bioinformatics unveils dynamic connections between natural substances, miRNAs, and cellular pathways, aiding in the exploration of the intricate molecular terrain in diabetes. The study underscores the imperative for experimental validation in natural product-based diabetes therapy, emphasizing the need for in vitro and in vivo studies leading to clinical trials for assessing effectiveness, safety, and tolerability in real-world applications. Global cooperation and ethical considerations play a pivotal role in addressing diabetes challenges worldwide, necessitating a multifaceted approach that integrates traditional knowledge, cultural competence, and environmental awareness.
+Conclusions
+The key components of diabetes treatment, including precision medicine, metabolomics, bioinformatics, and experimental validation, converge in future strategies, embodying a holistic paradigm for diabetes care anchored in cutting-edge research and global healthcare accessibility.
+ER  - 
+
+TY  - JOUR
+T1  - Voxelwise encoding models with non-spherical multivariate normal priors
+AU  - Nunez-Elizalde, Anwar O.
+AU  - Huth, Alexander G.
+AU  - Gallant, Jack L.
+JO  - NeuroImage
+VL  - 197
+SP  - 482
+EP  - 492
+PY  - 2019
+DA  - 2019/08/15/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2019.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811919302988
+KW  - Encoding models
+KW  - Computational neuroscience
+KW  - fMRI
+KW  - Voxelwise modeling
+AB  - Predictive models for neural or fMRI data are often fit using regression methods that employ priors on the model parameters. One widely used method is ridge regression, which employs a spherical multivariate normal prior that assumes equal and independent variance for all parameters. However, a spherical prior is not always optimal or appropriate. There are many cases where expert knowledge or hypotheses about the structure of the model parameters could be used to construct a better prior. In these cases, non-spherical multivariate normal priors can be employed using a generalized form of ridge known as Tikhonov regression. Yet Tikhonov regression is only rarely used in neuroscience. In this paper we discuss the theoretical basis for Tikhonov regression, demonstrate a computationally efficient method for its application, and show several examples of how Tikhonov regression can improve predictive models for fMRI data. We also show that many earlier studies have implicitly used Tikhonov regression by linearly transforming the regressors before performing ridge regression.
+ER  - 
+
+TY  - JOUR
+T1  - Orchestrating multiple groups in a mathematics classroom through semiotic mediation
+AU  - Schwarz, Baruch B.
+JO  - The Journal of Mathematical Behavior
+VL  - 66
+SP  - 100966
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0732-3123
+DO  - https://doi.org/10.1016/j.jmathb.2022.100966
+UR  - https://www.sciencedirect.com/science/article/pii/S0732312322000347
+KW  - Adaptive instruction
+KW  - Collaborative learning
+KW  - Orchestration
+KW  - Semiotic mediation
+AB  - In the present case-study, we describe a novel type of adaptive instruction in mathematics – the orchestration of parallel groups through their participation to semiotic games. The framework of the case-study is a lesson in which Grade 9 students are arranged in small groups. The setting includes a digitally rich environment, in which technologies simulate the fall of a ball on an inclined plane, and indicate measures of time and distance. The teacher has developed the professional habit of capitalizing on different semiotic resources (gestures, diagrams, pictures), in her teaching. We use the Scheme for Educational Dialog Analysis (SEDA) (Hennessy et al., 2016) to suggest that the dialog is productive in terms of the advancement of instrumental covariation. To show the how of this productivity, we analyze patterns of interaction to show that the teacher succeeds in adapting her moves to the needs of the students through multimodal communication (oral, gestural, pictorial [referring to pictures/diagrams in an oral or gestural mode]). We show that the teacher facilitates meaning making among several groups working in parallel, and by such, we provide a proof-of-existence of adaptive instruction as a type of orchestration through the participation to semiotic games.
+ER  - 
+
+TY  - JOUR
+T1  - Towards the Unified Principles for Level 5 Autonomous Vehicles
+AU  - Wang, Jianqiang
+AU  - Huang, Heye
+AU  - Li, Keqiang
+AU  - Li, Jun
+JO  - Engineering
+VL  - 7
+IS  - 9
+SP  - 1313
+EP  - 1325
+PY  - 2021
+DA  - 2021/09/01/
+SN  - 2095-8099
+DO  - https://doi.org/10.1016/j.eng.2020.10.018
+UR  - https://www.sciencedirect.com/science/article/pii/S2095809920304008
+KW  - Autonomous vehicle
+KW  - Principle of least action
+KW  - Driving safety field
+KW  - Autonomous learning
+KW  - Basic paradigm
+AB  - The rapid advance of autonomous vehicles (AVs) has motivated new perspectives and potential challenges for existing modes of transportation. Currently, driving assistance systems of Level 3 and below have been widely produced, and several applications of Level 4 systems to specific situations have also been gradually developed. By improving the automation level and vehicle intelligence, these systems can be further advanced towards fully autonomous driving. However, general development concepts for Level 5 AVs remain unclear, and the existing methods employed in the development processes of Levels 0–4 have been mainly based on task-driven function development related to specific scenarios. Therefore, it is difficult to identify the problems encountered by high-level AVs. The essential logical and physical mechanisms of vehicles have hindered further progression towards Level 5 systems. By exploring the physical mechanisms behind high-level autonomous driving systems and analyzing the essence of driving, we put forward a coordinated and balanced framework based on the brain–cerebellum–organ concept through reasoning and deduction. Based on a mixed mode relying on the crow inference and parrot imitation approach, we explore the research paradigm of autonomous learning and prior knowledge to realize the characteristics of self-learning, self-adaptation, and self-transcendence for AVs. From a systematic, unified, and balanced point of view and based on least action principles and unified safety field concepts, we aim to provide a novel research concept and develop an effective approach for the research and development of high-level AVs, specifically at Level 5.
+ER  - 
+
+TY  - JOUR
+T1  - The Modeling of Funding Education as a Strategic Choice in Increasing the Brand Name of Companies
+AU  - Sakas, Damianos P.
+AU  - Vlachos, D.S.
+AU  - Gikas, S.I.
+JO  - Procedia - Social and Behavioral Sciences
+VL  - 73
+SP  - 345
+EP  - 353
+PY  - 2013
+DA  - 2013/02/27/
+T2  - Proceedings of the 2nd International Conference on Integrated Information (IC-ININFO 2012), Budapest, Hungary, August 30 – September 3, 2012
+SN  - 1877-0428
+DO  - https://doi.org/10.1016/j.sbspro.2013.02.061
+UR  - https://www.sciencedirect.com/science/article/pii/S1877042813003546
+KW  - Dynamic Simulation Models
+KW  - Information
+KW  - New product development
+AB  - The successful distribution of business funds creates the foundation for the development of new products and services. Funding education is one of the most important sectors that a software company can invest, in order to achieve its growth and expansion, success of its products, establishment among the best companies in this kind of industry, increasing of its brand name [1] and ensuring its profit. It is explained how powerful a software company can be when the pool of available students is higher educated and specialized. In this paper, these funding actions are analyzed on computers [2] with the help of dynamic simulation models [3](i-think), so that a simulation of reality can be achieved, without investing the required capital, predict situations and create a tool for business decisions. Numerous studies have been developed with the aid of computational methods, as the literature reveals [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18].
+ER  - 
+
+TY  - JOUR
+T1  - Approaches to manage hesitant fuzzy linguistic information based on the cosine distance and similarity measures for HFLTSs and their application in qualitative decision making
+AU  - Liao, Huchang
+AU  - Xu, Zeshui
+JO  - Expert Systems with Applications
+VL  - 42
+IS  - 12
+SP  - 5328
+EP  - 5336
+PY  - 2015
+DA  - 2015/07/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2015.02.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417415001165
+KW  - Hesitant fuzzy linguistic term set
+KW  - Hesitant fuzzy linguistic cosine distance measure
+KW  - Hesitant fuzzy linguistic cosine similarity measure
+KW  - Multiple criteria decision making
+KW  - Cosine-distance-based HFL-TOPSIS method
+KW  - Cosine-distance-based HFL-VIKOR method
+AB  - Qualitative and hesitant information is common in practical decision making process. In such complicated decision making problem, it is flexible for experts to use comparative linguistic expressions to express their opinions since the linguistic expressions are much closer than single or simple linguistic term to human way of thinking and cognition. The hesitant fuzzy linguistic term set (HFLTS) turns out to be a powerful tool in representing and eliciting the comparative linguistic expressions. In order to develop some approaches to decision making with hesitant fuzzy linguistic information, in this paper, we firstly introduce a family of novel distance and similarity measures for HFLTSs, such as the cosine distance and similarity measures, the weighted cosine distance and similarity measures, the order weighted cosine distance and similarity measures, and the continuous cosine distance and similarity measures. All these distance and similarity measures are proposed from the geometric point of view while the existing distance and similarity measures over HFLTSs are based on the different forms of algebra distance measures. Afterwards, based on the hesitant fuzzy linguistic cosine distance measures between hesitant fuzzy linguistic elements, the cosine-distance-based HFL-TOPSIS method and the cosine-distance-based HFL-VIKOR method are developed to dealing with hesitant fuzzy linguistic multiple criteria decision making problems. The step by step algorithms of these two methods are given for the convenience of applications. Finally, a numerical example concerning the selection of ERP systems is given to illustrate the validation and efficiency of the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Design and evaluation of a parallel algorithm for inferring topic hierarchies
+AU  - Seshadri, Karthick
+AU  - Mercy Shalinie, S
+AU  - Kollengode, Chidambaram
+JO  - Information Processing & Management
+VL  - 51
+IS  - 5
+SP  - 662
+EP  - 676
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0306-4573
+DO  - https://doi.org/10.1016/j.ipm.2015.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0306457315000813
+KW  - Topic modeling
+KW  - Hierarchical clustering
+KW  - Information retrieval
+KW  - Parallel algorithm
+KW  - Cluster computing
+KW  - Message passing interface
+AB  - The rapid growth of information in the digital world especially on the web, calls for automated methods of organizing the digital information for convenient access and efficient information retrieval. Topic modeling is a branch of machine learning and probabilistic graphical modeling that helps in arranging the web pages according to their topical structure. The topic distribution over a set of documents (web pages) and the affinity of a document toward a specific topic can be revealed using topic modeling. Topic modeling algorithms are typically computationally expensive due to their iterative nature. Recent research efforts have attempted to parallelize specific topic models and are successful in their attempts. These parallel algorithms however have tightly-coupled parallel processes which require frequent synchronization and are also tightly coupled with the underlying topic model which is used for inferring the topic hierarchy. In this paper, we propose a parallel algorithm to infer topic hierarchies from a large scale document corpus. A key feature of the proposed algorithm is that it exploits coarse grained parallelism and the components running in parallel need not synchronize after every iteration, thus the algorithm lends itself to be implemented on a geographically dispersed set of processing elements interconnected through a network. The parallel algorithm realizes a speed up of 53.5 on a 32-node cluster of dual-core workstations and at the same time achieving approximately the same likelihood or predictive accuracy as that of the sequential algorithm, with respect to the performance of Information Retrieval tasks.
+ER  - 
+
+TY  - JOUR
+T1  - A competitive ensemble pruning approach based on cross-validation technique
+AU  - Dai, Qun
+JO  - Knowledge-Based Systems
+VL  - 37
+SP  - 394
+EP  - 414
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2012.08.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705112002584
+KW  - Neural networks ensemble
+KW  - Ensemble pruning
+KW  - Concept-drifting data
+KW  - Cross-validation
+KW  - Competitive learning
+AB  - Ensemble pruning is crucial for the consideration of both efficiency and predictive accuracy of an ensemble system. This paper proposes a new Competitive technique for Ensemble Pruning based on Cross-Validation (CEPCV). The data to be learnt by neural computing models are mostly drifting with time and environment, therefore a dynamic ensemble pruning method is indispensable for practical applications, while the proposed CEPCV method is just the kind of dynamic ensemble pruning method, which can realize on-line ensemble pruning and take full advantage of potentially valuable information. The algorithm naturally inherits the predominance of cross-validation technique, which implies that those networks regarded as winners in selective competitions and chosen into the pruned ensemble have the “strongest” generalization capability. It is essentially based on the strategy of “divide and rule, collect the wisdom”, and might alleviate the local minima problem of many conventional ensemble pruning approaches only at the cost of a little greater computational cost, which is acceptable to most applications of ensemble learning. The comparative experiments among the four ensemble pruning algorithms, including: CEPCV and the state-of-the-art Directed Hill Climbing Ensemble Pruning (DHCEP) algorithm and two baseline methods, i.e. BSM, which chooses the Best Single Model in the initial ensemble based on their performances on the pruning set, and ALL, which reserves all network members of the initial ensemble, on ten benchmark classification tasks, demonstrate the effectiveness and validity of CEPCV.
+ER  - 
+
+TY  - JOUR
+T1  - Quantitative knowledge presentation models of traditional Chinese medicine (TCM): A review
+AU  - Chu, Xiaoli
+AU  - Sun, Bingzhen
+AU  - Huang, Qingchun
+AU  - Peng, Shouping
+AU  - Zhou, Yingyan
+AU  - Zhang, Yan
+JO  - Artificial Intelligence in Medicine
+VL  - 103
+SP  - 101810
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0933-3657
+DO  - https://doi.org/10.1016/j.artmed.2020.101810
+UR  - https://www.sciencedirect.com/science/article/pii/S0933365719306293
+KW  - TCM
+KW  - Quantitative model
+KW  - Research progress
+KW  - Yin-Yang Wu-Xing
+KW  - Patterns of TCM prescriptions
+KW  - Data mining
+AB  - Modern computer technology sheds light on new ways of innovating Traditional Chinese Medicine (TCM). One method that gets increasing attention is the quantitative research method, which makes use of data mining and artificial intelligence technology as well as the mathematical principles in the research on rationales, academic viewpoints of famous doctors of TCM, dialectical treatment by TCM, clinical technology of TCM, the patterns of TCM prescriptions, clinical curative effects of TCM and other aspects. This paper reviews the methods, means, progress and achievements of quantitative research on TCM. In the core database of the Web of Science, "Traditional Chinese Medicine", "Computational Science" and "Mathematical Computational Biology" are selected as the main retrieval fields, and the retrieval time interval from 1999 to 2019 is used to collect relevant literature. It is found that researchers from China Academy of Chinese Medical Sciences, Zhejiang University, Chinese Academy of Sciences and other institutes have opened up new methods of research on TCM since 2009, with quantitative methods and knowledge presentation models. The adopted tools mainly consist of text mining, knowledge discovery, technologies of the TCM database, data mining and drug discovery through TCM calculation, etc. In the future, research on quantitative models of TCM will focus on solving the heterogeneity and incompleteness of big data of TCM, establishing standardized treatment systems, and promoting the development of modernization and internationalization of TCM.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of distributed generators in the power loss and voltage profile of three phase unbalanced distribution network
+AU  - Dahal, Samir
+AU  - Salehfar, Hossein
+JO  - International Journal of Electrical Power & Energy Systems
+VL  - 77
+SP  - 256
+EP  - 262
+PY  - 2016
+DA  - 2016/05/01/
+SN  - 0142-0615
+DO  - https://doi.org/10.1016/j.ijepes.2015.11.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0142061515004585
+KW  - Particle swarm optimization
+KW  - Unbalanced three-phase optimal power flow
+KW  - OpenDSS
+KW  - Distributed generation
+KW  - Distribution management system
+KW  - Optimal allocation of DGs
+AB  - In this paper, using particle swarm optimization (PSO) based method is developed to determine the optimal allocation of distributed generators (DGS) on a multi phased unbalanced distribution network. PSO algorithm has been programmed in MATLAB using open source software called OpenDSS in a co-simulation environment to solve the unbalanced three-phase optimal power flow (TOPF) and to find the optimal location and sizing of different types of distributed generators. Using the IEEE 123 node distribution feeder as a test bed, results from the proposed method is compared to those from the repeated load flow (RLF) method. For a realistic study, mixes of all type of DGs are considered. Results indicate that integrating optimally sized DGs at the optimal locations not only reduces the total power loss in the distributed system but improves the voltage profile as well.
+ER  - 
+
+TY  - JOUR
+T1  - Barbed Model–Driven Software Development: A Case Study
+AU  - Montangero, Carlo
+AU  - Semini, Laura
+JO  - Electronic Notes in Theoretical Computer Science
+VL  - 207
+SP  - 171
+EP  - 186
+PY  - 2008
+DA  - 2008/04/10/
+T2  - Proceedings of the 1st International Workshop on Harnessing Theories for Tool Support in Software (TTSS 2007)
+SN  - 1571-0661
+DO  - https://doi.org/10.1016/j.entcs.2008.03.092
+UR  - https://www.sciencedirect.com/science/article/pii/S1571066108001977
+KW  - SOA
+KW  - MDE
+KW  - UML
+KW  - VIATRA
+AB  - When thinking of MDE, the immediate understanding is that models drive software development, in the sense that the software is constructed by transforming models from higher levels of abstraction to the point where we reach a model which is executable with the desired degree of quality characteristics. What tends to be less evident, is that, precisely in order to reach the desired quality, many other models are used in the verification and assessment of the solutions under consideration at the various stages of development. That is, looking at the development process, besides a spine of model transformations moving from highly abstract, domain related models down to concrete platform related models (programs), we can see a number of barbs, relating models in the spine to specialized models that permit specific analysis of parts of the software. In this paper we report on some preliminary work on understanding Barbed Model–Driven Software Development. We are taking an experimental attitude, designing and implementing a barb, using specific technologies and verification tools. The goal is twofold: to get acquainted with the technologies, and to provide a first assessment of their suitability for subsequent explorations. In the experiment experiment the barb deals with the verification of properties of a SOA system modelled in UML.
+ER  - 
+
+TY  - JOUR
+T1  - Slow light performance enhancement of Bragg slot photonic crystal waveguide with particle swarm optimization algorithm
+AU  - Abedi, Kambiz
+AU  - Mirjalili, Seyed Mohammad
+JO  - Optics Communications
+VL  - 339
+SP  - 7
+EP  - 13
+PY  - 2015
+DA  - 2015/03/15/
+SN  - 0030-4018
+DO  - https://doi.org/10.1016/j.optcom.2014.11.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0030401814010621
+KW  - Photonic crystal
+KW  - Bragg Slot Photonic Crystal Waveguide
+KW  - Slow light
+KW  - NDBP
+KW  - PSO
+AB  - Recently, majority of current research in the field of designing Phonic Crystal Waveguides (PCW) focus in extracting the relations between output slow light properties of PCW and structural parameters through a huge number of tedious non-systematic simulations in order to introduce better designs. This paper proposes a novel systematic approach which can be considered as a shortcut to alleviate the difficulties and human involvements in designing PCWs. In the proposed method, the problem of PCW design is first formulated as an optimization problem. Then, an optimizer is employed in order to automatically find the optimum design for the formulated PCWs. Meanwhile, different constraints are also considered during optimization with the purpose of applying physical limitations to the final optimum structure. As a case study, the structure of a Bragg-like Corrugation Slotted PCWs (BCSPCW) is optimized by using the proposed method. One of the most computationally powerful techniques in Computational Intelligence (CI) called Particle Swarm Optimization (PSO) is employed as an optimizer to automatically find the optimum structure for BCSPCW. The optimization process is done by considering five constraints to guarantee the feasibility of the final optimized structures and avoid band mixing. Numerical results demonstrate that the proposed method is able to find an optimum structure for BCSPCW with 172% and 100% substantial improvements in the bandwidth and Normalized Delay-Bandwidth Product (NDBP) respectively compared to the best current structure in the literature. Moreover, there is a time domain analysis at the end of the paper which verifies the performance of the optimized structure and proves that this structure has low distortion and attenuation simultaneously.
+ER  - 
+
+TY  - CHAP
+T1  - Technology: Gaming
+AU  - Piña, Jeremiah
+A2  - Pritzker, Steven
+A2  - Runco, Mark
+BT  - Encyclopedia of Creativity (Third Edition)
+PB  - Academic Press
+CY  - Oxford
+SP  - 579
+EP  - 584
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 978-0-12-815615-5
+DO  - https://doi.org/10.1016/B978-0-12-809324-5.23848-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128093245238480
+KW  - Technology
+KW  - Gaming
+KW  - Games
+KW  - Video games
+KW  - Personal creativity
+KW  - Collaborative creativity
+KW  - Creative benefits
+KW  - Play
+KW  - Play theory
+KW  - Digital media
+KW  - Gamifying learning
+AB  - Digital technology transformed games and gaming in recent decades conferring certain benefits to the creativity of individual players and social groups. This article will review a retrospective account of play theory and discuss the psychological costs and benefits of deep engagement in play. Then, from the position of articulating creative benefits to the individual and society, two complementary theories will be employed elaborating significant characteristics of creativity in gaming with the intention of highlighting the utility of constructs embedded in each theory, both as explanatory features and as foundations for further study.
+ER  - 
+
+TY  - JOUR
+T1  - Mind-reading AI decodes thoughts from brain scans
+AU  - Wilkins, Alex
+JO  - New Scientist
+VL  - 256
+IS  - 3409
+SP  - 15
+PY  - 2022
+DA  - 2022/10/22/
+SN  - 0262-4079
+DO  - https://doi.org/10.1016/S0262-4079(22)01886-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0262407922018863
+ER  - 
+
+TY  - JOUR
+T1  - Quantum computing for physics research
+AU  - Georgeot, B.
+JO  - Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+VL  - 559
+IS  - 1
+SP  - 6
+EP  - 12
+PY  - 2006
+DA  - 2006/04/01/
+T2  - Proceedings of the X International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+SN  - 0168-9002
+DO  - https://doi.org/10.1016/j.nima.2005.11.122
+UR  - https://www.sciencedirect.com/science/article/pii/S0168900205021996
+KW  - Quantum computers
+KW  - Quantum algorithms
+KW  - Numerical methods in physics
+KW  - Quantum maps
+KW  - Chaos
+AB  - Quantum computers hold great promises for the future of computation. In this paper, this new kind of computing device is presented, together with a short survey of the status of research in this field. The principal algorithms are introduced, with an emphasis on the applications of quantum computing to physics. Experimental implementations are also briefly discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Best social and organizational practices of successful science gateways and cyberinfrastructure projects
+AU  - Kee, Kerk F.
+AU  - Schrock, Andrew R.
+JO  - Future Generation Computer Systems
+VL  - 94
+SP  - 795
+EP  - 801
+PY  - 2019
+DA  - 2019/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2018.04.063
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X17310725
+KW  - Cyberinfrastructure
+KW  - Diffusion
+KW  - Adoption
+KW  - Best practices
+KW  - Organizational factors
+AB  - The majority of research on science gateways has focused on technological tools. However, the teams behind the tools also play a critical role in determining whether science gateways are successful. This article reports 12 social and organizational practices of successful science gateways and cyberinfrastructure (CI) projects that emerged out of an analysis of 98 interviews with domain scientists, computational technologists, and supercomputing/research center administrators across the US and some in EU. Social practices include seeking multidisciplinary expertise, setting shared goals, using common language, having bridging liaisons, establishing productive routines, and meeting face-to-face. Organizational practices include demonstrating altruistic leadership, having clear roles, engaging user feedback, raising sustainable funding, growing organizational capacity, and maintaining personnel continuity. By asking a series of simple questions for reflection, science gateway teams can generate strategies to increase their likelihood of successful outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Introducing the circular assessment of suppliers (CAoS) tool: A Kraljic matrix-based tool to facilitate circular procurement in private organizations
+AU  - Corsini, Filippo
+AU  - De Bernardi, Chiara
+AU  - Gusmerotti, Natalia Marzia
+AU  - Frey, Marco
+JO  - Journal of Cleaner Production
+VL  - 452
+SP  - 142085
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2024.142085
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652624015336
+AB  - The emerging paradigm of the circular economy necessitates instruments capable of monitoring advancements in a timely and reliable fashion, thereby fostering superior decision-making and instantaneous feedback within corporations. Although numerous tools offer comprehensive evaluations of a company's circular endeavors, certain strategic facets associated with the circular economy are often overlooked. For example, there is a notable scarcity of frameworks or tools designed to assist private businesses in choosing suppliers in alignment with circular economy principles. This manuscript aims to introduce the Circular Assessment of Suppliers (CAoS) tool, a straightforward instrument that private organizations may utilize to gauge their suppliers' adherence to circular principles. The tool's genesis is rooted in the Kraljic Matrix, an approach employed to categorize a company's suppliers by subdividing them based on the intricacy of the supply market. Its development was concluded after conducting a review of the literature concerning circular supply chains and then choosing the appropriate criteria with expert guidance. This manuscript also unveils industrial implementations of this tool, as evidenced by two case studies. By integrating such a tool, a company can dynamically evaluate all suppliers, thus augmenting the circularity of procurement decisions. This tool could also function as a means to engage suppliers in dialogues about mutual circular priorities within the value chain.
+ER  - 
+
+TY  - JOUR
+T1  - Ignorance is strength: May human mind’s unique capabilities stem from its limitations?
+AU  - Gurevich, Gregory
+JO  - Consciousness and Cognition
+VL  - 69
+SP  - 1
+EP  - 13
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 1053-8100
+DO  - https://doi.org/10.1016/j.concog.2019.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S1053810018304112
+KW  - Cognition
+KW  - Heuristics
+KW  - Biases
+KW  - Intelligence
+KW  - Judgement
+KW  - Rationality
+AB  - Radical views on heuristics and biases, and more generally, non-optimal patterns of human judgement, construe them either as an unwelcome mental handicap or a great evolution-based advantage. A more moderate position recognizes both sides, depending on the context and the situation at hand. This paper suggests that at least in some cases, apparently unsound human judgment may be viewed as a hallmark of true intelligence, enabling its major insights while also making it so hard to analyze and fully comprehend.
+ER  - 
+
+TY  - JOUR
+T1  - Evidence for impaired visual prediction error in schizophrenia
+AU  - Neuhaus, Andres H.
+AU  - Brandt, Emily S.L.
+AU  - Goldberg, Terry E.
+AU  - Bates, John A.
+AU  - Malhotra, Anil K.
+JO  - Schizophrenia Research
+VL  - 147
+IS  - 2
+SP  - 326
+EP  - 330
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0920-9964
+DO  - https://doi.org/10.1016/j.schres.2013.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0920996413002041
+KW  - Mismatch negativity
+KW  - Event-related potential
+KW  - Oddball
+KW  - Schizophrenia
+KW  - Predictive coding
+KW  - Prediction error
+AB  - Background
+Mismatch negativity (MMN) is regarded a prediction error signal that is deficient in schizophrenia in the auditory modality. If, however, MMN reflects a general computational signal of the cortex, then MMN should be also deficient in the visual modality in schizophrenia patients.
+Methods
+Twenty-two schizophrenia patients and 24 matched healthy controls finished a visual oddball task while high-density electroencephalogram was recorded. Visual mismatch negativity was computed as a surrogate marker of prediction error.
+Results
+Visual MMN, as measured over posterior extra-striate cortical areas, was significantly reduced in schizophrenia at about 300ms post stimulus. Standardized mean difference was −.98, corresponding to a large effect size.
+Conclusions
+A posterior visual MMN deficit in schizophrenia is demonstrated for the first time. Our results tentatively suggest a supra-modal MMN deficit in schizophrenia and thus argue in favor of reduced prediction error estimation in schizophrenia.
+ER  - 
+
+TY  - JOUR
+T1  - Minimization of rest mismatches in round robin tournaments
+AU  - Atan, Tankut
+AU  - Çavdaroğlu, Burak
+JO  - Computers & Operations Research
+VL  - 99
+SP  - 78
+EP  - 89
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0305-0548
+DO  - https://doi.org/10.1016/j.cor.2018.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0305054818301576
+KW  - Round robin scheduling
+KW  - League fairness
+KW  - Rest mismatch
+KW  - Mixed-integer linear programming
+KW  - Constraint programming
+KW  - Near optimal solution
+AB  - In sports tournaments, an occurrence of a difference in the rest periods of opponent teams in a game, which we refer to as a rest mismatch, will disadvantage the less rested team. Thus, it is only fair to expect opposing teams to have rested equally before their game. In this work, we introduce and study the Rest Mismatch Problem where the goal is to minimize the number of rest mismatches in a round robin tournament. Two integer linear formulations and a constraint programming formulation are provided, and their computational performances are compared for several problem instances. Moreover, a heuristic algorithm is developed which finds a single round robin schedule with zero mismatches when the number of teams in the tournament is a multiple of 8, and four mismatches when it is a multiple of 4 but not 8.
+ER  - 
+
+TY  - JOUR
+T1  - The Circuit Architecture of Whole Brains at the Mesoscopic Scale
+AU  - Mitra, Partha P.
+JO  - Neuron
+VL  - 83
+IS  - 6
+SP  - 1273
+EP  - 1283
+PY  - 2014
+DA  - 2014/09/17/
+SN  - 0896-6273
+DO  - https://doi.org/10.1016/j.neuron.2014.08.055
+UR  - https://www.sciencedirect.com/science/article/pii/S0896627314007855
+AB  - Vertebrate brains of even moderate size are composed of astronomically large numbers of neurons and show a great degree of individual variability at the microscopic scale. This variation is presumably the result of phenotypic plasticity and individual experience. At a larger scale, however, relatively stable species-typical spatial patterns are observed in neuronal architecture, e.g., the spatial distributions of somata and axonal projection patterns, probably the result of a genetically encoded developmental program. The mesoscopic scale of analysis of brain architecture is the transitional point between a microscopic scale where individual variation is prominent and the macroscopic level where a stable, species-typical neural architecture is observed. The empirical existence of this scale, implicit in neuroanatomical atlases, combined with advances in computational resources, makes studying the circuit architecture of entire brains a practical task. A methodology has previously been proposed that employs a shotgun-like grid-based approach to systematically cover entire brain volumes with injections of neuronal tracers. This methodology is being employed to obtain mesoscale circuit maps in mouse and should be applicable to other vertebrate taxa. The resulting large data sets raise issues of data representation, analysis, and interpretation, which must be resolved. Even for data representation the challenges are nontrivial: the conventional approach using regional connectivity matrices fails to capture the collateral branching patterns of projection neurons. Future success of this promising research enterprise depends on the integration of previous neuroanatomical knowledge, partly through the development of suitable computational tools that encapsulate such expertise.
+ER  - 
+
+TY  - JOUR
+T1  - Teachers’ perspectives of utilizing distance learning to support 21st century skill attainment for K-3 elementary students during the COVID-19 pandemic era
+AU  - Ahmed Alismail, Halah
+JO  - Heliyon
+VL  - 9
+IS  - 9
+SP  - e19275
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2023.e19275
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844023064836
+KW  - Distance learning
+KW  - Elementary school students
+KW  - 21st century skills
+KW  - Challenges
+KW  - COVID-19
+AB  - During the COVID-19 pandemic, Saudi Arabia, similar to other governments, discontinued face-to-face learning in favor of distance learning. The pandemic has had serious ramifications for K-3 education, and the impact of distance learning on 21st century skill attainment are important issues to explore. Using the Saudi Arabia context, this paper investigates teachers’ perspectives regarding the implementation of online education to support 21st century skills in the COVID-19 pandemic era for K-3 elementary school students. A qualitative research methodology was applied in this study. A semi-structured interview was conducted to collect data from five K-3 female teachers who implemented online education during the pandemic. Three themes emerged from the findings: 1) effects of the pandemic as related to online teaching for attainment of 21st century skills, 2) elaboration of best practices for online teaching to facilitate such attainment, and 3) challenges that exist for distance learning and student acquisition of 21st century skills. Therefore, the findings suggest that elementary teachers should find opportunities for elementary students to experience distance learning as an ongoing learning solution in order to incorporate innovative strategies that enhance their 21st century skills.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 74 Implementing Nonparametric and Semiparametric Estimators
+AU  - Ichimura, Hidehiko
+AU  - Todd, Petra E.
+A2  - Heckman, James J.
+A2  - Leamer, Edward E.
+BT  - Handbook of Econometrics
+PB  - Elsevier
+VL  - 6
+SP  - 5369
+EP  - 5468
+PY  - 2007
+DA  - 2007/01/01/
+SN  - 1573-4412
+DO  - https://doi.org/10.1016/S1573-4412(07)06074-6
+UR  - https://www.sciencedirect.com/science/article/pii/S1573441207060746
+KW  - flexible modeling
+KW  - nonparametric estimation
+KW  - semiparametric estimation
+KW  - local polynomial estimators
+KW  - smoothing parameter choice
+KW  - convergence rates
+KW  - asymptotic distribution theory
+KW  - additively separable models
+KW  - index models
+KW  - average derivative estimator
+KW  - maximum score estimator
+KW  - least absolute deviations estimator
+KW  - semiparametric least squares estimator
+KW  - trimming
+KW  - binning algorithms
+AB  - This chapter reviews recent advances in nonparametric and semiparametric estimation, with an emphasis on applicability to empirical research and on resolving issues that arise in implementation. It considers techniques for estimating densities, conditional mean functions, derivatives of functions and conditional quantiles in a flexible way that imposes minimal functional form assumptions. The chapter begins by illustrating how flexible modeling methods have been applied in empirical research, drawing on recent examples of applications from labor economics, consumer demand estimation and treatment effects models. Then, key concepts in semiparametric and nonparametric modeling are introduced that do not have counterparts in parametric modeling, such as the so-called curse of dimensionality, the notion of models with an infinite number of parameters, the criteria used to define optimal convergence rates, and “dimension-free” estimators. After defining these new concepts, a large literature on nonparametric estimation is reviewed and a unifying framework presented for thinking about how different approaches relate to one another. Local polynomial estimators are discussed in detail and their distribution theory is developed. The chapter then shows how nonparametric estimators form the building blocks for many semiparametric estimators, such as estimators for average derivatives, index models, partially linear models, and additively separable models. Semiparametric methods offer a middle ground between fully nonparametric and parametric approaches. Their main advantage is that they typically achieve faster rates of convergence than fully nonparametric approaches. In many cases, they converge at the parametric rate. The second part of the chapter considers in detail two issues that are central with regard to implementing flexible modeling methods: how to select the values of smoothing parameters in an optimal way and how to implement “trimming” procedures. It also reviews newly developed techniques for deriving the distribution theory of semiparametric estimators. The chapter concludes with an overview of approximation methods that speed up the computation of nonparametric estimates and make flexible estimation feasible even in very large size samples.
+ER  - 
+
+TY  - JOUR
+T1  - Detail enhancement of blurred infrared images based on frequency extrapolation
+AU  - Xu, Fuyuan
+AU  - Zeng, Deguo
+AU  - Zhang, Jun
+AU  - Zheng, Ziyang
+AU  - Wei, Fei
+AU  - Wang, Tiedan
+JO  - Infrared Physics & Technology
+VL  - 76
+SP  - 560
+EP  - 568
+PY  - 2016
+DA  - 2016/05/01/
+SN  - 1350-4495
+DO  - https://doi.org/10.1016/j.infrared.2016.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S1350449516301293
+KW  - Detail enhancement
+KW  - Blurred images
+KW  - Frequency extrapolation
+KW  - Laplacian pyramid
+AB  - A novel algorithm for enhancing the details of the blurred infrared images based on frequency extrapolation has been raised in this paper. Unlike other researchers’ work, this algorithm mainly focuses on how to predict the higher frequency information based on the Laplacian pyramid separation of the blurred image. This algorithm uses the first level of the high frequency component of the pyramid of the blurred image to reverse-generate a higher, non-existing frequency component, and adds back to the histogram equalized input blurred image. A simple nonlinear operator is used to analyze the extracted first level high frequency component of the pyramid. Two critical parameters are participated in the calculation known as the clipping parameter C and the scaling parameter S. The detailed analysis of how these two parameters work during the procedure is figure demonstrated in this paper. The blurred image will become clear, and the detail will be enhanced due to the added higher frequency information. This algorithm has the advantages of computational simplicity and great performance, and it can definitely be deployed in the real-time industrial applications. We have done lots of experiments and gave illustrations of the algorithm’s performance in this paper to convince its effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Can structure predict function in the human brain?
+AU  - Honey, Christopher J.
+AU  - Thivierge, Jean-Philippe
+AU  - Sporns, Olaf
+JO  - NeuroImage
+VL  - 52
+IS  - 3
+SP  - 766
+EP  - 776
+PY  - 2010
+DA  - 2010/09/01/
+T2  - Computational Models of the Brain
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2010.01.071
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811910000935
+AB  - Over the past decade, scientific interest in the properties of large-scale spontaneous neural dynamics has intensified. Concurrently, novel technologies have been developed for characterizing the connective anatomy of intra-regional circuits and inter-regional fiber pathways. It will soon be possible to build computational models that incorporate these newly detailed structural network measurements to make predictions of neural dynamics at multiple scales. Here, we review the practicality and the value of these efforts, while at the same time considering in which cases and to what extent structure does determine neural function. Studies of the healthy brain, of neural development, and of pathology all yield examples of direct correspondences between structural linkage and dynamical correlation. Theoretical arguments further support the notion that brain network topology and spatial embedding should strongly influence network dynamics. Although future models will need to be tested more quantitatively and against a wider range of empirical neurodynamic features, our present large-scale models can already predict the macroscopic pattern of dynamic correlation across the brain. We conclude that as neuroscience grapples with datasets of increasing completeness and complexity, and attempts to relate the structural and functional architectures discovered at different neural scales, the value of computational modeling will continue to grow.
+ER  - 
+
+TY  - JOUR
+T1  - A personal story on a renaissance in valence bond theory: A theory coming of age!
+AU  - Shaik, Sason
+JO  - Computational and Theoretical Chemistry
+VL  - 1116
+SP  - 2
+EP  - 31
+PY  - 2017
+DA  - 2017/09/15/
+T2  - Understanding Chemistry and Biochemistry Using Computational Valence Bond Theory
+SN  - 2210-271X
+DO  - https://doi.org/10.1016/j.comptc.2017.02.011
+UR  - https://www.sciencedirect.com/science/article/pii/S2210271X17300671
+KW  - Valence-bond theory
+KW  - Valence bond state-correlation diagrams
+KW  - VBSCD
+KW  - VBCMD
+KW  - Bonding models
+KW  - Charge-shift bonding
+KW  - Bonding in metal clusters
+KW  - Quadruple bonding
+KW  - VB modeling of chemical reactivity
+KW  - S2
+KW  - H-abstraction
+KW  - PCET
+KW  - Diels-Alder
+KW  - P450 hydroxylation
+KW  - P450 epoxidation
+KW  - Excited states
+KW  - Electric field effects
+AB  - This is a personal story on the author’s way of ‘discovering’ valence bond theory and using it to formulate unified models of chemical reactivity and bonding. Since scientific life is just a part of life, the story blends sub-stories of life events with stories on scientific events, colleagues, papers, meetings, and friendships. This is also a story of a wonderful and insightful theory, which is coming of age with applications and computational capabilities that start to match the most advanced post Hartree-Fock calculations.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 10 - Numerical Prediction
+AU  - Nisbet, Robert
+AU  - Miner, Gary
+AU  - Yale, Ken
+A2  - Nisbet, Robert
+A2  - Miner, Gary
+A2  - Yale, Ken
+BT  - Handbook of Statistical Analysis and Data Mining Applications (Second Edition)
+PB  - Academic Press
+CY  - Boston
+SP  - 187
+EP  - 213
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 978-0-12-416632-5
+DO  - https://doi.org/10.1016/B978-0-12-416632-5.00010-4
+UR  - https://www.sciencedirect.com/science/article/pii/B9780124166325000104
+KW  - Linear response analysis
+KW  - Assumptions of the parametric model
+KW  - Parametric statistical analysis
+KW  - Linear regression
+KW  - Generalized linear models (GLMs)
+KW  - Methods for analyzing nonlinear relationships
+KW  - Nonlinear regression and estimation
+KW  - Data mining and machine-learning algorithms used in numerical prediction
+KW  - Advantages of classification and regression trees (CART) methods
+KW  - Application to mixed models
+KW  - Neural nets for prediction
+KW  - Support vector machines (SVMs)
+KW  - Kernel learning algorithms
+AB  - Modern humans have always been fascinated with numbers. The industrial revolution was founded on Aristotelian logic and numerical relationships between movements and actions and the things that cause them. World War II was at the same time the most traumatic conflict in the history of the world and the impetus that drove us into the age of high technology. The single most important influence in modern technology is the exponential rate at which we have been able to “crunch” numbers with computers. The personal computer, or PC, is arguably the single most influential technological force in the world today. The ~5GHz PCs of today are over 1000 times faster than the original 4.77MHz IBM PC in 1981. These PCs can execute about 300 million instructions per second, and all of them are numeric. The human brain has about a trillion cells, and each one has many connections with each other. Each one of the brain cells operates with numbers also (in terms of nerve impulse strengths). The “thinking processes” of both humans and computers involve numerical analysis. Thus, it is fair to say that numerical analysis is the most basic function in both the carbon-based human world and also in the silicon-based computer world.
+ER  - 
+
+TY  - CHAP
+T1  - Olfactory Coding
+AU  - Bazhenov, M.
+AU  - Stopfer, M.
+A2  - Squire, Larry R.
+BT  - Encyclopedia of Neuroscience
+PB  - Academic Press
+CY  - Oxford
+SP  - 87
+EP  - 94
+PY  - 2009
+DA  - 2009/01/01/
+SN  - 978-0-08-045046-9
+DO  - https://doi.org/10.1016/B978-008045046-9.01424-8
+UR  - https://www.sciencedirect.com/science/article/pii/B9780080450469014248
+KW  - Antennal lobeCoincidence detectorField potentialInsectsMushroom bodyNetwork modelOdorOlfactory bulbOscillationsPlasticitySynchronyTemporal coding
+AB  - The olfactory system maps complex and high-dimensional olfactory stimuli (odors) into unique and reproducible dynamic ensembles of neuronal activity. This mapping results from multiple mechanisms and instantiates complex strategies for the efficient encoding of information. Computational models of the olfactory system based on experimental data provide essential tools to rigorously test complex hypotheses of odor encoding and processing. These models have been applied successfully to explore the intrinsic and circuit properties that contribute to encoding olfactory information, to identify the advantages and limitations of specific coding algorithms, and to make predictions to guide studies of sensory information coding in the brain.
+ER  - 
+
+TY  - CHAP
+T1  - Ontology approach to model construction
+AU  - Preisig, Heinz A
+AU  - Haug-Warberg, Tore
+A2  - Bogle, Ian David Lockhart
+A2  - Fairweather, Michael
+BT  - Computer Aided Chemical Engineering
+PB  - Elsevier
+VL  - 30
+SP  - 992
+EP  - 996
+PY  - 2012
+DA  - 2012/01/01/
+T2  - 22 European Symposium on Computer Aided Process Engineering
+SN  - 1570-7946
+DO  - https://doi.org/10.1016/B978-0-444-59520-1.50057-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780444595201500579
+KW  - dynamic system
+KW  - software engineering
+KW  - computational engineering
+AB  - We suggest to capture the modelling process including the definition of the topology of the model, the balances, transfer laws, kinetics, the required constitutive equations, and the compilation into a hierarchical set of ontologies that capture all these elements in the form of logical rules, basic equations and other objects. This decomposition of the modelling process, combined with the capturing of the rules, enables a flexible handling of the software construction. Some of the pieces may be integrated, whilst others may be outsourced. The latter is possible because of the clear structure. Outsourcing enables the save handling of proprietary knowledge.
+ER  - 
+
+TY  - JOUR
+T1  - The harmful effect of null hypothesis significance testing on marketing research: An example
+AU  - Trafimow, David
+AU  - Hyman, Michael R.
+AU  - Kostyk, Alena
+AU  - Wang, Cong
+AU  - Wang, Tonghui
+JO  - Journal of Business Research
+VL  - 125
+SP  - 39
+EP  - 44
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0148-2963
+DO  - https://doi.org/10.1016/j.jbusres.2020.11.069
+UR  - https://www.sciencedirect.com/science/article/pii/S0148296320308298
+KW  - Apriori procedure
+KW  - Excessive power
+KW  - Precision
+KW  - Confidence
+KW  - Sample size
+AB  - Null hypothesis significance testing (NHST) has had and continues to have an adverse effect on marketing research. The most recent American Statistical Association (ASA) statement recognized NHST’s invalidity and thus recommended abandoning it in 2019. Instead of revisiting the ASA’s reasoning, this research note focuses on NHST’s pernicious peripheral effect on marketing research. One example of this problem is the well-known and influential recommendation against excessive power in McQuitty, 2004, McQuitty, 2018. Instead, researchers always should prefer larger sample sizes because they always engender more precision than smaller sample sizes, ceteris paribus.
+ER  - 
+
+TY  - JOUR
+T1  - Innovative Relations within the Software Application for Industry 4.0
+AU  - Monka, Peter Pavol
+AU  - Monkova, Katarina
+JO  - Procedia CIRP
+VL  - 104
+SP  - 951
+EP  - 956
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.160
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121010581
+KW  - Human-Cyber-Physical Systems
+KW  - Digital
+KW  - Twin
+KW  - Shop-floor
+AB  - The article deals with the preparation and definition of new relations within a software tool aimed at increasing the efficiency of production processes. These are three types of innovative concepts: Digital Master, Digital Technologist and Digital Twin that can be provided to customers separately, but also as integration into existing software in the production and logistics management process. By defining these relations within the developed software tool and its implementation into the production process, the automation and digitization of logistics processes in production facilities will reach a higher level that meets the requirements of Industry 4.0.
+ER  - 
+
+TY  - JOUR
+T1  - Visual cortex signals a mismatch between regularity of auditory and visual streams
+AU  - Andric, Michael
+AU  - Davis, Ben
+AU  - Hasson, Uri
+JO  - NeuroImage
+VL  - 157
+SP  - 648
+EP  - 659
+PY  - 2017
+DA  - 2017/08/15/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2017.05.028
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811917304202
+AB  - Understanding how humans code for and respond to environmental uncertainty/regularity is a question shared by current computational and neurobiological approaches to human cognition. To date, studies investigating neurobiological systems that track input uncertainty have examined responses to uni-sensory streams. It is not known, however, whether there exist brain systems that combine information about the regularity of input streams presented to different senses. We report an fMRI study that aimed to identify brain systems that relate statistical information across sensory modalities. We constructed temporally extended auditory and visual streams, each of which could be random or highly regular, and presented them concurrently. We found strong signatures of “regularity matching” in visual cortex bilaterally; responses were higher when the level of regularity in the auditory and visual streams mismatched than when it matched, [(AudHigh/VisLow and AudLow/VisHigh) >(AudLow/VisLow and AudHigh/VisHigh)]. In addition, several frontal and parietal regions tracked regularity of the auditory or visual stream independently of the other stream's regularity. An individual-differences analysis suggested that signatures of single-modality-focused regularity tracking in these fronto-parietal regions are inversely related to signatures of regularity-matching in visual cortex. Our findings suggest that i) visual cortex is a junction for integration of temporally-extended auditory and visual inputs and that ii) multisensory regularity-matching depends on balanced processing of both input modalities. We discuss the implications of these findings for neurobiological models of uncertainty and for understanding computations that underlie multisensory interactions in occipital cortex.
+ER  - 
+
+TY  - JOUR
+T1  - Mapping the educational Frontier: Unleashing the Potential of artificial intelligence talents through cooperative planning in the Guangdong-Hong Kong-Macao greater bay area
+AU  - Zhang, Zhuo
+AU  - Li, Jie
+AU  - Chen, Yansheng
+AU  - Chen, Fajun
+AU  - Liu, Zhonghao
+JO  - Heliyon
+VL  - 10
+IS  - 2
+SP  - e24168
+PY  - 2024
+DA  - 2024/01/30/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e24168
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024001993
+KW  - Cooperative/collaborative learning
+KW  - Cultural and social implications
+KW  - Evaluation methodologies
+KW  - Teaching/learning strategies
+KW  - 21st century abilities
+AB  - The Guangdong-Hong Kong-Macao Greater Bay Area (GBA) has become an important hub for technological innovation and economic development in China. With the growing demand for artificial intelligence (AI) and big data technology talents, it is essential to develop educational cooperation within the GBA to develop a talent pool that can meet the changing needs in the region. This paper focuses on the development of dynamic demand for AI talents and proposes a strategic planning framework for educational cooperation in the GBA. We use the research idea of common attributes and key chain clustering-factor association selection-analysis of the driving force and subordination among factors-the key characteristics of AI talents. Using collinear analysis of citations and grounded theory methods, an operational definition of the influencing factors of AI talent literacy characteristics is constructed. Using the Interpretative Structural Modeling(ISM) and MICMAC (Matrice d’Impacts Croises-Multipication Applique A Classement), analyze and identify the driving force and subordination of the influencing factors of key traits of talents, and present the combined effect of multi-level factors of key traits of talents. Combined with the educational differences and complementary advantages in the GBA, five strategies and seven implementation suggestions for the GBA's AI talent education cooperation plan are formulated to establish a collaborative ecosystem that promotes the growth and integration of AI in the GBA.
+ER  - 
+
+TY  - JOUR
+T1  - A literature review on individual creativity support systems
+AU  - Wang, Kai
+AU  - Nickerson, Jeffrey V.
+JO  - Computers in Human Behavior
+VL  - 74
+SP  - 139
+EP  - 151
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2017.04.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563217302777
+KW  - Creativity support systems
+KW  - Innovation
+KW  - Design
+KW  - Creativity theory
+AB  - Individual creativity support systems have been developed to facilitate creative work. This article reviews the various design requirements and approaches proposed for supporting individual creative work, as well as relevant creativity theories. Current creativity support systems use many approaches in supporting the collection of relevant information and the creation of ideas or artifacts. However, the designs are typically based on just a few creativity theories. Based on various creativity theories, we propose a new integrated framework for individual creativity support systems. This framework enumerates aspects, components, and features of creativity support systems.
+ER  - 
+
+TY  - CHAP
+T1  - Big Data Calls for Machine Learning
+AU  - Holzinger, Andreas
+A2  - Narayan, Roger
+BT  - Encyclopedia of Biomedical Engineering
+PB  - Elsevier
+CY  - Oxford
+SP  - 258
+EP  - 264
+PY  - 2019
+DA  - 2019/01/01/
+SN  - 978-0-12-805144-3
+DO  - https://doi.org/10.1016/B978-0-12-801238-3.10877-3
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128012383108773
+KW  - Automatic machine learning
+KW  - Big data
+KW  - Complex data
+KW  - Data integration
+KW  - Data science
+KW  - Doctor in the loop
+KW  - Features
+KW  - Health data
+KW  - Heterogenous data
+KW  - Interactive machine learning
+KW  - Open data
+KW  - *Omics data
+KW  - Machine learning
+AB  - Health systems worldwide are confronted with enormous amounts of heterogenous data from various clinical sources. Additionally, the trend toward precision medicine, in order to tailor decisions and therapies to the individual patient, generates enormous amounts of *omics data. Modern medicine is turning into a data science. The problem is that most of these data are in arbitrarily high dimensions, making manual analysis difficult, yet impossible for humans. This requires automated methods of data science, which is what machine learning provides. Automatic machine learning methods show impressive results in dealing with big data, because such algorithms can learn from training samples to gain knowledge from experience, thus helping to make decisions and predictions. The more data, the better these algorithms perform. Unfortunately, in medicine, we are often confronted with a small number of data sets, “little data,” rare events, and complex data, where automatic approaches suffer from insufficient training sets. This calls for interactive machine learning with a doctor in the loop, who can be beneficial in solving computationally hard problems, where human expertise can help to reduce an exponential search space through heuristic selection of data samples. Therefore, what would otherwise be an NP-hard problem reduces greatly in complexity through the input and the assistance of a medical professional involved in the machine learning pipeline.
+ER  - 
+
+TY  - JOUR
+T1  - Why are some plants taller? Researchers on the unveiling of genetic variation associated with complex quantitative phenotypes
+AU  - de Castro, Giovanni Marques
+AU  - Campelo, Felipe
+AU  - Lobo, Francisco Pereira
+JO  - Patterns
+VL  - 4
+IS  - 6
+SP  - 100774
+PY  - 2023
+DA  - 2023/06/09/
+SN  - 2666-3899
+DO  - https://doi.org/10.1016/j.patter.2023.100774
+UR  - https://www.sciencedirect.com/science/article/pii/S2666389923001253
+AB  - Francisco Pereira Lobo, Giovanni Marques de Castro, and Felipe Campelo are part of an international team of collaborators that developed CALANGO, a comparative genomics tool to investigate quantitative genotype-phenotype relationships. Their Patterns article highlights how the tool integrates species-centric data to perform genome-wide search and detect genes potentially involved in the emergence of complex quantitative traits across species. Here, they talk about their view of data science, their experience with interdisciplinary research, and the potential applications of their tool.
+ER  - 
+
+TY  - CHAP
+T1  - Preface
+A2  - Karaca, Yeliz
+A2  - Baleanu, Dumitru
+A2  - Zhang, Yu-Dong
+A2  - Gervasi, Osvaldo
+A2  - Moonis, Majaz
+BT  - Multi-Chaos, Fractal and Multi-Fractional Artificial Intelligence of Different Complex Systems
+PB  - Academic Press
+SP  - xiii
+EP  - xvi
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 978-0-323-90032-4
+DO  - https://doi.org/10.1016/B978-0-323-90032-4.00022-5
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323900324000225
+ER  - 
+
+TY  - JOUR
+T1  - A unified numerical approach for soft to hard magneto-viscoelastically coupled polymers
+AU  - Kadapa, Chennakesava
+AU  - Hossain, Mokarram
+JO  - Mechanics of Materials
+VL  - 166
+SP  - 104207
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 0167-6636
+DO  - https://doi.org/10.1016/j.mechmat.2021.104207
+UR  - https://www.sciencedirect.com/science/article/pii/S0167663621004142
+KW  - Magneto-active polymers
+KW  - Magneto-mechanically coupled problems
+KW  - Viscoelasticity
+KW  - Hard magnetics
+KW  - Soft magnetics
+KW  - Mixed formulation
+AB  - The last decade has witnessed the emergence of magneto-active polymers (MAPs) as one of the most advanced multi-functional soft composites. Depending on the magnetisation mechanisms and responsive behaviour, MAPs are mainly classified as hard magnetic MAPs and soft magnetic MAPs. Polymeric materials are widely treated as fully incompressible solids that require special numerical treatment to solve the associated boundary value problem. Furthermore, both soft and hard magnetic particles-filled soft polymers are inherently viscoelastic. In this paper, we propose a unified simulation framework for magneto-mechanically coupled problems that can model hard and soft MAPs made of compressible and fully incompressible polymers, including the effects of the time-dependent viscoelastic behaviour of the underlying matrix. First, variational formulations for the uncoupled and coupled problems are derived. Later, the weak forms are discretised with higher-order Bézier elements while the evolution equation for internal variables is solved using the generalised-alpha scheme. Finally, using a series of experimentally-driven examples consisting of beam and robotic gripper models under magneto-mechanically coupled loading, the versatility and benefits of the proposed framework are demonstrated. The effect of viscoelastic material parameters on the response characteristics of MAPs under coupled magneto-mechanical loading is also studied.
+ER  - 
+
+TY  - JOUR
+T1  - Targeted mutation screening panels expose systematic population bias in detection of cystic fibrosis risk
+AU  - Lim, Regine M.
+AU  - Silver, Ari J.
+AU  - Silver, Maxwell J.
+AU  - Borroto, Carlos
+AU  - Spurrier, Brett
+AU  - Petrossian, Tanya C.
+AU  - Larson, Jessica L.
+AU  - Silver, Lee M.
+JO  - Genetics in Medicine
+VL  - 18
+IS  - 2
+SP  - 174
+EP  - 179
+PY  - 2016
+DA  - 2016/02/01/
+SN  - 1098-3600
+DO  - https://doi.org/10.1038/gim.2015.52
+UR  - https://www.sciencedirect.com/science/article/pii/S1098360021024795
+KW  - carrier screening
+KW  - cystic fibrosis
+KW  - exome sequencing
+KW  - ExAC
+KW  - genetic testing
+KW  - next-generation sequencing
+AB  - Purpose
+Carrier screening for mutations contributing to cystic fibrosis (CF) is typically accomplished with panels composed of variants that are clinically validated primarily in patients of European descent. This approach has created a static genetic and phenotypic profile for CF. An opportunity now exists to reevaluate the disease profile of CFTR at a global population level.
+Methods
+CFTR allele and genotype frequencies were obtained from a nonpatient cohort with more than 60,000 unrelated personal genomes collected by the Exome Aggregation Consortium. Likely disease-contributing mutations were identified with the use of public database annotations and computational tools.
+Results
+We identified 131 previously described and likely pathogenic variants and another 210 untested variants with a high probability of causing protein damage. None of the current genetic screening panels or existing CFTR mutation databases covered a majority of deleterious variants in any geographical population outside of Europe.
+Conclusions
+Both clinical annotation and mutation coverage by commercially available targeted screening panels for CF are strongly biased toward detection of reproductive risk in persons of European descent. South and East Asian populations are severely underrepresented, in part because of a definition of disease that preferences the phenotype associated with European-typical CFTR alleles.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 8 - AI-based diagnosis techniques for cardiac disease analysis and predictions
+AU  - Ansari, M.A.
+AU  - Mehrotra, Rajat
+AU  - Tripathi, Pragati
+AU  - Agrawal, Rajeev
+A2  - Chauhan, Kalpana
+A2  - Chauhan, Rajeev Kumar
+BT  - Image Processing for Automated Diagnosis of Cardiac Diseases
+PB  - Academic Press
+SP  - 133
+EP  - 155
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-323-85064-3
+DO  - https://doi.org/10.1016/B978-0-323-85064-3.00002-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323850643000029
+KW  - Artificial Intelligence techniques
+KW  - Cardiovascular disease
+KW  - COVID-19
+KW  - Deep learning
+KW  - Cardiac imaging
+KW  - Genetic algorithm
+KW  - Neuro-fuzzy techniques
+AB  - Artificial intelligence (AI) has developed speedily since the late 1980s. Enhancement of medical datasets and outcomes in the last twenty years has resulted in unprecedented improvement in AI-based journals. In addition, with the introduction of unparalleled computational efficiency, the accessibility of AI tools has improved. There are two fundamental tools in AI. The first is machine learning (ML), where organized information like electrophysiology (EP), images, and genetic information are broken down and examined. The second is natural language processing (NLP), where unorganized information is scrutinized. These two AI tools have enhanced strategies, calculations, and applications. Different endeavors and new techniques of AI have been utilized for ailments like cardiovascular disease (CVD), neural disorders, and cancer, among others. Presently, a sophisticated deep learning (DL) technique has instigated exceptional growth of AI in clinical imaging diagnostic frameworks. Thus, this chapter presents pivotal and specialized information about AI-based techniques for predicting, diagnosing, and analyzing cardiac diseases.
+ER  - 
+
+TY  - CHAP
+T1  - Network Analysis, History of
+AU  - Korom, Philipp
+A2  - Wright, James D.
+BT  - International Encyclopedia of the Social & Behavioral Sciences (Second Edition)
+PB  - Elsevier
+CY  - Oxford
+SP  - 524
+EP  - 531
+PY  - 2015
+DA  - 2015/01/01/
+SN  - 978-0-08-097087-5
+DO  - https://doi.org/10.1016/B978-0-08-097086-8.03226-8
+UR  - https://www.sciencedirect.com/science/article/pii/B9780080970868032268
+KW  - Anthropology
+KW  - Balance theory
+KW  - Field theory
+KW  - Gestalt psychology
+KW  - Granovetter, Mark
+KW  - Group dynamics
+KW  - Hawthorne studies
+KW  - Moreno, Jacob L.
+KW  - Small worlds
+KW  - Social physics
+KW  - Social structure
+KW  - Sociometry
+KW  - Warner, W. Lloyd
+KW  - White, Harrison C.
+AB  - While social scientists had been drawing on the abstract idea of social networks clearly since the nineteenth century, which becomes most evident in Georg Simmel's formal sociology, a social network analysis (SNA) grounded in computational models and graphic imagery emerged within the field of small group research in the 1930s. It was Jacob Moreno who introduced the idea of depicting social structure as a network diagram (‘sociometry’). Kurt Lewin was an early contributor to the promotion of mathematical models of group relations, and Fritz Heider focused on triads to theorize on what throws groups out of balance. Mostly independent of these ideas, the anthropologist Lloyd Warner adopted a network approach in the study of informal relations between workers and of communities. SNA was further applied by the Manchester school of anthropologists to enhance ethnographic description. Advancing mathematical-formal aspects of SNA at Harvard in the 1970s, Harrison C. White and his collaborators contributed to the establishment of the discipline as a recognized paradigm. In the late 1990s, physicists began to publish work on social networks. Today, SNA has become a multidisciplinary research specialty with distinct theoretical concepts and data-analytic techniques.
+ER  - 
+
+TY  - CHAP
+T1  - Preface
+AU  - Hwu, Wen-mei W.
+AU  - Kirk, David B.
+AU  - El Hajj, Izzat
+A2  - Hwu, Wen-mei W.
+A2  - Kirk, David B.
+A2  - El Hajj, Izzat
+BT  - Programming Massively Parallel Processors (Fourth Edition)
+PB  - Morgan Kaufmann
+SP  - xvii
+EP  - xxv
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 978-0-323-91231-0
+DO  - https://doi.org/10.1016/B978-0-323-91231-0.00005-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323912310000057
+ER  - 
+
+TY  - JOUR
+T1  - Pirsig's ‘Zen and the Art of Motorcycle Maintenance’: Quality, reason and binary opposites
+AU  - Brudenell, Alistair J.P.
+JO  - Futures
+VL  - 40
+IS  - 3
+SP  - 287
+EP  - 292
+PY  - 2008
+DA  - 2008/04/01/
+SN  - 0016-3287
+DO  - https://doi.org/10.1016/j.futures.2007.08.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0016328707001115
+AB  - Robert Pirsig's celebrated novel has lost little of its impact after 30 plus years, and still speaks to us in the West and our highly technological society. None of the issues raised regarding our relation with technology have changed. As fits the schizophrenic pattern of the book, this article is arbitrarily divided into two disparate sections: the first covers some of the sources for the book and the range of critical views on the book. The second, a more speculative conclusion, drawing on a contradiction in Pirsig's text, looks forward to the books continuing relevance as we see the promise of a new dawn for computers: quantum computing. I am unsure of how to equate the forceful rhetoric against dualism, with the facile mystical acceptance of the Buddha residing in the circuits of a digital computer. This fracture in Pirsig's work becomes more visible when he talks of the Japanese term ‘mu’, meaning ‘no thing’. Binary computation is challenged by alternative logics to binary logic. I examine these issues along with the current definitions of Pirsig's quality. A future ‘definition’ of Pirsig's Quality could be the undecided state of a quantum computer (or quantum processes in the mind).
+ER  - 
+
+TY  - JOUR
+T1  - Using spectral moments of spiral networks based on PSA/mass spectra outcomes to derive quantitative proteome–disease relationships (QPDRs) and predicting prostate cancer
+AU  - Ferino, Giulio
+AU  - González-Díaz, Humberto
+AU  - Delogu, Giovanna
+AU  - Podda, Gianni
+AU  - Uriarte, Eugenio
+JO  - Biochemical and Biophysical Research Communications
+VL  - 372
+IS  - 2
+SP  - 320
+EP  - 325
+PY  - 2008
+DA  - 2008/07/25/
+SN  - 0006-291X
+DO  - https://doi.org/10.1016/j.bbrc.2008.05.071
+UR  - https://www.sciencedirect.com/science/article/pii/S0006291X08009625
+KW  - Mass spectra
+KW  - Graph theory
+KW  - Complex networks
+KW  - Spectral moments
+KW  - Prostate cancer
+KW  - Prostate-specific antigen
+AB  - In prostate cancer (PCa), prognostic (predictive) factors are particularly important given the marked heterogeneity of this disease at clinical, morphologic, and biomolecular levels. Blood contains a treasure of previously unstudied biomarkers that could reflect the ongoing physiological state of all tissue. The serum prostate-specific antigen (PSA) measurement is a very good biomarker for PCa, but the percentage of bad classification is somewhat high. The blood proteome mass spectra (MS) represent a potential tool for detection of diseases; however the identification of a single biomarker from the complex output from MS is often difficult. In this paper, we propose a general strategy, based on computational chemistry techniques, which should improve the predictive power of PSA. Our group adapted the square–spiral graph to represent human serum-plasma–proteome MS for healthy and PCa patients. These graphs were previously applied to DNA and/or protein sequences. In this work, we calculated different classes of connectivity indices (CIs), and created various models based on the spectral moments. The best QPDRs model found showed accuracy values ranging from 71.7% to 97.2%, and 70.4% to 99.2% of specificity. This methodology might be useful for several applications in computational chemistry.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Designs for Genomic Selection in Hybrid Crops
+AU  - Guo, Tingting
+AU  - Yu, Xiaoqing
+AU  - Li, Xianran
+AU  - Zhang, Haozhe
+AU  - Zhu, Chengsong
+AU  - Flint-Garcia, Sherry
+AU  - McMullen, Michael D.
+AU  - Holland, James B.
+AU  - Szalma, Stephen J.
+AU  - Wisser, Randall J.
+AU  - Yu, Jianming
+JO  - Molecular Plant
+VL  - 12
+IS  - 3
+SP  - 390
+EP  - 401
+PY  - 2019
+DA  - 2019/03/04/
+T2  - Maize Genetics and Genomics
+SN  - 1674-2052
+DO  - https://doi.org/10.1016/j.molp.2018.12.022
+UR  - https://www.sciencedirect.com/science/article/pii/S1674205219300024
+KW  - data mining
+KW  - molecular breeding
+KW  - genomic relationship
+KW  - genomic selection
+KW  - optimal design
+AB  - Improved capacity of genomics and biotechnology has greatly enhanced genetic studies in different areas. Genomic selection exploits the genotype-to-phenotype relationship at the whole-genome level and is being implemented in many crops. Here we show that design-thinking and data-mining techniques can be leveraged to optimize genomic prediction of hybrid performance. We phenotyped a set of 276 maize hybrids generated by crossing founder inbreds of nested association mapping populations for flowering time, ear height, and grain yield. With 10 296 310 SNPs available from the parental inbreds, we explored the patterns of genomic relationships and phenotypic variation to establish training samples based on clustering, graphic network analysis, and genetic mating scheme. Our analysis showed that training set designs outperformed random sampling and earlier methods that either minimize the mean of prediction error variance or maximize the mean of generalized coefficient of determination. Additional analyses of 2556 wheat hybrids from an early-stage hybrid breeding system and 1439 rice hybrids from an established hybrid breeding system validated the approaches. Together, we demonstrated that effective genomic prediction models can be established with a training set 2%–13% of the size of the whole set, enabling an efficient exploration of enormous inference space of genetic combinations.
+ER  - 
+
+TY  - JOUR
+T1  - A load balancing module for post-emergency management
+AU  - Kolomvatsos, Kostas
+AU  - Panagidi, Kyriaki
+AU  - Hadjiefthymiades, Stathes
+JO  - Expert Systems with Applications
+VL  - 42
+IS  - 1
+SP  - 657
+EP  - 667
+PY  - 2015
+DA  - 2015/01/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2014.07.055
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417414004710
+KW  - Emergency management
+KW  - Load balancing
+KW  - Prediction
+AB  - Research society has developed a number of models and tools to support emergency management. The proposed models are mainly designed for indoor applications oriented to provide guidance directly to people in danger. Only a few of them deal with outdoor scenarios as well as with providing directions to field commanders or rescue teams. Additionally, load balancing techniques for the optimal allocation of a number of entities into a number of resources are understudied creating a gap in the corresponding research. In this paper, we propose a load balancing model oriented to assist field commanders and rescue teams in a post-emergency scenario. The proposed system could be applied either for indoor or outdoor applications. The module builds on top of the solution provided for the known Santa Fe Bar Problem (SFBP). It consists of an intelligent technique aiming to distribute a number of entities into a finite number of resources. A set of predictors undertake the responsibility of estimating the load of each resource. These predictors are adopted to select the appropriate resource for each entity. A case study deals with the distribution of injured persons into a number of hospitals and presents the functionality of the proposed module. Finally, numerical results reveal computational and time requirements of our system.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy Logic as a Decision-Making Tool for Transport Request Selection
+AU  - Pálková, Adriana
+AU  - Mašek, Jaroslav
+JO  - Transportation Research Procedia
+VL  - 77
+SP  - 116
+EP  - 122
+PY  - 2024
+DA  - 2024/01/01/
+T2  - Horizons of Railway Transport (HRT 2023)
+SN  - 2352-1465
+DO  - https://doi.org/10.1016/j.trpro.2024.01.015
+UR  - https://www.sciencedirect.com/science/article/pii/S2352146524000152
+KW  - Freight transport
+KW  - Fuzzy logic
+KW  - Railway
+AB  - In the competitive transport industry, carriers strive to deliver quality service while meeting the diverse needs of their customers and their own unique characteristics. Few rail freight operators use the tools available to help them make the right decisions about what is profitable and what is not. Evaluating individual transport requests and making the right choices can lead to better service and improved profitability. To efficiently evaluate individual transport requests and make informed decisions, this paper proposes the use of fuzzy logic can be used. The paper considers 6 real transport requests and evaluates them using fuzzy logic.
+ER  - 
+
+TY  - JOUR
+T1  - Real-time Bayesian Control of Reactive Brain Computer Interfaces
+AU  - Tufvesson, Pex
+AU  - Nilsson, Martin Gemborn
+AU  - Soltesz, Kristian
+AU  - Bernhardsson, Bo
+JO  - IFAC-PapersOnLine
+VL  - 56
+IS  - 2
+SP  - 470
+EP  - 475
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 22nd IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2023.10.1612
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896323020207
+KW  - Control in neuroscience
+KW  - Biomedical system modeling
+KW  - simulation and visualization
+KW  - Bayesian methods
+KW  - Parameter and state estimation
+KW  - Input and excitation design
+AB  - This paper introduces an improved method for real-time brain computer interface control. We demonstrate how Bayesian optimization and feedback can be used to achieve faster statistical convergence by controlling the sequence of stimuli shown in a brain computer interface based on a visual oddball paradigm.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 16 - Novel approaches for the numerical solution of fluid-structure interaction in the aorta
+AU  - Fumagalli, Ivan
+AU  - Vergara, Christian
+A2  - Gasser, T. Christian
+A2  - Avril, Stéphane
+A2  - Elefteriades, John A.
+BT  - Biomechanics of the Aorta
+PB  - Academic Press
+SP  - 347
+EP  - 385
+PY  - 2024
+DA  - 2024/01/01/
+T2  - Biomechanics of Living Organs
+SN  - 978-0-323-95484-6
+DO  - https://doi.org/10.1016/B978-0-323-95484-6.00017-8
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323954846000178
+KW  - Finite element method
+KW  - Partitioned schemes
+KW  - Monolithic schemes
+KW  - Arbitrary Lagrangian-Eulerian
+KW  - Immersed boundary/fictitious domain method
+KW  - Unfitted methods
+AB  - The aorta is the artery that undergoes the most deformation during the heartbeat. This is associated with the strong fluid-structure interaction (FSI) occurring between the blood flow and the aortic wall. Moreover, also the dynamics of the aortic valve is the result of a FSI process. In this chapter, we describe the mathematical formulation of both vascular and valve FSI problems and we review the most recent numerical strategies for their solution. Concerning vascular FSI, we consider a moving-domain approach encompassing an arbitrary Lagrangian-Eulerian formulation of the fluid equations, which are the most employed framework in hemodynamics applications. In this context, we provide a systematic description and comparison of different algorithms for the coupling between the fluid and the structure model. In terms of valve FSI, we report a survey on the different numerical methods for the treatment of surfaces immersed and moving in a fluid, with particular focus on unfitted methods, which are the most established for cardiac valve modeling, and the more recent promising family of cut finite element methods. Aiming to point out the main difficulties specifically related to aortic FSI simulation in a patient-specific context, we also review strategies for the imposition of boundary conditions, the recovery of a zero-pressure configuration of the vessel wall, and the calibration and validation of computational models against clinical data.
+ER  - 
+
+TY  - JOUR
+T1  - An exploration of diffusion-thermo and radiation absorption impacts on non-Newtonian MHD flow towards two distinct geometries with biot number
+AU  - Dharmaiah, G.
+AU  - Balamurugan, K.S.
+AU  - Saxena, Hemlata
+AU  - Noeiaghdam, S.
+AU  - Fernandez-Gamiz, U.
+AU  - Dinarvand, S.
+JO  - Results in Engineering
+VL  - 23
+SP  - 102477
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 2590-1230
+DO  - https://doi.org/10.1016/j.rineng.2024.102477
+UR  - https://www.sciencedirect.com/science/article/pii/S2590123024007321
+KW  - Radiation absorption
+KW  - Diffusion thermo
+KW  - Radiative quadratic heat flux
+KW  - Wedge and cone
+AB  - Temperature and liquid flow monitoring are required in many industrial applications in order to maximize machine performance. When exploring polymers, fabricating synthetic films and transparent materials, and manufacturing metal-based equipment, frictional forces and thermal flow rates need to be controlled. The significance of the study of prominent characteristics of Diffusion-Thermo, Quadratic thermal radiation and radiation absorption over a permeable stretching geometry are discussed. Similarity transformations reduced the boundary layer partial differential to an ODE. The acquired system of ODEs is solved in numerical-manner using MATLAB bvp4c. The distributions f '(η), θ(η) and φ(η) are described graphical aspect, with specified governed parameters. As Diffusion thermo parameter raises, temperature field enhances. As radiation absorption raises, the temperature and velocity enhance and concentration decreases. A rise in radiation absorption parameter causes a raise in the buoyancy, which in turn raises the flow rate, and that this is reflected in the velocity profiles. The radiation absorption parameter raises temperatures nearer porous boundary layer and lowers concentration. Rising temperature ratio parameter θw values were accompanied by rising temperatures. Temperature is enhancing when improving of Biot parameter. The skin-friction is heightened with raising ‘n’ values. Nusselt number is declined, raising values of Df. The Sherwood number is enhanced with raising values of ‘Sc’. An incorporation of Diffusion thermo, Quadratic thermal radiation and radiation absorption effects in a nano-Carreau flow across Wedge and Cone is the novelty. The flow of a boundary-layer across a wedge gets made growingly significant, not long ago, owing to its many practical applications, including those in medical, bioengineering, crude oil extraction, nuclear power plants, a polymer extrusion process, production of plastic sheet, metal spinning, friction drag of a ship, and electronic gadgets, etc. This study will be extended by incorporating micro-polar, tangent hyperbolic, Sutterby, with distinct non-Newtonian fluids.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 10 - Cognitive Neuroscience of Self-Reflection
+AU  - Moran, Joseph M.
+A2  - Absher, John R.
+A2  - Cloutier, Jasmin
+BT  - Neuroimaging Personality, Social Cognition, and Character
+PB  - Academic Press
+CY  - San Diego
+SP  - 205
+EP  - 219
+PY  - 2016
+DA  - 2016/01/01/
+SN  - 978-0-12-800935-2
+DO  - https://doi.org/10.1016/B978-0-12-800935-2.00010-5
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128009352000105
+KW  - Default mode network
+KW  - Functional magnetic resonance imaging
+KW  - Medial prefrontal cortex
+KW  - Positron emission tomography
+KW  - Posterior cingulate cortex
+KW  - Theory of mind
+AB  - Thinking about ourselves is a cognitive process fundamental to human mental life. This chapter focuses on the cognitive neuroscience approach taken by psychologists to understand self-reflection. Several principles have emerged. First, the self is a superordinate schema—information about the self is encoded in a separate cognitive structure than information about other topics. Second, there is a brain network somewhat dedicated to self-reflection. Third, this brain network overlaps with a network that is active when we rest. Fourth, such overlaps suggest that much of our mental machinery is in fact given over to social processes, a conclusion unthinkable prior to the onset of functional neuroimaging. Finally, disorders of the self (e.g., autism and schizophrenia) leave individuals with difficulties in recalling the stable nature of their selves. Future directions for the cognitive neuroscience of self-reflection are discussed at the end of the chapter.
+ER  - 
+
+TY  - JOUR
+T1  - Academic writing in the age of AI: Comparing the reliability of ChatGPT and Bard with Scopus and Web of Science
+AU  - Garg, Swati
+AU  - Ahmad, Asad
+AU  - Madsen, Dag Øivind
+JO  - Journal of Innovation & Knowledge
+VL  - 9
+IS  - 4
+SP  - 100563
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 2444-569X
+DO  - https://doi.org/10.1016/j.jik.2024.100563
+UR  - https://www.sciencedirect.com/science/article/pii/S2444569X24001021
+KW  - Artificial intelligence
+KW  - ChatGPT
+KW  - Bard
+KW  - Green buying behaviour
+KW  - Sustainable buying behaviour
+KW  - Ecological buying behaviour
+KW  - Academic writing
+AB  - ChatGPT and Bard (now known as Gemini) are becoming indispensable resources for researchers, academicians and diverse stakeholders within the academic landscape. At the same time, traditional digital tools such as scholarly databases continue to be widely used. Web of Science and Scopus are the most extensive academic databases and are generally regarded as consistently reliable scholarly research resources. With the increasing acceptance of artificial intelligence (AI) in academic writing, this study focuses on understanding the reliability of the new AI models compared to Scopus and Web of Science. The study includes a bibliometric analysis of green, sustainable and ecological buying behaviour, covering the period from 1 January 2011 to 21 May 2023. These results are used to compare the results from the AI and the traditional scholarly databases on several parameters. Overall, the findings suggest that AI models like ChatGPT and Bard are not yet reliable for academic writing tasks. It appears to be too early to depend on AI for such tasks.
+ER  - 
+
+TY  - JOUR
+T1  - A critical review of integrated urban water modelling – Urban drainage and beyond
+AU  - Bach, Peter M.
+AU  - Rauch, Wolfgang
+AU  - Mikkelsen, Peter S.
+AU  - McCarthy, David T.
+AU  - Deletic, Ana
+JO  - Environmental Modelling & Software
+VL  - 54
+SP  - 88
+EP  - 107
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2013.12.018
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815213003216
+KW  - Decision support
+KW  - Integrated urban water management (IUWM)
+KW  - Inter-disciplinary modelling
+KW  - Model integration
+KW  - Uncertainty
+KW  - Urban water systems
+AB  - Modelling interactions in urban drainage, water supply and broader integrated urban water systems has been conceptually and logistically challenging as evidenced in a diverse body of literature, found to be confusing and intimidating to new researchers. This review consolidates thirty years of research (initially driven by interest in urban drainage modelling) and critically reflects upon integrated modelling in the scope of urban water systems. We propose a typology to classify integrated urban water system models at one of four ‘degrees of integration’ (followed by its exemplification). Key considerations (e.g. data issues, model structure, computational and integration-related aspects), common methodology for model development (through a systems approach), calibration/optimisation and uncertainty are discussed, placing importance on pragmatism and parsimony. Integrated urban water models should focus more on addressing interplay between social/economical and biophysical/technical issues, while its encompassing software should become more user-friendly. Possible future directions include exploring uncertainties and broader participatory modelling.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 5 - New literacies in the age of convergence
+AU  - Koltay, Tibor
+A2  - Koltay, Tibor
+BT  - Research Data Management and Data Literacies
+PB  - Chandos Publishing
+SP  - 109
+EP  - 143
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Chandos Information Professional Series
+SN  - 978-0-12-824475-3
+DO  - https://doi.org/10.1016/B978-0-12-824475-3.00005-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128244753000059
+KW  - Convergences
+KW  - New literacies
+KW  - Information literacy
+KW  - Data literacy
+KW  - Media literacy
+KW  - Critical digital literacy
+KW  - Academic literacy
+KW  - Statistical literacy
+KW  - Visual literacy
+KW  - AI literacy
+AB  - This chapter addresses varied literacies in the light of the existing, potential, real, and perceived convergences between varied technologies and leading to sociocultural consequences. The main focus is on data literacy, but media literacy, critical digital literacy, academic literacy, statistical literacy, visual literacy, data visualization literacy, and AI literacy are touched on. The evolution and diffusion of information literacy leading to the appearance of data literacy, definitions, and the nature of data literacy and data literacy competencies are described. A framework for data literacy is portrayed and the role of data literacy in research and civic life is discussed.
+ER  - 
+
+TY  - CHAP
+T1  - MML, Hybrid Bayesian Network Graphical Models, Statistical Consistency, Invariance and Uniqueness
+AU  - Dowe, David L.
+A2  - Bandyopadhyay, Prasanta S.
+A2  - Forster, Malcolm R.
+BT  - Philosophy of Statistics
+PB  - North-Holland
+CY  - Amsterdam
+SP  - 901
+EP  - 982
+PY  - 2011
+VL  - 7
+DA  - 2011/01/01/
+T2  - Handbook of the Philosophy of Science
+SN  - 18789846
+DO  - https://doi.org/10.1016/B978-0-444-51862-0.50030-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780444518620500307
+AB  - Publisher Summary
+The problem of statistical—or inductive—inference pervades a large number of human activities and a large number of (human and non-human) actions requiring “intelligence.” The Minimum Message Length (MML) approach to machine learning (within artificial intelligence) and statistical (or inductive) inference gives a trade-off between simplicity of hypothesis and goodness of fit to the data. There are several different and intuitively appealing ways of thinking of MML. There are many measures of predictive accuracy. The most common form of prediction seems to be a prediction without a probability or anything else to quantify it. MML is also discussed in terms of algorithmic information theory, the shortest input to a (Universal) Turing Machine [(U)TM] or computer program which yields the original data string. This chapter sheds light on information theory, turing machines and algorithmic information theory—and relates all of these to MML. It then moves on to Ockham's razor and the distinction between inference (or induction, or explanation) and prediction.
+ER  - 
+
+TY  - JOUR
+T1  - Leveraging teaching on demand: Approaching HPC to undergrads
+AU  - Catalán, Sandra
+AU  - Carratalá-Sáez, Rocío
+AU  - Iserte, Sergio
+JO  - Journal of Parallel and Distributed Computing
+VL  - 156
+SP  - 148
+EP  - 162
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 0743-7315
+DO  - https://doi.org/10.1016/j.jpdc.2021.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0743731521001271
+KW  - Computational cluster
+KW  - Undergrad teaching
+KW  - System administration
+KW  - Parallel and distributed computing
+KW  - Raspberry Pi
+AB  - High Performance Computing (HPC) is a highly demanded discipline in companies and institutions. However, as students and also afterwards as professors, we observed a lack of HPC related content in the engineering degrees at our university, including Computer Science. Thus, we designed and offered the engineering students a non-mandatory course entitled “Build your own cluster employing Raspberry Pi” to provide the students with HPC skills. With this course, we covered the basics of supercomputing (hardware, networking, software tools, performance evaluation, cluster management, etc.). This was possible thanks to leveraging the flexibility and versatility of Raspberry Pi devices, and the students' motivation that arose from the hands-on experience. Moreover, the course included a “Teaching on demand” component to let the attendees choose a field to explore, based on their own interests. In this paper, we offer all the details to let anyone fully reproduce the course. Besides, we analyze and evaluate the methodology that let us fulfill our objectives: increase the students' HPC skills and knowledge in such a way that they feel capable of utilizing it in their mid-term professional career.
+ER  - 
+
+TY  - JOUR
+T1  - Grounding neuroscience in behavioral changes using artificial neural networks
+AU  - Lindsay, Grace W.
+JO  - Current Opinion in Neurobiology
+VL  - 84
+SP  - 102816
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0959-4388
+DO  - https://doi.org/10.1016/j.conb.2023.102816
+UR  - https://www.sciencedirect.com/science/article/pii/S0959438823001411
+AB  - Connecting neural activity to function is a common aim in neuroscience. How to define and conceptualize function, however, can vary. Here I focus on grounding this goal in the specific question of how a given change in behavior is produced by a change in neural circuits or activity. Artificial neural network models offer a particularly fruitful format for tackling such questions because they use neural mechanisms to perform complex transformations and produce appropriate behavior. Therefore, they can be a means of causally testing the extent to which a neural change can be responsible for an experimentally observed behavioral change. Furthermore, because the field of interpretability in artificial intelligence has similar aims, neuroscientists can look to interpretability methods for new ways of identifying neural features that drive performance and behaviors.
+ER  - 
+
+TY  - JOUR
+T1  - Pulling it all together: ACME trailers, a costing case
+AU  - Ayres, Douglas
+AU  - Stanfield, Jason
+JO  - Journal of Accounting Education
+VL  - 46
+SP  - 72
+EP  - 88
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0748-5751
+DO  - https://doi.org/10.1016/j.jaccedu.2018.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S074857511730204X
+KW  - Cost accounting
+KW  - Process costing systems
+KW  - Job-order costing systems
+KW  - Joint costs
+KW  - Manufacturing
+AB  - Intermediate or advanced managerial accounting courses often include application of costing systems in greater detail than presented in an introductory course. While managerial accounting textbooks provide exercises and problems covering process and job-order costing systems, this teaching case provides an opportunity for you to work with both systems in an integrated, multi-department manufacturing setting where a thorough understanding of the production process must be obtained from transaction information. Further, some inputs produce multiple outputs, necessitating the use of joint cost allocation. In this case you are tasked with calculating costs for the outputs of multiple departments, posting journal entries related to production and other period transactions, and recording the transfer of costs of products from department to department in the manufacturing process, all while thinking critically to locate and calculate the appropriate inputs to the costing and accounting system. In doing so, you will also gain valuable experience in Microsoft Excel and the use of formulas, cell references, and multiple worksheets. You will also gain an enhanced perspective on the role and interaction of various costing systems in sophisticated production environments.
+ER  - 
+
+TY  - JOUR
+T1  - Towards a first implementation of the WLIMES approach in living system studies advancing the diagnostics and therapy in augmented personalized medicine
+AU  - Simeonov, Plamen L.
+JO  - Biosystems
+VL  - 162
+SP  - 177
+EP  - 204
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 0303-2647
+DO  - https://doi.org/10.1016/j.biosystems.2017.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0303264717302204
+KW  - Integral biomathics
+KW  - Artificial/synthetic and natural life
+KW  - Multi-level complex systems
+KW  - Wandering logic intelligence
+KW  - Memory evolutive systems
+AB  - The goal of this paper is to advance an extensible theory of living systems using an approach to biomathematics and biocomputation that suitably addresses self-organized, self-referential and anticipatory systems with multi-temporal multi-agents. Our first step is to provide foundations for modelling of emergent and evolving dynamic multi-level organic complexes and their sustentative processes in artificial and natural life systems. Main applications are in life sciences, medicine, ecology and astrobiology, as well as robotics, industrial automation, man-machine interface and creative design. Since 2011 over 100 scientists from a number of disciplines have been exploring a substantial set of theoretical frameworks for a comprehensive theory of life known as Integral Biomathics. That effort identified the need for a robust core model of organisms as dynamic wholes, using advanced and adequately computable mathematics. The work described here for that core combines the advantages of a situation and context aware multivalent computational logic for active self-organizing networks, Wandering Logic Intelligence (WLI), and a multi-scale dynamic category theory, Memory Evolutive Systems (MES), hence WLIMES. This is presented to the modeller via a formal augmented reality language as a first step towards practical modelling and simulation of multi-level living systems. Initial work focuses on the design and implementation of this visual language and calculus (VLC) and its graphical user interface. The results will be integrated within the current methodology and practices of theoretical biology and (personalized) medicine to deepen and to enhance the holistic understanding of life.
+ER  - 
+
+TY  - JOUR
+T1  - Social Controllability: Models, Mechanisms, and Mental Health
+AU  - Na, Soojung
+AU  - Blackmore, Sylvia
+AU  - Chung, Dongil
+AU  - O'Brien, Madeline
+AU  - Banker, Sarah
+AU  - Heflin, Matthew
+AU  - Fiore, Vincenzo
+AU  - Gu, Xiaosi
+JO  - Biological Psychiatry
+VL  - 91
+IS  - 9, Supplement 
+SP  - S33
+EP  - S34
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Abstract Supplement
+SN  - 0006-3223
+DO  - https://doi.org/10.1016/j.biopsych.2022.02.102
+UR  - https://www.sciencedirect.com/science/article/pii/S0006322322001895
+ER  - 
+
+TY  - JOUR
+T1  - Piagetian experiments to DevRobotics
+AU  - Berto, Letícia
+AU  - Rossi, Leonardo
+AU  - Rohmer, Eric
+AU  - Costa, Paula
+AU  - Gudwin, Ricardo
+AU  - Simões, Alexandre
+AU  - Colombini, Esther
+JO  - Cognitive Systems Research
+VL  - 83
+SP  - 101170
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 1389-0417
+DO  - https://doi.org/10.1016/j.cogsys.2023.101170
+UR  - https://www.sciencedirect.com/science/article/pii/S1389041723001043
+KW  - Developmental learning
+KW  - Cognitive robotics
+KW  - Incremental experiments
+AB  - Integrating robots into our daily lives, once a distant dream, is gradually becoming a reality, surpassing our initial expectations. Today, we aspire for these robots to not only perform rudimentary tasks but to emulate human behavior, and in some aspects, even exceed it. The realm of research dedicated to achieving human-like competencies in robots has given rise to the fields of Developmental and Cognitive Robotics. These domains find their foundation in cognitive architectures and insights from human development. Despite the substantial progress in these fields, a conspicuous gap exists in the literature related to the evaluation of cognitive architectures and the advanced capabilities exhibited by robots. Recognizing this void, we aim at establishing a bridge between the insights gleaned from human developmental theories and the potential applications in robotics. Central to our investigation is the notion that learning follows a cumulative trajectory of escalating complexity. Consequently, our focus centers on the early stages of human development, particularly within the realm of children aged 0 to 2 years. Drawing inspiration from Piaget’s constructivist theory aligned with empirical studies in the Developmental Robotics domain, we unveil a framework that facilitates the classification of these studies. In light of this, we curate a series of progressive experiments, mirroring the motor and cognitive growth exhibited by children from birth to two years of age, to be conducted with robots. We also described a methodology for designing these experiments considering the robotics aspects.
+ER  - 
+
+TY  - JOUR
+T1  - To think or not to think, that is the question: Individual differences in suppression and rebound effects in autobiographical memory
+AU  - Noreen, Saima
+AU  - MacLeod, Malcolm D.
+JO  - Acta Psychologica
+VL  - 145
+SP  - 84
+EP  - 97
+PY  - 2014
+DA  - 2014/01/01/
+SN  - 0001-6918
+DO  - https://doi.org/10.1016/j.actpsy.2013.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0001691813002321
+KW  - Memory suppression
+KW  - Intentional forgetting
+KW  - Think/no-think task
+KW  - Autobiographical memory
+AB  - Two studies explored the effects of forget instructions on autobiographical memory at immediate test and following delays of either 12–13months, or 3–4months. Using the Autobiographical Think/No-Think procedure (cf., Noreen & MacLeod, 2013), 24 never-depressed participants (Study 1) first generated 12 positive and 12 negative autobiographical memories and associated cues. Participants were then asked to recall the memory associated with some of the cues (i.e., ‘think’ condition), or to avoid saying or thinking about the memory associated with other cues (i.e., ‘no-think’ condition). Participants were then asked to recall the memories associated with all the cues at immediate test and following a delay of 12–13months. Participants were found to be successful at forgetting both positive and negative autobiographical memories following ‘no-think’ instructions at immediate test but this forgetting effect did not persist following a 12–13month delay. This pattern of remembering and forgetting was replicated in a second study (using 27 never-depressed participants) following a 3–4month delay. Participants who had been less successful at forgetting ‘no-think’ memories at immediate test, were more likely to show rebound effects for those memories following a delay compared to memories which received neither ‘think’ nor ‘no-think’ instructions. Individual differences in inhibitory control and the efficacy of potential therapeutic interventions of ‘no-think’ instructions are considered.
+ER  - 
+
+TY  - JOUR
+T1  - An advanced method to streamline p-hacking
+AU  - Sarstedt, Marko
+AU  - Adler, Susanne J.
+JO  - Journal of Business Research
+VL  - 163
+SP  - 113942
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0148-2963
+DO  - https://doi.org/10.1016/j.jbusres.2023.113942
+UR  - https://www.sciencedirect.com/science/article/pii/S0148296323003004
+KW  - Hypothesis testing
+KW  - P-hacking
+KW  - Publication bias
+KW  - Selective reporting
+AB  - Recent research proposed an efficient way of streamlining p-hacking: a metric of randomly generated p-values that always indicates significant results (pointless). However, the metric’s applicability is limited, since it covers only a very small range of use cases that are relevant for p-hacking researchers. To address this issue, we present extra pointless, a new metric that allows researchers to freely specify desired p-value ranges while safeguarding full reproducibility. Our newly introduced extra pointless metric not only addresses the limitations of the original metric but also answers editors’ and reviewers’ calls for alternative and innovative statistical approaches. An R-based, interactive shiny web app helps researchers with little background in coding to apply our metric.
+ER  - 
+
+TY  - JOUR
+T1  - Refining the chemical toolbox to be fit for educational and practical purpose for drug discovery in the 21st Century
+AU  - Lolli, Marco
+AU  - Narramore, Sarah
+AU  - Fishwick, Colin W.G.
+AU  - Pors, Klaus
+JO  - Drug Discovery Today
+VL  - 20
+IS  - 8
+SP  - 1018
+EP  - 1026
+PY  - 2015
+DA  - 2015/08/01/
+SN  - 1359-6446
+DO  - https://doi.org/10.1016/j.drudis.2015.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1359644615001762
+AB  - We live in a time where exploration and generation of new knowledge is occurring on a colossal scale. Medicinal chemists have traditionally taken key roles in drug discovery; however, the many unmet medical demands in the healthcare sector emphasise the need to evolve the medicinal chemistry discipline. To rise to the challenges in the 21st Century there is a necessity to refine the chemical toolbox for educational and practical reasons. This review proposes modern strategies that are beneficial to teaching in academia but are also important reminders of strategies that can potentially lead to better drugs.
+ER  - 
+
+TY  - CHAP
+T1  - Educational assessment of 21st century skills—novel initiatives, yet a lack of systemic transformation
+AU  - Erstad, Ola
+AU  - Siddiq, Fazilat
+A2  - Tierney, Robert J
+A2  - Rizvi, Fazal
+A2  - Ercikan, Kadriye
+BT  - International Encyclopedia of Education (Fourth Edition)
+PB  - Elsevier
+CY  - Oxford
+SP  - 245
+EP  - 255
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 978-0-12-818629-9
+DO  - https://doi.org/10.1016/B978-0-12-818630-5.09038-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128186305090382
+KW  - Assessment
+KW  - 21st century skills
+KW  - Curriculum development
+KW  - Collaborative problem solving
+KW  - Digital literacy
+AB  - Our aim is to discuss critical issues related to educational assessment in contemporary societies, especially of so-called 21st century skills. We introduce some key definitions of 21st century skills, outline international initiatives dedicated to advancing them, and present two examples of national curricular developments emphasizing and integrating these. Next, we present some examples of projects illustrating the interrelationship between assessment, education and technological development. Last, we introduce some perspectives on the assessment and transformation of education that point toward opportunities and pitfalls for the future. Our analysis shows that while there are a number of ongoing initiatives dedicated to developing instruments and curricula for assessment of 21st century skills, there are also fundamental challenges for the development of relevant assessments on a systemic level and for transforming practices related to 21st century skills more broadly. The lack of representation from several parts of the world, in international assessment initiatives on 21st century skills, is also striking. By taking a meta-perspective, we identify evolving themes within this field and provide a critical perspective on these developments. We conclude there are a number of opportunities and pitfalls for creating good synergies between 21st century skills in curricula and practices, as well as for developing assessment strategies.
+ER  - 
+
+TY  - JOUR
+T1  - A scalable parallel framework for microstructure analysis of large-scale molecular dynamics simulations data
+AU  - Wu, Guoqing
+AU  - Song, Haifeng
+AU  - Lin, Deye
+JO  - Computational Materials Science
+VL  - 144
+SP  - 322
+EP  - 330
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0927-0256
+DO  - https://doi.org/10.1016/j.commatsci.2017.12.048
+UR  - https://www.sciencedirect.com/science/article/pii/S0927025617307280
+KW  - Molecular dynamics
+KW  - Microstructure analysis
+KW  - Distributed-memory
+KW  - Large scale
+AB  - Molecular dynamics (MD) simulation is a fundamental tool in computational materials science. With the development of parallel supercomputers, researchers can access the detail atomic responses of materials with MD simulations at unprecedented scales of physical and time. However, the size of generated output datasets is also growing rapidly, which poses a serious challenge for traditional data analysis methods. Therefore, parallel analysis methods to support faster and more scalable manipulation of atomic data are desperately needed. In this paper, we present a scalable parallel framework to meet the requirements. It allows users to implement a parallel analysis program using a simple interface, make use of the existing sequential analysis codes, and carry out distributed-memory post-simulation data analysis. We have integrated three popular microstructure characterization methods (lattice structure identification, Voronoi analysis, and Wigner-Seitz defect analysis) based on this framework. Performance evaluations run on massively parallel process computers with 109 atoms on up to 1024 processor cores demonstrate the scalability and efficiency of the proposed framework. The proposed framework is helping accelerate large-scale MD data analysis to a new level.
+ER  - 
+
+TY  - JOUR
+T1  - Gaze Control as Prediction
+AU  - Henderson, John M.
+JO  - Trends in Cognitive Sciences
+VL  - 21
+IS  - 1
+SP  - 15
+EP  - 23
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 1364-6613
+DO  - https://doi.org/10.1016/j.tics.2016.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S1364661316301929
+KW  - gaze
+KW  - eye movements
+KW  - attention
+KW  - prediction
+KW  - scene perception
+AB  - The recent study of overt attention during complex scene viewing has emphasized explaining gaze behavior in terms of image properties and image salience independently of the viewer's intentions and understanding of the scene. In this Opinion article, I outline an alternative approach proposing that gaze control in natural scenes can be characterized as the result of knowledge-driven prediction. This view provides a theoretical context for integrating and unifying many of the disparate phenomena observed in active scene viewing, offers the potential for integrating the behavioral study of gaze with the neurobiological study of eye movements, and provides a theoretical framework for bridging gaze control and other related areas of perception and cognition at both computational and neurobiological levels of analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Modifying the one-hot encoding technique can enhance the adversarial robustness of the visual model for symbol recognition
+AU  - Sun, Yi
+AU  - Zheng, Jun
+AU  - Zhao, Hanyu
+AU  - Zhou, Huipeng
+AU  - Li, Jiaxing
+AU  - Li, Fan
+AU  - Xiong, Zehui
+AU  - Liu, Jun
+AU  - Li, Yuanzhang
+JO  - Expert Systems with Applications
+VL  - 250
+SP  - 123751
+PY  - 2024
+DA  - 2024/09/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2024.123751
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417424006171
+KW  - Adversarial examples
+KW  - One-hot encoding
+KW  - Robustness
+KW  - CLIP
+AB  - Deep learning systems, particularly those used in image classification, are threatened by Adversarial Examples. In contrast, Adversarial Examples do not affect the mammalian visual system. We undertake a comparative analysis of the traditional image multi-classification models and human cognitive frameworks, namely ACT-R and QN-MHP, and find that the One-hot encoded output structure lacks anatomical support. Furthermore, the CLIP model, which uses natural language supervision, closely resembles the human visual cognition process. There is structural information between category labels, and various label errors are not equivalent in most cases. One-hot encoding disregards these distinctions, exacerbating Adversarial Examples’ detrimental impact. We introduce a new direction for the adversarial defense that replaces One-hot encoding with natural language encoding or other encodings that preserve structural information between labels. Experiments and Lipschitz continuity analysis show that this approach can enhance the robustness of the model against Adversarial Samples, especially in scenarios such as visual symbol recognition.
+ER  - 
+
+TY  - JOUR
+T1  - Status and future trends in wastewater management strategies using artificial intelligence and machine learning techniques
+AU  - Baskar, Gurunathan
+AU  - Nashath Omer, Soghra
+AU  - Saravanan, Panchamoorthy
+AU  - Rajeshkannan, R.
+AU  - Saravanan, V.
+AU  - Rajasimman, M.
+AU  - Shanmugam, Venkatkumar
+JO  - Chemosphere
+VL  - 362
+SP  - 142477
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0045-6535
+DO  - https://doi.org/10.1016/j.chemosphere.2024.142477
+UR  - https://www.sciencedirect.com/science/article/pii/S0045653524013705
+KW  - Artificial intelligence
+KW  - Deep learning
+KW  - Internet of things
+KW  - Water management
+KW  - Sampling
+KW  - Machine learning
+AB  - The two main things needed to fulfill the world's impending need for water in the face of the widespread water crisis are collecting water and recycling. To do this, the present study has placed a greater focus on water management strategies used in a variety of contexts areas. To distribute water effectively, save it, and satisfy water quality requirements for a variety of uses, it is imperative to apply intelligent water management mechanisms while keeping in mind the population density index. The present review unveiled the latest trends in water and wastewater recycling, utilizing several Artificial Intelligence (AI) and machine learning (ML) techniques for distribution, rainfall collection, and control of irrigation models. The data collected for these purposes are unique and comes in different forms. An efficient water management system could be developed with the use of AI, Deep Learning (DL), and the Internet of Things (IoT) structure. This study has investigated several water management methodologies using AI, DL and IoT with case studies and sample statistical assessment, to provide an efficient framework for water management.
+ER  - 
+
+TY  - JOUR
+T1  - A strategy to train machine learning material models for finite element simulations on data acquirable from physical experiments
+AU  - Böhringer, Pauline
+AU  - Sommer, Daniel
+AU  - Haase, Thomas
+AU  - Barteczko, Martin
+AU  - Sprave, Joachim
+AU  - Stoll, Markus
+AU  - Karadogan, Celalettin
+AU  - Koch, David
+AU  - Middendorf, Peter
+AU  - Liewald, Mathias
+JO  - Computer Methods in Applied Mechanics and Engineering
+VL  - 406
+SP  - 115894
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0045-7825
+DO  - https://doi.org/10.1016/j.cma.2023.115894
+UR  - https://www.sciencedirect.com/science/article/pii/S0045782523000178
+KW  - Materials modelling
+KW  - Finite element analysis
+KW  - Machine learning
+KW  - Optimization strategies
+AB  - A high quality finite element analysis of structural components requires an adequate, often complex, description of the material behaviour. Data-driven models based on artificial neural networks have been shown to possess the potential to substitute current material models, as they promise fast computation, high adaptability to new materials and uncoupling from closed analytical formulations of the model, among others. However, the training of these Machine Learning Material Models (MLMM) is currently limited to data acquired from simulations using classical material models, since this gives the stress-output as a response to a given strain input directly, required to train the MLMM using supervised learning. Although, from experiments only surficial strain field and global force are measurable, local stress values in an inhomogeneous field are not obtainable. We propose a methodology to uncouple MLMM from classical modelling, making them no longer surrogate models, with the promise to unleash their full potential of data-driven materials modelling. In a two-step optimization, starting with a pre-trained MLMM on a similar material and using only data practically acquirable from experiments, we re-train or re-calibrate the MLMM onto a new material. The first and major step is denoted pseudogradient-ES (evolutionary strategy), an external optimization of the neural network’s parameters, such as weights and biases, using mechanically-motivated loss-functions as the optimization objective. It uses a unique combination of evolutionary strategy and gradient based optimization, with a special formulation of a vector serving as an alternative to a gradient in the optimization process. The final step is required to reduce the amount of physical tests by taking advantage of the material symmetry, using our proposed rotation-backpropagation strategy, where new training data is constructed and used in a final training stage of the MLMM using backpropagation. The methodology is shown as a proof of concept on elastic virtual experiments, which however only uses data acquirable in real physical experiments. The final MLMM describing the new material is shown running in finite element analyses.
+ER  - 
+
+TY  - JOUR
+T1  - RationalizeRoots: Software package for the rationalization of square roots
+AU  - Besier, Marco
+AU  - Wasser, Pascal
+AU  - Weinzierl, Stefan
+JO  - Computer Physics Communications
+VL  - 253
+SP  - 107197
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0010-4655
+DO  - https://doi.org/10.1016/j.cpc.2020.107197
+UR  - https://www.sciencedirect.com/science/article/pii/S0010465520300394
+KW  - Feynman integrals
+KW  - Square roots
+KW  - Rationalization
+AB  - The computation of Feynman integrals often involves square roots. One way to obtain a solution in terms of multiple polylogarithms is to rationalize these square roots by a suitable variable change. We present a program that can be used to find such transformations. After an introduction to the theoretical background, we explain in detail how to use the program in practice.
+Program summary
+Program title: RationalizeRoots Program files doi: http://dx.doi.org/10.17632/gbcc9z9tdb.1 Licensing provisions: GNU General Public License 3 Programming language: Mathematica, Maple Nature of problem: Analytic solutions for Feynman integrals are critical for accurate theoretical predictions in high energy particle physics. The computation of these integrals often involves square roots that need to be rationalized via suitable variable transformations. Solution method: Appropriate variable changes for given square roots are constructed by parametrizing algebraic hypersurfaces associated to these square roots by families of lines.
+ER  - 
+
+TY  - JOUR
+T1  - An axiomatic approach to default risk and model uncertainty in rating systems
+AU  - Nendel, Max
+AU  - Streicher, Jan
+JO  - Journal of Mathematical Economics
+VL  - 109
+SP  - 102896
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4068
+DO  - https://doi.org/10.1016/j.jmateco.2023.102896
+UR  - https://www.sciencedirect.com/science/article/pii/S0304406823000897
+KW  - Default risk measure
+KW  - Model uncertainty
+KW  - Probability of default
+KW  - Choquet capacity
+KW  - Value at risk
+KW  - Risk-weighted assets
+AB  - In this paper, we deal with an axiomatic approach to default risk. We introduce the notion of a default risk measure, which generalizes the classical probability of default (PD), and allows to incorporate model risk in various forms. We discuss different properties and representations of default risk measures via monetary risk measures, families of related tail risk measures, and Choquet capacities. In a second step, we turn our focus on default risk measures, which are given as worst-case PDs and distorted PDs. The latter are frequently used in order to take into account model risk for the computation of capital requirements through risk-weighted assets (RWAs), as demanded by the Capital Requirement Regulation (CRR). In this context, we discuss the impact of different default risk measures and margins of conservatism on the amount of risk-weighted assets.
+ER  - 
+
+TY  - JOUR
+T1  - Executive functions and problem-solving—The contribution of inhibition, working memory, and cognitive flexibility to science problem-solving performance in elementary school students
+AU  - Schäfer, Jonas
+AU  - Reuter, Timo
+AU  - Leuchter, Miriam
+AU  - Karbach, Julia
+JO  - Journal of Experimental Child Psychology
+VL  - 244
+SP  - 105962
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0022-0965
+DO  - https://doi.org/10.1016/j.jecp.2024.105962
+UR  - https://www.sciencedirect.com/science/article/pii/S0022096524001024
+KW  - Executive functions
+KW  - Problem-solving
+KW  - Inhibition
+KW  - Working memory
+KW  - Cognitive flexibility
+KW  - Elementary school age
+AB  - Previous research has shown that executive functions can contribute to successful problem-solving in preschool and elementary school children. However, most studies did not simultaneously assess the role of different specific aspects of executive functions. Therefore, the aim of our study was to investigate the individual contribution of inhibition, working memory, and cognitive flexibility to science problem-solving performance in elementary school children. A total of 478 children from first and second grades (Mage = 7.44 years) participated in our study. They performed a Go/No-go task (inhibition), a Corsi blocks backward task (working memory), a flexible item selection task (cognitive flexibility), and three science problem-solving tasks, including two gear turning tasks and one stabilization task. Structural equation modeling showed that working memory and cognitive flexibility individually contributed to problem-solving performance, whereas inhibition did not. We conclude that maintaining task requirements and dynamic object relations (working memory) and switching between different problem-solving phases (cognitive flexibility) are essential components of successful science problem-solving in elementary school children. Inhibitory processes may be more relevant in tasks involving a higher degree of interference at the task or response level.
+ER  - 
+
+TY  - JOUR
+T1  - Revisiting Stewart–Gough platform applications: A kinematic pavilion
+AU  - Markou, Athanasios A.
+AU  - Elmas, Serenay
+AU  - Filz, Günther H.
+JO  - Engineering Structures
+VL  - 249
+SP  - 113304
+PY  - 2021
+DA  - 2021/12/15/
+SN  - 0141-0296
+DO  - https://doi.org/10.1016/j.engstruct.2021.113304
+UR  - https://www.sciencedirect.com/science/article/pii/S0141029621014218
+KW  - Stewart–Gough platform
+KW  - Transformable architecture
+KW  - Kinematic structure
+KW  - Stability
+KW  - Structural design
+AB  - Stewart–Gough platforms are well known for their extraordinary kinematic motion and therefore they are widely used as devices, ranging from flight simulators to microsurgical manipulators. However, they have not yet been explored much as architectural objects and transformable spaces with regards to irregular arrangements of legs and their associate structural performance. In the current study, an innovative architectural and structural application of the Stewart–Gough platform, implemented as full-scale kinematic pavilion, namely the Zero Gravity pavilion, at Aalto University, Finland, is presented. During the design process a Stewart–Gough 3–3 configuration was rearranged to an irregular 6–6 configuration. The architectural freedom in the arrangement of columns was guided by its immanent effect on the structure’s motion, stability, and strength. We opted for one telescopic leg only and its selection is based on four main criteria. Firstly, for each telescopic leg the stability of the different configurations is investigated. Secondly, the self-collision of leg–leg, leg–roof, and roof–floor was investigated by means of physical and computational models as well as through the full-scale pavilion. Thirdly, the selection process is influenced by the force distribution on the six legs. Fourthly, the path trajectory of the kinematic structure is examined in terms of magnitude and type of motion as an architectural feature. The final choice of the telescopic leg was based on the conclusions drawn from the parametric architectural and structural studies. The overall spatial and structural qualities of the system was validated by the full-scale Zero Gravity pavilion.
+ER  - 
+
+TY  - CHAP
+T1  - 3 - Embodiment and Explanation
+AU  - Clark, Andy
+A2  - Calvo, Paco
+A2  - Gomila, Antoni
+BT  - Handbook of Cognitive Science
+PB  - Elsevier
+CY  - San Diego
+SP  - 41
+EP  - 58
+PY  - 2008
+DA  - 2008/01/01/
+T2  - Perspectives on Cognitive Science
+SN  - 15564495
+DO  - https://doi.org/10.1016/B978-0-08-046616-3.00003-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780080466163000037
+AB  - Publisher Summary
+There are at least three (distinct but sometimes overlapping) ways in which embodiment seems to matter for mind and cognition. These are: spreading the load; self-structuring of information; and supporting extended cognition. Cognitive Impartiality explains the emergence of organizations (both long and short term) in which the storage, processing, and transformation of information are spread so indiscriminately between brain, body, and world. Examples of all of these effects form the basis of the literature on “embodied, embedded cognitive science.” This chapter intends to take something like the three threads story pretty much for granted and asks whether (despite some recent publicity) these kinds of appeal to embodiment, action, and cognitive extension are best understood as a revolutionary change or as fully continuous with computational, representational, and (broadly speaking) information-theoretic approaches to understanding mind and cognition. In defending the latter, more conservative, view it hopes to display at least something of the likely shape of a mature science of the embodied mind.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 1 - Historical Background and Future Perspectives
+AU  - Concilio, Antonio
+AU  - Lecce, Leonardo
+A2  - Lecce, Leonardo
+A2  - Concilio, Antonio
+BT  - Shape Memory Alloy Engineering
+PB  - Butterworth-Heinemann
+CY  - Boston
+SP  - 3
+EP  - 30
+PY  - 2015
+DA  - 2015/01/01/
+SN  - 978-0-08-099920-3
+DO  - https://doi.org/10.1016/B978-0-08-099920-3.00001-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780080999203000012
+KW  - Alloy
+KW  - Austenite
+KW  - Martensite
+KW  - Pseudoelasticity
+KW  - Shape memory
+KW  - SMA
+KW  - Thermoelasticity
+AB  - Shape memory alloys (SMA) have the fascinating characteristic of recovering apparent permanent deformations up to 10% and more. Moreover, they are metals and exhibit the typical characteristics of metals like resistance, stiffness, workability, and so on. The combination of all these properties makes it easy to understand why these materials are attractive to the field of engineering and gave rise to a new way of thinking about the design of mechanical systems. Some SMA have the incredible property to be almost perfectly bio-compatible, and since medical structural systems are usually simple, health was the field where shape memory alloys started being used extensively. Their properties makes it easy to understand why these materials are attractive to the field of engineering and gave rise to a new way of thinking about the design of mechanical systems. There are many innovative ideas for the application of shape memory alloys and, in general, shape memory materials, and the number of assessed products is growing. Research worldwide is trying to better understand their behavior and their characteristics for better and larger utilization.
+ER  - 
+
+TY  - JOUR
+T1  - Knotted and topologically complex proteins as models for studying folding and stability
+AU  - Yeates, Todd O
+AU  - Norcross, Todd S
+AU  - King, Neil P
+JO  - Current Opinion in Chemical Biology
+VL  - 11
+IS  - 6
+SP  - 595
+EP  - 603
+PY  - 2007
+DA  - 2007/12/01/
+T2  - Model systems/Biopolymers
+SN  - 1367-5931
+DO  - https://doi.org/10.1016/j.cbpa.2007.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S136759310700141X
+AB  - Among proteins of known three-dimensional structure, only a few possess complex topological features such as knotted or interlinked (catenated) protein backbones. Such unusual proteins offer potentially unique insights into folding pathways and stabilization mechanisms. They also present special challenges for both theorists and computational scientists interested in understanding and predicting protein-folding behavior. Here, we review complex topological features in proteins with a focus on recent progress on the identification and characterization of knotted and interlinked protein systems. Also, an approach is described for designing an expanded set of knotted proteins.
+ER  - 
+
+TY  - JOUR
+T1  - Rethinking the pragmatic systems biology and systems-theoretical biology divide: Toward a complexity-inspired epistemology of systems biomedicine
+AU  - Kesić, Srdjan
+JO  - Medical Hypotheses
+VL  - 131
+SP  - 109316
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0306-9877
+DO  - https://doi.org/10.1016/j.mehy.2019.109316
+UR  - https://www.sciencedirect.com/science/article/pii/S030698771930605X
+KW  - Systems biology
+KW  - Cybernetics
+KW  - Second-order cybernetics
+KW  - Complexity
+KW  - Complex biological systems
+KW  - Epistemology of complexity
+AB  - This paper examines some methodological and epistemological issues underlying the ongoing “artificial” divide between pragmatic-systems biology and systems-theoretical biology. The pragmatic systems view of biology has encountered problems and constraints on its explanatory power because pragmatic systems biologists still tend to view systems as mere collections of parts, not as “emergent realities” produced by adaptive interactions between the constituting components. As such, they are incapable of characterizing the higher-level biological phenomena adequately. The attempts of systems-theoretical biologists to explain these “emergent realities” using mathematics also fail to produce satisfactory results. Given the increasing strategic importance of systems biology, both from theoretical and research perspectives, we suggest that additional epistemological and methodological insights into the possibility of further integration between traditional experimental studies and complex modeling are required. This integration will help to improve the currently underdeveloped pragmatic-systems biology and system-theoretical biology. The “epistemology of complexity,” I contend, acts as a glue that connects and integrates different and sometimes opposing viewpoints, perspectives, streams, and practices, thus maintaining intellectual and research coherence of systems research of life. It allows scientists to shift the focus from traditional experimental research to integrated, modeling-based holistic practices capable of providing a comprehensive knowledge of organizing principles of living systems. It also opens the possibility of the development of new practical and theoretical foundations of systems biology to build a better understanding of complex organismic functions.
+ER  - 
+
+TY  - JOUR
+T1  - The prediction of single-molecule magnet properties via deep learning
+AU  - Takiguchi, Yuji
+AU  - Nakane, Daisuke
+AU  - Akitsu, Takashiro
+AU  - Su, C.-Y.
+JO  - IUCrJ
+VL  - 11
+IS  - 2
+SP  - 182
+EP  - 189
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 2052-2525
+DO  - https://doi.org/10.1107/S2052252524000770
+UR  - https://www.sciencedirect.com/science/article/pii/S2052252524000265
+KW  - single-molecule magnets
+KW  - deep learning
+KW  - Cambridge Structural Database
+KW  - salen-type complexes
+AB  - This work involves extraction of salen metal complexes from the Cambridge Structural Database for deep learning to examine the 3D structural features that allow such complexes to act as single-molecule magnets. This research attempts to link a crystal structure database as big data with the molecular design of nanomaterials using artificial intelligence. The approach pioneers the future secondary use of similar crystal structure data.
+This paper uses deep learning to present a proof-of-concept for data-driven chemistry in single-molecule magnets (SMMs). Previous discussions within SMM research have proposed links between molecular structures (crystal structures) and single-molecule magnetic properties; however, these have only interpreted the results. Therefore, this study introduces a data-driven approach to predict the properties of SMM structures using deep learning. The deep-learning model learns the structural features of the SMM molecules by extracting the single-molecule magnetic properties from the 3D coordinates presented in this paper. The model accurately determined whether a molecule was a single-molecule magnet, with an accuracy rate of approximately 70% in predicting the SMM properties. The deep-learning model found SMMs from 20 000 metal complexes extracted from the Cambridge Structural Database. Using deep-learning models for predicting SMM properties and guiding the design of novel molecules is promising.
+ER  - 
+
+TY  - JOUR
+T1  - Reconstructibility of singular Boolean control networks via automata approach
+AU  - Li, Tiantian
+AU  - Feng, Jun-e
+AU  - Wang, Biao
+JO  - Neurocomputing
+VL  - 416
+SP  - 19
+EP  - 27
+PY  - 2020
+DA  - 2020/11/27/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2020.01.061
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231220301132
+KW  - Reconstructibility
+KW  - Singular Boolean control networks
+KW  - Semi-tensor product
+KW  - Automata
+AB  - Three types of reconstructibility of singular Boolean control networks (SBCNs) are introduced and investigated in this paper. Two approaches are proposed to solve these three types of reconstructibility of SBCNs, one is the weighted set graph approach, the other is automata approach. Using the former, some criterions are obtained, while by the latter, several necessary and sufficient conditions are derived for the reconstructibility of SBCNs. Then an algorithm is designed to determine the reconstructible state and the computational complexity is analyzed. Finally, two numerical examples are shown to demonstrate the effectiveness of the theoretical results.
+ER  - 
+
+TY  - JOUR
+T1  - Comparative life cycle assessment in the wine sector: biodynamic vs. conventional viticulture activities in NW Spain
+AU  - Villanueva-Rey, Pedro
+AU  - Vázquez-Rowe, Ian
+AU  - Moreira, Maríaº Teresa
+AU  - Feijoo, Gumersindo
+JO  - Journal of Cleaner Production
+VL  - 65
+SP  - 330
+EP  - 341
+PY  - 2014
+DA  - 2014/02/15/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2013.08.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652613005660
+KW  - Biodynamic viticulture
+KW  - Grape production
+KW  - Land use
+KW  - LCA
+KW  - USEtox
+KW  - Wine
+AB  - Viticulture is currently experiencing a gradual shift to more sustainable production practices. Many producers see in this shift an opportunity to increase their sales, especially in a context which is greatly influenced by the reduction in wine sales due to the world economic crisis. Hence, both organic and biodynamic viticulture have begun to be applied in many vineyards as alternative attractive agricultural techniques. Nevertheless, it remains unclear which are the exact environmental benefits (or drawbacks) of applying these techniques for numerous environmental impacts, such as climate change or toxicity. Therefore, the main goal of this study is to perform an environmental evaluation using Life Cycle Assessment (LCA) for three different viticulture techniques within a single appellation (Ribeiro, NW Spain): biodynamic cultivation sites, conventional vineyards and an intermediate biodynamic-conventional wine-growing plantation (i.e. biodynamic site lacking certification). Moreover, two methodological improvements in the field of wine LCA studies are suggested and developed in terms of land use impact categories and labour inclusion in life-cycle thinking. Results demonstrate that biodynamic production implies the lowest environmental burdens, and the highest environmental impacts were linked to conventional agricultural practices. The main reasons for this strong decrease in environmental impacts for the biodynamic site is related to an 80% decrease in diesel inputs, due to a lower application of plant protection products and fertilisers, and the introduction of manual work rather than mechanised activities in the vineyards. Nevertheless, a series of preliminary assessments suggest that the impacts linked to land use and human labour, two under-analysed issues in wine LCA, may show different trends to those obtained for the other environmental dimensions, adding complexity to the integrated interpretation of the results.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying policy options and responses to water management issues through System Dynamics and fsQCA
+AU  - Armenia, Stefano
+AU  - Barnabé, Federico
+AU  - Franco, Eduardo
+AU  - Iandolo, Francesca
+AU  - Pompei, Alessandro
+AU  - Tsaples, Georgios
+JO  - Technological Forecasting and Social Change
+VL  - 194
+SP  - 122737
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2023.122737
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162523004225
+KW  - Urban water management
+KW  - Agenda 2030
+KW  - Bibliometric review
+KW  - Fuzzy set qualitative comparative analysis
+KW  - System dynamics
+KW  - Decision-making
+AB  - Poor quality and scarcity of water are some of the most relevant problems for policy-makers and private sector, especially in the face of climate change. A systemic perspective is key to studying complex issues like water management and understanding how systems change in response to various inputs over time. This study aims to create a generalized, highly synthetic, and abstract model that can reproduce the key dynamics that emerge from the response to policies in water management. The characteristics of this model make it applicable independent of a specific local context. A literature review of modelling and simulation, System Dynamics (SD), and fuzzy set qualitative comparative analysis (fsQCA) approaches to water management was performed, and insights were gained to recognize and understand existing gaps. The results were then assessed using fsQCA to investigate the necessary and sufficient conditions that contribute to shaping sustainable water management. A minimum common structure which highlights the common elements and their key interactions in a generic water management system was proposed. Main findings showed that the most negatively influencing dimensions of water management issues were the absence of costs related to water consumption, infrastructure obsolescence, and population growth. Implications for policy-making on sustainable water management were discussed in the conclusion.
+ER  - 
+
+TY  - JOUR
+T1  - P31. Aberrant Estimation of Controllability and its Neural Underpinnings in Nicotine-Dependent Human Smokers
+AU  - McLaughlin, Caroline
+AU  - Na, Soojung
+AU  - Heflin, Matthew
+AU  - Fiore, Vincenzo
+AU  - Gu, Xiaosi
+JO  - Biological Psychiatry
+VL  - 91
+IS  - 9, Supplement 
+SP  - S100
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Abstract Supplement
+SN  - 0006-3223
+DO  - https://doi.org/10.1016/j.biopsych.2022.02.266
+UR  - https://www.sciencedirect.com/science/article/pii/S0006322322003535
+ER  - 
+
+TY  - JOUR
+T1  - Data science: connotation, methods, technologies, and development
+AU  - Xu, Zongben
+AU  - Tang, Niansheng
+AU  - Xu, Chen
+AU  - Cheng, Xueqi
+JO  - Data Science and Management
+VL  - 1
+IS  - 1
+SP  - 32
+EP  - 37
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 2666-7649
+DO  - https://doi.org/10.1016/j.dsm.2021.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2666764921000035
+KW  - data science
+KW  - data science methodology
+KW  - big data
+KW  - technical directions
+AB  - The rapid development of big data breeds data science. Understanding and mastering the internal pattern of the value generation of big data is important for improving digitization and the covergence of data science with management science, computer science, and other disciplines. In this study, we discuss the significance of data science for the development of science and technology and social progress. Based on the interpretation of the connotation of data science, we introduce the definition of data science and review its formation by summarizing the major progress of related disciplines. We also discuss the research methodologies, development patterns and trends, and technical directions of data science. Finally, we make suggestions for data science to promote the development of data-based science and technology.
+ER  - 
+
+TY  - JOUR
+T1  - Entrepreneurial action, creativity, & judgment in the age of artificial intelligence
+AU  - Townsend, David M.
+AU  - Hunt, Richard A.
+JO  - Journal of Business Venturing Insights
+VL  - 11
+SP  - e00126
+PY  - 2019
+DA  - 2019/06/01/
+SN  - 2352-6734
+DO  - https://doi.org/10.1016/j.jbvi.2019.e00126
+UR  - https://www.sciencedirect.com/science/article/pii/S2352673419300083
+KW  - Artificial intelligence
+KW  - Creativity
+KW  - Modal uncertainty
+KW  - Entrepreneurial action
+AB  - The rapid advancement of computationally complex systems of artificial intelligence (AI), is the fruit of a decades-long effort to endow machines with cognitive capabilities that equal or even exceed those possessed by human actors. As the growing sophistication of AI algorithms revolutionizes entrepreneurial action in uncertain environments, these advancements raise an important set of questions for future theory-building in entrepreneurial action, creativity, and decision-making research. In this paper, we take up these critical questions by exploring how advancing AI systems provide novel solutions for resolving the fundamental challenges of modal uncertainty in entrepreneurial decision environments. And in doing so, AI algorithms create new possibilities for future forms of entrepreneurial action. We conclude the paper with a robust discussion of future research at the intersection of AI and entrepreneurship.
+ER  - 
+
+TY  - JOUR
+T1  - Cognition of feedback loops in a fire-prone social-ecological system
+AU  - Hamilton, Matthew
+AU  - Salerno, Jonathan
+AU  - Fischer, Alexandra Paige
+JO  - Global Environmental Change
+VL  - 74
+SP  - 102519
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 0959-3780
+DO  - https://doi.org/10.1016/j.gloenvcha.2022.102519
+UR  - https://www.sciencedirect.com/science/article/pii/S0959378022000577
+KW  - Feedback loops
+KW  - Resilience
+KW  - Cognitive maps
+KW  - Wildfire
+AB  - Increasing wildfire severity highlights the need for large-scale shifts in management of fire-prone landscapes. While prior research has focused on cognitive biases, social norms, and institutional disincentives that limit reform, such factors are best understood as components of feedback loops that operate within complex adaptive systems. We evaluated the prominence and function of feedback loops embedded in cognitive maps—beliefs about patterns of causal relationships that drive system dynamics—elicited from a diverse cross-section of stakeholders in a fire-prone region in the U.S. West. We demonstrate that cognition of feedback loops is rare among individuals, but increasingly prominent within aggregations of cognitive maps, which underscores the importance of collaborative decision-making. Our analysis further reveals a bias toward perception of amplifying feedback loops and of loops in which management actions result in desirable outcomes, which points to areas where progress may be made in reforming wildfire risk governance.
+ER  - 
+
+TY  - JOUR
+T1  - Found in translation, lost in education: artificial intelligence’s impacts on translation tertiary education in Macao
+AU  - Amaro, Vanessa
+AU  - João Pires, Manuel
+JO  - Asian Education and Development Studies
+VL  - 13
+IS  - 4
+SP  - 269
+EP  - 281
+PY  - 2024
+DA  - 2024/06/03/
+SN  - 2046-3162
+DO  - https://doi.org/10.1108/AEDS-01-2024-0012
+UR  - https://www.sciencedirect.com/science/article/pii/S2046316224000142
+KW  - AI translation
+KW  - Human translators
+KW  - Cultural nuances
+KW  - Translation studies
+KW  - Ethical implications
+KW  - Portuguese-Chinese
+KW  - Curricular integration
+KW  - Synergistic approach
+AB  - Purpose
+To explore the interplay between human translators and AI tools, focusing on tertiary students' perceptions in the context of Portuguese-Chinese translations in Macao.
+Design/methodology/approach
+This research employed a mixed-methods approach. Quantitative surveys were complemented by qualitative responses. Qualitative class observations (participant and non-participant) and autoethnography further enriched the insights. Participants included undergraduate and postgraduate students in translation studies from the Macao Polytechnic University.
+Findings
+The data revealed a dual perspective: appreciation for AI’s efficiency contrasted with concerns about its potential to overshadow human touch in translations, especially in cultural nuances. Views on integrating AI into curricula were diverse, but a balanced, synergistic approach between human expertise and AI efficiency emerged as a common theme.
+Originality/value
+This study offers a fresh perspective by integrating various methodologies, capturing both statistical and experiential insights on the evolving relationship between AI and human translation efforts in academia.
+ER  - 
+
+TY  - JOUR
+T1  - Planar bipedal locomotion control based on state discretization
+AU  - Tazaki, Yuichi
+AU  - Imura, Jun-ichi
+JO  - Robotics and Autonomous Systems
+VL  - 58
+IS  - 5
+SP  - 657
+EP  - 665
+PY  - 2010
+DA  - 2010/05/31/
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/j.robot.2009.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S092188900900205X
+KW  - Bipedal locomotion
+KW  - Discretization
+KW  - Model predictive control
+KW  - Offline computation
+AB  - In this paper, a new control method for a planar bipedal robot, which we call Graph-based Model Predictive Control, is proposed. This method makes use of a directed graph constructed on the state space of the robot. The vertices of the directed graph are called waypoints, and they serve as intermediate target states to compose complex motions of the robot. By simply tracing the directed edges of the graph, one can achieve Model Predictive Control over the waypoint set. Such a directed graph is pre-designed and stored into the controller’s memory to significantly reduce the computational effort required in real time. In addition, by constructing multiple directed graphs based on different objective functions, one can design multiple motions and switching trajectories among them in a uniform way. The proposed method is applied to variable-speed walking control of a bipedal walker on a two-dimensional plane, and its effectiveness is verified by numerical simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Big data naturally rescaled
+AU  - Stoop, Ruedi
+AU  - Kanders, Karlis
+AU  - Lorimer, Tom
+AU  - Held, Jenny
+AU  - Albert, Carlo
+JO  - Chaos, Solitons & Fractals
+VL  - 90
+SP  - 81
+EP  - 90
+PY  - 2016
+DA  - 2016/09/01/
+T2  - Challenges in Data Science
+SN  - 0960-0779
+DO  - https://doi.org/10.1016/j.chaos.2016.02.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0960077916300698
+KW  - Complex systems
+KW  - Complex networks
+KW  - Dynamical systems
+KW  - Physiological networks
+KW  - Power laws
+KW  - Biological modeling
+KW  - Clustering algorithms
+AB  - We propose that a handle could be put on big data by looking at the systems that actually generate the data, rather than the data itself, realizing that there may be only few generic processes involved in this, each one imprinting its very specific structures in the space of systems, the traces of which translate into feature space. From this, we propose a practical computational clustering approach, optimized for coping with such data, inspired by how the human cortex is known to approach the problem.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive instruction strategies to foster covariational reasoning in a digitally rich environment
+AU  - Swidan, Osama
+AU  - Bagossi, Sara
+AU  - Beltramino, Silvia
+AU  - Arzarello, Ferdinando
+JO  - The Journal of Mathematical Behavior
+VL  - 66
+SP  - 100961
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0732-3123
+DO  - https://doi.org/10.1016/j.jmathb.2022.100961
+UR  - https://www.sciencedirect.com/science/article/pii/S0732312322000293
+KW  - Adaptive instruction
+KW  - Covariational reasoning
+KW  - Artefacts
+KW  - Digital tools
+KW  - Multimodality
+KW  - Semiotic game
+AB  - This paper explores the strategies used by a senior teacher to adapt her instruction about covariation among quantities to her students and their learning processes. It analyses data from a teaching experiment conducted in Turin with twenty 15-year-old students. They used a digital simulation of the so-called Galileo experiment – a ball rolling along an inclined plane – to model the quadratic law of its motion. The adaptive instruction of the teacher is examined via a multimodal lens, analysing the semiotic productions active in the classroom: the teacher and her students' utterances, gestures, inscriptions, and the role of instruments within the development of the teaching design. The analysis highlights the primary strategies employed by the teacher during her instruction process and how these strategies support the students in reaching different levels of covariational reasoning, as defined by an extension of the Thompson and Carlson framework. Finally, some pedagogical implications are sketched.
+ER  - 
+
+TY  - JOUR
+T1  - The Philosophy of Residuality Theory
+AU  - M O’Reilly, Barry
+JO  - Procedia Computer Science
+VL  - 184
+SP  - 809
+EP  - 816
+PY  - 2021
+DA  - 2021/01/01/
+T2  - The 12th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 4th International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2021.03.101
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050921007420
+KW  - residuality theory
+KW  - antifragile
+KW  - systems engineering
+KW  - software architecture
+AB  - Residuality theory [1] states that the future of a system is a function of its residues - the leftovers of the system after the impact of a stressor. A stressor is anything that is previously unseen or unknown that impacts the system. A system is said to be residual when its design is expressed in terms of residues and stressors. Residuality theory assumes that the likelihood, order, and scale of impact of these stressors cannot be known in advance in any sufficiently complex system, and that these properties are never static across time as any stressor impact means that the system has changed. Residuality theory argues for the designers of software systems using residues as the building blocks of system design as opposed to components or processes. The result of residual analysis is a structure that does not depend on the individual pieces that made it up, (in fact the system may not survive some of the initial stressors used to inform its design) but on the overall ability of the system to respond to unknown stressors - the whole should be seen to be more than the sum of its parts. The ability to survive stress that the system is not designed for is considered to move the system toward antifragility [2]. This article investigates the philosophical assumptions behind these ideas and compares and contrasts them with those of conventional practices within software architecture
+ER  - 
+
+TY  - JOUR
+T1  - The relevance of phylogeny to studies of global change
+AU  - Edwards, Erika J.
+AU  - Still, Christopher J.
+AU  - Donoghue, Michael J.
+JO  - Trends in Ecology & Evolution
+VL  - 22
+IS  - 5
+SP  - 243
+EP  - 249
+PY  - 2007
+DA  - 2007/05/01/
+SN  - 0169-5347
+DO  - https://doi.org/10.1016/j.tree.2007.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0169534707000365
+AB  - Phylogenetic thinking has infiltrated many areas of biological research, but has had little impact on studies of global ecology or climate change. Here, we illustrate how phylogenetic information can be relevant to understanding vegetation–atmosphere dynamics at ecosystem or global scales by re-analyzing a data set of carbonic anhydrase (CA) activity in leaves that was used to estimate terrestrial gross primary productivity. The original calculations relied on what appeared to be low CA activity exclusively in C4 grasses, but our analyses indicate that such activity might instead characterize the PACCAD grass lineage, which includes many widespread C3 species. We outline how phylogenetics can guide better taxon sampling of key physiological traits, and discuss how the emerging field of phyloinformatics presents a promising new framework for scaling from organism physiology to global processes.
+ER  - 
+
+TY  - JOUR
+T1  - A novel voxel-based method to estimate cortical sulci width and its application to compare patients with Alzheimer’s disease to controls
+AU  - Mateos, Maria Julieta
+AU  - Gastelum-Strozzi, Alfonso
+AU  - Barrios, Fernando A.
+AU  - Bribiesca, Ernesto
+AU  - Alcauter, Sarael
+AU  - Marquez-Flores, Jorge A.
+JO  - NeuroImage
+VL  - 207
+SP  - 116343
+PY  - 2020
+DA  - 2020/02/15/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2019.116343
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811919309346
+KW  - Sulcal width
+KW  - Euclidean distance transform
+KW  - Brain morphometry
+KW  - Alzheimer’s disease
+AB  - A voxel-based method for measuring sulcal width was developed, validated and applied to a database. This method (EDT-based LM) employs the 3D Euclidean Distance Transform (EDT) of the pial surface and a Local Maxima labeling algorithm. A computational phantom was designed to test method performance; results revealed the method’s inaccuracy δ, to range between 0.1 and 0.5 voxels, for a width that varied between 1 and 7 voxels. Two morphological descriptors were computed to characterize each defined sulcus: mean sulcal width (MSW) and mean absolute deviation (MAD). The former is the average width for all available width measurements within the sulcus, and the latter is the deviation of these measurements. The EDT-based LM method was applied to the Minimal Interval Resonance Imaging in the Alzheimer’s Disease (MIRIAD) database, for a set of high-resolution Magnetic Resonance (MR) images of 66 subjects: 43 patients with Alzheimer Disease (AD) and 23 control subjects. AD causes significant gray matter loss; hence, some sulci were expected to broaden. Methodological results concurred with this hypothesis. After a Wilcoxon test, MSW was grater in the case of all sulci pertaining to AD patients, (p < 0.05, FDR corrected), whereas MAD showed significant differences in 8 sulci (p < 0.05, FDR corrected). This work presents a novel voxel-based method for measuring sulcal width and extracting descriptors to characterize and compare the sulci within and across subjects.
+ER  - 
+
+TY  - JOUR
+T1  - Advanced modelling and digital manufacturing: Parametric design tools for the optimization of UHPFRC (ultra high-performance Fiber reinforced concrete) shading panels
+AU  - Leone, Mattia Federico
+AU  - Nocerino, Giovanni
+JO  - Automation in Construction
+VL  - 126
+SP  - 103650
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2021.103650
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580521001011
+KW  - Parametric design
+KW  - Digital manufacturing
+KW  - Industry 4.0
+KW  - Ultra High-Performance Fiber Reinforced Concrete
+KW  - Visual Programming Language (VPL)
+KW  - Façade shading system
+KW  - Energy efficiency and daylighting
+AB  - The “Industry 4.0” production scenarios are determining a paradigm shift in the design of building components. The growing trend of orienting technological innovation in the building sector towards the eco-efficiency of industrial manufacturing processes increasingly requires to identify methods and tools able to support the design/manufacturing/construction process as a whole. In this sense, the intellectual and operational dimension of design is discovering a new digital and data-driven technological paradigm. Digital tools are pushing the investigation of the building component manufacturing process into an increasingly virtual dimension, in which the constant integration between environmental and material/geometric parameters identifies the meta-design phase as the “ideal place” to experiment the creative use of data and technical knowledge. Starting from these assumptions, the paper illustrates an original design methodology and the related digital/parametric workflow aimed at optimizing performances and production of a façade shading system realized in UHPFRC (Ultra High-Performance Fiber Reinforced Concrete). The workflow described in this paper includes all the constraints arising from production and the assembly aspects of the components and, with the support of genetic algorithms, aims to improve indoor thermal comfort and indoor daylight performance while containing costs.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 1 - Exact deep learning machines
+AU  - Srinivasa Rao, Arni S.R.
+A2  - Govindaraju, Venu
+A2  - Srinivasa Rao, Arni S.R.
+A2  - Rao, C.R.
+BT  - Handbook of Statistics
+PB  - Elsevier
+VL  - 48
+SP  - 1
+EP  - 8
+PY  - 2023
+DA  - 2023/01/01/
+T2  - Deep Learning
+SN  - 0169-7161
+DO  - https://doi.org/10.1016/bs.host.2022.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0169716122000554
+KW  - Artificial intelligence
+KW  - Probability one
+KW  - Object detection
+AB  - Incorporating actual intelligence into the machines and making them think and perform like humans is impossible. In this chapter, a new kind of machine called the EDLM (exact deep learning machine) is introduced. Such EDLMs can achieve the target with probability one and could be the best alternative for originally designed artificial intelligence models of the mid-20th century by Alan Turing and others that have so far not seen reality. In the current context, achieving a target is defined as detecting a given object accurately.
+ER  - 
+
+TY  - JOUR
+T1  - Opportunistic processing of language
+AU  - Acuña-Fariña, J. Carlos
+JO  - Language Sciences
+VL  - 57
+SP  - 34
+EP  - 48
+PY  - 2016
+DA  - 2016/09/01/
+SN  - 0388-0001
+DO  - https://doi.org/10.1016/j.langsci.2016.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0388000116300237
+KW  - Syntactic processing
+KW  - Incremental
+KW  - Opportunism
+AB  - This paper is an attempt to tackle the idea of opportunism in language processing seriously – and its implications for language theory if one is to avoid what Poeppel and Embick (2005) call “interdisciplinary cross-sterilization”, that is the failure of linguistics and psycholinguistics to communicate with each other. It is also an attempt to force a deeper reflection on 1) the shape of a viable and useful theory of language, and 2) the relation between (and respective place of) linguistics and experimental psycholinguistics in the study of language. Towards that, I review a number of psycholinguistic findings with a view to showing how routinely parsers opt for opportunistic (as opposed to ‘elegant’) wayouts from processing dilemmas. Most of the evidence reviewed involves research of a cross-linguistic type, the common thread being that different languages resort to different solutions to the same processing problems, even when a unitary solution to at least many of these problems would be computationally within easy reach. The main purpose of this review is to provide a quantitatively suggestive account of how massively opportunism works in setting processing biases. Based on it, I go on to suggest that grammars can only be psychologically viable if they incorporate a fairly large number of interacting constraints, a default ability to generate pieces of structure without a commitment to satisfy large-scale well-formedness conditions, and no strict, fixed ordering of operations. These observations are compatible with a view of language as a complex, dynamical system of co-adapted traits, a system containing a fairly large number of possible initial states and a fairly large number of functionally optimal (opportunistic) continuations of those states. This work assumes the merits of espousing psychological adequacy.
+ER  - 
+
+TY  - JOUR
+T1  - Retraction notice to “ Gifted students creativity: The role of preliminary orientation and individual learning strategies”
+AU  - Jakubakynov, Beibit
+AU  - Berechikidze, Iza
+AU  - Kartashova, Oxana
+AU  - Kochetkova, Galina
+JO  - Thinking Skills and Creativity
+VL  - 46
+SP  - 101078
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 1871-1871
+DO  - https://doi.org/10.1016/j.tsc.2022.101078
+UR  - https://www.sciencedirect.com/science/article/pii/S1871187122000815
+AB  - This article has been retracted: please see Elsevier Policy on Article Withdrawal (https://www.elsevier.com/about/our-business/policies/article-withdrawal). This article has been retracted at the request of the Editors-in-Chief. After a thorough investigation, the Editors have concluded that the acceptance of this article was partly based upon the positive advice of two unreliable reviewer reports. The reports were submitted from email accounts which were provided to the journal as suggested reviewers during the submission of the article. The reviewer accounts did not respond to the journal request to confirm the reviewer identity, and the Editors decided to retract the article. This manipulation of the peer-review process represents a clear violation of the fundamentals of peer review, our publishing policies, and publishing ethics standards. Apologies are offered to the readers of the journal that this deception was not detected during the submission process.
+ER  - 
+
+TY  - JOUR
+T1  - An acoustic sensor array approach for localising partial discharges in electric machines
+AU  - Chelmiah, Eoghan T.
+AU  - Madigan, Cian D.
+AU  - Kavanagh, Darren F.
+JO  - Mechanical Systems and Signal Processing
+VL  - 214
+SP  - 111354
+PY  - 2024
+DA  - 2024/05/15/
+SN  - 0888-3270
+DO  - https://doi.org/10.1016/j.ymssp.2024.111354
+UR  - https://www.sciencedirect.com/science/article/pii/S0888327024002528
+KW  - Acoustic sensors
+KW  - Acoustic signal processing
+KW  - Fault diagnosis
+KW  - Insulation failure
+KW  - Microphone arrays
+KW  - Partial discharge
+KW  - Sensor arrays
+KW  - Sound source localisation
+KW  - Stator faults
+KW  - Time delay of arrival
+AB  - The quest for reliable electric machinery is paramount, notably in the development of high-powered propulsion systems for electric vehicles, aircraft, and ships. With insulation defects implicated in approximately two-thirds of electrical machine failures, as indicated by recent studies, robust condition-based monitoring (CbM) strategies are essential for electrical failure modes. Among these, partial discharge (PD) signals the onset of insulation failure. This research presents an advanced approach for localising PD sources using acoustic sensor arrays in tandem with a generalised cross-correlation (GCC-PHAT) and time-difference of arrival (TDOA) algorithm. Analytical experiments are conducted on a traction-specific high-power switched reluctance motor geometry, validating the method’s efficacy across diverse sensor array configurations. This pioneering analytical work informs the design of a dedicated acoustic source localisation system, encompassing a novel 32-channel condenser microphone array. Through rigorous experimental validation, localisation accuracy with a remarkable sub-centimetre precision in Euclidean distance using the GCC-PHAT and TDOA algorithms on sensor and embedded platforms was achieved. This precision is vital, facilitating the pinpointing and isolation of faulty coils, thereby forestalling catastrophic failures such as overheating and thermal runaway critical for enhancing CbM systems’ efficiency and reliability.
+ER  - 
+
+TY  - JOUR
+T1  - Binge eating, social media disorder and attachment in adolescence: Gender differences in the mediating role of alexithymia
+AU  - Pace, Cecilia Serena
+AU  - Muzi, Stefania
+AU  - Rogier, Guyonne
+JO  - European Review of Applied Psychology
+VL  - 74
+IS  - 6
+SP  - 100936
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 1162-9088
+DO  - https://doi.org/10.1016/j.erap.2023.100936
+UR  - https://www.sciencedirect.com/science/article/pii/S1162908823000695
+KW  - Adolescence
+KW  - Attachment
+KW  - Alexithymia
+KW  - Social media addiction
+KW  - Binge eating
+KW  - Adolescence
+KW  - Attachement
+KW  - Alexithymie
+KW  - Trouble des réseaux sociaux
+KW  - Hyperphagie boulimique
+AB  - Introduction
+There is a need for research investigating factors accounting for binge eating (BE) and social media disorder (SMD) in adolescence.
+Objective
+Despite studies suggesting the role of both attachment and alexithymia in these disorders, there has been no investigation into the mediating role of alexithymia in the pathways linking the different types of attachment relationships to both BE and SMD.
+Methods
+A total of 423 Italian adolescents (32.2% males, Mage=16.88) completed self-report questionnaires investigating attachment, alexithymia, binge eating, and social media disorder levels. Hypotheses were tested with Structural Equation Modelling including multigroup analyses.
+Results
+Almost all the variables showed relationships with each other. BE was explained by attachment to the mother and peers in both genders, but the mediating effect of alexithymia was significant only among girls. SMD was explained only by attachment to peers among boys but by attachment to the parents among girls. Moreover, among girls, the role of attachment to the father in SMD was fully mediated by alexithymia levels.
+Conclusions
+Attachment and alexithymia are two explaining variables associated with BE and SMD in adolescence. However, differentiating between attachment relationships appears crucial to reaching a nuanced understanding of the dynamics underlying both BE and SMD.
+Résumé
+Introduction
+L’état actuel de la recherche sur les facteurs responsables de l’hyperphagie boulimique (HE) et des troubles liés aux médias sociaux (TMS) à l’adolescence est insuffisant.
+Objectif
+Bien que des études aient suggéré le rôle de l’attachement et de l’alexithymie dans ces troubles, aucune n’a étudié le rôle médiateur de l’alexithymie dans les trajectoires qui relient différentes relations d’attachement à ces deux troubles.
+Méthodes
+Un échantillon de 423 adolescents italiens (32,2 % garçons, âge moyen=16,88 ans) ont complété des échelles mesurant les niveaux d’attachement, d’hyperphagie boulimique, du trouble lié aux media sociaux et d’alexithymie. Les hypothèses ont été testées avec la modélisation par équation structurelle, incluant des analyses multigroupes.
+Résultats
+Presque toutes les variables étaient associées de manière significative. Les niveaux de HB des filles et des garçons étaient tous deux expliqués par l’attachement à la mère et aux pairs, mais l’effet médiateur de l’alexithymie n’était significatif que chez les filles. Le niveau de TMS n’était expliqués que par l’attachement aux pairs chez les garçons, et seulement par l’attachement aux parents chez les filles. De plus, chez les filles, le rôle de l’attachement au père sur le TMS était entièrement expliqué par le rôle médiateur de l’alexithymie.
+Conclusions
+L’attachement et l’alexithymie sont deux variables associées à l’HB et au TMS à l’adolescence. Cependant, la différenciation entre les types de relations d’attachement apparaît cruciale pour parvenir à une compréhension nuancée des dynamiques sous-jacentes à la fois à l’HB et au TMS.
+ER  - 

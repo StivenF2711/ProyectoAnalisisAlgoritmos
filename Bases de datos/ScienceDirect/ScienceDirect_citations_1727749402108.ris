@@ -1,0 +1,2323 @@
+TY  - JOUR
+T1  - Intrusion Detection in Computer Networks using Lazy Learning Algorithm
+AU  - Chellam, Aditya
+AU  - L, Ramanathan
+AU  - S, Ramani
+JO  - Procedia Computer Science
+VL  - 132
+SP  - 928
+EP  - 936
+PY  - 2018
+DA  - 2018/01/01/
+T2  - International Conference on Computational Intelligence and Data Science
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2018.05.108
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050918308408
+KW  - Lazy Learning
+KW  - Intrusion Detection System
+KW  - Machine Learning
+KW  - IBk
+KW  - kNN
+AB  - Intrusion Detection Systems (IDS) are used in computer networks to safeguard the integrity and confidentiality of sensitive data. In recent years, network traffic has become sizeable enough to be considered under the big data domain. Current machine learning based techniques used in IDS are largely defined on eager learning paradigms which lose performance efficiency by trying to generalize training data before receiving queries thereby incurring overheads for trivial computations. This paper, proposes the use of lazy learning methodologies to improve overall performance of IDS. A novel heuristic weight based indexing technique has been used to overcome the drawback of high search complexity inherent in lazy learning. IBk and LWL, two popular lazy learning algorithms have been compared and applied on the NSL-KDD dataset for simulating a real-world like scenario and comparing their relative performances with hw-IBk. The results of this paper clearly indicate lazy algorithms as a viable solution for real-world network intrusion detection.
+ER  - 
+
+TY  - JOUR
+T1  - Reflexivity, coding and quantum biology
+AU  - Wills, Peter R
+JO  - Biosystems
+VL  - 185
+SP  - 104027
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 0303-2647
+DO  - https://doi.org/10.1016/j.biosystems.2019.104027
+UR  - https://www.sciencedirect.com/science/article/pii/S0303264719302394
+KW  - Genetic coding
+KW  - Reflexivity
+KW  - Quantum biology
+KW  - Information
+KW  - Autocatalysis
+KW  - Aminoacyl-tRRNA synthetase (aaRS)
+AB  - Biological systems are fundamentally computational in that they process information in an apparently purposeful fashion rather than just transferring bits of it in a purely syntactical manner. Biological information, such has genetic information stored in DNA sequences, has semantic content. It carries meaning that is defined by the molecular context of its cellular environment. Information processing in biological systems displays an inherent reflexivity, a tendency for the computational information-processing to be “about” the behaviour of the molecules that participate in the computational process. This is most evident in the operation of the genetic code, where the specificity of the reactions catalysed by the aminoacyl-tRNA synthetase (aaRS) enzymes is required to be self-sustaining. A cell’s suite of aaRS enzymes completes a reflexively autocatalytic set of molecular components capable of making themselves through the operation of the code. This set requires the existence of a body of reflexive information to be stored in an organism’s genome. The genetic code is a reflexively self-organised mapping of the chemical properties of amino acid sidechains onto codon “tokens”. It is a highly evolved symbolic system of chemical self-description. Although molecular biological coding is generally portrayed in terms of classical bit-transfer events, various biochemical events explicitly require quantum coherence for their occurrence. Whether the implicit transfer of quantum information, qbits, is indicative of wide-ranging quantum computation in living systems is currently the subject of extensive investigation and speculation in the field of Quantum Biology.
+ER  - 
+
+TY  - JOUR
+T1  - CPS-3WS: A critical pattern supported three-way sampling method for classifying class-overlapped imbalanced data
+AU  - Yan, Yuanting
+AU  - Zheng, Zhong
+AU  - Zhang, Yiwen
+AU  - Zhang, Yanping
+AU  - Yao, Yiyu
+JO  - Information Sciences
+VL  - 676
+SP  - 120835
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2024.120835
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025524007497
+KW  - Three-way sampling
+KW  - Class-imbalance problem
+KW  - Critical pattern
+KW  - Class overlap
+AB  - Class-imbalance problem widely exists in real applications ranging from medial diagnosis to economic fraud detection, etc. As one of the mainstream techniques in dealing with imbalanced data, SMOTE (Synthetic Minority Over-sampling TEchnique) and its extensions mainly rebalance the datasets via generation of observations in specific regions with various adapted strategies. Many of them do not consider the cost of role assignment of samples, and the intractable data complexity (overlap, small disjuncts, etc.) poses additional challenges to them. This paper proposes a critical pattern supported three-way sampling method (CPS-3WS) for classifying class-overlapped imbalanced data, introducing the philosophy of thinking in threes to effective classification in imbalanced learning. Specifically, CPS-3WS uses a three-way sample partition strategy with the Bayes posterior probability by dividing majority and minority classes into three disjoint subsets: risky, critical and safe patterns. CPS-3WS conducts a three-way hybrid sampling through (i) evaluating the risky majority pattern to be eliminated and (ii) selecting critical minority pattern to synthesize new samples under local information constraint. Extensive experiments on 42 UCI benchmark datasets demonstrate the superiority of the proposed CPS-3WS compared with 11 data-level methods. The source code of CPS-3WS is available at https://github.com/ytyancp/CPS-3WS.
+ER  - 
+
+TY  - JOUR
+T1  - Ontology-based approach for measuring semantic similarity
+AU  - Hadj Taieb, Mohamed Ali
+AU  - Ben Aouicha, Mohamed
+AU  - Ben Hamadou, Abdelmajid
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 36
+SP  - 238
+EP  - 261
+PY  - 2014
+DA  - 2014/11/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2014.07.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197614001833
+KW  - Semantic similarity
+KW  - WordNet ontology
+KW  - Taxonomic knowledge
+KW  - Taxonomical parameters
+AB  - The challenge of measuring semantic similarity between words is to find a method that can simulate the thinking process of human. The use of computers to quantify and compare semantic similarities has become an important area of research in various fields, including artificial intelligence, knowledge management, information retrieval and natural language processing. The development of efficient measures for the computation of concept similarity is fundamental for computational semantics. Several computational measures rely on knowledge resources to quantify semantic similarity, such as the WordNet « is a » taxonomy. Several of these measures are based on taxonomical parameters to achieve the best expression possible for the semantics of content. This paper presents a new measure for quantifying the degree of the semantic similarity between concepts and words based on the WordNet hierarchy and using a number of topological parameters related to the “is a” taxonomy. Our proposal combines, in a complementary way, the hyponyms and depth parameters. This measure takes the problem of fine granularity into account. It is argued, however, that WordNet sense distinctions are highly fine-grained even for humans. We, therefore, propose a new method to quantify the hyponyms subgraph of a given concept based on depth distribution. Common nouns datasets (RG65, MC30 and AG203), medical terms dataset (MED38) and verbs dataset (YP130) formed by word pairs are used in the assessment. We start by calculating semantic similarities and then compute the correlation coefficient between human judgement and computational measures. The results demonstrate that, compared to other currently available computational methods, the measure presented in this study yields into better levels of performance. Compared to several measures, it shows good accuracy covering all the pairwises of the verbs dataset YP130.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of 21st century ICT skills in Chile: Test design and results from high school level students
+AU  - Claro, Magdalena
+AU  - Preiss, David D.
+AU  - San Martín, Ernesto
+AU  - Jara, Ignacio
+AU  - Hinostroza, J. Enrique
+AU  - Valenzuela, Susana
+AU  - Cortes, Flavio
+AU  - Nussbaum, Miguel
+JO  - Computers & Education
+VL  - 59
+IS  - 3
+SP  - 1042
+EP  - 1053
+PY  - 2012
+DA  - 2012/11/01/
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2012.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131512000887
+KW  - ICT skills
+KW  - 21st century skills
+KW  - Information literacy
+KW  - Computer literacy
+KW  - Higher-order thinking skills
+KW  - Digital divide
+KW  - Rasch model
+AB  - This paper describes a study that evaluates fifteen-year-old Chilean students Information and Communication Technology (ICT) skills. The paper presents an operational definition of ICT skills, an instrument measuring these skills as well as the students' results in the test. The definition of ICT skills used considers Chile's curricular framework, functional and cognitive skills. Specifically, ICT skills were defined as the capacity to solve problems of information, communication and knowledge in digital environments. A performance-based assessment was designed in a virtual environment to measure these skills. The analysis of the results showed that the majority of students were able to solve tasks related to the use of information as consumers, i.e., approximately three quarters of the students were able to search for information and half of them were also able to organize and manage digital information. Additionally, they show that very few students were able to succeed in tasks related to the use of information as producers, i.e., only one third of the students were able to develop their own ideas in a digital environment and less than one fifth were able to refine digital information and create a representation in a digital environment. Socioeconomic group, access, daily use and confidence in doing ICT-related activities were all positively associated with higher scores, showing the need to implement strategies to compensate this inequality, possibly by explicitly defining these aims in the national curriculum.
+ER  - 
+
+TY  - JOUR
+T1  - Pruning of generative adversarial neural networks for medical imaging diagnostics with evolution strategy
+AU  - Fernandes, Francisco Erivaldo
+AU  - Yen, Gary G.
+JO  - Information Sciences
+VL  - 558
+SP  - 91
+EP  - 102
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2020.12.086
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025521000189
+KW  - Deep Neural Networks
+KW  - Convolutional Neural Networks
+KW  - Generative Adversarial Networks
+KW  - Medical Imaging Diagnostics
+KW  - Evolution Strategy
+KW  - Pruning
+AB  - Deep Convolutional Neural Networks (DCNNs) have the potential to revolutionize the field of Medical Imaging Diagnostics due to their capabilities of learning by using only raw data. However, DCNNs can only learn when trained using thousands of data points, which is not always available when dealing with medical data. Moreover, due to patient privacy concerns and the small prevalence of certain diseases in the population, medical data often presents unbalanced classes and fewer data points than other data types. Researchers often rely on Generative Adversarial Networks (GANs) to synthesize more data from a given distribution to solve this problem. Nevertheless, GANs are computationally intensive models requiring the use of powerful hardware to run. In the present work, an algorithm for pruning GANs based on Evolution Strategy (ES) and Multi-Criteria Decision Making (MCDM) is proposed in which a model with the best trade-off between computational complexity and synthesis performance can be found without the use of any trade-off parameter. In the proposed algorithm, the model with the best trade-off is defined geometrically as the candidate solution with the minimum Manhattan distance (MMD) in a two-dimensional objective space established by the number of Floating-Point Operations (FLOPs) and the Wasserstein distance of all candidate solutions, also known as the knee solution. The results show that the pruned GAN model achieves similar performance compared with the original model with up to 70% fewer Floating-Point Operations.
+ER  - 
+
+TY  - JOUR
+T1  - An efficient certificateless blockchain-enabled authentication scheme to secure producer mobility in named data networks
+AU  - Wang, Cong
+AU  - Zhou, Tong
+AU  - Ma, Maode
+AU  - Xiong, Yuwen
+AU  - Zhang, Xiankun
+AU  - Liu, Chao
+JO  - Journal of Network and Computer Applications
+VL  - 232
+SP  - 104007
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2024.104007
+UR  - https://www.sciencedirect.com/science/article/pii/S108480452400184X
+KW  - NDN
+KW  - Producer
+KW  - Mobile
+KW  - Certificateless
+KW  - Authentication
+KW  - Blockchain
+AB  - Named Data Networking (NDN) aims to establish an efficient content delivery architecture. In NDN, secure and effective identity authentication schemes ensure secure communication between producers and routers. Currently, there is no feasible solution to perform identity authentication of mobile producers in NDNs. Identity authentication schemes in other networks are either weak in security or performance, such as privacy leakage, difficulty to establish cross-domain trust, and long handover delays, and are not fully adaptable to the security requirements of NDNs. Additionally, the mobility of producers was not fully considered in the initial design of NDNs. This paper first revises the structure of packets and routers to support the identity authentication and mobility of producers. On this basis, this paper proposes a secure and efficient certificateless ECC-based producer identity authentication scheme (CL-BPA), which includes initial authentication and re-authentication, aimed at achieving rapid switch authentication and integrating blockchain to solve single-point failure issues. Using the Canetti and Krawczyk (CK) adversarial model and informal security analysis, the proposed CL-BPA scheme is demonstrated to be resistant to anonymity attacks, identity forgery attacks, and man-in-the-middle attacks. The performance analysis demonstrates that the proposed CL-BPA scheme exhibits excellent capabilities in terms of computation delay, communication cost, smart contract execution time, average response delay, and throughput.
+ER  - 
+
+TY  - JOUR
+T1  - Unlocking the potential of higher-molecular-weight 5-HT7R ligands: Synthesis, affinity, and ADMET examination
+AU  - Pyka, Patryk
+AU  - Garbo, Sabrina
+AU  - Murzyn, Aleksandra
+AU  - Satała, Grzegorz
+AU  - Janusz, Artur
+AU  - Górka, Michał
+AU  - Pietruś, Wojciech
+AU  - Mituła, Filip
+AU  - Popiel, Delfina
+AU  - Wieczorek, Maciej
+AU  - Palmisano, Biagio
+AU  - Raucci, Alessia
+AU  - Bojarski, Andrzej J.
+AU  - Zwergel, Clemens
+AU  - Szymańska, Ewa
+AU  - Kucwaj-Brysz, Katarzyna
+AU  - Battistelli, Cecilia
+AU  - Handzlik, Jadwiga
+AU  - Podlewska, Sabina
+JO  - Bioorganic Chemistry
+VL  - 151
+SP  - 107668
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0045-2068
+DO  - https://doi.org/10.1016/j.bioorg.2024.107668
+UR  - https://www.sciencedirect.com/science/article/pii/S004520682400573X
+KW  - Serotonin receptor 5-HT
+KW  - G protein-coupled receptors
+KW  - ADMET properties
+KW  - Docking
+KW  - Molecular modelling
+KW  -  experiments
+KW  - MTS assay
+KW  - Gene expression assay
+AB  - An increasing number of drugs introduced to the market and numerous repositories of compounds with confirmed activity have posed the need to revalidate the state-of-the-art rules that determine the ranges of properties the compounds should possess to become future drugs. In this study, we designed a series of two chemotypes of aryl-piperazine hydantoin ligands of 5-HT7R, an attractive target in search for innovative CNS drugs, with higher molecular weight (close to or over 500). Consequently, 14 new compounds were synthesised and screened for their receptor activity accompanied by extensive docking studies to evaluate the observed structure–activity/properties relationships. The ADMET characterisation in terms of the biological membrane permeability, metabolic stability, hepatotoxicity, cardiotoxicity, and protein plasma binding of the obtained compounds was carried out in vitro. The outcome of these studies constituted the basis for the comprehensive challenge of computational tools for ADMET properties prediction. All the compounds possessed high affinity to the 5-HT7R (Ki below 250 nM for all analysed structures) with good selectivity over 5-HT6R and varying affinity towards 5-HT2AR, 5-HT1AR and D2R. For the best compounds of this study, the expression profile of genes associated with neurodegeneration, anti-oxidant response and anti-inflammatory function was determined, and the survival of the cells (SH-SY5Y as an in vitro model of Alzheimer’s disease) was evaluated. One 5-HT7R agent (32) was characterised by a very promising ADMET profile, i.e. good membrane permeability, low hepatotoxicity and cardiotoxicity, and high metabolic stability with the simultaneous high rate of plasma protein binding and high selectivity over other GPCRs considered, together with satisfying gene expression profile modulations and neural cell survival. Such encouraging properties make it a good candidate for further testing and optimisation as a potential agent in the treatment of CNS-related disorders.
+ER  - 
+
+TY  - JOUR
+T1  - Accelerated chemical science with AI
+AU  - Back, Seoin
+AU  - Aspuru-Guzik, Alán
+AU  - Ceriotti, Michele
+AU  - Gryn'ova, Ganna
+AU  - Grzybowski, Bartosz
+AU  - Gu, Geun Ho
+AU  - Hein, Jason
+AU  - Hippalgaonkar, Kedar
+AU  - Hormázabal, Rodrigo
+AU  - Jung, Yousung
+AU  - Kim, Seonah
+AU  - Kim, Woo Youn
+AU  - Moosavi, Seyed Mohamad
+AU  - Noh, Juhwan
+AU  - Park, Changyoung
+AU  - Schrier, Joshua
+AU  - Schwaller, Philippe
+AU  - Tsuda, Koji
+AU  - Vegge, Tejs
+AU  - von Lilienfeld, O. Anatole
+AU  - Walsh, Aron
+JO  - Digital Discovery
+VL  - 3
+IS  - 1
+SP  - 23
+EP  - 33
+PY  - 2024
+DA  - 2024/01/17/
+SN  - 2635-098X
+DO  - https://doi.org/10.1039/d3dd00213f
+UR  - https://www.sciencedirect.com/science/article/pii/S2635098X24000858
+AB  - In light of the pressing need for practical materials and molecular solutions to renewable energy and health problems, to name just two examples, one wonders how to accelerate research and development in the chemical sciences, so as to address the time it takes to bring materials from initial discovery to commercialization. Artificial intelligence (AI)-based techniques, in particular, are having a transformative and accelerating impact on many if not most, technological domains. To shed light on these questions, the authors and participants gathered in person for the ASLLA Symposium on the theme of ‘Accelerated Chemical Science with AI’ at Gangneung, Republic of Korea. We present the findings, ideas, comments, and often contentious opinions expressed during four panel discussions related to the respective general topics: ‘Data’, ‘New applications’, ‘Machine learning algorithms’, and ‘Education’. All discussions were recorded, transcribed into text using Open AI's Whisper, and summarized using LG AI Research's EXAONE LLM, followed by revision by all authors. For the broader benefit of current researchers, educators in higher education, and academic bodies such as associations, publishers, librarians, and companies, we provide chemistry-specific recommendations and summarize the resulting conclusions.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Nine - Blockchain meets edge-AI for food supply chain traceability and provenance
+AU  - Dedeoglu, Volkan
+AU  - Malik, Sidra
+AU  - Ramachandran, Gowri
+AU  - Pal, Shantanu
+AU  - Jurdak, Raja
+A2  - Nelis, Joost Laurus Dinant
+A2  - Tsagkaris, Aristeidis S.
+BT  - Comprehensive Analytical Chemistry
+PB  - Elsevier
+VL  - 101
+SP  - 251
+EP  - 275
+PY  - 2023
+DA  - 2023/01/01/
+T2  - Smartphones for Chemical Analysis: From Proof-of-concept to Analytical Applications
+SN  - 0166-526X
+DO  - https://doi.org/10.1016/bs.coac.2022.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0166526X22001064
+KW  - Blockchain
+KW  - Edge AI
+KW  - Traceability
+KW  - Provenance
+KW  - Supply Chains
+AB  - Food supply chains are increasingly digitised and automated through the use of technologies such as Internet-of-Things (IoT), blockchain and Artificial Intelligence (AI). Such digitization efforts often rely on cloud computing, which creates bandwidth overhead, high latency, security and privacy challenges. In this chapter, we propose the use of edge AI, which is a computing paradigm that combines edge computing and AI, to complete computing tasks close to the sensor data sources. Edge AI can promote greater scalability and avoid the security and privacy challenges of centralised cloud computing. The chapter introduces the provenance and traceability requirements of food supply chains and the digitization of these supply chains through blockchain, IoT, and AI. The chapter also proposes the use of smartphone integrated sensors to provide unique physical, chemical, or biological signatures of food supply chain products, and to conduct the necessary computations on the smartphone. The proposed Edge AI approach to supply chain digitization sets the scene for greater resilience in modern digital supply chains.
+ER  - 
+
+TY  - JOUR
+T1  - The Human Factor and the Problem of Transport Safety in Modern Conditions
+AU  - Pluzhnikova, N.N.
+JO  - Transportation Research Procedia
+VL  - 68
+SP  - 34
+EP  - 39
+PY  - 2023
+DA  - 2023/01/01/
+T2  - XIII International Conference on Transport Infrastructure: Territory Development and Sustainability
+SN  - 2352-1465
+DO  - https://doi.org/10.1016/j.trpro.2023.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2352146523000078
+KW  - Transport
+KW  - transport robotics
+KW  - intelligence
+KW  - IT-technologies
+KW  - human
+AB  - The article is devoted to the analysis of the interaction between man and artificial intelligence to ensure the safety of transport. The author analyzes intelligence and IT technologies on the example of the development of transport robotics. To consider this problem the author refers to cognitive developments in this area, and also indicates the philosophical problems of the development of transport robotics. The article uses such methods as comparative and structural analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Mental models of a social-ecological system facilitate social learning among a diverse management team
+AU  - Steger, Cara
+AU  - Gebrehiwot, Kflay
+AU  - Chengere, Shambel Alemu
+AU  - Marinkovich, Jake
+AU  - Dullo, Bikila Warkineh
+AU  - Zewde, Sisay Wube
+AU  - Klein, Julia A.
+JO  - Environmental Science & Policy
+VL  - 122
+SP  - 127
+EP  - 138
+PY  - 2021
+DA  - 2021/08/01/
+SN  - 1462-9011
+DO  - https://doi.org/10.1016/j.envsci.2021.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1462901121001039
+KW  - Participatory modeling
+KW  - Social learning
+KW  - Collaborative environmental management
+KW  - Community-based conservation
+KW  - Social-ecological systems
+KW  - Ethiopia
+AB  - Managing social-ecological systems increasingly requires collaboration among diverse teams with a wide range of worldviews and perspectives. Increased attention to the social and cultural factors that shape environmental outcomes is needed for these collaborative teams to function effectively. Mental models are cognitive representations of the external world which guide an individual’s thinking, decision-making, and behavior. They are critical elements of collaborative environmental management because they shape our understanding of social-ecological systems, our perceptions of environmental problems, and our preferences for certain management actions. In this paper, we describe an iterative process of constructing and revising mental models at both individual and small group levels over the course of a year in a community-based conservation area in the Ethiopian highlands. We compared mental models of the conservation area from four groups involved in management to identify commonalities and differences in the way people conceptualize the area. While we found high variability in mental models both within and across groups, most participants perceived social, economic, and political variables to be the key drivers of change in this system. Economic variables were also identified as key sensitivities, along with biotic and livelihood variables. However, groups differed considerably in how they thought about relationships between these variables, particularly political and economic variables. We used interviews with participants to assess how they learned throughout the mental modeling process, finding evidence of changes to stakeholder relationships, system understanding, and the time horizons used in planning. Women farmers differed from other groups at multiple stages in our process, both in the structure of the models they produced and in the social learning they experienced. Our study was strengthened by the iterative process that allowed individuals and small groups to reflect on their own understanding and share it with others, resulting in increased communication, mutual respect, and understanding among members of the management team. These findings point to the complementarity of both individual and group-level mental modeling for nuanced system understanding, and emphasize the need for diverse perspectives in collaborative environmental management in order for holistic understanding of both problems and solutions to emerge.
+ER  - 
+
+TY  - JOUR
+T1  - Towards retraining-free RNA modification prediction with incremental learning
+AU  - Qiao, Jianbo
+AU  - Jin, Junru
+AU  - Yu, Haoqing
+AU  - Wei, Leyi
+JO  - Information Sciences
+VL  - 660
+SP  - 120105
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2024.120105
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025524000185
+KW  - RNA modification
+KW  - Deep learning
+KW  - Incremental learning
+AB  - RNA modifications are important for deciphering the function of cells and their regulatory mechanisms. In recent years, researchers have developed many deep learning methods to identify specific modifications. However, these methods require model retraining for each new RNA modification and cannot progressively identify the newly identified RNA modifications. To address this challenge, we propose an innovative incremental learning framework that incorporates multiple incremental learning methods. Our experimental results confirm the efficacy of incremental learning strategies in addressing the RNA modification challenge. By uniquely targeting 10 RNA modification types in a class incremental setting, our framework exhibits superior performance. Notably, it can be extended to new category methylation predictions without the need for retraining with previous data, improving computational efficiency. Through the accumulation of knowledge, the model is able to evolve and continuously learn the differences across methylation, mitigating the problem of catastrophic forgetting during deep learning model training. Overall, our framework provides various alternatives to enhance the prediction of novel RNA modifications and illuminates the potential of incremental learning in tacking numerous genome data.
+ER  - 
+
+TY  - CHAP
+T1  - Reintroducing “development” into theories of the acquisition and growth of early literacy: developmental science approaches and the cultural-historical perspective of L. S. Vygotsky
+AU  - Yaden, David B.
+AU  - Martinez-Yaden, Camille
+A2  - Tierney, Robert J
+A2  - Rizvi, Fazal
+A2  - Ercikan, Kadriye
+BT  - International Encyclopedia of Education (Fourth Edition)
+PB  - Elsevier
+CY  - Oxford
+SP  - 849
+EP  - 865
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 978-0-12-818629-9
+DO  - https://doi.org/10.1016/B978-0-12-818630-5.07103-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128186305071037
+KW  - Microgenetic
+KW  - Developmental science
+KW  - Optimizing equilibration
+KW  - Process-relational
+KW  - Relational-developmental-system
+KW  - Backward transition
+KW  - Early writing
+KW  - Overlapping waves theory
+KW  - Prospective models
+KW  - Retrospective models
+KW  - Hyperbolic geometry
+AB  - This chapter contrasts the differences between computational “retrospective” models of early writing achievement whose elements represent static states of being and “prospective” models based upon the principles of developmental science and a process-relational-developmental framework which characterizes early writing performances always in the process of “becoming.” The chapter highlights these differences using examples from Spanish-speaking and Chinese/English emergent bilinguals to illustrate the various patterns of writing development captured in a Piagetian/Vygotskian-inspired early writing assessment. The children's simultaneous display of multiple conceptualizations of the notational system in Spanish, English, and Chinese is interpreted as reflecting aspects of Siegler's “overlapping waves theory” and Piaget's “optimizing equilibration.”
+ER  - 
+
+TY  - JOUR
+T1  - Coupled crash mechanics and biomechanics of aircraft structures and passengers
+AU  - Chen, Goong
+AU  - Yang, Jing
+AU  - Sergeev, Alexey
+AU  - Wang, Mingwei
+AU  - Wei, Chunqiu
+AU  - Yeh, Jean
+AU  - Morris, Philip J.
+AU  - Fournier, Noah J.
+AU  - Chen, Yining
+AU  - Cheng, Xingong
+AU  - Yang, Donghui
+AU  - Xiang, Shuhuang
+AU  - Scully, Marlan O.
+JO  - Communications in Nonlinear Science and Numerical Simulation
+VL  - 101
+SP  - 105850
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 1007-5704
+DO  - https://doi.org/10.1016/j.cnsns.2021.105850
+UR  - https://www.sciencedirect.com/science/article/pii/S1007570421001623
+KW  - Aircraft crash mechanics
+KW  - Passenger biomechanics
+KW  - Aircraft structural components andfixtures
+KW  - Injury analysis
+KW  - LS-DYNA modeling
+KW  - Supercomputer simulations
+KW  - Vibration
+AB  - The DYCAST (Dynamic Crash Analysis of Structures) experiments that started at NASA Langley Research Center during the late 1970s have greatly influenced the methodology and thinking of aircraft crashworthiness and survivability studies, and was continued and refined at other aerospace establishments. Nevertheless, so far most of the existing work has emphasized the impact damage to the aircraft section. Issues related to potential passenger injuries have not been properly addressed in the literature, to the best of our knowledge. Here, we study the DYCAST problem integrally by treating and combining impact damage and passenger injuries altogether. We develop the biomechanics by way of modal analysis of passenger dummy motions coupled with the vibration of aircraft structures in order to understand their basic interactions. Two types of mechanical dummies are used in this study. Such a modal analysis can help identify basic injury types, but is valid only in the constructed models, linear regime. However, we are able to extend the linear elastic model to a nonlinear elastoplastic computational model by using the versatile software LS-DYNA as the platform. Computer simulations are carried out on the supercomputer clusters and the numerical results are rendered into video animations for visualization and analysis. One can see, for example, how the passenger-dummy interactive motions with the fuselage and fixtures and the potential injuries caused in the event of general aircraft crashes on a fractal domain.
+ER  - 
+
+TY  - JOUR
+T1  - Optimized levy flight model for heart disease prediction using CNN framework in big data application
+AU  - Jain, Arushi
+AU  - Chandra Sekhara Rao, Annavarapu
+AU  - Kumar Jain, Praphula
+AU  - Hu, Yu-Chen
+JO  - Expert Systems with Applications
+VL  - 223
+SP  - 119859
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2023.119859
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417423003603
+KW  - Optimization
+KW  - Heart disease prediction
+KW  - Convolution neural networks
+KW  - Big data
+KW  - Swarm intelligence algorithm
+AB  - Cardiac disease is one of the most complex diseases globally. It affects the lives of humans critically. It is essential for accurate and timely diagnosis to treat heart failure and prevent the disease. In most aspects, it was not so successful with the traditional method, which uses past medical history. Many existing models had several types of the loss function in traditional CNN can lead to misidentification of the model. To solve this problem, so many scholars have used the swarm intelligence algorithm, but most of these techniques are stuck in the local minima and suffer from premature convergence. In the proposed method, we build up the Levy Flight – Convolutional Neural Network (LV-CNN) depending on the diagnostic system using heart disease image data set for heart disease assessment. Initially, the input Big Data images are resized to reduce the computational complexity of the system. Then, those resized images are subject to the proposed LV-CNN model. Therefore, the LV approach is integrated with the Sunflower Optimization Algorithm (SFO) to reduce loss function occurring in the CNN architecture. Such a combination helps the SFO algorithm avoid trapping in local minima due to the random walk of the levy flight. The proposed algorithm will be simulated using the MATLAB tool and tested experimentally in terms of accuracy is 95.74%, specificity is 0.96%, the error rate is 0.35, and time consumption is 9.71 s. This comparative analysis revealed that the excellence of the proposed model.
+ER  - 
+
+TY  - JOUR
+T1  - A stochastic programming model for designing bus bridging services under metro disruptions
+AU  - Zhen, Lu
+AU  - Du, Xueqin
+AU  - Li, Haolin
+AU  - Wu, Zanyang
+JO  - Transportation Letters
+PY  - 2024
+DA  - 2024/03/16/
+SN  - 1942-7867
+DO  - https://doi.org/10.1080/19427867.2024.2327811
+UR  - https://www.sciencedirect.com/science/article/pii/S1942786724000146
+KW  - Urban metro system
+KW  - bus bridging
+KW  - schedule
+KW  - passenger assignment
+KW  - stochastic programming
+KW  - tabu search algorithm
+AB  - ABSTRACT
+With the growing reliance on urban metro networks, any accidental disruption can lead to rapid degradation and significant economic losses. Bus bridging services are common and efficient ways to minimize such adverse impacts. In this study, we investigate the problem of designing bus bridging services in response to unexpected metro disruptions, and propose a routing strategy with multiple bridging routes. In particular, to respond to uncertain factors such as passenger arrivals and bus travel times in the disruption environment, we develop a two-stage stochastic programming model for the collaborative optimization of bus bridging routes, schedules, and passenger assignments. To solve the computational challenges arising with the proposed model, a tailored tabu search algorithm is developed. Finally, several sets of numerical experiments are conducted and experimental results reveal that our proposed routing strategy can effectively improve the service level for the affected passengers during metro disruptions.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid intelligence aspects of programming in *AIDA algorithmic pictures
+AU  - Watanobe, Yutaka
+AU  - Mirenkov, Nikolay
+JO  - Future Generation Computer Systems
+VL  - 37
+SP  - 417
+EP  - 428
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Special Section: Innovative Methods and Algorithms for Advanced Data-Intensive Computing
+T2  - Special Section: Semantics, Intelligent processing and services for big data
+T2  - Special Section: Advances in Data-Intensive Modelling and Simulation
+T2  - Special Section: Hybrid Intelligence for Growing Internet and its Applications
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2013.12.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X13002951
+KW  - Programming in pictures
+KW  - *AIDA
+KW  - Algorithmic CyberFilm
+AB  - Programming in algorithmic pictures (a-pictures) is an approach where pictures and moving pictures are used as super-characters for representing features of computational algorithms and data structures. Within this approach some “data space structures” are traversed by “fronts of computation” and/or some “units of activity” are traversed by flows of data. There are compound a-pictures to define algorithmic steps (called Algorithmic CyberFrames) and generic a-pictures to define the contents of compound pictures. Compound a-pictures are assembled into special series to represent some algorithmic features. The series are assembled into an Algorithmic CyberFilm. The generic/compound a-pictures and their series are developed and acquired in special galleries of an open type where supportive pictures of embedded clarity annotations are also included. In this paper, *AIDA (Star-AIDA) modeling/programming language (AIDA stands for Animation and Images to Develop Algorithms) and its Filmification modeling (F-modeling) environment are briefly considered and examples of programs in a-pictures are provided. A special attention is paid to *AIDA programs as special information resources which perception, comprehension and cognition depend on interaction with, at least, a few different but mutually supplementing features of a-pictures. A scheme of data/knowledge acquisition based on clusters of different views and how this acquisition is oriented to enhancing user’s ability within works on developing application models, corresponding algorithms and programs, are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding the mechanics of creep deformation to develop a surrogate model for contact assessment in CANDU® fuel channels
+AU  - Pandey, M.D.
+AU  - Tallavo, F.J.
+AU  - Christodoulou, N.C.
+AU  - Leitch, B.
+AU  - Bickel, G.A.
+JO  - Nuclear Engineering and Design
+VL  - 330
+SP  - 141
+EP  - 156
+PY  - 2018
+DA  - 2018/04/15/
+SN  - 0029-5493
+DO  - https://doi.org/10.1016/j.nucengdes.2018.01.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0029549318300323
+KW  - Fuel channel
+KW  - Creep deformation
+KW  - Finite element method
+KW  - Surrogate model
+KW  - Pressure tube
+KW  - Calandria tube
+KW  - Contact assessment
+KW  - Zirconium alloy
+KW  - Probabilistic assessments
+AB  - A key element of the fuel channel life cycle management in CANDU® reactors is to prevent contact between the pressure tube (PT) and the calandria tube (CT) and to avoid the development of hydride blisters that lead to delayed hydride cracking of the PT. The PT-CT contact is the result of in-reactor deformation due to irradiation induced creep of the fuel channel assembly, which in turn is affected by uncertainties associated with various parameters like material properties, dimensional changes in the channel and boundary conditions (e.g., end slopes) of the channel. To account for these uncertainties, probabilistic assessment methods are developed to evaluate the risk of PT-CT contact and demonstrate compliance with provisions of the CSA Standard N285.8. Currently, a simulation is based on probabilistic assessments in which input parameters to a finite element model (FEM) of creep deformation are randomly sampled from their respective distributions. A simulation model involves numerous repetitive solutions of the FEM model to determine the probability distribution of PT-CT gap and the time to contact. Since the creep deformation analysis using FEM is computationally involved, this brute force Monte Carlo simulation method is not an efficient way to carry out the probabilistic assessment of the reactor core. This paper proposes a new line of thinking for probabilistic assessments of PT-CT contact in fuel channels, which is based on replacing a full FEM model by a surrogate model of a much simpler analytical form. The surrogate model not only simplifies the creep deformation analysis, but also provides a more logical basis for probabilistic assessments. This paper presents an insightful analysis of creep deformation and shows that a simple surrogate model can be developed to predict the PT-CT gap as a linear function of two primary random variables, namely, a creep factor and end slopes. This simplified representation has a far reaching effect on the probabilistic assessment of fuel channels.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 2 - The DCI Paradigm: Taking Object Orientation into the Architecture World
+AU  - Coplien, James O.
+AU  - Reenskaug, Trygve
+A2  - Ali Babar, Muhammad
+A2  - Brown, Alan W.
+A2  - Mistrik, Ivan
+BT  - Agile Software Architecture
+PB  - Morgan Kaufmann
+CY  - Boston
+SP  - 25
+EP  - 62
+PY  - 2014
+DA  - 2014/01/01/
+SN  - 978-0-12-407772-0
+DO  - https://doi.org/10.1016/B978-0-12-407772-0.00002-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780124077720000022
+KW  - use case
+KW  - mental models
+KW  - postmodernism
+KW  - restricted object orientation
+KW  - full object orientation.
+AB  - Abstract
+We find surprisingly strong parallels in a playful comparison of the progression of thought in the architecture of the built world and its namesake in software. While some architectural progression in both fields owes to fashion, much more of it owes to learning—in both the field of design and collective human endeavor. We have been working on a paradigm called DCI (Data, Context, and Interaction) that places the human experiences of design and use of programs equally at center stage. It brings software design out of the technology-laced modern school of the 1980s into a postmodern era that places human experience at the center. DCI offers a vision of computers and people being mutually alive in the sense of Christopher Alexander’s great design. DCI opens a dialog contrasting metaphors of collective human reasoning and Kay’s vision of object computation, as well as a dialog between the schools of design in the built world and in software.
+ER  - 
+
+TY  - JOUR
+T1  - Reflections on 50 years of MCDM: Issues and future research needs
+AU  - French, Simon
+JO  - EURO Journal on Decision Processes
+VL  - 11
+SP  - 100030
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 2193-9438
+DO  - https://doi.org/10.1016/j.ejdp.2023.100030
+UR  - https://www.sciencedirect.com/science/article/pii/S2193943823000031
+KW  - Behavioural decision studies
+KW  - Bayesian analysis
+KW  - Conflicting objectives
+KW  - Cynefin
+KW  - Multiple criteria decision-making (MCDM)
+KW  - Uncertainty
+AB  - Modern discussions of multiple criteria decision-making extend back about half a century. I reflect on key developments, schools of thought and controversies that have taken place over the period, arguing that perhaps those of us in different schools focus too much on our differences and do not capitalise enough on what we share in common. Moreover, the differences between schools are indications of their respective weaknesses and can drive improvements in each. The discussion points to a number of issues and research needs that the community needs to address.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical reasoning of middle school children engaged in survey inquiry
+AU  - Lavigne, Nancy C.
+AU  - Lajoie, Susanne P.
+JO  - Contemporary Educational Psychology
+VL  - 32
+IS  - 4
+SP  - 630
+EP  - 666
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0361-476X
+DO  - https://doi.org/10.1016/j.cedpsych.2006.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0361476X06000488
+KW  - Statistical reasoning
+KW  - Inquiry
+KW  - Mathematics education
+KW  - Middle school
+KW  - Thinking
+KW  - Cognition
+AB  - The case study examined two groups of grade 7 students as they engaged in four inquiry phases: posing a question and collecting, analyzing, and representing data. Previous studies reported analyses of statistical reasoning on a single inquiry phase. Our goal was to identify the modes of statistical reasoning displayed during group discussions in all phases as children designed and conducted their own inquiry. A content analysis of audio and video recorded discussions yielded 10 statistical reasoning modes: six relate to Garfield and Gal’s [Garfield, J., Gal, I. (1999). Teaching and assessing statistical reasoning. In L. V. Stiff, & F. R. Curcio (Eds.), Developing mathematical reasoning in grades K-12. 1999 Yearbook (pp. 207–219). Reston, VA: National Council of Teachers of Mathematics] statistical reasoning types involved in the collection, analysis, and representation of data and four modes deal with an aspect of inquiry not exclusively focused upon in the literature on statistical reasoning—i.e., the problem-posing phase. Although students’ reasoning reflected an incomplete understanding of statistics they serve as building blocks for instruction.
+ER  - 
+
+TY  - JOUR
+T1  - Ubiquitous computer aided design: A broken promise or a Sleeping Beauty?
+AU  - Horváth, Imre
+AU  - Vroom, Regine W.
+JO  - Computer-Aided Design
+VL  - 59
+SP  - 161
+EP  - 175
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0010-4485
+DO  - https://doi.org/10.1016/j.cad.2014.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0010448514002358
+KW  - Ubiquitous computing
+KW  - Computer aided design
+KW  - Ubiquitous design enablers
+KW  - Competing technology exploitation
+KW  - Ubiquitous CAD applications
+AB  - As a novel computational approach, ubiquitous computing was emerging at the beginning of the 1980s and has reached a rather mature level by now. It assumes that computing can be available anywhere, anytime and in any context due to technological developments, social demands and calm implementations. Over the years, the opportunities of this computing paradigm have been explored and the benefits have been exploited successfully in many application fields. This survey paper addresses ubiquitous computing from the perspective of enabling computer aided design. The specific objectives of the reported survey are to: (i) give an overall account of the current status of ubiquitous computing and technologies, (ii) cast light on how ubiquitous computing has influenced the development of CAD systems, tools, and methods, and (iii) critically investigate future development opportunities of ubiquitous computing enabled computer aided design. First, the paper discusses the principles and typical technologies of ubiquitous computing. Then, the development and spectrum of the so-called standard computer aided design tasks are analyzed from a computational point of view. Afterwards, the already implemented design enabling functionalities are discussed and some additional functional possibilities are considered. The literature provides evidence that ubiquitous computing has not managed to revolutionize the methodologies or the systems of computer aided design so far, though many researchers intensively studied the affordances and the application possibilities of ubiquitous technologies. One reason is that ubiquitous computing technologies had in the last two decades to compete with other kinds of computational technologies, such as high-capacity computing, high-speed networking, immersive virtual reality, knowledge ontologies, smart software agents, mobile communication, etc., which had a much stronger influence on the development of computer aided design methods and systems. In combination with the rather conservative and conventionalist industrial practice of CAD system development and application, this may explain why the ubiquitous computing revolution remained weak in computer aided design. The literature clearly indicates that application of ubiquitous technologies did not lead to radically new functionalities that could have been exploited by the concerned industries. Consequently, it seems to be possible that computer aided design simply steps over the paradigm of ubiquitous computing and expects new functionalities from the emerging new computing paradigms, such as brain–computer interfacing, cyber–physical computing, biological computing, or quantum computing.
+ER  - 
+
+TY  - JOUR
+T1  - Managing disruptions in the multi-depot vehicle scheduling problem
+AU  - Uçar, Ezgi
+AU  - İlker Birbil, Ş.
+AU  - Muter, İbrahim
+JO  - Transportation Research Part B: Methodological
+VL  - 105
+SP  - 249
+EP  - 269
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0191-2615
+DO  - https://doi.org/10.1016/j.trb.2017.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0191261516305495
+KW  - Multi-depot vehicle scheduling
+KW  - Robust planning
+KW  - Column-and-row generation
+AB  - We consider two types of disruptions arising in the multi-depot vehicle scheduling; the delays and the extra trips. These disruptions may or may not occur during operations, and hence they need to be indirectly incorporated into the planned schedule by anticipating their likely occurrence times. We present a unique recovery method to handle these potential disruptions. Our method is based on partially swapping two planned routes in such a way that the effect on the planned schedule is minimal, if these disruptions are actually realized. The mathematical programming model for the multi-depot vehicle scheduling problem, which incorporates these robustness considerations, possesses a special structure. This special structure causes the conventional column generation method fall short as the resulting problem grows also row-wise when columns are generated. We design an exact simultaneous column-and-row generation algorithm to find a valid lower-bound. The novel aspect of this algorithm is the pricing subproblem, which generates pairs of routes that form recovery solutions. Compromising on exactness, we modify this algorithm in order to enable it to solve practical-sized instances efficiently. This heuristic algorithm is shown to provide very tight bounds on the randomly generated instances in a short computation time.
+ER  - 
+
+TY  - JOUR
+T1  - Augmenting the communication and engagement toolkit for CO2 capture and storage projects
+AU  - Buah, Eric
+AU  - Linnanen, Lassi
+AU  - Wu, Huapeng
+JO  - International Journal of Greenhouse Gas Control
+VL  - 107
+SP  - 103269
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 1750-5836
+DO  - https://doi.org/10.1016/j.ijggc.2021.103269
+UR  - https://www.sciencedirect.com/science/article/pii/S1750583621000219
+KW  - Artificial intelligence
+KW  - CO capture and storage
+KW  - CCS communication and engagement
+KW  - CCS toolkit
+KW  - CCS SWOT
+KW  - Deep neural network algorithm
+KW  - Fuzzy logic
+KW  - Fuzzy deep learning
+AB  - This paper revisits the Communication and Engagement Toolkit for CO2 Capture and Storage (CCS) projects proposed by Ashworth and colleagues in collaboration with the Global CCS Institute. The paper proposes a new method for understanding the social context where CCS will be deployed based on the toolkit. In practice, the proposed method can be used to harness social data collected on the CCS project. The outcome of this application is a development of a predictive tool for gaining insight into the future, to guide strategic decisions that may enhance deployment. Methodologically, the proposed predictive tool is an artificial intelligence (AI) tool. It uses fuzzy deep neural network to develop computational ability to reason about the social behavior. The hybridization of fuzzy logic and deep neural network algorithms make the predictive tool an explainable AI system. It means that the prediction of the algorithm is interpretable using fuzzy logical rules. The practical feasibility of the proposed system has been demonstrated using an experimental sample of 198 volunteers. Their perceptions, emotions and sentiments were tested using a standard questionnaire from the literature, on a hypothetical CCS project based on 26 predictors. The generalizability of the algorithm to predict future reactions was tested on, 84 out-of-sample respondents. In the simulation experiment, we observed an approximately 90 % performance. This performance was measured when the algorithm's predictions were compared to the self- reported reactions of the out of sample subjects. The implication of the proposed tool to enhance the predictive power of the conventional CCS Communication and Engagement tool is discussed © 2020 xx. Hosting by Elsevier B.V. All rights reserved.
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive Processes in Preparation for Problem Solving
+AU  - Samsonovich, Alexei V.
+AU  - Kitsantas, Anastasia
+AU  - O’Brien, Ellen
+AU  - De Jong, Kenneth A.
+JO  - Procedia Computer Science
+VL  - 71
+SP  - 235
+EP  - 247
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th Annual International Conference on Biologically Inspired Cognitive Architectures, BICA 2015, 6-8 November Lyon, France
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2015.12.218
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050915036790
+KW  - self-regulation
+KW  - planning
+KW  - metacognition
+KW  - intelligent tutoring systems
+AB  - The aim of this study was to examine the role of a software tool in diagnosing student's thinking during problem solving in mathematics with 41 college students. Students were asked to select relevant steps, facts and strategies represented on the screen and connect them by arrows, indicating their plan of solution. Only after the diagram was completed, students were allowed to solve the problem. The findings are: (i) forward chaining is significantly more predominant, and backward chaining is significantly less frequent, compared to other possibilities or arrow entering. This result is unexpected, because classical planning methods produce backward chaining in this task. (ii) Students scoring in the middle are more likely to enter convergent pairs of arrows compared to students who scored low or high. This finding enables diagnosing student problem solving. Both findings imply constraints on selection of cognitive architectures used for modeling student problem solving.
+ER  - 
+
+TY  - JOUR
+T1  - Future design of accessibility in games: A design vocabulary
+AU  - Cairns, Paul
+AU  - Power, Christopher
+AU  - Barlet, Mark
+AU  - Haynes, Greg
+JO  - International Journal of Human-Computer Studies
+VL  - 131
+SP  - 64
+EP  - 71
+PY  - 2019
+DA  - 2019/11/01/
+T2  - 50 years of the International Journal of Human-Computer Studies. Reflections on the past, present and future of human-centred technologies
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2019.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581919300801
+KW  - Digital games
+KW  - Accessibility
+KW  - Guidelines
+KW  - Design vocabulary
+KW  - Accessible player experiences
+AB  - Games represent one of the most significant cultural artefacts of this century. They are a massive force in economies around the world and are enjoyed by millions of players worldwide. With their cultural significance firmly in place, it is important to ensure that all people can participate in and play games in order to feel included in our wider society. For people with disabilities, games in particular provide a cultural outlet where they can be included with everyone else, and enabled to do things on an even footing with their non-disabled peers. However, this only happens if we create the necessary design environments that provide inclusive opportunities to game alongside the rest of the player base. Guidelines have been successful in raising awareness of accessibility in games and still function well for evaluating finished games. However, they are not the generative design thinking tools that developers need. Further in being divided to address specific disabilities, they are not capturing the diversity of needs of players with disabilities and the personalised and idiosyncratic adaptations that they make in order to play. We therefore propose developing a vocabulary and language of game accessibility which is no longer about whether someone can perceive or operate an interactive technology, but instead as to whether they can have the experience they want to have. We propose the structure for such a vocabulary showing that it needs to distinguish between access to controls, enablement to meet the challenges of the game and the player experience itself. We show how the intermediate-level knowledge embodied in guidelines can be reformulated in this way to be more generative and so support designers to develop games that deliver accessible player experiences.
+ER  - 
+
+TY  - JOUR
+T1  - Evolving trends in student assessment in chemical engineering education
+AU  - Ravi, Manoj
+JO  - Education for Chemical Engineers
+VL  - 45
+SP  - 151
+EP  - 160
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 1749-7728
+DO  - https://doi.org/10.1016/j.ece.2023.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S1749772823000453
+KW  - Assessment
+KW  - Authentic assessment
+KW  - Digitalisation
+AB  - Alongside innovation in teaching practice, student assessment in chemical engineering has seen significant changes in the recent past. This article undertakes a systematic review of the recent advances that have been reported in assessment practice in chemical engineering education. The main trends that emerge are: a shift towards authentic assessment methods, an increase in emphasis on peer-assessment and other approaches for group-based assignments, and a greater use of digital tools for the delivery of authentic assessments and improvement of marking and feedback practice. The analysis also examines the diversity of assessment methods used across the different chemical engineering subjects and how these map against assessment frameworks reported in the wider pedagogical literature. The emerging strand of research on synoptic and interdisciplinary assessment is used to develop an assessment framework for producing chemical engineering graduates who are also socially responsible and competent global citizens.
+ER  - 
+
+TY  - JOUR
+T1  - Distributed localized bi-objective search
+AU  - Derbel, Bilel
+AU  - Humeau, Jérémie
+AU  - Liefooghe, Arnaud
+AU  - Verel, Sébastien
+JO  - European Journal of Operational Research
+VL  - 239
+IS  - 3
+SP  - 731
+EP  - 743
+PY  - 2014
+DA  - 2014/12/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2014.05.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221714004639
+KW  - Multiple objective programming
+KW  - Combinatorial optimization
+KW  - Parallel and distributed computing
+KW  - Evolutionary computation
+AB  - We propose a new distributed heuristic for approximating the Pareto set of bi-objective optimization problems. Our approach is at the crossroads of parallel cooperative computation, objective space decomposition, and adaptive search. Given a number of computing nodes, we self-coordinate them locally, in order to cooperatively search different regions of the Pareto front. This offers a trade-off between a fully independent approach, where each node would operate independently of the others, and a fully centralized approach, where a global knowledge of the entire population is required at every step. More specifically, the population of solutions is structured and mapped into computing nodes. As local information, every node uses only the positions of its neighbors in the objective space and evolves its local solution based on what we term a ‘localized fitness function’. This has the effect of making the distributed search evolve, over all nodes, to a high quality approximation set, with minimum communications. We deploy our distributed algorithm using a computer cluster of hundreds of cores and study its properties and performance on ρMNK-landscapes. Through extensive large-scale experiments, our approach is shown to be very effective in terms of approximation quality, computational time and scalability.
+ER  - 
+
+TY  - JOUR
+T1  - Thermal pressure of ionic solids at high temperatures
+AU  - Sinha, Pallavi
+JO  - Solid State Sciences
+VL  - 10
+IS  - 7
+SP  - 955
+EP  - 959
+PY  - 2008
+DA  - 2008/07/01/
+SN  - 1293-2558
+DO  - https://doi.org/10.1016/j.solidstatesciences.2007.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1293255807003366
+KW  - Thermal pressure
+KW  - Volume expansion
+AB  - In the present study, a relationship between thermal pressure and volume expansion ratio is disclosed for ionic solids at 1bar pressure. The ionic solids NaCl, KCl, MgO and CaO are considered for the analytic thinking. The analysis is based on the experimental data tabulated by Anderson and generalized data reported by Srivastava. A close agreement between the present study and the experiment reveals the validity of the present work. The extrapolated values of thermal pressure at higher temperatures are useful to understand the thermoelastic behaviour of solids.
+ER  - 
+
+TY  - JOUR
+T1  - Integrated water-power system resiliency quantification, challenge and opportunity
+AU  - Roni, Mohammad S.
+AU  - Mosier, Thomas
+AU  - Feinberg, Tzvi D.
+AU  - McJunkin, Timothy
+AU  - Toba, Ange-Lionel
+AU  - Boire, Liam D.
+AU  - Rodriguez-Garcia, Luis
+AU  - Majidi, Majid
+AU  - Parvania, Masood
+JO  - Energy Strategy Reviews
+VL  - 39
+SP  - 100796
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 2211-467X
+DO  - https://doi.org/10.1016/j.esr.2021.100796
+UR  - https://www.sciencedirect.com/science/article/pii/S2211467X21001796
+KW  - Resiliency
+KW  - Irrigation
+KW  - Integrated water-power system
+KW  - Optimization
+AB  - Resiliency has been studied in the power and water systems separately. Often the resiliency study is not so comprehensive as to understand interdependent, integrated water and power systems. This research outlines the relevant factors necessary to understand and advance quantification of such integrated systems. It also presents a review of integrated water-power systems resiliency. Based on literature survey and identification of challenges, the authors present quantification and computational steps needed to understand integrated water-power systems resiliency. A conceptual framework is proposed to quantify integrated water-power system resiliency. Finally, the authors presented an opportunity for improved water and power system resilience.
+ER  - 
+
+TY  - JOUR
+T1  - Hierarchical spatio-temporal graph convolutional neural networks for traffic data imputation
+AU  - Xu, Dongwei
+AU  - Peng, Hang
+AU  - Tang, Yufu
+AU  - Guo, Haifeng
+JO  - Information Fusion
+VL  - 106
+SP  - 102292
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2024.102292
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253524000708
+KW  - Traffic data imputation
+KW  - Hierarchical representation
+KW  - Graph convolution network
+KW  - Spatio-temporal features
+AB  - The quality of traffic services depends on the accuracy and completeness of the collected traffic data. However,the existing traffic data imputation methods usually only rely on the predefined road network structure to capture the spatio-temporal features and only consider the imputation effect from a single perspective, which are very limited for imputation of different missing patterns of road traffic data. In this paper, we propose a novel deep learning framework called Hierarchical Spatio-temporal Graph Convolutional Neural Networks(HSTGCN) to impute traffic data,through the macro layer and the road layer. The model constructs macro graph of the road network based on the data temporal correlation clustering, which can mine the temporal dependencies of road traffic data from a hierarchical perspective. Besides, a temporal attention mechanism and adaptive adjacency matrix are introduced in the road layer to better extract the spatio-temporal information of the road traffic data. Finally, we use graph convolution neural networks to learn the spatio-temporal feature representations of the road layer and macro layer, which are then fused to achieve data imputation. To illustrate the efficient performance of the model, experiments are conducted on traffic data collected from California and Seattle. The proposed model performs better than the comparison model for traffic data imputation.
+ER  - 
+
+TY  - CHAP
+T1  - Preface
+AU  - Sullivan, Kevin F.
+BT  - Methods in Cell Biology
+PB  - Academic Press
+VL  - 85
+SP  - XIX
+EP  - XX
+PY  - 2008
+DA  - 2008/01/01/
+T2  - Fluorescent Proteins
+SN  - 0091-679X
+DO  - https://doi.org/10.1016/S0091-679X(08)85026-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0091679X08850261
+AB  - Publisher Summary
+The chapter highlights the content of the book “Fluorescent proteins 2nd edition.” The book discusses the rich palette of autofluorescent proteins that now spans the spectral range from blue to deep red. From presentation of the ideas and concepts that provide the foundation for methods through discussing the factual knowledge and sources required to design experiments to the detailed exposition of actual experimental protocols, the chapters in this book combine to provide an essential tool for thinking about using genetically encoded fluorescent molecules. The experimental goals and systems discussed in the chapter present range from biophysical interrogation of individual molecules to the analysis of the behavior of cell populations in whole animals. The range of autofluorescent proteins available is presented and discussed in several chapters of the book. The construction of FP fusions is also discussed in several contexts, from developing biosensors and optimizing FRET to constructing intramolecular fusions and hemi-FP chimeras used for detecting protien–protein interactions.
+ER  - 
+
+TY  - CHAP
+T1  - Grammatology
+AU  - Brandt, P.A.
+A2  - Brown, Keith
+BT  - Encyclopedia of Language & Linguistics (Second Edition)
+PB  - Elsevier
+CY  - Oxford
+SP  - 136
+EP  - 140
+PY  - 2006
+DA  - 2006/01/01/
+SN  - 978-0-08-044854-1
+DO  - https://doi.org/10.1016/B0-08-044854-2/00355-2
+UR  - https://www.sciencedirect.com/science/article/pii/B0080448542003552
+KW  - Barthes
+KW  - deconstruction
+KW  - Derrida
+KW  - differance
+KW  - grammatology
+KW  - Lacan
+KW  - logocentrism
+KW  - McLuhan
+KW  - phenomenology
+KW  - Saussure
+KW  - sign
+KW  - symbolization
+KW  - writing
+AB  - Grammatology, the study of writing systems and processes, is presented through the French philosopher Jacques Derrida's critique of the concept of meaning, following from semiology and the notion of sign as such in Western thinking: ‘logocentrism.’ This critical view of writing was the starting point of deconstruction in literary criticism. It is argued in this article that written texts are different from oral utterances as concerns their enunciation, or speaker role, and that this circumstance deeply affects their interpretation. The difference could explain the sacralization of texts and text volumes, their cultural status and importance. The computer age is about to transform the relation between oral and written communication, so that we now can have written dialogue in addition to oral dialogue.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the impact of ChatGPT on art creation and collaboration: Benefits, challenges and ethical implications
+AU  - Zhu, Sijin
+AU  - Wang, Zheng
+AU  - Zhuang, Yuan
+AU  - Jiang, Yuyang
+AU  - Guo, Mengyao
+AU  - Zhang, Xiaolin
+AU  - Gao, Ze
+JO  - Telematics and Informatics Reports
+VL  - 14
+SP  - 100138
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 2772-5030
+DO  - https://doi.org/10.1016/j.teler.2024.100138
+UR  - https://www.sciencedirect.com/science/article/pii/S2772503024000240
+KW  - Creative AI
+KW  - HumanAI collaboration
+KW  - Language models
+KW  - Interactive AI literacy
+AB  - This paper examines the chaos caused by introducing advanced language models, specifically ChatGPT, to art. Our focus is on the potential impact of ChatGPT on art creation and collaboration. We explore how it has been utilized to generate art and assist in creative writing and how it facilitates collaboration between artists. This exploration includes an investigation into the use of AI in creating art, music, and literature, emphasizing ChatGPT’s role in generating poetry and prose and its ability to provide valuable suggestions for sentence structure and word choice in creative writing. We conduct case studies and interviews with diverse artists and AI experts to understand the benefits and challenges of using ChatGPT in the creative process. Our findings reveal that artists find ChatGPT helpful in generating new ideas, overcoming creative blocks, and improving the quality of their work. It enables remote collaboration between artists by providing a real-time communication and idea-sharing platform. However, ethical concerns relating to authorship ownership and authenticity have emerged. Artists fear using ChatGPT may lead to losing their artistic identity and ownership of their work. While our data suggests that ChatGPT holds the potential to transform the art world, careful consideration must be given to the ethical implications of AI in art. We recommend future research to focus on developing guidelines for the responsible use of AI in art, safeguarding artists’ rights, and preserving artistic authenticity.
+ER  - 
+
+TY  - JOUR
+T1  - Vibrationally resolved deep–red circularly polarised luminescence spectra of C70 derivative through Gaussian curvature analysis of ground and excited states
+AU  - Bella, Giovanni
+AU  - Bruno, Giuseppe
+AU  - Santoro, Antonio
+JO  - Journal of Molecular Liquids
+VL  - 391
+SP  - 123268
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0167-7322
+DO  - https://doi.org/10.1016/j.molliq.2023.123268
+UR  - https://www.sciencedirect.com/science/article/pii/S0167732223020743
+KW  - Fullerene
+KW  - Chirality
+KW  - Curvature
+KW  - Vibronic
+KW  - Circularly polarized luminescence
+AB  - Over the last years, the interaction of fullerene with circularly polarized light has attracted growing attention for potential electronic and optical applications. However, in literature there is only one example of fullerene derivative capable of emitting circularly polarized light, showing an active circularly polarized luminescence (CPL) signal in the deep-red visible region. This unique luminophore offered us the possibility to study the connection between the topological features of C70 spheroid and its chiral emission properties. In light of these considerations, we proposed a theoretical protocol that combines three different step: (1) The Ball Pivoting Algorithm for C70 surface reconstruction. (2) The discrete gaussian curvature analysis in the ground (S0) and excited states (S1). (3) The computation of the vibrationally-resolved CPL spectrum. The first step allowed us to extract useful information that linked the topological shape of C70 to the sp2 carbon network chemistry. The DFT benchmark in the second step guided us in grasping the best functional for the C70 curvature simulation in the ground state, spotlighting how B97D3 excellently succeed for this task. The curvature investigation in the first excited state showed that (for all the twenty exchange–correlation functional tested) the C70 fragment is more curved in S1 than in S0. The final step collected the topological information from the previous sections to provide a detailed overview of the theoretical factors (such as the quantum formalism, the potential energy surface description and the transition dipole moment approximation) impacting on the C70 vibrationally resolved CPL spectrum. We found that the adiabatic hessian model coupled with the Franck-Condon Herzberg-Teller approximation computed at PW6B95D3/6-311G(d,p) level provides excellent results in emulating the band-shape and position of the experimental CPL spectrum.
+ER  - 
+
+TY  - JOUR
+T1  - Can a systems approach produce a better understanding of mood disorders?
+AU  - Plant, Nick
+JO  - Biochimica et Biophysica Acta (BBA) - General Subjects
+VL  - 1861
+IS  - 1, Part A
+SP  - 3335
+EP  - 3344
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 0304-4165
+DO  - https://doi.org/10.1016/j.bbagen.2016.08.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304416516303051
+KW  - Affective disorder
+KW  - Bipolar disorder
+KW  - Computational biology
+KW  - Drug development
+KW  - Systems biology
+AB  - Background
+One in twenty-five people suffer from a mood disorder. Current treatments are sub-optimal with poor patient response and uncertain modes-of-action. There is thus a need to better understand underlying mechanisms that determine mood, and how these go wrong in affective disorders. Systems biology approaches have yielded important biological discoveries for other complex diseases such as cancer, and their potential in affective disorders will be reviewed.
+Scope of review
+This review will provide a general background to affective disorders, plus an outline of experimental and computational systems biology. The current application of these approaches in understanding affective disorders will be considered, and future recommendations made.
+Major conclusions
+Experimental systems biology has been applied to the study of affective disorders, especially at the genome and transcriptomic levels. However, data generation has been slowed by a lack of human tissue or suitable animal models. At present, computational systems biology has only be applied to understanding affective disorders on a few occasions. These studies provide sufficient novel biological insight to motivate further use of computational biology in this field.
+General significance
+In common with many complex diseases much time and money has been spent on the generation of large-scale experimental datasets. The next step is to use the emerging computational approaches, predominantly developed in the field of oncology, to leverage the most biological insight from these datasets. This will lead to the critical breakthroughs required for more effective diagnosis, stratification and treatment of affective disorders.
+ER  - 
+
+TY  - JOUR
+T1  - Cartography of the multiple formal systems of molecular autopoiesis: from the biology of cognition and enaction to anticipation and active inference
+AU  - Rubin, Sergio
+JO  - Biosystems
+VL  - 230
+SP  - 104955
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0303-2647
+DO  - https://doi.org/10.1016/j.biosystems.2023.104955
+UR  - https://www.sciencedirect.com/science/article/pii/S0303264723001302
+KW  - Self-fabrication
+KW  - Operational closure
+KW  - Closure to efficient causation
+KW  - Calculus of self-reference
+KW  - Non-algorithmic
+KW  - Enaction
+KW  - Final cause
+AB  - A rich literature has grown up over the years that bears with autopoiesis, which tends to assume that it is a model, a theory, a principle, a definition of life, a property, refers to self-organization or even to hastily conclude that it is hylomorphic, hylozoist, in need of reformulation or to be overcome, making its status even more unclear. Maturana insists that autopoiesis is none of these and rather it is the causal organization of living systems as natural systems (NS) such that when it stops, they die. He calls this molecular autopoiesis (MA), which comprises two domains of existence: that of the self-producing organization (self-fabrication) and that of the structural coupling/enaction (cognition). Like all-NS in the universe, MA is amenable to be defined in theoretical terms, i.e. encoded in mathematical models and/or formal systems (FS). Framing the multiple formal systems of autopoiesis (FSA) into the Rosen's modeling relation (a process of bringing into equivalence the causality of NS and the inferential rules of FS), allows a classification of FSA into analytical categories, most importantly Turing machine (algorithmic) vs non-Turing machine (non-algorithmic) based, and FSA with a purely reactive mathematical image as cybernetic systems, i.e. feedbacks based, or conversely, as anticipatory systems making active inferences. It is thus the intent of the present work to advance the precision with which different FS may be observed to comply (preserve correspondence) with MA in its worldly state as a NS. The modeling relation between MA and the range of FS proposed as potentially illuminating their processes forecloses the applicability of Turing-based algorithmic computational models. This outcome indicates that MA, as modelled through Varela's calculus of self-reference or more especially through Rosen's (M,R)-system, is essentially anticipatory without violating structural determinism nor causality whatsoever, hence enaction may involve it. This quality may capture a fundamentally different mode of being in living systems as opposed to mechanical-computational systems. Implications in different fields of biology from the origin of life to planetary biology as well as in cognitive science and artificial intelligence are of interest.
+ER  - 
+
+TY  - JOUR
+T1  - CALRECOD — A software for Computed Aided Learning of REinforced COncrete structural Design
+AU  - Verduzco, Luis Fernando
+AU  - Horta, Jaime
+AU  - Hernández, Miguel A. Pérez Lara y
+AU  - Hernández, Juan Bosco
+JO  - Advances in Engineering Software
+VL  - 172
+SP  - 103189
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0965-9978
+DO  - https://doi.org/10.1016/j.advengsoft.2022.103189
+UR  - https://www.sciencedirect.com/science/article/pii/S0965997822000965
+KW  - CALRECOD
+KW  - Reinforced concrete structures
+KW  - High education
+KW  - Computed aided learning
+KW  - Optimization methods
+AB  - It is presented the development and implementation of a new computed aided learning MatLab Toolbox for the design of reinforced concrete structures named as CALRECOD for their abbreviation Computer Aided Learning of Reinforced Concrete Design. Such development emerges as the result of a series of research works in the Autonomous University of Queretaro with the main purpose of improving the way in which the design of reinforced concrete structures is taught in high education institutions. CALRECOD uses optimization methods and algorithms to aid students in their design interaction learning so that they are able to compare their own designs and what commercial software delivers with optimal ones given certain load conditions on the elements or structures. The software consists almost entirely of MatLab functions (.m files) and the ACI 318-19 code is taken as their main design reference to make it internationally useful, although in some cases the Mexican code NTC-17 specifications are used. Besides MatLab functions, the software consists as well of ANSYS SpaceClaim script functions (.scscript files) as an additional tool for the aid in the visualization of design results in a 3D space in the software ANSYS SpaceClaim. CALRECOD has proven to be versatile, flexible and of easy use with a huge potential to increase learning outcomes for students in high education programs related with the design of reinforced concrete structures as well as to enhance the creation of efficient interactive environments for researchers and academics focused on the development of new design and analysis methods for such structures. With their optimization design functions, a solid comparison platform of designs’ performance could be laid out, and with its extended function design packages for structural systems, reinforced concrete design courses could be enhanced in a great deal regarding their program content’s scope. The software can be found at: https://github.com/calrecod/CALRECOD.
+ER  - 
+
+TY  - CHAP
+T1  - Land use modeling and optimization based on food-energy-water nexus: a case study on crop-livestock systems
+AU  - Nie, Yaling
+AU  - Avraamidou, Styliani
+AU  - Li, Jie
+AU  - Xiao, Xin
+AU  - Pistikopoulos, Efstratios N.
+A2  - Eden, Mario R.
+A2  - Ierapetritou, Marianthi G.
+A2  - Towler, Gavin P.
+BT  - Computer Aided Chemical Engineering
+PB  - Elsevier
+VL  - 44
+SP  - 1939
+EP  - 1944
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 13 International Symposium on Process Systems Engineering (PSE 2018)
+SN  - 1570-7946
+DO  - https://doi.org/10.1016/B978-0-444-64241-7.50318-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780444642417503189
+KW  - land use
+KW  - nexus
+KW  - data-driven modeling
+KW  - global optimization
+AB  - Efficient land use in agricultural systems is a complicated decision-making problem with resource competitions and conflicting objectives. Systematic thinking based on food-energy-water (FEW) nexus is a necessity for modeling and optimization of the systems. However, challenges arise in making decisions while encountering conflicting objectives, limited data and coupling components. To address these challenges, we developed a global optimization-based land allocation framework, which provides an adaptive data-driven modeling method based on limited realistic data to predict yields for production components, a FEW index to help solve the multi-objective optimization problem and carry out assessments. Computational results indicate that the framework can provide valuable production models and a comprehensive FEW index to select strategies for optimal land allocation and limit stresses in the FEW nexus.
+ER  - 
+
+TY  - JOUR
+T1  - Can ChatGPT Challenge the Scientific Impact of Published Research, Particularly in the Context of Industry 4.0 and Smart Manufacturing?
+AU  - Terziyan, Vagan
+AU  - Kaikova, Olena
+AU  - Golovianko, Mariia
+AU  - Vitko, Oleksandra
+JO  - Procedia Computer Science
+VL  - 232
+SP  - 2540
+EP  - 2550
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 5th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2023)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.02.072
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924002497
+KW  - Artificial Intelligence
+KW  - ChatGPT
+KW  - Industry 4.0
+KW  - Smart Manufacturing
+KW  - academic impact
+AB  - The released ChatGPT as a powerful language model is capable of assisting with a wide range of tasks, including answering questions, summarizing, paraphrasing, proofreading, classifying, and integrating texts. In this study, we tested ChatGPT capability to assist researchers in evaluating the academic articles’ contribution. We suggest a dialogue schema in which ChatGPT is asked to answer research questions from the target article and then to compare its own answers with the answers from the article. Finally, ChatGPT is asked to integrate both solutions coherently. We experimented with Proceedings of ISM-2022 Conference on Industry 4.0 and Smart Manufacturing, utilizing explicit research questions. The chat context enabled assessing studied articles’ contributions to Industry 4.0, uncovering advancements beyond the state-of-the-art. However, ChatGPT demonstrates limitations in content understanding and contribution evaluation. We conclude that while it collaborates with humans on academic tasks, human guidance remains essential, while ChatGPT's assistance efficiently complements traditional academic processes.
+ER  - 
+
+TY  - JOUR
+T1  - Uncertainty, pluralism, and the knowledge-based theory of the firm: From J.-C. Spender’s contribution to a socio-cognitive approach
+AU  - Reihlen, Markus
+AU  - Ringberg, Torsten
+JO  - European Management Journal
+VL  - 31
+IS  - 6
+SP  - 706
+EP  - 716
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0263-2373
+DO  - https://doi.org/10.1016/j.emj.2013.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0263237313001011
+KW  - Knowledge-based approach
+KW  - Theory of the firm
+KW  - Knowledge transfer
+KW  - Social constructionism
+KW  - Tacit knowledge
+KW  - Socio-cognitive theory
+KW  - Intuition
+KW  - Mental models
+AB  - J.-C. Spender’s award-winning, knowledge-based theory of the firm is based on four premises: (1) The firm can be sufficiently understood as a system of knowledge, (2) explicit and implicit knowing can be clearly dissociated, (3) organizations are conceived as cognizing entities, and (4) intuition shaped by shared cultural practices is a superior source of managerial knowledge. This line of reasoning represents a social constructionist view of the enactment, transfer, and storage of knowledge according to which managerial knowledge is largely tacitly shaped by industry recipes and the firm’s socio-cultural conventions and other social processes. Although comprehensive in scope, we argue that a knowledge-based theory of the firm needs to integrate a cognitivist approach that includes the synergetic production of tacit and explicit knowledge, the role of reflective thinking in resolving strategic uncertainties, and the interaction between the individual and the social. This socio-cognitive theory of the firm posits that sustained competitive advantage of a firm is founded on the ability to align knowledge internally within the firm as well as externally with its stakeholders through the individual sense-making of feedback from other individuals.
+ER  - 
+
+TY  - JOUR
+T1  - Memory systems within a cognitive architecture
+AU  - Sun, Ron
+JO  - New Ideas in Psychology
+VL  - 30
+IS  - 2
+SP  - 227
+EP  - 240
+PY  - 2012
+DA  - 2012/08/01/
+SN  - 0732-118X
+DO  - https://doi.org/10.1016/j.newideapsych.2011.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0732118X11000729
+KW  - Memory
+KW  - Cognitive architecture
+KW  - CLARION
+AB  - This article addresses the division of memory systems in relation to an overall cognitive architecture. As understanding the architecture is essential to understanding the mind, developing computational cognitive architectures is an important enterprise in computational psychology (computational cognitive modeling). The article proposes a set of hypotheses concerning memory systems from the standpoint of a cognitive architecture, in particular, the four-way division of memory (including explicit and implicit procedural memory and explicit and implicit declarative memory). It then discusses in detail how these hypotheses may be validated through examining qualitatively the literature on memory. A quick review follows of computational simulations of a variety of quantitative data (which are not limited to narrowly conceived “memory tasks”). Results of accounting for both qualitative and quantitative data point to the promise of this approach.
+ER  - 
+
+TY  - JOUR
+T1  - Design futures in action: Documenting experiential futures for participatory audiences
+AU  - Kelliher, Aisling
+AU  - Byrne, Daragh
+JO  - Futures
+VL  - 70
+SP  - 36
+EP  - 47
+PY  - 2015
+DA  - 2015/06/01/
+SN  - 0016-3287
+DO  - https://doi.org/10.1016/j.futures.2014.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0016328714001980
+KW  - Documentation
+KW  - Multimedia
+KW  - Experiential futures
+KW  - Summarization
+KW  - Representation
+KW  - Annotation
+KW  - Exhibition
+KW  - Social platform
+AB  - The futures field demonstrates a willing openness in embracing methodologies, approaches, and influences from a diversity of disciplines and perspectives. This plurality of practice is evidenced in a growing body of work that increasingly embodies futures thinking in the design of everyday material and networked experiences. The intersection of design and futures produces artifacts, applications and interactions created to provoke dialog in an accessible manner. As part of the Futures special issue on the Emerge: Artists and Scientists Redesign the Future event, this article describes the documentation and public representation of the creative outcomes from nine Emerge design futures workshops. These workshops provided a rich opportunity to study how designers and futurists collaboratively engage, implement and communicate alternative futures. The goal of the documentation effort described is to capture the experience of creating experiential futures and extend the capacity for developing social foresight through a participatory exhibit and online social platform.
+ER  - 
+
+TY  - JOUR
+T1  - Guest Editorial: Big data-driven theory building: Philosophies, guiding principles, and common traps
+AU  - Kar, Arpan Kumar
+AU  - Angelopoulos, Spyros
+AU  - Rao, H. Raghav
+JO  - International Journal of Information Management
+VL  - 71
+SP  - 102661
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2023.102661
+UR  - https://www.sciencedirect.com/science/article/pii/S0268401223000427
+KW  - Big data
+KW  - Information systems
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Theory building
+KW  - Computational social science
+AB  - While data availability and access used to be a major challenge for information systems research, the growth and ease of access to large datasets and data analysis tools has increased interest to use such resources for publishing. Such publications, however, seem to offer weak theoretical contributions. While big data-driven studies increasingly gain popularity, they rarely introspect why a phenomenon is better explained by a theory and limit the analysis to data descriptive by mining and visualizing large volumes of big data. We address this pressing need and provide directions to move towards theory building with Big Data. We differentiate based on inductive and deductive approaches and provide guidelines how may undertake steps for theory building. In doing so, we further provide directions surrounding common pitfalls that should be avoided in this journey of Big-Data driven theory building.
+ER  - 
+
+TY  - JOUR
+T1  - Algorithmic Approaches to Classify Autism Spectrum Disorders: A Research Perspective
+AU  - Jacob, Shomona Gracia
+AU  - Bait Ali Sulaiman, Majdi Mohammed
+AU  - Bennet, Bensujin
+JO  - Procedia Computer Science
+VL  - 201
+SP  - 470
+EP  - 477
+PY  - 2022
+DA  - 2022/01/01/
+T2  - The 13th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 5th International Conference on Emerging Data and Industry 4.0 (EDI40)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.03.061
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922004744
+KW  - Machine learning
+KW  - Supervised learning
+KW  - Pattern discovery
+KW  - Autism disorder
+KW  - Data Mining
+AB  - Autism Spectrum Disorder (ASD) is a neurodevelopmental disability that exhibits sluggish progress in vocal development, restricted interest in normal activity and repetitive disoriented behavior. This syndrome, has gained a lot of attention due to its prevalence among children across all countries and from different economic backgrounds. However, ASD detection and treatment yet remains in its infancy due to the lack of awareness among parents, limited screening of proper developmental milestones and a dearth of diagnostic tools to classify this syndrome with convincing accuracy. Recent studies report that scalable biomarkers for early detection have made little progress in research due to the erraticism of this disorder. Moreover, the study on developing tools or applications for parents, teachers, and healthcare workers to identify children who exhibit any form of autism is still a work in progress. The research work undertaken in this paper presents an analysis of supervised machine learning algorithms on mining interesting details that link the diverse nature of ASD and the possibility of computationally detecting markers for the syndrome. The preliminary findings on the performance of traditional machine learning algorithms in ASD classification is reported with the possibility of integrating deep learning architectures for ASD detection and therapy.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 2 - Machine learning for solid mechanics
+AU  - Yang, Charles
+AU  - Zhang, Zhizhou
+AU  - Gu, Grace X.
+A2  - Zheng, Yuebing
+A2  - Wu, Zilong
+BT  - Intelligent Nanotechnology
+PB  - Elsevier
+SP  - 33
+EP  - 45
+PY  - 2023
+DA  - 2023/01/01/
+T2  - Materials Today
+SN  - 978-0-323-85796-3
+DO  - https://doi.org/10.1016/B978-0-323-85796-3.00002-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323857963000020
+KW  - Solid mechanics
+KW  - Inverse design
+KW  - Physics-informed deep learning
+KW  - Graph neural networks
+AB  - Solid mechanics is an important field responsible for the robust designs of humanity's greatest engineering accomplishments, from skyscrapers to airplanes to the space shuttle. A burst of new manufacturing techniques and novel next-generation materials is ushering in a new age of engineering revolving around sustainable development. In this chapter, we outline how artificial intelligence (AI) can help scientists and engineers manage the increasing complexity and computational requirements in solid mechanics fields. Two common problem-solving frameworks, forward and inverse design, as well as two promising new AI-based approaches, physics-informed deep learning and graph neural networks, are covered.
+ER  - 
+
+TY  - JOUR
+T1  - The Coding Question
+AU  - Gallistel, C.R.
+JO  - Trends in Cognitive Sciences
+VL  - 21
+IS  - 7
+SP  - 498
+EP  - 508
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 1364-6613
+DO  - https://doi.org/10.1016/j.tics.2017.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S1364661317300852
+AB  - Recent electrophysiological results imply that the duration of the stimulus onset asynchrony in eyeblink conditioning is encoded by a mechanism intrinsic to the cerebellar Purkinje cell. This raises the general question – how is quantitative information (durations, distances, rates, probabilities, amounts, etc.) transmitted by spike trains and encoded into engrams? The usual assumption is that information is transmitted by firing rates. However, rate codes are energetically inefficient and computationally awkward. A combinatorial code is more plausible. If the engram consists of altered synaptic conductances (the usual assumption), then we must ask how numbers may be written to synapses. It is much easier to formulate a coding hypothesis if the engram is realized by a cell-intrinsic molecular mechanism.
+ER  - 
+
+TY  - JOUR
+T1  - High-performance watershed delineation algorithm for GPU using CUDA and OpenMP
+AU  - Kotyra, Bartłomiej
+JO  - Environmental Modelling & Software
+VL  - 160
+SP  - 105613
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2022.105613
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815222003139
+KW  - Watershed delineation
+KW  - GIS
+KW  - Parallel algorithms
+KW  - GPU
+KW  - CUDA
+KW  - OpenMP
+AB  - Watershed delineation is one of the fundamental tasks in hydrological studies. Tools for extracting watersheds from digital elevation models and flow direction rasters are commonly implemented in GIS software packages. However, the performance of available techniques and algorithms often turns out to be far from sufficient, especially when working with large datasets. While modern hardware offers high computing performance through massive parallelism, there is still a need for algorithms that can effectively use these capabilities. This paper proposes an algorithm for rapid watershed delineation directly from flow direction rasters, using the possibilities offered by modern GPU devices. Performance measurements show a significant reduction in execution time compared to other parallel solutions proposed for this task in the literature. Moreover, this implementation makes it possible to delineate multiple watersheds from the same dataset simultaneously, each having one or more outlet cells, with virtually no additional computational cost.
+ER  - 
+
+TY  - JOUR
+T1  - The illusion of data validity: Why numbers about people are likely wrong
+AU  - Jansen, Bernard J.
+AU  - Salminen, Joni
+AU  - Jung, Soon-gyo
+AU  - Almerekhi, Hind
+JO  - Data and Information Management
+VL  - 6
+IS  - 4
+SP  - 100020
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 2543-9251
+DO  - https://doi.org/10.1016/j.dim.2022.100020
+UR  - https://www.sciencedirect.com/science/article/pii/S2543925122001188
+KW  - People data
+KW  - Measurement
+KW  - Quantitative paradigm
+KW  - Statistics
+AB  - This reflection article addresses a difficulty faced by scholars and practitioners working with numbers about people, which is that those who study people want numerical data about these people. Unfortunately, time and time again, this numerical data about people is wrong. Addressing the potential causes of this wrongness, we present examples of analyzing people numbers, i.e., numbers derived from digital data by or about people, and discuss the comforting illusion of data validity. We first lay a foundation by highlighting potential inaccuracies in collecting people data, such as selection bias. Then, we discuss inaccuracies in analyzing people data, such as the flaw of averages, followed by a discussion of errors that are made when trying to make sense of people data through techniques such as posterior labeling. Finally, we discuss a root cause of people data often being wrong – the conceptual conundrum of thinking the numbers are counts when they are actually measures. Practical solutions to address this illusion of data validity are proposed. The implications for theories derived from people data are also highlighted, namely that these people theories are generally wrong as they are often derived from people numbers that are wrong.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial multi-verse optimisation for predicting the effect of ideological and political theory course
+AU  - Zhuang, Xingzhong
+AU  - Yi, Zhaodi
+AU  - Wang, Yuqing
+AU  - Chen, Yi
+AU  - Yu, Sudan
+JO  - Heliyon
+VL  - 10
+IS  - 9
+SP  - e29830
+PY  - 2024
+DA  - 2024/05/15/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e29830
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024058614
+KW  - Teaching sufficiency
+KW  - Artificial multi-verse optimizer
+KW  - Classification
+KW  - Art ideological and political theory course
+AB  - Enhancing teaching sufficiency is crucial because low teaching efficiency has always been a widespread issue in ideological and political theory course. Evaluating data on the course is obtained from a freshmen class of 2022 using questionnaires. The data is organised and condensed for mining and analysis. Subsequently, an intelligent artificial multi-verse optimizer (AMVO) method s developed to predict the effect of ideological and political theory course. The proposed AMVO approach was tested against various cutting-edge algorithms to demonstrate its effectiveness and stability on the benchmark functions. The experimental results indicated that AMVO ranked first among the 23 test functions. Furthermore, the binary AMVO enhanced k-nearest neighbour classifier had excellent performance in the art ideological and political theory course in terms of error rate, accuracy, specificity and sensitivity. This model can predict the overall evaluation attitude of freshmen towards the course based on the dataset. In addition, we can further analyse the potential correlations between factors that enhance the intellectual and political content of the course. This model can further refine the evaluation of ideological and political courses by teachers and students in our school, thereby achieving the fundamental goal of moral cultivation.
+ER  - 
+
+TY  - JOUR
+T1  - eScience: Building our Body of Knowledge
+AU  - Maxville, Valerie
+JO  - Procedia Computer Science
+VL  - 4
+SP  - 1953
+EP  - 1963
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2011
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2011.04.213
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050911002717
+AB  - This paper describes the need for an eScience BoK, particularly as a resource for educators. eScience is a term representing the computational technology and techniques utilised when undertaking research. As eScience matures, stakeholders, and particularly educators, can benefit from the clarity that a defined Body of Knowledge (BOK) can provide. The BOK would require domain-specific and technological aspects to be addressed. This paper describes a framework for a prototype BOK for eScience and discusses how the BOK can be used as a tool to drive education, outreach and infrastructure planning.
+ER  - 
+
+TY  - JOUR
+T1  - Behavioral systems theory in data-driven analysis, signal processing, and control
+AU  - Markovsky, Ivan
+AU  - Dörfler, Florian
+JO  - Annual Reviews in Control
+VL  - 52
+SP  - 42
+EP  - 64
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 1367-5788
+DO  - https://doi.org/10.1016/j.arcontrol.2021.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S1367578821000754
+KW  - Behavioral systems theory
+KW  - Data-driven control
+KW  - Missing data estimation
+KW  - System identification
+AB  - The behavioral approach to systems theory, put forward 40 years ago by Jan C. Willems, takes a representation-free perspective of a dynamical system as a set of trajectories. Till recently, it was an unorthodox niche of research but has gained renewed interest for the newly emerged data-driven paradigm, for which it is uniquely suited due to the representation-free perspective paired with recently developed computational methods. A result derived in the behavioral setting that became known as the fundamental lemma started a new class of subspace-type data-driven methods. The fundamental lemma gives conditions for a non-parametric representation of a linear time-invariant system by the image of a Hankel matrix constructed from raw time series data. This paper reviews the fundamental lemma, its generalizations, and related data-driven analysis, signal processing, and control methods. A prototypical signal processing problem, reviewed in the paper, is missing data estimation. It includes simulation, state estimation, and output tracking control as special cases. The direct data-driven control methods using the fundamental lemma and the non-parametric representation are loosely classified as implicit and explicit approaches. Representative examples are data-enabled predictive control (an implicit method) and data-driven linear quadratic regulation (an explicit method). These methods are equally amenable to certainty-equivalence as well as to robust control. Emphasis is put on the robustness of the methods under noise. The methods allow for theoretical certification, they are computationally tractable, in comparison with machine learning methods require small amount of data, and are robustly implementable in real-time on complex physical systems.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent strategic bidding in competitive electricity markets using multi-agent simulation and deep reinforcement learning
+AU  - Wu, Jiahui
+AU  - Wang, Jidong
+AU  - Kong, Xiangyu
+JO  - Applied Soft Computing
+VL  - 152
+SP  - 111235
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2024.111235
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494624000097
+KW  - Intelligent bidding strategy
+KW  - Competitive electricity markets
+KW  - Multi-agent simulation(MAS)
+KW  - Deep reinforcement learning(DRL)
+KW  - Async n-step QL
+KW  - Improved Async n-step QL
+AB  - Aiming at the lack of comprehension of agents in Multi-Agent Simulation (MAS) based on classic Reinforcement Learning algorithms of competitive electricity markets, an intelligent strategic bidding method using Deep Reinforcement Learning (DRL) and MAS is proposed in this paper, which not only can provide more intelligent strategies for market participants to maximize their profits, but can enhance the performance of simulation models dealing with high-dimensional continuous data in electricity markets. Firstly, a theoretical framework of intelligent strategic bidding in competitive electricity markets based on MAS and DRL is proposed, and the process of intelligent bidding in electricity markets based on MAS and DRL is described. Then, three MAS models of intelligent strategic bidding are built based on three classic DRL algorithms, including Deep Q-Network (DQN), Double Deep Q-Network (DDQN), and Asynchronous n-step Q-learning (Async n-step QL), and three algorithms’ convergence speed, computational efficiency, and response sensitivity are compared and analyzed. Finally, a novel Improved Async n-step QL (IAsync n-step QL) algorithm is proposed, the MAS model based on the IAsync n-step QL algorithm for intelligent strategic bidding is established. Simulation results show that the model using the novel DRL algorithm is more profitable and responsive than the classic DRL algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - How well can storage capacity, executive control, and fluid reasoning explain insight problem solving
+AU  - Chuderski, Adam
+JO  - Intelligence
+VL  - 46
+SP  - 258
+EP  - 270
+PY  - 2014
+DA  - 2014/09/01/
+SN  - 0160-2896
+DO  - https://doi.org/10.1016/j.intell.2014.07.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0160289614001020
+KW  - Insight problem solving
+KW  - Fluid reasoning
+KW  - Working memory
+KW  - Storage capacity
+KW  - Executive control
+AB  - Previous studies have found discrepant results on the relationship between insight problem solving and the processes underlying analytic thinking: storage capacity, executive control (two components of working memory; WM), as well as fluid reasoning. Some research showed that WM and/or reasoning are positively related to insight, supporting the “nothing-special” account, whereas other studies demonstrated null or negative relationships favoring the “special-process” view. This study examined a large sample with a battery of insight, reasoning, and WM tasks, to estimate the pattern of links between investigated constructs using structural equation modeling. WM and reasoning together explained about two thirds of the variance in insight. Both WM components similarly contributed to insight. WM's contribution was mediated by reasoning. These results support the nothing-special view. However, after WM variance was partialed out, the link between insight and reasoning substantially weakened, that makes room for the special-process view. Both accounts can be integrated in the view that insight is “nothing special with special add-ons” – the latter understood as the processes and strategies specific only to insight problem solving.
+ER  - 
+
+TY  - JOUR
+T1  - Diagnosing skills of statistical hypothesis testing using the Rule Space Method
+AU  - Im, Seongah
+AU  - Yin, Yue
+JO  - Studies in Educational Evaluation
+VL  - 35
+IS  - 4
+SP  - 193
+EP  - 199
+PY  - 2009
+DA  - 2009/12/01/
+SN  - 0191-491X
+DO  - https://doi.org/10.1016/j.stueduc.2009.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0191491X0900042X
+KW  - Cognitive diagnostic assessment
+KW  - Rule Space Method
+KW  - Statistical hypothesis testing
+KW  - Educational evaluation
+AB  - This study illustrated the use of the Rule Space Method to diagnose students’ proficiencies in, skills and knowledge of statistical hypothesis testing. Participants included 96 undergraduate and, graduate students, of whom 94 were classified into one or more of the knowledge states identified by, the rule space analysis. Analysis at the level of proficiency groups showed that the critical difference, between low and medium proficiency groups was the understanding of statistical concepts and, knowledge while the critical skill discriminating the medium proficiency group from the high, proficiency group was to mange complex computational procedures. In addition, attribute profiles of, two students showed how students with the same total score can possess different strengths and, weaknesses.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of melting of phase change material block inserted to an open cavity
+AU  - Öztop, Hakan F.
+AU  - Coşanay, Hakan
+AU  - Selimefendigil, Fatih
+AU  - Abu-Hamdeh, Nidal
+JO  - International Communications in Heat and Mass Transfer
+VL  - 137
+SP  - 106240
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0735-1933
+DO  - https://doi.org/10.1016/j.icheatmasstransfer.2022.106240
+UR  - https://www.sciencedirect.com/science/article/pii/S0735193322003621
+KW  - Partially open cavity
+KW  - PCM
+KW  - Melting
+KW  - Computational
+KW  - Finned heater
+AB  - A numerical work has been conducted to explore the effects of opening parameters on melting of phase change material (PCM) during natural convection in a partially open enclosure. A finned heater is located on bottom wall while the remaining parts are insulated. Paraffin wax is used as PCM and two-dimensional time dependent analysis is performed by using the finite volume method for the parameters of location of opening and temperature difference. The governing parameters for the study are chosen for the range of Ra = 1.45 × 108 ≤ Ra ≤ Ra = 1.97 × 108, 0.25 ≤ w/H ≤ 0.75 and 0.25 ≤ c/H ≤ 0.75. It is found that both opening ratio and opening length are effective parameter on melting time and these can be used as control parameters for improving the energy efficiency. Also, heat transfer can be controlled by using PCM inserted block and opening parameters. Among different cases of opening ratios and locations of opening, the most favorable configuration is obtained at Ra = 1.97 × 108, w/H = 0.25, c/H = 0.25 while average heat transfer enhancement by about 60% is achieved. At the lowest and highest value of Rayleigh numbers, the most favorable location of the opening is obtained at c/H = 0.25 in order to have the highest reduction amount of phase completion time.
+ER  - 
+
+TY  - JOUR
+T1  - Effective Connectivity of the Fronto-Parietal Network during the Tangram Task in a Natural Environment
+AU  - Hu, Zhishan
+AU  - Lam, Keng-Fong
+AU  - Yuan, Zhen
+JO  - Neuroscience
+VL  - 422
+SP  - 202
+EP  - 211
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0306-4522
+DO  - https://doi.org/10.1016/j.neuroscience.2019.09.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0306452219306669
+KW  - Tangram
+KW  - Visuospatial reasoning
+KW  - Granger causality
+KW  - fNIRS
+KW  - Brain networks
+AB  - Although the neural basis underlying visuospatial reasoning has been widely explored by neuroimaging techniques, the brain activation patterns during naturalistic visuospatial reasoning such as tangram remains unclear. In this study, the directional functional connectivity of fronto-parietal networks during the tangram task was carefully inspected by using combined functional near-infrared spectroscopy (fNIRS) and conditional Granger causality analysis (GCA). Meanwhile, the causal networks during the traditional spatial reasoning task were also characterized to exhibit the differences with those during the tangram task. We discovered that the tangram task in a natural environment showed enhanced activation in the fronto-parietal regions, particularly the frontal cortex. In addition, a strong directional connectivity from the right prefrontal cortex to left angular gyrus was detected for the complex spatial reasoning condition of spatial reasoning task, whereas no effective connectivity was identified between the frontal and parietal cortices during the tangram task. Further correlation analyses showed that the behavioral performance in the spatial reasoning rather than the tangram task manifested the relationship with the connectivity between the frontal and parietal cortex. Our findings demonstrate that the tangram task measures a different aspect of the visuospatial reasoning ability which requires more trial-and-error strategies and creative thinking rather than inductive reasoning. In particular, the frontal cortex is mostly involved in tangram puzzle-solving, whereas the interaction between frontal and parietal cortices is regulated by the hands-on experience during the tangram task.
+ER  - 
+
+TY  - JOUR
+T1  - Jigsaw cooperative learning of multistage counter-current liquid-liquid extraction using Mathcad®
+AU  - Cerón-García, Mª Carmen
+AU  - López-Rosales, Lorenzo
+AU  - Gallardo-Rodríguez, Juan José
+AU  - Navarro-López, Elvira
+AU  - Sánchez-Mirón, Asterio
+AU  - García-Camacho, Francisco
+JO  - Education for Chemical Engineers
+VL  - 38
+SP  - 1
+EP  - 13
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 1749-7728
+DO  - https://doi.org/10.1016/j.ece.2021.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1749772821000488
+KW  - Liquid-liquid extraction
+KW  - Mass transfer
+KW  - Jigsaw cooperative learning
+KW  - Computational tools
+KW  - Mathcad®
+AB  - This work shows the improvement in comprehending counter-current liquid-liquid extraction by applying jigsaw-type cooperative learning and the engineering math software Mathcad® in a chemical engineering course, part of the Chemistry degree. This study was performed on two different groups at the University of Almería (Spain) over three academic years. The students were divided into two groups: one half of the class followed a non-cooperative learning methodology (the control) while the other half were spread among the jigsaw cooperative groups following the methodology known as “Jigsaw Experts Groups”. A main template made with Mathcad® of a multistage counter-current liquid-liquid extraction was supplied to both the jigsaw and non-jigsaw groups. The assessment of this educational experience in the course revealed that the jigsaw group outperformed the control group. The use of Mathcad® proved to be very intuitive and effective in explaining these relatively complex problems and utilising it is highly recommended; we suggest it is used rather than classical and less intuitive graphical methods.
+ER  - 
+
+TY  - JOUR
+T1  - “Deep reinforcement learning for engineering design through topology optimization of elementally discretized design domains”
+AU  - Brown, Nathan K.
+AU  - Garland, Anthony P.
+AU  - Fadel, Georges M.
+AU  - Li, Gang
+JO  - Materials & Design
+VL  - 218
+SP  - 110672
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0264-1275
+DO  - https://doi.org/10.1016/j.matdes.2022.110672
+UR  - https://www.sciencedirect.com/science/article/pii/S0264127522002933
+KW  - Reinforcement learning
+KW  - Topology optimization
+KW  - Deep learning
+KW  - Engineering design
+KW  - Structural design
+KW  - Data-driven
+AB  - Advances in machine learning algorithms and increased computational efficiencies give engineers new capabilities and tools to apply to engineering design. Machine learning models can approximate complex functions and, therefore, can be useful for various tasks in the engineering design workflow. This paper investigates using reinforcement learning (RL), a subset of machine learning that teaches an agent to complete a task through accumulating experiences in an interactive environment, to automate the designing of 2D discretized topologies. RL agents use past experiences to learn sequential sets of actions to best achieve some objective. In the proposed environment, an RL agent can make sequential decisions to design a topology by removing elements to best satisfy compliance minimization objectives. After each action, the agent receives feedback by evaluating how well the current topology satisfies the design objectives. After training, the agent was tasked with designing optimal topologies under various load cases. The agent's proposed designs had similar or better compliance minimization performance to those produced by traditional gradient-based topology optimization methods. These results show that a deep RL agent can learn generalized design strategies to satisfy multi-objective design tasks and, therefore, shows promise as a tool for arbitrarily complex design problems across many domains.
+ER  - 
+
+TY  - JOUR
+T1  - Quantum concepts in Psychology: Exploring the interplay of physics and the human psyche
+AU  - Kyriazos, Theodoros
+AU  - Poga, Mary
+JO  - BioSystems
+VL  - 235
+SP  - 105070
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0303-2647
+DO  - https://doi.org/10.1016/j.biosystems.2023.105070
+UR  - https://www.sciencedirect.com/science/article/pii/S0303264723002459
+KW  - Quantum mechanics
+KW  - Quantum psychology
+KW  - Interdisciplinary
+KW  - Human psyche
+AB  - This paper delves into the innovative intersection of quantum mechanics and psychology, examining the potential of quantum principles to provide fresh insights into human emotions, cognition, and consciousness. Drawing parallels between quantum phenomena such as superposition, entanglement, tunneling, decoherence and their psychological counterparts, we present a quantum-psychological model that reimagines emotional states, cognitive breakthroughs, interpersonal relationships, and the nature of consciousness. The study uses computational models and simulations to explore this interdisciplinary fusion's implications and applications, highlighting its potential benefits and inherent challenges. While quantum concepts offer a rich metaphorical lens to view the intricacies of human experience, it is essential to approach this nascent framework with enthusiasm and skepticism. Rigorous empirical validation is paramount to realize its full potential in research and therapeutic contexts. This exploration stands as a promising thread in the tapestry of intellectual history, suggesting a deeper understanding of the human psyche through the lens of quantum mechanics.
+ER  - 
+
+TY  - JOUR
+T1  - Inventory – forecasting: Mind the gap
+AU  - Goltsos, Thanos E.
+AU  - Syntetos, Aris A.
+AU  - Glock, Christoph H.
+AU  - Ioannou, George
+JO  - European Journal of Operational Research
+VL  - 299
+IS  - 2
+SP  - 397
+EP  - 419
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2021.07.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221721006500
+KW  - Forecasting
+KW  - Inventory control
+KW  - Inventory forecasting
+KW  - Literature review
+AB  - We are concerned with the interaction and integration between demand forecasting and inventory control, in the context of supply chain operations. The majority of the literature is fragmented. Forecasting research more often than not assumes forecasting to be an end in itself, disregarding any subsequent stages of computation that are needed to transform forecasts into replenishment decisions. Conversely, most contributions in inventory theory assume that demand (and its parameters) are known, in effect disregarding any preceding stages of computation. Explicit recognition of these shortcomings is an important step towards more realistic theoretical developments, but still not particularly helpful unless they are somehow addressed. Even then, forecasts often constitute exogenous variables that serially feed into a stock control model. Finally, there is a small but growing stream of research that is explicitly built around jointly tackling the inventory forecasting question. We introduce a framework to define four levels of integration: from disregarding, to acknowledging, to partly addressing, to fully understanding the interactions. Focusing on the last two, we conduct a structured review of relevant (integrated) academic contributions in the area of forecasting and inventory control and argue for their classification with regard to integration. We show that the development from one level to another is in many cases chronological in order, but also associated with specific schools of thought. We also argue that although movement from one level to another adds realism, it also adds complexity in terms of actual implementations, and thus a trade-off exists. The article makes a contribution into an area that has always been fragmented despite the importance of bringing the forecasting and inventory communities together to solve problems of common interest. We close with an indicative agenda for further research and a call for more theoretical contributions, but also more work that would help to expand the empirical knowledge base in this area.
+ER  - 
+
+TY  - JOUR
+T1  - A communicative approach to early word learning
+AU  - Yurovsky, Daniel
+JO  - New Ideas in Psychology
+VL  - 50
+SP  - 73
+EP  - 79
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0732-118X
+DO  - https://doi.org/10.1016/j.newideapsych.2017.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0732118X17300077
+KW  - Language acquisition
+KW  - Learning
+KW  - Cognitive development
+AB  - Young children learn the meanings of thousands of words by the time they can run down the street. Many efforts to explain this rapid development begin by assuming that the computational-level problem being solved is acquisition. Consequently, work in this line has sought to understand how children infer the meanings of words from cues in the communicative signals of the speakers around them. I will argue, however, that this formulation of the problem is backwards: the computational problem is communication, and language acquisition provides cues about how to communicate successfully. Under this framing, the natural unit of analysis is not the child, but the parent-child dyad. A necessary consequence of this shift is the realization that the statistical structure of the input to the child is itself dependent on the child. This dependency radically simplifies the computational problem of learning and using language.
+ER  - 
+
+TY  - JOUR
+T1  - IntelEye: An Intelligent Tool for the Detection of Stressful State based on Eye Gaze Data While Watching Video
+AU  - Jyotsna, C.
+AU  - Amudha, J.
+AU  - Ram, Amritanshu
+AU  - Nollo, Giandomenico
+JO  - Procedia Computer Science
+VL  - 218
+SP  - 1270
+EP  - 1279
+PY  - 2023
+DA  - 2023/01/01/
+T2  - International Conference on Machine Learning and Data Engineering
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2023.01.105
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050923001059
+KW  - Eye Tracking
+KW  - Mental Health
+KW  - Real Time Monitoring
+KW  - K-Nearest Neighbour
+KW  - Eye Gaze Measures
+KW  - Welch Two Sample t-test
+AB  - Technology to monitor mental health is gaining popularity as it helps to improve the cognitive and behavioral performance of an individual. Considering the growing need to monitor mental health, there is subsequent research in continuous and real-time monitoring technologies that can increase the quality of life by reducing the cost of health care. Eye tracking technology has played a significant role in monitoring a person's mental health. An intelligent system can apply several computational procedures to extract meaningful information from the massive physiological data obtained from eye tracking. The proposed model IntelEye is a tool to detect the stressful states of an individual while watching calm and stressful videos. The eye gaze measures based on pupil diameter, fixation, and blink were used for detecting stressful conditions. The data was collected from hospital employees, and the K Nearest Neighbor algorithm could successfully recognize the stressful states and the corresponding gaze location during stressful situations. IntelEye is not only identifying the stressful states but also has the novelty of identifying the scene and gaze location, making them stressful while watching the video.
+ER  - 
+
+TY  - CHAP
+T1  - 1.05 - Open Data and Open Source GIS
+AU  - Ye, Xinyue
+A2  - Huang, Bo
+BT  - Comprehensive Geographic Information Systems
+PB  - Elsevier
+CY  - Oxford
+SP  - 42
+EP  - 49
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 978-0-12-804793-4
+DO  - https://doi.org/10.1016/B978-0-12-409548-9.09592-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780124095489095920
+KW  - Open data
+KW  - Open GIS
+KW  - Open source
+AB  - The multiple dimensions and scales of emerging open data pose numerous challenges for the application and evaluation of public policies. At the same time, domain researchers have been relatively slow to adopt and implement new spatiotemporally explicit data analysis methods due to the availability of suitable data and the lack of extensible software packages, which becomes a major impediment to the promotion of spatiotemporal thinking and collaboration. In this regard, more attention to open data and open source geographic information system (GIS) is necessary. Free access to the data and source code allows the broader GIS and domain science communities to incorporate additional advances in theoretical perspectives and analytical methods, thus facilitating interdisciplinary collaboration of spatial science and education. A case study of comparative LISA time path is illustrated in the open source GIS context. Additionally, open source implementation of new methods can expedite comparative studies of geographical dynamics.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence products reshape accounting: time to re-train
+AU  - Shaffer, Kathie J.
+AU  - Gaumer, Carol J.
+AU  - Bradley, Kiersten P.
+JO  - Development and Learning in Organizations: An International Journal
+VL  - 34
+IS  - 6
+SP  - 41
+EP  - 43
+PY  - 2020
+DA  - 2020/02/07/
+SN  - 1477-7282
+DO  - https://doi.org/10.1108/DLO-10-2019-0242
+UR  - https://www.sciencedirect.com/science/article/pii/S1477728220001288
+KW  - Organizational change
+KW  - Accounting
+KW  - Artificial intelligence
+AB  - Purpose
+Managers are expected to increase productivity in the most cost-efficient manner, using all available resources and, “work smarter.” As technology improves, there is greater incentive for managers to invest in options where automation becomes less expensive than the high cost of human capital. When repetitive tasks can be accurately duplicated through automation, the decision becomes a fait accompli. Advances in artificial intelligence (AI) or synthetic intelligence that simulates human intellectual function has significant impact potential in the service sector. This paper examines productivity efficiencies sought through artificial intelligence and the need for re-training, specifically in the accounting profession.
+Design/methodology/approach
+This is a conceptual paper for practitioners without research methodology.
+Findings
+The accounting profession 10 years from now will look noticeably different than it does now. The accountants, who embrace the new technologies, like artificial intelligence, will survive and even thrive by becoming more specialized. This will require training and, in some instances, re-training. Organizations must be willing to absorb those development costs. I hope that new graduates will enter the profession with updated skills providing added value for organizations and employers who started into the profession many years ago. The biggest challenge may lie in the re-training of accountants who have been in practice for many years and managing the resistance to change. Employers must first set the example by accepting the inevitable and then encourage and support employees to improve and update their skills. Additionally, they will have to coach employees through the changes with reassurance that those who embrace the change will experience less chance of job elimination. Embracing the available technology will enable firms to serve clients more efficiently and effectively by providing up to date business solutions regardless of the services being offered.
+Research limitations/implications
+There is no empirical research in this paper. It is a conceptual piece looking at the changing organization in accounting, specifically due to artificial intelligence.
+Practical implications
+Accounting firms that focus on basic accounting functions should find new services to offer. The same clients can be served, but at a higher-level. Accountants will offer more value to clients by detecting patterns and trends when more time can be devoted to analysis. Helping clients beyond the preparation of documents requires that accountants understand the current market conditions and potential effects of inflation and, engage in more critical thinking while at the same time be able to teach clients and help them understand at the higher level. Just as accountants’ responsibilities and duties will be transformed through the integration of AI, accounting education must be altered.
+Social implications
+Implications related to the workplace are only discussed in this paper.
+Originality/value
+It is not completely original. It is a compilation of research that is out there as a means to address critical workforce training needs in accounting as technology moves forward.
+ER  - 
+
+TY  - JOUR
+T1  - Decision Level Fusion Using Hybrid Classifier for Mental Disease Classification
+AU  - Ahmad, Maqsood
+AU  - Wahid, Noorhaniza
+AU  - Hamid, Rahayu A
+AU  - Sadiq, Saima
+AU  - Mehmood, Arif
+AU  - Choi, Gyu Sang
+JO  - Computers, Materials and Continua
+VL  - 72
+IS  - 3
+SP  - 5041
+EP  - 5058
+PY  - 2022
+DA  - 2022/04/20/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2022.026077
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221822009067
+KW  - Mental health diagnosis
+KW  - machine learning
+KW  - depression
+KW  - shrewd probing
+KW  - diagnostic approach
+AB  - Mental health signifies the emotional, social, and psychological well-being of a person. It also affects the way of thinking, feeling, and situation handling of a person. Stable mental health helps in working with full potential in all stages of life from childhood to adulthood therefore it is of significant importance to find out the onset of the mental disease in order to maintain balance in life. Mental health problems are rising globally and constituting a burden on healthcare systems. Early diagnosis can help the professionals in the treatment that may lead to complications if they remain untreated. The machine learning models are highly prevalent for medical data analysis, disease diagnosis, and psychiatric nosology. This research addresses the challenge of detecting six major psychological disorders, namely, Anxiety, Bipolar Disorder, Conversion Disorder, Depression, Mental Retardation and Schizophrenia. These challenges are mined by applying decision level fusion of supervised machine learning algorithms. A dataset was collected from a clinical psychologist consisting of 1771 observations that we used for training and testing the models. Furthermore, to reduce the impact of a conflicting decision, a voting scheme Shrewd Probing Prediction Model (SPPM) is introduced to get output from ensemble model of Random Forest and Gradient Boosting Machine (RF + GBM). This research provides an intuitive solution for mental disorder analysis among different target class labels or groups. A framework is proposed for determining the mental health problem of patients using observations of medical experts. The framework consists of an ensemble model based on RF and GBM with a novel SPPM technique. This proposed decision level fusion approach by combining RF + GBM with SPPM-MIN significantly improves the performance in terms of Accuracy, Precision, Recall, and F1-score with 71\%, 73\%, 71\% and 71\% respectively. This framework seems suitable in the case of huge and more diverse multi-class datasets. Furthermore, three vector spaces based on TF-IDF (unigram, bi-gram, and tri-gram) are also tested on the machine learning models and the proposed model.
+ER  - 
+
+TY  - JOUR
+T1  - The mode of computing
+AU  - Pineda, Luis A.
+JO  - Cognitive Systems Research
+VL  - 84
+SP  - 101204
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 1389-0417
+DO  - https://doi.org/10.1016/j.cogsys.2023.101204
+UR  - https://www.sciencedirect.com/science/article/pii/S1389041723001389
+KW  - Mode of computing
+KW  - Natural computing
+KW  - Representation
+KW  - Interpretation
+KW  - Consciousness
+AB  - The Turing Machine is the paradigmatic case of computing machines, but there are others such as analogical, connectionist, quantum and diverse forms of unconventional computing, each based on a particular intuition of the phenomenon of computing. This variety can be captured in terms of system levels, re-interpreting and generalizing Newell’s hierarchy, which includes the knowledge level at the top and the symbol level immediately below it. In this re-interpretation the knowledge level consists of human knowledge and the symbol level is generalized into a new level that here is called The Mode of Computing. Mental processes performed by natural brains are often thought of informally as computing processes and that the brain is alike to computing machinery. However, if natural computing does exist it should be characterized on its own. A proposal to such an effect is that natural computing appeared when interpretations were first made by biological entities, so natural computing and interpreting are two aspects of the same phenomenon, or that consciousness and experience are the manifestations of computing/interpreting. By analogy with computing machinery, there must be a system level at the top of the neural circuitry and directly below the knowledge level that is named here The mode of Natural Computing. If it turns out that such putative object does not exist the proposition that the mind is a computing process should be dropped; but characterizing it would come with solving the hard problem of consciousness.
+ER  - 
+
+TY  - JOUR
+T1  - Reorganizing Cyber-Physical Configurations using User Activities for Human-in-the-Loop Cyber-Physical Systems
+AU  - Hara, Tatsunori
+AU  - Okada, Yuki
+AU  - Ota, Jun
+JO  - IFAC-PapersOnLine
+VL  - 56
+IS  - 2
+SP  - 9703
+EP  - 9708
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 22nd IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2023.10.281
+UR  - https://www.sciencedirect.com/science/article/pii/S240589632300633X
+KW  - Design
+KW  - modelling and analysis of HMS
+KW  - human-centered automation and design
+KW  - cyber-physical system
+KW  - design structure matrix
+KW  - data utilization
+KW  - product service system
+KW  - smart home
+AB  - This paper proposes a “human-in-the-loop design structure matrix (DSM)” method for understanding and reorganizing the structures of multiple cyber-physical systems (CPSs), focusing on user activities. By incorporating user activities as integral components in system engineering techniques, this method contributes to the design literature on human-in-the-loop CPS. Using the illustrative case of a smart home, we obtained the following types of clusters to review the structure and cyber-physical configurations of CPSs: clusters that retain the target user activity, clusters decoupled from the target user activity, and clusters across two different user activities. In the second type, we found a hub cluster regarding the cyber process of notifications to users, which enabled diverse data utilization among the clusters.
+ER  - 
+
+TY  - JOUR
+T1  - Neural correlates of Eureka moment
+AU  - Sprugnoli, Giulia
+AU  - Rossi, Simone
+AU  - Emmendorfer, Alexandra
+AU  - Rossi, Alessandro
+AU  - Liew, Sook-Lei
+AU  - Tatti, Elisa
+AU  - di Lorenzo, Giorgio
+AU  - Pascual-Leone, Alvaro
+AU  - Santarnecchi, Emiliano
+JO  - Intelligence
+VL  - 62
+SP  - 99
+EP  - 118
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0160-2896
+DO  - https://doi.org/10.1016/j.intell.2017.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0160289616302756
+KW  - Insight
+KW  - 
+KW  - 
+KW  - Cognition
+KW  - fMRI
+KW  - EEG
+KW  - ERPs
+KW  - Non-invasive brain stimulation
+KW  - Neuroenhancement
+KW  - NIBS
+KW  - Creativity
+AB  - Insight processes that peak in “unpredictable moments of exceptional thinking” are often referred to as Aha! or Eureka moments. During insight, connections between previously unrelated concepts are made and new patterns arise at the perceptual level while new solutions to apparently insolvable problems suddenly emerge to consciousness. Given its unpredictable nature, the definition, and behavioral and neurophysiological measurement of insight problem solving represent a major challenge in contemporary cognitive neuroscience. Numerous attempts have been made, yet results show limited consistency across experimental approaches. Here we provide a comprehensive overview of available neuroscience of insight, including: i) a discussion about the theoretical definition of insight and an overview of the most widely accepted theoretical models, including those debating its relationship with creativity and intelligence; ii) an overview of available tasks used to investigate insight; iii) an ad-hoc quantitative meta-analysis of functional magnetic resonance imaging studies investigating the Eureka moment, using activation likelihood estimation maps; iv) a review of electroencephalographic evidence in the time and frequency domains, as well as v) an overview of the application of non-invasive brain stimulation techniques to causally assess the neurobiological basis of insight as well as enhance insight-related cognition.
+ER  - 
+
+TY  - JOUR
+T1  - Relating network connectivity to dynamics: opportunities and challenges for theoretical neuroscience
+AU  - Curto, Carina
+AU  - Morrison, Katherine
+JO  - Current Opinion in Neurobiology
+VL  - 58
+SP  - 11
+EP  - 20
+PY  - 2019
+DA  - 2019/10/01/
+T2  - Computational Neuroscience
+SN  - 0959-4388
+DO  - https://doi.org/10.1016/j.conb.2019.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0959438819300443
+AB  - We review recent work relating network connectivity to the dynamics of neural activity. While concepts stemming from network science provide a valuable starting point, the interpretation of graph-theoretic structures and measures can be highly dependent on the dynamics associated to the network. Properties that are quite meaningful for linear dynamics, such as random walk and network flow models, may be of limited relevance in the neuroscience setting. Theoretical and computational neuroscience are playing a vital role in understanding the relationship between network connectivity and the nonlinear dynamics associated to neural networks.
+ER  - 
+
+TY  - JOUR
+T1  - What do numerical (climate) models really represent?
+AU  - Gramelsberger, Gabriele
+JO  - Studies in History and Philosophy of Science Part A
+VL  - 42
+IS  - 2
+SP  - 296
+EP  - 302
+PY  - 2011
+DA  - 2011/06/01/
+T2  - Model-Based Representation in Scientific Practice
+SN  - 0039-3681
+DO  - https://doi.org/10.1016/j.shpsa.2010.11.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0039368110001160
+KW  - Climate models
+KW  - Computing
+KW  - Symbolic forms
+KW  - Scientific modelling
+AB  - The translation of a mathematical model into a numerical one employs various modifications in order to make the model accessible for computation. Such modifications include discretizations, approximations, heuristic assumptions, and other methods. The paper investigates the divergent styles of mathematical and numerical models in the case of a specific piece of code in a current atmospheric model. Cognizance of these modifications means that the question of the role and function of scientific models has to be reworked. Neither are numerical models pure intermediaries between theory and data, nor are they autonomous tools of inquiry. Instead, theory and data are transformed into a new symbolic form of research due to the fact that computation has become an essential requirement for every scientific practice. Therefore the question is posed: What do numerical (climate) models really represent?
+ER  - 
+
+TY  - JOUR
+T1  - Exploratory Topology Modelling of Form-active Hybrid Structures
+AU  - Deleuran, Anders Holden
+AU  - Pauly, Mark
+AU  - Tamke, Martin
+AU  - Tinning, Ida Friis
+AU  - Thomsen, Mette Ramsgaard
+JO  - Procedia Engineering
+VL  - 155
+SP  - 71
+EP  - 80
+PY  - 2016
+DA  - 2016/01/01/
+T2  - TENSINET – COST TU1303 International Symposium 2016 "Novel structural skins - Improving sustainability and efficiency through new structural textile materials and designs"
+SN  - 1877-7058
+DO  - https://doi.org/10.1016/j.proeng.2016.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S187770581632149X
+KW  - Form-Active
+KW  - Hybrid Structures
+KW  - Topology
+KW  - Shaping
+KW  - Form-Finding
+KW  - Interactive Modelling
+KW  - Design Space Search
+AB  - The development of novel form-active hybrid structures (FAHS) is impeded by a lack of modelling tools that allow for exploratory topology modelling of shaped assemblies. We present a flexible and real-time computational design modelling pipeline developed for the exploratory modelling of FAHS that enables designers and engineers to iteratively construct and manipulate form-active hybrid assembly topology on the fly. The pipeline implements Kangaroo2's projection-based methods for modelling hybrid structures consisting of slender beams and cable networks. A selection of design modelling sketches is presented in which the developed modelling pipeline has been integrated to explore the design space delineated by FAHS.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable Enterprise Design 4.0: Addressing Industry 4.0 Technologies from the Perspective of Sustainability
+AU  - Cochran, David S.
+AU  - Rauch, Erwin
+JO  - Procedia Manufacturing
+VL  - 51
+SP  - 1237
+EP  - 1244
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 30th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM2021)
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2020.10.173
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920320308
+KW  - Industry 4.0
+KW  - sustainability
+KW  - triple bottom line
+KW  - sustainable enterprise design
+KW  - industrial revolution
+AB  - The introduction of Industry 4.0 and sustainability in production is currently on everyone’s mind. However, companies face difficulties to address these trends in their long-term enterprise strategy and design. Industry 4.0 promises strategic advantages for companies in many respects, but there is a lack of instruments and concepts for integrating emerging technologies in an overall enterprise system design. Similarly, the multiple perspectives regarding economic, environmental and social sustainability provide a framework for thinking about a strategy for sustainable enterprise design. Based on the three principles presented in this paper for Sustainable Enterprise Design, this article aims to present an approach to better address sustainability as well as Industry 4.0 in terms of a long-term strategic, enterprise design that is sustainable. As a result, a list of needs, functional requirements as well as possible Industry 4.0 physical solutions is proposed to achieve a long-term sustainable enterprise design. The consequence of the perspective of an enterprise as a system that can be designed provides a rigorous approach that takes advantage of Industry 4.0 technologies and the multiple perspectives and candidate physical solutions that the research community offers.
+ER  - 
+
+TY  - JOUR
+T1  - Combining eco-social and environmental indicators to assess the sustainability performance of a food value chain: A case study
+AU  - Petit, Gaëlle
+AU  - Sablayrolles, Caroline
+AU  - Yannou-Le Bris, Gwenola
+JO  - Journal of Cleaner Production
+VL  - 191
+SP  - 135
+EP  - 143
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2018.04.156
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652618311831
+KW  - Life cycle assessment
+KW  - Pork value chain
+KW  - Sustainability
+KW  - Metrics
+KW  - Indicator
+KW  - Framework
+AB  - Stakeholders are increasingly demanding transparency on food value chain sustainability performance. Today there is no standard framework to meet this demand and support defining indicators to be used to conduct an overall sustainable performance assessment. This paper mobilizes existing frameworks and indicators to build new sustainable performance metrics for actors willing to work together for their value chain sustainability. Popular methods or tools for assessing dimensions of agrifood products or activities are selected and analyzed to determine how they could contribute to this metric. The analysis aims to distinguish the sustainable development pillars addressed (economic, environmental and/or social), the frames concerned (life cycle thinking or not; multi-actor or not), and the focus of performance measured (drivers, pressures, states, impacts, responses). This categorization is then used to develop a proposal for specifications adapted to food value chain sustainability performance assessment. The applicability of the framework is demonstrated through a case study in a pork agrifood value chain.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamical homotopy transient-based technique to improve the convergence of ill-posed power flow problem
+AU  - Lima-Silva, Alisson
+AU  - Freitas, Francisco Damasceno
+JO  - International Journal of Electrical Power & Energy Systems
+VL  - 155
+SP  - 109436
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0142-0615
+DO  - https://doi.org/10.1016/j.ijepes.2023.109436
+UR  - https://www.sciencedirect.com/science/article/pii/S0142061523004933
+KW  - Euler method
+KW  - Homotopy
+KW  - Newton–Raphson method
+KW  - Numerical integration
+KW  - Power flow problem
+KW  - Ill-posed problem
+AB  - This paper proposes a hybrid technique to solve the ill-posed Power Flow Problem (PFP), considering a homotopy approach. The primary proposal is to solve large-scale problems where the traditional Newton–Raphson (NR) fails to converge, as in the case of ill-posed systems. The method explores a dynamical homotopy transient-based technique to improve the convergence of the ill-conditioned problem instead of using the classical static method. Depending on the integration selected scheme and the integration step, the result furnished by the dynamical homotopy method has low accuracy. Then, the NR method is employed to refine the low-accuracy result and accurately determine the ill-posed PFP solution. The proposed approach can be implemented efficiently using only one Jacobian matrix computation and LU factorization per point of the homotopy path. In the static homotopy problem, a PFP using previous results must be solved per path point. In this case, some LU factorizations are necessary for each path point. The technique’s performance was evaluated through experiments, including a 70,000-bus large-scale system. The approximate dynamical homotopy result used as an initial estimate provided appropriate convergence quality for the NR method to determine a high-precision solution to the PFP.
+ER  - 
+
+TY  - JOUR
+T1  - Design exploration by using a genetic algorithm and the Theory of Inventive Problem Solving (TRIZ)
+AU  - Khodadadi, Anahita
+AU  - von Buelow, Peter
+JO  - Automation in Construction
+VL  - 141
+SP  - 104354
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2022.104354
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580522002278
+KW  - Conceptual design
+KW  - Design exploration
+KW  - TRIZ
+KW  - Genetic algorithm
+KW  - Multi-objective design
+AB  - This paper presents a computational design exploration method called GA+TRIZ, which aids designers in defining the design problem clearly, making a parametric model where pertinent variables are included, obtaining a series of suitable solutions, and resolving existing conflicts among design objectives. The goal is to include the designer's qualitative and performance-based quantitative design goals in the design process, while promoting innovative ideas for resolving contradictory design objectives. The method employed is a Genetic Algorithm (GA), earlier implemented in an automated design exploration process called ParaGen, in combination with the Theory of Inventive Problem Solving (TRIZ), a novel methodology to assist architects and structural engineers in the conceptual phase of design. The GA+TRIZ method promotes automated design exploration, investigation of unexpected solutions, and continuous interaction with the computational generating system. Finally, this paper presents two examples that illustrate how the GA+TRIZ method assists designers in problem structuring, design exploration, and decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - EEG based stress analysis using rhythm specific spectral feature for video game play
+AU  - Roy, Shidhartho
+AU  - Islam, Monira
+AU  - Yusuf, Md. Salah Uddin
+AU  - Jahan, Nushrat
+JO  - Computers in Biology and Medicine
+VL  - 148
+SP  - 105849
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2022.105849
+UR  - https://www.sciencedirect.com/science/article/pii/S0010482522006023
+KW  - Beta–Alpha ratio
+KW  - EEG
+KW  - Stress-relaxation modeling
+KW  - Topography
+KW  - Video gameplay
+AB  - Background and objective:
+For the emerging significance of mental stress, various research directives have been established over time to understand better the causes of stress and how to deal with it. In recent years, the rise of video gameplay has been unprecedented, further triggered by the lockdown imposed due to the COVID-19 pandemic. Several researchers and organizations have contributed to the practical analysis of the impacts of such extended periods of gameplay, which lacks coordinated studies to underline the outcomes and reflect those in future game designing and public awareness about video gameplay. Investigations have mainly focused on the “gameplay stress” based on physical syndromes. Some studies have analyzed the effects of video gameplay with Electroencephalogram (EEG), Magnetic resonance imaging (MRI), etc., without concentrating on the relaxation procedure after video gameplay.
+Methods:
+This paper presents an end-to-end stress analysis for video gaming stimuli using EEG. The power spectral density (PSD) of the Alpha and Beta bands is computed to calculate the Beta-to-Alpha ratio (BAR). The Alpha and Beta band power is computed, and the Beta-to-Alpha band power ratio (BAR) has been determined. In this article, BAR is used to denote mental stress. Subjects are chosen based on various factors such as gender, gameplay experience, age, and Body mass index (BMI). EEG is recorded using Scan SynAmps2 Express equipment. There are three types of video gameplay: strategic, puzzle, and combinational. Relaxation is accomplished in this study by using music of various pitches. Two types of regression analysis are done to mathematically model stress and relaxation curve. Brain topography is rendered to indicate the stressed and relaxed region of the brain.
+Results:
+In the relaxed state, the subjects have BAR 0.701, which is considered the baseline value. Non-gamer subjects have an average BAR of 2.403 for 1 h of strategic video gameplay, whereas gamers have 2.218 BAR concurrently. After 12 minutes of listening to low-pitch music, gamers achieved 0.709 BAR, which is nearly the baseline value. In comparison to Quartic regression, the 4PL symmetrical sigmoid function performs regression analysis with fewer parameters and computational power.
+Conclusion:
+Non-gamers experience more stress than gamers, whereas strategic games stress the human brain more. During gameplay, the beta band in the frontal region is mostly activated. For relaxation, low pitch music is the most useful medium. Residual stress is evident in the frontal lobe when the subjects have listened to high pitch music. Quartic regression and 4PL symmetrical sigmoid function have been employed to find the model parameters of the relaxation curve. Among them, quartic regression performs better in terms of Akaike information criterion (AIC) and R2 measure.
+ER  - 
+
+TY  - JOUR
+T1  - A survey of quantum-like approaches to decision making and cognition
+AU  - Ashtiani, Mehrdad
+AU  - Azgomi, Mohammad Abdollahi
+JO  - Mathematical Social Sciences
+VL  - 75
+SP  - 49
+EP  - 80
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0165-4896
+DO  - https://doi.org/10.1016/j.mathsocsci.2015.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0165489615000165
+AB  - There has always been a steady interest in how humans make decisions amongst researchers from various fields. Based on this interest, many approaches such as rational choice theory or expected utility hypothesis have been proposed. Although these approaches provide a suitable ground for modeling the decision making process of humans, they are unable to explain the corresponding irrationalities and existing paradoxes and fallacies. Recently, a new formulation of decision theory that can correctly describe these paradoxes and possibly provide a unified and general theory of decision making has been proposed. This new formulation is founded based on the application of the mathematical structure of quantum theory to the fields of human decision making and cognition. It is shown that by applying these quantum-like models, one can better describe the uncertainty, ambiguity, emotions and risks involved in the human decision making process. Even in computational environments, an agent that follows the correct patterns of human decision making will have a better functionality in performing its role as a proxy for a real user. In this paper, we present a comprehensive survey of the researches and the corresponding recent developments. Finally, the benefits of leveraging the quantum-like modeling approaches in computational domains and the existing challenges and limitations currently facing the field are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Changing Design Education for the 21st Century
+AU  - Meyer, Michael W.
+AU  - Norman, Don
+JO  - She Ji: The Journal of Design, Economics, and Innovation
+VL  - 6
+IS  - 1
+SP  - 13
+EP  - 49
+PY  - 2020
+DA  - 2020/03/01/
+T2  - Design Education. Part I
+SN  - 2405-8726
+DO  - https://doi.org/10.1016/j.sheji.2019.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2405872620300046
+KW  - Design education
+KW  - Design-driven transformation
+KW  - Design thinking
+KW  - Design doing
+KW  - Major societal challenges
+KW  - Complex sociotechnical systems
+KW  - DesignX
+AB  - Designers are entrusted with increasingly complex and impactful challenges. However, the current system of design education does not always prepare students for these challenges. When we examine what and how our system teaches young designers, we discover that the most valuable elements of the designer’s perspective and process are seldom taught. Instead, some designers grow beyond their education through their experience working in industry, essentially learning by accident. Many design programs still maintain an insular perspective and an inefficient mechanism of tacit knowledge transfer. Meanwhile, skills for developing creative solutions to complex problems are increasingly essential. Organizations are starting to recognize that designers bring something special to this type of work, a rational belief based upon numerous studies that link commercial success to a design-driven approach. So, what are we to do? Other learned professions such as medicine, law, and business provide excellent advice and guidance embedded within their own histories of professionalization. In this article, we borrow from their experiences to recommend a course of action for design. It will not be easy: it will require a study group to make recommendations for a roster of design and educational practices that schools can use to build a curriculum that matches their goals and abilities. And then it will require a conscious effort to bootstrap the design profession toward both a robust practitioner community and an effective professoriate, capable together of fully realizing the value of design in the 21st century. In this article, we lay out that path.
+ER  - 
+
+TY  - JOUR
+T1  - Degradation of the ZT thermoelectric figure of merit in silicon when nanostructuring: From bulk to nanowires
+AU  - Raya-Moreno, Martí
+AU  - Rurali, Riccardo
+AU  - Cartoixà, Xavier
+JO  - International Journal of Heat and Mass Transfer
+VL  - 225
+SP  - 125385
+PY  - 2024
+DA  - 2024/06/15/
+SN  - 0017-9310
+DO  - https://doi.org/10.1016/j.ijheatmasstransfer.2024.125385
+UR  - https://www.sciencedirect.com/science/article/pii/S0017931024002163
+KW  - Thermoelectrics
+KW  - Nanowires
+KW  - Phonon drag
+KW  - 
+KW  - Coupled e-ph Boltzmann transport equation
+AB  - Since the landmark paper by Hicks and Dresselhaus [Phys. Rev. B 47, 16631(R) (1993)], there has been a general consensus that one-dimensional nanoscale conductors, i.e. nanowires, provide the long sought paradigm to implement the so-called phonon-glass electron-crystal material, which results in large improvements in the thermoelectric figure of merit ZT. Despite some encouraging—though isolated—experimental results, this idea has never been subjected to a rigorous scrutiny and the effect of the coupled dynamics of electrons and phonons has usually been oversimplified. To bypass these limitations, we have calculated the effective thermoelectric parameters for silicon nanowires (SiNWs) by iteratively solving the coupled electron-phonon Boltzmann transport equation (EPBTE) supplied with first-principles data. This allows for an unprecedented precision in determining the correct dependence of the thermoelectric parameters with system size; including, but not limited to, the figure of merit and its enhancement or degradation due to nanostructuring. Indeed, we demonstrate that the commonly used relaxation time approximation (RTA), or the uncoupled beyond the RTA (iterative) solution fail to describe the correct effect of nanostructuring on the thermoelectric properties and efficiency in SiNWs due to the strong contribution of phonon drag to the Seebeck coefficient, so that the use of fully coupled solution of the EPBTE is essential to obtain the correct effect of nanostructuring. Most importantly, we show that, contrarily to what commonly argued, resorting to NWs is not necessarily beneficial for ZT. Indeed, in a wide range of diameters nanostructuring diminishes the Seebeck coefficient faster than the decrease in thermal conductivity, due to the suppression of very long wavelength phonons responsible for the largest contribution to the phonon drag component of the Seebeck coefficient. This penalty to ZT can be mitigated if the NWs have a very rough surface, providing additional reduction to the thermal conductivity. Additionally, we demonstrate that our methodology provides improved data sets for an accurate determination of doping concentration in NWs through electrical-based inference and excellent agreement with the available experimental data.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 14 - Generative Design: Ideation, Sketching, and Critiquing
+AU  - Hartson, Rex
+AU  - Pyla, Pardha
+A2  - Hartson, Rex
+A2  - Pyla, Pardha
+BT  - The UX Book (Second Edition)
+PB  - Morgan Kaufmann
+CY  - Boston
+SP  - 293
+EP  - 325
+PY  - 2019
+DA  - 2019/01/01/
+SN  - 978-0-12-805342-3
+DO  - https://doi.org/10.1016/B978-0-12-805342-3.00014-X
+UR  - https://www.sciencedirect.com/science/article/pii/B978012805342300014X
+KW  - Design thinking
+KW  - Immersion
+KW  - Synthesis
+KW  - Ideas
+KW  - Ideation
+KW  - Sketching
+KW  - Critiquing
+KW  - Ideation informers
+KW  - Ideation catalysts
+KW  - Ideation techniques
+KW  - Rules of engagement
+AB  - In this chapter we get into the UX design process, starting with generative design or design creation. The overarching objective of design creation is to formulate a plan for how the system will be structured to satisfy the ecological, interaction, and emotional needs of users. Compared to usage research (a study of things as they currently are), design (about lateral thinking and generating new ideas to make things better) is less procedural and more creative. Generative design is an intertwining of ideation (brainstorming), sketching (capturing and exploring design ideas visually), and critiquing (evaluation, review, and judgment). Ideation is collaborative, iterative, and exploratory, being informed via usage research data and models and design catalysts and is supported by a number of ideation techniques. Sketching is an essential embodied partner of ideation; you are not doing design if you are not sketching. A sketch is a conversation about design. Much of the work in design occurs within the ecological perspective, the interaction perspective, and/or the emotional perspective. The process works best if the team follows certain “rules of engagement.”
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating the performance of nature inspired algorithms using 52-bar steel truss subjected to dynamic load
+AU  - Sistla, Saiteja
+AU  - Kalyana Rama, J.S.
+JO  - Materials Today: Proceedings
+VL  - 38
+SP  - 2464
+EP  - 2470
+PY  - 2021
+DA  - 2021/01/01/
+T2  - International Conference & Exposition on Mechanical, Material and Manufacturing Technology (ICE3MT)
+SN  - 2214-7853
+DO  - https://doi.org/10.1016/j.matpr.2020.07.390
+UR  - https://www.sciencedirect.com/science/article/pii/S2214785320355000
+KW  - Moth flame optimizer
+KW  - Salp Swarm Algorithm
+KW  - Whale optimization algorithm
+KW  - MATLAB
+KW  - Steel truss
+AB  - Linear programing problem revolutionized during the world war since it has helped the army to minimize the costs and increase the efficiency in battlefield. Since then optimization techniques have gained popularity in various fields like science & technology, biology, mathematics etc. Nature inspired algorithms mimic the nature’s behavior in order to achieve certain optimization objectives which can achieve productive results to complex problems. Classical algorithms like Genetic algorithm, Particle swarm optimization etc. are widely known but the accuracy of the solution for complex engineering problems is less. Performance evaluation of latest nature inspired algorithms i.e. Moth flame optimizer, Salp Swarm optimizer and Whale optimizer is carried out in the present study. These algorithms are proposed recently and they possess salient features like better convergence rate, avoiding the local optimum and robustness, which is the motivation behind choosing these algorithms. A 52-bar steel truss has been chosen for the present study to assess the performance of the chosen optimization techniques. The behavior of steel truss subjected to two different ground motions is also assessed using the three optimization techniques. A comparative study is done to assess the performance of the chosen techniques. MATLAB is adopted for the simulation of chosen problem statement. Based on the results it is observed that Mouth Flame Optimizer has better performance in terms of accuracy, convergence rate and computational time and is suggested for various types of mechanical and structural problems involving 52-bar trusses.
+ER  - 
+
+TY  - JOUR
+T1  - Development of bridge influence line identification methods based on direct measurement data: A comprehensive review and comparison
+AU  - Zheng, Xu
+AU  - Yang, Dong-Hui
+AU  - Yi, Ting-Hua
+AU  - Li, Hong-Nan
+JO  - Engineering Structures
+VL  - 198
+SP  - 109539
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 0141-0296
+DO  - https://doi.org/10.1016/j.engstruct.2019.109539
+UR  - https://www.sciencedirect.com/science/article/pii/S0141029619309538
+KW  - Bridge influence line
+KW  - Inverse problem
+KW  - B-WIM
+KW  - Bridge evaluation
+KW  - Damage detection
+KW  - Model correction
+AB  - Bridge influence line, which is defined as the response curve of a certain point of the bridge under the moving unit concentrated load, contains tremendous structural information. However, the real bridge influence lines seldom correspond well with them calculated by bridge model. Accordingly, exact identification of the bridge influence line from the direct measurement data grows up to be an important issue for bridge weight-in-motion system, performance evaluation, model correction and bridge damage detection. This paper provides a comprehensive review of current research and development activities in bridge influence line identification method. At first, the development and applications of the bridge influence line are introduced. Following that, the mathematical models of bridge influence line identification and different bridge influence line identification methods are provided. Finally, four different indexes including noise immunity, peak reconstruction accuracy, computational complexity, and adaptability for axle weight change of different methods are compared and the features of these methods are summarized. The end of this paper provides a criterion for selecting suitable influence line identification method in different conditions and an outlook for further development of bridge influence line identification method.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation of e-learning in vocal network teaching experience system based on intelligent Internet of things technology
+AU  - Rui, Yu
+JO  - Entertainment Computing
+VL  - 50
+SP  - 100711
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 1875-9521
+DO  - https://doi.org/10.1016/j.entcom.2024.100711
+UR  - https://www.sciencedirect.com/science/article/pii/S187595212400079X
+KW  - Intelligent technology
+KW  - Internet of Things
+KW  - E-learning
+KW  - Vocal music network
+KW  - Teaching experience
+KW  - System simulation
+AB  - With the rapid development of smart Internet of Things technology, education is also starting to use this technology to improve the learning experience. As an art subject, vocal music teaching has many limitations in the traditional face-to-face teaching methods, and e-learning provides new possibilities for vocal music network teaching. We analyze the problems and challenges existing in the traditional face-to-face mode of vocal music teaching, and then based on the intelligent Internet of Things technology, we design a vocal music network teaching experience system. The system combines sound acquisition equipment, intelligent audio processing algorithm, virtual classroom and other technologies to realize the simulation experience of online vocal music teaching. We have developed an intelligent audio processing algorithm for analyzing and processing students’ singing sounds. This algorithm can detect problems in tone, timbre, rhythm, and more, and provide real-time feedback and advice. In this way, students can understand the shortcomings of their own singing skills, and make timely adjustments and improvements. This study shows that e-learning based on intelligent Internet of Things technology has important application value in vocal music network teaching. By simulating the classroom environment and providing real-time feedback, students can obtain a better learning experience and improve their vocal skills.
+ER  - 
+
+TY  - JOUR
+T1  - The ghosts of forgotten things: A study on size after forgetting
+AU  - Liberatore, Paolo
+JO  - Annals of Pure and Applied Logic
+VL  - 175
+IS  - 8
+SP  - 103456
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0168-0072
+DO  - https://doi.org/10.1016/j.apal.2024.103456
+UR  - https://www.sciencedirect.com/science/article/pii/S016800722400054X
+KW  - Logical forgetting
+KW  - Boolean minimization
+AB  - Forgetting is removing variables from a logical formula while preserving the constraints on the other variables. In spite of reducing information, it does not always decrease the size of the formula and may sometimes increase it. This article discusses the implications of such an increase and analyzes the computational properties of the phenomenon. Given a propositional Horn formula, a set of variables and a maximum allowed size, deciding whether forgetting the variables from the formula can be expressed in that size is Dp-hard in Σ2p. The same problem for unrestricted CNF propositional formulae is D2p-hard in Σ3p.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial synthesis for architectural design as an interactive simulation with multiple agents
+AU  - Veloso, Pedro
+AU  - Krishnamurti, Ramesh
+JO  - Automation in Construction
+VL  - 154
+SP  - 104997
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2023.104997
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580523002571
+KW  - Spatial synthesis
+KW  - Interactive simulation
+KW  - Artificial intelligence
+KW  - Agent-based modeling
+KW  - Multi-agent deep reinforcement learning
+AB  - Motivated by reflection-in-action in architectural design, this article introduces a spatial synthesis artifact that relies on multi-agent reinforcement learning to address spatial goals with fine-grained control in a simulation. It relies on parameter sharing with proximal policy optimization and a parameterized reward function to train robust agent policies in random environments with random spatial problems. The agents are evaluated in three design cases: a house design with 12 agents in three sites, a museum with 18 agents in an interstitial urban site, and a speculative design of a housing complex with 96 agents on a large empty site. The policies performed well in all the cases and produced morphologically consistent solutions. However, in cases with a larger number of agents, the system largely benefited from a spring layout algorithm for the initialization. Future research will address more complex spatial synthesis problems and mechanisms for human-computer interaction.
+ER  - 
+
+TY  - JOUR
+T1  - Argument Quality in Real World Argumentation
+AU  - Hahn, Ulrike
+JO  - Trends in Cognitive Sciences
+VL  - 24
+IS  - 5
+SP  - 363
+EP  - 374
+PY  - 2020
+DA  - 2020/05/01/
+SN  - 1364-6613
+DO  - https://doi.org/10.1016/j.tics.2020.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1364661320300206
+KW  - argument quality
+KW  - logic
+KW  - probability
+KW  - rationality
+AB  - The idea of resolving dispute through the exchange of arguments and reasons has been central to society for millennia. We exchange arguments as a way of getting at the truth in contexts as diverse as science, the court room, and our everyday lives. In democracies, political decisions should be negotiated through argument, not deception, or even worse, brute force. If argument is to lead to the truth or to good decisions, then some arguments must be better than others and ‘argument strength’ must have some meaningful connection with truth. Can argument strength be measured in a way that tracks an objective relationship with truth and not just mere persuasiveness? This article describes recent developments in providing such measures.
+ER  - 
+
+TY  - JOUR
+T1  - Grey wolf optimizer based deep learning mechanism for music composition with data analysis
+AU  - Zhu, Qian
+AU  - Shankar, Achyut
+AU  - Maple, Carsten
+JO  - Applied Soft Computing
+VL  - 153
+SP  - 111294
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2024.111294
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494624000681
+KW  - Music composition
+KW  - LSTM
+KW  - GWO
+KW  - MIDI
+KW  - Data analysis
+AB  - Music composition using artificial intelligence has gained increasing research attention recently. However, existing methods often generate music that needs more coherence and authenticity. This paper proposes an evolutionary computation-based deep learning approach for music composition with data analysis. Specifically, we utilize long short-term memory (LSTM) networks for generating melodic sequences and adopt a grey wolf optimizer to optimize LSTM hyperparameters. The training data is first converted to musical instrument digital interface (MIDI) format for data analysis, and melody lines are extracted using a similarity matrix method. The MIDI data is then encoded for input into the LSTM networks. The generated music is evaluated using objective metrics like mean squared error and subjective methods, including surveys of music professionals. Comparisons made to benchmark algorithms like generative adversarial networks demonstrate the advantages of our approach in accurately capturing tone, rhythm, artistic conception, and other attributes of high-quality music. The proposed mechanism provides a practical framework for AI-based music generation while ensuring authenticity.
+ER  - 
+
+TY  - JOUR
+T1  - Observing the creation of new knowledge in the economics laboratory—Do participants discover how to learn from outcome feedback in a dynamic decision problem?
+AU  - Pittnauer, Sabine
+AU  - Hohnisch, Martin
+JO  - Journal of Economic Behavior & Organization
+VL  - 215
+SP  - 382
+EP  - 405
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0167-2681
+DO  - https://doi.org/10.1016/j.jebo.2023.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0167268123003311
+KW  - Learning
+KW  - Outcome feedback
+KW  - Discovery
+KW  - Conjecture
+KW  - Heuristic simplification
+KW  - Dynamic decision making
+AB  - Domain-general learning rules often enable decision makers to learn from outcome feedback which actions tend to achieve a desired goal. However, in novel and complex environments decision makers must explore how to learn, i.e., acquire procedural knowledge of how to elicit and evaluate outcome feedback that will enable them to navigate toward a desired goal despite the vastness of the set of possible policies. Using a dynamic business simulation, this study investigated: (1) whether and how frequently participants discovered an effective procedure to learn from outcome feedback that allowed them to navigate toward a policy that maximizes long-term business profit (and hence their monetary payoff from the experiment), and (2) whether high monetary incentives affected learning procedures and performance. We found that a number of participants discovered an effective learning procedure and succeeded in approximating the optimal policy. In line with the heuristic method, this learning procedure involved a simplification of the search space and the application of domain-general learning rules to this simplified space. Although the decision histories of about half of the participants feature the key aspect of the effective learning procedure—search among the different steady states of the dynamical system—implementation errors prevented many of the participants from realizing the full potential of the learning procedure. We found no evidence to suggest that high monetary incentives affect the effectiveness of learning. Overall, the study illustrates that a “prepared mind” can discover new, effective learning procedures, although their initial implementation may require substantial refinement.
+ER  - 
+
+TY  - JOUR
+T1  - Definability as hypercomputational effect
+AU  - Cooper, S. Barry
+JO  - Applied Mathematics and Computation
+VL  - 178
+IS  - 1
+SP  - 72
+EP  - 82
+PY  - 2006
+DA  - 2006/07/01/
+T2  - Special Issue on Hypercomputation
+SN  - 0096-3003
+DO  - https://doi.org/10.1016/j.amc.2005.09.072
+UR  - https://www.sciencedirect.com/science/article/pii/S0096300305008350
+KW  - Computability
+KW  - Definability
+KW  - Hypercomputation
+AB  - The classical simulation of physical processes using standard models of computation is fraught with problems. On the other hand, attempts at modelling real-world computation with the aim of isolating its hypercomputational content have struggled to convince. We argue that a better basic understanding can be achieved through computability theoretic deconstruction of those physical phenomena most resistant to classical simulation. From this we may be able to better assess whether the hypercomputational enterprise is proleptic computer science, or of mainly philosophical interest.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable two stage supply chain management: A quadratic optimization approach with a quadratic constraint
+AU  - Caramia, Massimiliano
+AU  - Stecca, Giuseppe
+JO  - EURO Journal on Computational Optimization
+VL  - 10
+SP  - 100040
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 2192-4406
+DO  - https://doi.org/10.1016/j.ejco.2022.100040
+UR  - https://www.sciencedirect.com/science/article/pii/S2192440622000168
+KW  - Supply chain optimization
+KW  - Green management
+KW  - Successive linear approximations
+AB  - Designing a supply chain to comply with environmental policy requires awareness of how work and/or production methods impact the environment and what needs to be done to reduce those environmental impacts and make the company more sustainable. This is a dynamic process that occurs at both the strategic and operational levels. However, being environmentally friendly does not necessarily mean improving the efficiency of the system at the same time. Therefore, when allocating a production budget in a supply chain that implements the green paradigm, it is necessary to figure out how to properly recover costs in order to improve both sustainability and routine operations, offsetting the negative environmental impact of logistics and production without compromising the efficiency of the processes to be executed. In this paper, we study the latter problem in detail, focusing on the CO2 emissions generated by the transportation from suppliers to production sites, and by the production activities carried out in each plant. We do this using a novel mathematical model that has a quadratic objective function and all linear constraints except one, which is also quadratic, and models the constraint on the budget that can be used for green investments caused by the increasing internal complexity created by large production flows in the production nodes of the supply network. To solve this model, we propose a multistart algorithm based on successive linear approximations. Computational results show the effectiveness of our proposal.
+ER  - 
+
+TY  - JOUR
+T1  - Human interaction with policy flight simulators
+AU  - Rouse, William B.
+JO  - Applied Ergonomics
+VL  - 45
+IS  - 1
+SP  - 72
+EP  - 77
+PY  - 2014
+DA  - 2014/01/01/
+T2  - Systems Ergonomics/Human Factors
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2013.03.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687013000604
+KW  - Computational modeling
+KW  - Interactive visualization
+KW  - Policy flight simulators
+AB  - Policy flight simulators are designed for the purpose of exploring alternative management policies at levels ranging from individual organizations to national strategy. This article focuses on how such simulators are developed and on the nature of how people interact with these simulators. These interactions almost always involve groups of people rather than individuals, often with different stakeholders in conflict about priorities and courses of action. The ways in which these interactions are framed and conducted are discussed, as well as the nature of typical results.
+ER  - 
+
+TY  - CHAP
+T1  - Pragmatic Acts
+AU  - Mey, J.L.
+A2  - Brown, Keith
+BT  - Encyclopedia of Language & Linguistics (Second Edition)
+PB  - Elsevier
+CY  - Oxford
+SP  - 5
+EP  - 12
+PY  - 2006
+DA  - 2006/01/01/
+SN  - 978-0-08-044854-1
+DO  - https://doi.org/10.1016/B0-08-044854-2/00386-2
+UR  - https://www.sciencedirect.com/science/article/pii/B0080448542003862
+KW  - Affordance
+KW  - common sense
+KW  - extralinguistic acts
+KW  - intention
+KW  - intentionality
+KW  - interactional situation
+KW  - irony
+KW  - power
+KW  - pract
+KW  - pragmatic acts
+KW  - pragmeme
+KW  - presupposition
+KW  - situated action
+KW  - situated context
+KW  - situation
+KW  - speech acting
+KW  - speech acts
+KW  - utterance
+AB  - Recently, the established way of thinking about speech acts (in the tradition of Austin, Searle, Grice, and their followers) has undergone a remarkable change. From being an effort to represent human words in terms of what they ‘do’ (Austin), or how they can be used to produce ‘speech acts’ (Searle) or to generate ‘implicatures’ (Grice), the focus has shifted to the situation in which words are spoken and how this contributes to understanding the utterance, or even how the situation can predefine and to a degree determine what can be said. The upshot of these considerations is that we need a new theory, one that takes into account the inter- and transactional aspects of speech acting. This article proposes such a theory under the label of ‘pragmatic acts’ – acts that work not just by their wording but also by their being embedded in a situation in which humans act, with everything that humans bring to their interactional forum, including body movements, emotions, and so on.
+ER  - 
+
+TY  - JOUR
+T1  - Energy and task completion time trade-off for task offloading in fog-enabled IoT networks
+AU  - Shahryari, Om-Kolsoom
+AU  - Pedram, Hossein
+AU  - Khajehvand, Vahid
+AU  - TakhtFooladi, Mehdi Dehghan
+JO  - Pervasive and Mobile Computing
+VL  - 74
+SP  - 101395
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 1574-1192
+DO  - https://doi.org/10.1016/j.pmcj.2021.101395
+UR  - https://www.sciencedirect.com/science/article/pii/S1574119221000535
+KW  - Internet of Things
+KW  - Fog computing
+KW  - Task offloading
+KW  - Genetic algorithm
+KW  - Particle swarm optimization
+KW  - Resource allocation
+AB  - In order to improve the quality of experience in executing computation-intensive tasks of real-time IoT applications in a fog-enabled IoT network, resource-constrained IoT devices can offload the tasks to resource-rich nearby fog nodes. It causes a reduction in energy consumption compared with local processing, although it extends task completion time due to communication latency. In this paper, we propose a task offloading scheme that optimizes task offloading decision, fog node selection, and computation resource allocation, investigating the trade-off between task completion time and energy consumption. Weighting coefficients of time and energy consumption are determined based on specific demands of the user and residual energy of devices’ battery. Accordingly, we formulate the task offloading problem as a mixed-integer nonlinear program (MINLP), which is NP-hard. A sub-optimal algorithm based on the hybrid of genetic algorithm and particle swarm optimization is designed to solve the formulated problem. Extensive simulations prove the convergence of the proposed algorithm and its superior performance in comparison with baseline schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Why we still need a mark of the cognitive
+AU  - Adams, Frederick
+JO  - Cognitive Systems Research
+VL  - 11
+IS  - 4
+SP  - 324
+EP  - 331
+PY  - 2010
+DA  - 2010/12/01/
+T2  - Special Issue on Extended Mind
+SN  - 1389-0417
+DO  - https://doi.org/10.1016/j.cogsys.2010.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1389041710000331
+KW  - Causal spread
+KW  - Cognitive
+KW  - Cognitive process
+KW  - Computation
+KW  - Constitutes
+KW  - Content
+KW  - Coupling
+KW  - Extended mind
+KW  - Information processing
+KW  - Parity principle
+KW  - Representation
+KW  - Semantics
+KW  - Think
+AB  - What makes a process a cognitive process? I’m not just asking for a list of cognitive processes, but for what makes an item on that list a cognitive process. Why should it be on the list? This is a question that has been ignored far too long in the domain of research calling itself cognitive science. It is time to give an answer and that is what I propose in this paper. I contrast my answer with others that have been given and defend the need against some claims in the literature that a mark of the cognitive is not needed.
+ER  - 
+
+TY  - JOUR
+T1  - Metaphor as a possible pathway to more formal understanding of the definition of sequence convergence
+AU  - Dawkins, Paul Christian
+JO  - The Journal of Mathematical Behavior
+VL  - 31
+IS  - 3
+SP  - 331
+EP  - 343
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0732-3123
+DO  - https://doi.org/10.1016/j.jmathb.2012.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0732312312000156
+KW  - Real analysis
+KW  - Sequence convergence
+KW  - Defining
+KW  - Realistic Mathematics Education
+KW  - Transition to advanced mathematical thinking
+AB  - This study presents how the introduction of a metaphor for sequence convergence constituted an experientially real context in which an undergraduate real analysis student developed a property-based definition of sequence convergence. I use elements from Zandieh and Rasmussen's (2010) Defining as a Mathematical Activity framework to trace the transformation of the student's conception from a non-standard, personal concept definition rooted in the metaphor to a concept definition for sequence convergence compatible with the standard definition. This account of the development of the definition of sequence convergence differs from prior research in the sense that it began neither with examples or visual notions, nor with the statement of the formal definition. This study contributes to the Realistic Mathematics Education literature as it documents a student's progression through the definition-of and definition-for stages of mathematical activity in an interactive lecture classroom context.
+ER  - 
+
+TY  - JOUR
+T1  - Machine Learning and Other Emerging Decision Support Tools
+AU  - Baron, Jason M.
+AU  - Kurant, Danielle E.
+AU  - Dighe, Anand S.
+JO  - Clinics in Laboratory Medicine
+VL  - 39
+IS  - 2
+SP  - 319
+EP  - 331
+PY  - 2019
+DA  - 2019/06/01/
+T2  - Clinical Decision Support: Tools, Strategies, and Emerging Technologies
+SN  - 0272-2712
+DO  - https://doi.org/10.1016/j.cll.2019.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0272271219300101
+KW  - Machine learning
+KW  - Clinical decision support
+KW  - Artificial intelligence
+KW  - Knowledge discovery
+KW  - Computational pathology
+ER  - 
+
+TY  - JOUR
+T1  - A primer on applying AI synergistically with domain expertise to oncology
+AU  - Kim, Jason
+AU  - Kusko, Rebecca
+AU  - Zeskind, Benjamin
+AU  - Zhang, Jenny
+AU  - Escalante-Chong, Renan
+JO  - Biochimica et Biophysica Acta (BBA) - Reviews on Cancer
+VL  - 1876
+IS  - 1
+SP  - 188548
+PY  - 2021
+DA  - 2021/08/01/
+SN  - 0304-419X
+DO  - https://doi.org/10.1016/j.bbcan.2021.188548
+UR  - https://www.sciencedirect.com/science/article/pii/S0304419X21000457
+AB  - Background
+The concurrent growth of large-scale oncology data alongside the computational methods with which to analyze and model it has created a promising environment for revolutionizing cancer diagnosis, treatment, prevention, and drug discovery. Computational methods applied to large datasets have accelerated the drug discovery process by reducing bottlenecks and widening the search space beyond what is experimentally tractable. As the research community gains understanding of the myriad genetic underpinnings of cancer via sequencing, imaging, screens, and more that are ingested, transformed, and modeled by top open-source machine learning and artificial intelligence tools readily available, the next big drug candidate might seem merely an “Enter” key away. Of course, the reality is more convoluted, but still promising.
+Scope of review
+We present methods to approach the process of building an AI model, with strong emphasis on the aspects of model development we believe to be crucial to success but that are not commonly discussed: diligence in posing questions, identifying suitable datasets and curating them, and collaborating closely with biology and oncology experts while designing and evaluating the model. Digital pathology, Electronic Health Records, and other data types outside of high-throughput molecular data are reviewed well by others and outside of the scope of this review. This review emphasizes the importance of considering the limitations of the datasets, computational methods, and our minds when designing AI models. For example, datasets can be biased towards areas of research interest, funding, and particular patient populations. Neural networks may learn representations and correlations within the data that are grounded not in biological phenomena, but statistical anomalies erroneously extracted from the training data. Researchers may mis-interpret or over-interpret the output, or design and evaluate the training process such that the resultant model generalizes poorly. Fortunately, awareness of the strengths and limitations of applying data analytics and AI to drug discovery enables us to leverage them carefully and insightfully while maximizing their utility. These applications when performed in close collaboration with domain experts, together with continuous critical evaluation, generation of new data to minimize known blind spots as they are found, and rigorous experimental validation, increases the success rate of the study. We will discuss applications including AI-assisted target identification, drug repurposing, patient stratification, and gene prioritization.
+Major conclusions
+Data analytics and AI have demonstrated capabilities to revolutionize cancer research, prevention, and treatment by maximizing our understanding and use of the expanding panoply of experimental data. However, to separate promise from true utility, computational tools must be carefully designed, critically evaluated, and constantly improved. Once that is achieved, a human-computer hybrid discovery process will outperform one driven by each alone.
+General significance
+This review highlights the challenges and promise of synergizing predictive AI models with human expertise towards greater understanding of cancer.
+ER  - 
+
+TY  - JOUR
+T1  - Custom fabric ventures: An instructional resource in job costing for the introductory managerial accounting course
+AU  - Braun, Karen W.
+JO  - Journal of Accounting Education
+VL  - 31
+IS  - 4
+SP  - 400
+EP  - 429
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0748-5751
+DO  - https://doi.org/10.1016/j.jaccedu.2013.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0748575113000511
+KW  - Job costing
+KW  - Introductory managerial accounting
+KW  - Active learning
+KW  - Instructional resource
+AB  - Job costing is a core foundational concept in the introductory managerial accounting course. The purpose of this instructional resource (IR) is to provide a thorough hands-on, active learning resource that will allow introductory students to experience a full set of accounting and management activities necessary to produce a job and assign production costs to it. For example, the IR requires students to analyze overhead costs, determine the optimal job size, schedule production, calculate the amount of materials to purchase, complete material requisitions, update raw materials records, analyze labor time records, complete a job cost record and address critical thinking questions. The IR was developed for use in a “flipped classroom” in which students work under the guidance of the instructor, but could alternatively be assigned as an unsupervised out-of-class assignment or on-line project. Since the IR was specifically developed as a learning tool for novice introductory managerial accounting students, adequate guidance is provided throughout the activity. However, to add realism and challenge students to think beyond the confines of simple mechanics, management and accounting issues are seeded throughout. Student feedback indicates that the IR not only helps students learn how a job costing system operates, but also helps students become aware of management decisions and accounting issues that impact the costs assigned to a job.
+ER  - 
