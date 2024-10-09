@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def leer_archivo_y_extraer_datos_multiples(ruta_archivo):
+def leer_archivo_y_extraer_datos_multiples(ruta_archivo, ruta_salida):
     datos = []  # Lista para almacenar los datos extraídos
     
     with open(ruta_archivo, 'r', encoding='utf-8') as archivo:
@@ -56,11 +56,18 @@ def leer_archivo_y_extraer_datos_multiples(ruta_archivo):
             'Citaciones': citaciones
         })
 
+    # Guardar los datos en un archivo de texto
+    with open(ruta_salida, 'w', encoding='utf-8') as archivo_salida:
+        archivo_salida.write("Primer Autor\tAño Publicación\tTipo Producto\tAfiliación Autor\tJournal\tPublisher\tBase de Datos\tCitaciones\n")
+        for dato in datos:
+            archivo_salida.write(f"{dato['Primer Autor']}\t{dato['Año Publicación']}\t{dato['Tipo Producto']}\t{dato['Afiliación Autor']}\t{dato['Journal']}\t{dato['Publisher']}\t{dato['Base de Datos']}\t{dato['Citaciones']}\n")
+
     return datos
 
 # Ruta del archivo de texto con múltiples documentos
 ruta_archivo = "referencias_limpias.txt"
-datos = leer_archivo_y_extraer_datos_multiples(ruta_archivo)
+ruta_salida = "datos_extraidos.txt"
+datos = leer_archivo_y_extraer_datos_multiples(ruta_archivo, ruta_salida)
 
 # Convertir los datos en un DataFrame de pandas
 df = pd.DataFrame(datos)
