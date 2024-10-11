@@ -1,21 +1,14 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import tkinter as tk
+from tkinter import filedialog, messagebox
 
 def leer_datos_y_graficar(ruta_datos):
-    # Leer los datos del archivo en un DataFrame
     df = pd.read_csv(ruta_datos, sep='\t')
-
-    # Eliminar autores con 'No encontrado' para mejorar el gráfico
     df = df[df['Primer Autor'] != 'No encontrado']
-
-    # Contar la frecuencia de cada autor
     frecuencia_autores = df['Primer Autor'].value_counts()
-
-    # Mostrar solo los 10 autores más frecuentes
     autores_top = frecuencia_autores.nlargest(10)
-
-    # Crear el gráfico de los 10 principales autores
     plt.figure(figsize=(10, 6))
     sns.barplot(x=autores_top.values, y=autores_top.index, palette='viridis')
     plt.title('Top 10 Autores por Número de Publicaciones')
@@ -23,29 +16,20 @@ def leer_datos_y_graficar(ruta_datos):
     plt.ylabel('Autor')
     plt.show()
 
-
 def graficar_documentos_por_año(ruta_datos):
-
     df = pd.read_csv(ruta_datos, sep='\t')
-    # Contar la cantidad de documentos por año de publicación
     documentos_por_año = df['Año Publicación'].value_counts().sort_index()
-
-    # Crear el gráfico de barras por año
     plt.figure(figsize=(10, 6))
     sns.barplot(x=documentos_por_año.index, y=documentos_por_año.values, palette='coolwarm')
     plt.title('Cantidad de Documentos por Año de Publicación')
     plt.xlabel('Año de Publicación')
     plt.ylabel('Cantidad de Documentos')
-    plt.xticks(rotation=45)  # Rotar las etiquetas del eje x para mejorar la legibilidad
+    plt.xticks(rotation=45)
     plt.show()
 
 def graficar_cantidad_por_tipo_producto(ruta_datos):
-
     df = pd.read_csv(ruta_datos, sep='\t')
-    # Contar la cantidad de documentos por tipo de producto
     documentos_por_tipo = df['Tipo Producto'].value_counts()
-
-    # Crear el gráfico de barras por tipo de producto
     plt.figure(figsize=(10, 6))
     sns.barplot(x=documentos_por_tipo.values, y=documentos_por_tipo.index, palette='coolwarm')
     plt.title('Cantidad de Documentos por Tipo de Producto')
@@ -54,12 +38,8 @@ def graficar_cantidad_por_tipo_producto(ruta_datos):
     plt.show()
 
 def graficar_journals_mas_repetidos(ruta_datos, top_n=10):
-
     df = pd.read_csv(ruta_datos, sep='\t')
-    # Contar la cantidad de documentos por journal
     journals_mas_comunes = df['Journal'].value_counts().nlargest(top_n)
-
-    # Crear el gráfico de barras por journal
     plt.figure(figsize=(10, 6))
     sns.barplot(x=journals_mas_comunes.values, y=journals_mas_comunes.index)
     plt.title(f'Top {top_n} Journals Más Repetidos')
@@ -67,12 +47,48 @@ def graficar_journals_mas_repetidos(ruta_datos, top_n=10):
     plt.ylabel('Journal')
     plt.show()
 
-ruta_datos = "datos_extraidos.txt"  # Archivo generado con los datos extraídos
+# Función para seleccionar el archivo
+def seleccionar_archivo():
+    archivo_datos = filedialog.askopenfilename(title="Seleccionar archivo de datos", filetypes=[("Text files", "*.txt")])
+    archivo_var.set(archivo_datos)
 
-graficar_journals_mas_repetidos(ruta_datos, top_n=10)
+# Función para ejecutar la gráfica correspondiente
+def ejecutar_grafica(grafica_func):
+    ruta_datos = archivo_var.get()
+    if ruta_datos:
+        grafica_func(ruta_datos)
+    else:
+        messagebox.showwarning("Advertencia", "Por favor, selecciona un archivo de datos.")
 
-#graficar_cantidad_por_tipo_producto(ruta_datos)
+# Crear la ventana principal
+ventana = tk.Tk()
+ventana.title("Graficador de Datos Bibliográficos")
 
-#graficar_documentos_por_año(ruta_datos)
+# Variable para almacenar la ruta del archivo seleccionado
+archivo_var = tk.StringVar()
 
-#leer_datos_y_graficar(ruta_datos)
+# Crear los widgets de la interfaz
+label_archivo = tk.Label(ventana, text="Archivo de datos:")
+label_archivo.pack(pady=5)
+
+archivo_entry = tk.Entry(ventana, textvariable=archivo_var, width=50)
+archivo_entry.pack(pady=5)
+
+btn_seleccionar_archivo = tk.Button(ventana, text="Seleccionar archivo", command=seleccionar_archivo)
+btn_seleccionar_archivo.pack(pady=5)
+
+# Botones para cada una de las funciones
+btn_top_autores = tk.Button(ventana, text="Top 10 Autores por Publicaciones", command=lambda: ejecutar_grafica(leer_datos_y_graficar))
+btn_top_autores.pack(pady=5)
+
+btn_docs_por_año = tk.Button(ventana, text="Documentos por Año de Publicación", command=lambda: ejecutar_grafica(graficar_documentos_por_año))
+btn_docs_por_año.pack(pady=5)
+
+btn_docs_por_tipo = tk.Button(ventana, text="Cantidad de Documentos por Tipo de Producto", command=lambda: ejecutar_grafica(graficar_cantidad_por_tipo_producto))
+btn_docs_por_tipo.pack(pady=5)
+
+btn_top_journals = tk.Button(ventana, text="Top 10 Journals Más Repetidos", command=lambda: ejecutar_grafica(graficar_journals_mas_repetidos))
+btn_top_journals.pack(pady=5)
+
+# Iniciar la ventana
+ventana.mainloop()
