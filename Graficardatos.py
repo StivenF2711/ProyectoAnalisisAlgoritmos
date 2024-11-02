@@ -17,8 +17,17 @@ def leer_datos_y_graficar(ruta_datos):
     plt.show()
 
 def graficar_documentos_por_año(ruta_datos):
+    # Cargar el archivo CSV
     df = pd.read_csv(ruta_datos, sep='\t')
-    documentos_por_año = df['Año Publicación'].value_counts().sort_index()
+    
+    # Filtrar valores que contengan "No encontrado"
+    df_filtrado = df[df['Año Publicación'].notna()]  # Eliminar NaN
+    df_filtrado = df_filtrado[~df_filtrado['Año Publicación'].str.contains("No encontrado", case=False, na=False)]  # Excluir "No encontrado"
+    
+    # Contar documentos por año y ordenar por año
+    documentos_por_año = df_filtrado['Año Publicación'].value_counts().sort_index()
+    
+    # Graficar
     plt.figure(figsize=(10, 6))
     sns.barplot(x=documentos_por_año.index, y=documentos_por_año.values, palette='coolwarm')
     plt.title('Cantidad de Documentos por Año de Publicación')
@@ -38,14 +47,24 @@ def graficar_cantidad_por_tipo_producto(ruta_datos):
     plt.show()
 
 def graficar_journals_mas_repetidos(ruta_datos, top_n=10):
+    # Cargar el archivo CSV
     df = pd.read_csv(ruta_datos, sep='\t')
-    journals_mas_comunes = df['Journal'].value_counts().nlargest(top_n)
+    
+    # Filtrar valores que contengan "No encontrado"
+    df_filtrado = df['Journal'].dropna()  # Elimina valores NaN
+    df_filtrado = df_filtrado[~df_filtrado.str.contains("No encontrado", case=False, na=False)]  # Excluye los que contienen "No encontrado"
+
+    # Obtener los journals más comunes
+    journals_mas_comunes = df_filtrado.value_counts().nlargest(top_n)
+    
+    # Graficar
     plt.figure(figsize=(10, 6))
     sns.barplot(x=journals_mas_comunes.values, y=journals_mas_comunes.index)
     plt.title(f'Top {top_n} Journals Más Repetidos')
     plt.xlabel('Cantidad de Documentos')
     plt.ylabel('Journal')
     plt.show()
+
 
 # Función para seleccionar el archivo
 def seleccionar_archivo():

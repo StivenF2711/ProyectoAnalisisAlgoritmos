@@ -14,19 +14,19 @@ def filtrar_datos_y_guardar(ruta_archivo, ruta_salida):
     for i, documento in enumerate(documentos):
         # Extraer primer autor
         primer_autor = re.search(r"AU\s+-\s+([^\n]+)", documento)
-        primer_autor = primer_autor.group(1) if primer_autor else " "
+        primer_autor = primer_autor.group(1) if primer_autor else "No encontrado"
 
         # Extraer año de publicación
         año_publicacion = re.search(r"PY\s+-\s+(\d{4})", documento)
-        año_publicacion = año_publicacion.group(1) if año_publicacion else " "
+        año_publicacion = año_publicacion.group(1) if año_publicacion else "No encontrado"
 
         # Extraer tipo de producto
         tipo_producto = re.search(r"TY\s+-\s+([^\n]+)", documento)
-        tipo_producto = tipo_producto.group(1) if tipo_producto else " "
+        tipo_producto = tipo_producto.group(1) if tipo_producto else "No encontrado"
         
         # Extraer journal
         journal = re.search(r"JO\s+-\s+([^\n]+)", documento)
-        journal = journal.group(1) if journal else " "
+        journal = journal.group(1) if journal else "No encontrado"
 
         # Guardar los datos en un diccionario
         datos.append({
