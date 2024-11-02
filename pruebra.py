@@ -1,60 +1,77 @@
 from collections import Counter
+import re
 
-# Método para leer todos los sinónimos de un archivo
-def leer_sinonimos(archivo_sinonimos):
-    sinonimos = set()  # Usamos un conjunto para evitar duplicados
-
-    with open(archivo_sinonimos, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+def cargar_sinonimos(nombre_archivo):
+    sinonimos = {}
     
-    # Procesar el archivo de sinónimos línea por línea
-    for line in lines:
-        line = line.strip()
-        if line and not line.endswith('-TL'):  # Solo añadimos líneas que no son títulos
-            sinonimos.update([word.strip().lower() for word in line.split(',')])  # Añadir sinónimos al conjunto
+    try:
+        with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
+            for linea in archivo:
+                # Elimina espacios en blanco y divide cada línea en palabras usando "-" como delimitador
+                palabras = linea.strip().split('-')
+                
+                # Agrega cada palabra como clave en el diccionario
+                for palabra in palabras:
+                    palabra_normalizada = palabra.strip().lower()  # Normaliza la palabra
+                    sinonimos[palabra_normalizada] = palabra_normalizada  # Almacena solo el sinónimo
 
-    return sinonimos
-
-# Método para leer abstracts de un archivo de texto
-def leer_abstracts(archivo):
-    abstracts = []
-    with open(archivo, 'r', encoding='utf-8') as f:
-        abstracts = f.readlines()
+        return sinonimos
     
-    return [abstract.strip() for abstract in abstracts if abstract.strip()]
+    except FileNotFoundError:
+        print("El archivo no se encontró.")
+        return None
 
-# Método para contar cuántas veces aparecen los sinónimos en los abstracts
-def validar_palabras_abstracts(abstracts, sinonimos):
-    sinonimos_count = Counter()  # Usamos Counter para contar todas las palabras sinónimos
 
-    # Procesar cada abstract
+def extraer_abstracts(nombre_archivo):
+    try:
+        with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
+            # Lee cada línea y almacena cada abstract en una lista
+            abstracts = [linea.strip() for linea in archivo if linea.strip()]
+        return abstracts
+    
+    except FileNotFoundError:
+        print("El archivo no se encontró.")
+        return None
+
+
+def contar_frecuencia_terminos(abstracts, terminos):
+    # Inicializa un diccionario para almacenar la frecuencia de cada término
+    frecuencias = {termino: 0 for termino in terminos}
+    
+    # Procesa cada abstract
     for abstract in abstracts:
-        words_in_abstract = abstract.lower().split()
+        for termino in terminos:
+            # Actualiza la frecuencia total de cada término en todos los abstracts
+            frecuencias[termino] += len(re.findall(re.escape(termino), abstract, re.IGNORECASE))
+    
+    return frecuencias
 
-        # Validar cada palabra en el abstract comparando con los sinónimos
-        for synonym in sinonimos:
-            count = words_in_abstract.count(synonym)
-            if count > 0:
-                sinonimos_count[synonym] += count
 
-    return sinonimos_count
+def guardar_frecuencias(nombre_archivo, frecuencias):
+    try:
+        with open(nombre_archivo, 'w', encoding='utf-8') as archivo:
+            for termino, frecuencia in frecuencias.items():
+                archivo.write(f"{termino}: {frecuencia}\n")
+        print(f"Frecuencias guardadas en {nombre_archivo}.")
+    except Exception as e:
+        print(f"Error al guardar las frecuencias: {e}")
 
-# Leer los sinónimos desde el archivo 'sinonimos.txt'
-sinonimos = leer_sinonimos('sinonimos.txt')
 
-# Leer los abstracts desde el archivo 'abstracts_extraidos.txt'
-abstracts = leer_abstracts('abstracts_extraidos.txt')
+# Carga los sinónimos desde el archivo
+nombre_archivo_sinonimos = "sinonimos.txt"
+sinonimos = cargar_sinonimos(nombre_archivo_sinonimos)
 
-# Validar las palabras de los abstracts con los sinónimos
-resultado_validacion = validar_palabras_abstracts(abstracts, sinonimos)
+# Llama a la función para extraer los abstracts y contar las frecuencias
+nombre_archivo_abstracts = "abstracts_extraidos.txt"
+texto = extraer_abstracts(nombre_archivo_abstracts)
 
-# Guardar los resultados en un archivo de salida
-output_path = 'resultado_validacion_sinonimos.txt'
-with open(output_path, 'w', encoding='utf-8') as f:
-    for synonym, count in resultado_validacion.items():
-        f.write(f"{synonym}: {count}\n")
-
-# Mostrar el resultado final
-print(f"Resultados de validación guardados en {output_path}. Contenido:")
-with open(output_path, 'r', encoding='utf-8') as f:
-    print(f.read())
+# Verifica que texto no sea None antes de contar frecuencias
+if texto is not None:
+    frecuencias = contar_frecuencia_terminos(texto, sinonimos)
+    print(frecuencias)
+    
+    # Guarda las frecuencias en un archivo
+    nombre_archivo_resultados = "frecuencias_resultados.txt"
+    guardar_frecuencias(nombre_archivo_resultados, frecuencias)
+else:
+    print("No se pudieron extraer los abstracts.")
