@@ -1,12 +1,15 @@
 from collections import Counter
 import re
-
 def cargar_sinonimos(nombre_archivo):
     sinonimos = {}
     
     try:
         with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
             for linea in archivo:
+                # Si la línea contiene "-TL", se omite
+                if "-TL" or ":" in linea:
+                    continue
+                
                 # Elimina espacios en blanco y divide cada línea en palabras usando "-" como delimitador
                 palabras = linea.strip().split('-')
                 
@@ -20,6 +23,7 @@ def cargar_sinonimos(nombre_archivo):
     except FileNotFoundError:
         print("El archivo no se encontró.")
         return None
+
 
 
 def extraer_abstracts(nombre_archivo):

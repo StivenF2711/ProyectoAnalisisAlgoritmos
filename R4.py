@@ -8,12 +8,15 @@ def leer_abstracts(file_path):
     return abstracts
 
 def generar_nube_palabras(abstracts):
-    # Une todos los abstracts en una sola cadena de texto
-    texto_completo = " ".join(abstracts)
+    # Filtra los abstracts que son iguales a "0"
+    abstracts_filtrados = [abstract for abstract in abstracts if abstract.strip() != "0"]
+    
+    # Une todos los abstracts filtrados en una sola cadena de texto
+    texto_completo = " ".join(abstracts_filtrados)
 
     # Genera la nube de palabras
     wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='viridis',
-                        max_words=100, collocations=False).generate(texto_completo)
+                          max_words=100, collocations=False).generate(texto_completo)
 
     # Muestra la nube de palabras
     plt.figure(figsize=(10, 5))
