@@ -50,7 +50,7 @@ def contar_frecuencia_terminos(abstracts, sinonimos):
     
     for abstract in abstracts:
         abstract_normalizado = abstract.lower()
-        
+
         for clave, lista_sinonimos in sinonimos.items():
             for sinonimo in lista_sinonimos:
                 coincidencias = re.findall(r'\b' + re.escape(sinonimo) + r'\b', abstract_normalizado)
@@ -88,7 +88,7 @@ if texto:
     imprimir_abstracts_y_sinonimos(texto, sinonimos, frecuencias)
     
     # Guardar resultados
-    nombre_archivo_resultados = "frecuencias_resultados.txt"
+    nombre_archivo_resultados = "Archivos/frecuencias_resultados.txt"
     guardar_frecuencias(nombre_archivo_resultados, frecuencias)
 else:
     print("No se pudieron extraer los abstracts.")
