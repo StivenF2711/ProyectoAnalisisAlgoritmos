@@ -16,7 +16,7 @@ def generar_nube_palabras(abstracts):
 
     # Genera la nube de palabras
     wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='viridis',
-                          max_words=100, collocations=False).generate(texto_completo)
+                            max_words=100, collocations=False).generate(texto_completo)
 
     # Muestra la nube de palabras
     plt.figure(figsize=(10, 5))
@@ -25,7 +25,7 @@ def generar_nube_palabras(abstracts):
     plt.show()
 
 # Ruta al archivo de texto con los abstracts
-file_path = 'Archivos/datos_extraidos.txt'
+file_path = 'Archivos/frecuencias_resultados.txt'
 
 # Lee los abstracts y genera la nube de palabras
 abstracts = leer_abstracts(file_path)
