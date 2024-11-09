@@ -49,8 +49,8 @@ def filtrar_datos_y_guardar_completo(ruta_archivo, ruta_salida):
 
 
 def procesar_archivos():
-    ruta_entrada = "referencias_limpias.txt"
-    ruta_salida = "datos_extraidos.txt"  # Archivo de salida predefinido
+    ruta_entrada = "Archivos/referencias_limpias.txt"
+    ruta_salida = "Archivos/datos_extraidos.txt"  # Archivo de salida predefinido
     if ruta_entrada:
         filtrar_datos_y_guardar_completo(ruta_entrada, ruta_salida)
     else:

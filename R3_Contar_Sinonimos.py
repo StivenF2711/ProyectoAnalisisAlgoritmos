@@ -1,23 +1,22 @@
 from collections import Counter
 import re
+
 def cargar_sinonimos(nombre_archivo):
     sinonimos = {}
-    
     try:
         with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
             for linea in archivo:
                 # Si la línea contiene "-TL", se omite
-                if "-TL" or ":" in linea:
+                if "-TL" in linea or ":" in linea:
                     continue
                 
                 # Elimina espacios en blanco y divide cada línea en palabras usando "-" como delimitador
-                palabras = linea.strip().split('-')
+                palabras = [palabra.strip().lower() for palabra in linea.strip().split('-')]
                 
-                # Agrega cada palabra como clave en el diccionario
-                for palabra in palabras:
-                    palabra_normalizada = palabra.strip().lower()  # Normaliza la palabra
-                    sinonimos[palabra_normalizada] = palabra_normalizada  # Almacena solo el sinónimo
-
+                # La primera palabra de la lista será la clave principal, el resto serán sus sinónimos
+                clave = palabras[0]
+                sinonimos[clave] = palabras  # Almacena la lista de sinónimos
+        
         return sinonimos
     
     except FileNotFoundError:
@@ -25,28 +24,37 @@ def cargar_sinonimos(nombre_archivo):
         return None
 
 
-
 def extraer_abstracts(nombre_archivo):
     try:
         with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
-            # Lee cada línea y almacena cada abstract en una lista
-            abstracts = [linea.strip() for linea in archivo if linea.strip()]
+            # Lee todo el contenido del archivo
+            contenido = archivo.read()
+            
+            # Usamos expresiones regulares para extraer los abstracts de forma más robusta
+            abstracts = re.split(r'\n{2,}', contenido.strip())
+            abstracts = [re.sub(r'\s+', ' ', abstract).strip() for abstract in abstracts if abstract.strip()]
+        
         return abstracts
     
     except FileNotFoundError:
-        print("El archivo no se encontró.")
-        return None
-
-
-def contar_frecuencia_terminos(abstracts, terminos):
-    # Inicializa un diccionario para almacenar la frecuencia de cada término
-    frecuencias = {termino: 0 for termino in terminos}
+        print(f"El archivo '{nombre_archivo}' no se encontró.")
+        return []
     
-    # Procesa cada abstract
+    except Exception as e:
+        print(f"Ha ocurrido un error: {e}")
+        return []
+
+
+def contar_frecuencia_terminos(abstracts, sinonimos):
+    frecuencias = {clave: 0 for clave in sinonimos}
+    
     for abstract in abstracts:
-        for termino in terminos:
-            # Actualiza la frecuencia total de cada término en todos los abstracts
-            frecuencias[termino] += len(re.findall(re.escape(termino), abstract, re.IGNORECASE))
+        abstract_normalizado = abstract.lower()
+        
+        for clave, lista_sinonimos in sinonimos.items():
+            for sinonimo in lista_sinonimos:
+                coincidencias = re.findall(r'\b' + re.escape(sinonimo) + r'\b', abstract_normalizado)
+                frecuencias[clave] += len(coincidencias)
     
     return frecuencias
 
@@ -61,19 +69,25 @@ def guardar_frecuencias(nombre_archivo, frecuencias):
         print(f"Error al guardar las frecuencias: {e}")
 
 
-# Carga los sinónimos desde el archivo
+def imprimir_abstracts_y_sinonimos(abstracts, sinonimos, frecuencias):
+    print("\n--- Frecuencia de Sinónimos en los Abstracts ---")
+    for sinonimo, frecuencia in frecuencias.items():
+        print(f"{sinonimo}: {frecuencia}")
+
+
+# Cargar los sinónimos y abstracts
 nombre_archivo_sinonimos = "Archivos/sinonimos.txt"
 sinonimos = cargar_sinonimos(nombre_archivo_sinonimos)
-
-# Llama a la función para extraer los abstracts y contar las frecuencias
+print('r')
 nombre_archivo_abstracts = "Archivos/abstracts_extraidos.txt"
 texto = extraer_abstracts(nombre_archivo_abstracts)
-
-# Verifica que texto no sea None antes de contar frecuencias
-if texto is not None:
+print('r')
+# Contar frecuencias
+if texto:
     frecuencias = contar_frecuencia_terminos(texto, sinonimos)
+    imprimir_abstracts_y_sinonimos(texto, sinonimos, frecuencias)
     
-    # Guarda las frecuencias en un archivo
+    # Guardar resultados
     nombre_archivo_resultados = "frecuencias_resultados.txt"
     guardar_frecuencias(nombre_archivo_resultados, frecuencias)
 else:

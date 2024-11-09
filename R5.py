@@ -59,13 +59,19 @@ top_journals = sorted(journal_dict.items(), key=lambda x: len(x[1]), reverse=Tru
 
 # Crear el grafo
 G = nx.Graph()
+article_id = 1  # Para identificadores únicos
+
 for journal, articles in top_journals:
     G.add_node(journal, type='journal')
     
     # Seleccionar los 15 artículos más citados
     top_articles = sorted(articles, key=lambda x: x['citations'], reverse=True)[:15]
     for article in top_articles:
-        article_node = f"{article['title'][:20]}..."
+        # Acortar el nombre usando iniciales del primer autor y los primeros 10 caracteres del título
+        author_initials = "".join([name[0] for name in article['authors'][0].split()]) if article['authors'] else "NA"
+        article_node = f"Art-{article_id} ({author_initials})"
+        article_id += 1
+        
         G.add_node(article_node, type='article', citations=article['citations'], country=article['country'])
         G.add_edge(journal, article_node)
 
