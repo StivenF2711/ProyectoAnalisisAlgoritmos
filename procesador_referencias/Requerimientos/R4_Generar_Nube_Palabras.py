@@ -25,7 +25,7 @@ def generar_nube_palabras(abstracts):
     plt.show()
 
 # Ruta al archivo de texto con los abstracts
-file_path = 'Archivos/frecuencias_resultados.txt'
+file_path = 'procesador_referencias/Archivos/frecuencias_resultados.txt'
 
 # Lee los abstracts y genera la nube de palabras
 abstracts = leer_abstracts(file_path)

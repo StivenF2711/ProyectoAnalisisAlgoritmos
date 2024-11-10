@@ -76,10 +76,10 @@ def imprimir_abstracts_y_sinonimos(abstracts, sinonimos, frecuencias):
 
 
 # Cargar los sinónimos y abstracts
-nombre_archivo_sinonimos = "Archivos/sinonimos.txt"
+nombre_archivo_sinonimos = "procesador_referencias/Archivos/sinonimos.txt"
 sinonimos = cargar_sinonimos(nombre_archivo_sinonimos)
 print('r')
-nombre_archivo_abstracts = "Archivos/abstracts_extraidos.txt"
+nombre_archivo_abstracts = "procesador_referencias/Archivos/abstracts_extraidos.txt"
 texto = extraer_abstracts(nombre_archivo_abstracts)
 print('r')
 # Contar frecuencias
@@ -88,7 +88,7 @@ if texto:
     imprimir_abstracts_y_sinonimos(texto, sinonimos, frecuencias)
     
     # Guardar resultados
-    nombre_archivo_resultados = "Archivos/frecuencias_resultados.txt"
+    nombre_archivo_resultados = "procesador_referencias/Archivos/frecuencias_resultados.txt"
     guardar_frecuencias(nombre_archivo_resultados, frecuencias)
 else:
     print("No se pudieron extraer los abstracts.")

@@ -21,11 +21,11 @@ def extraer_abstracts(archivo):
     return abstracts
 
 # Uso del método
-archivo_referencias = 'Archivos/referencias_limpias.txt'
+archivo_referencias = 'procesador_referencias/Archivos/referencias_limpias.txt'
 abstracts = extraer_abstracts(archivo_referencias)
 
 # Guardar los abstracts en un archivo separado
-output_path = 'Archivos/abstracts_extraidos.txt'
+output_path = 'procesador_referencias/Archivos/abstracts_extraidos.txt'
 with open(output_path, 'w', encoding='utf-8') as f:
     for abstract in abstracts:
         f.write(abstract + '\n\n')  # Separa cada abstract con una línea vacía

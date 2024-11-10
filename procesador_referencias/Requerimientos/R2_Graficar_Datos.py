@@ -70,5 +70,5 @@ class DataVisualizer:
         plt.show()
 
 # Ruta del archivo
-file_path = 'Archivos/datos_extraidos.txt'
+file_path = 'procesador_referencias/Archivos/datos_extraidos.txt'
 DataVisualizer(file_path)
