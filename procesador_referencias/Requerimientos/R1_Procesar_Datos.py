@@ -38,8 +38,8 @@ def limpiar_referencias(carpetas, archivo_salida):
 
 # Lista de carpetas donde se encuentran los archivos RIS
 carpetas = [
-    "procesador_referencias/Bases de datos/IEEE",
-    "procesador_referencias/Bases de datos/jstor",
+    "C:/Users/Stiven Fajardo/Documents/GitHub/ProyectoAnalisisAlgoritmos/procesador_referencias/Bases de datos/IEEE",
+    "C:\Users\Stiven Fajardo\Documents\GitHub\ProyectoAnalisisAlgoritmos\procesador_referencias\Bases de datos\jstor",
     "procesador_referencias/Bases de datos/SAGE",
     "procesador_referencias/Bases de datos/ScienceDirect",
     "procesador_referencias/Bases de datos/Scopus",
@@ -48,7 +48,7 @@ carpetas = [
 ]
 
 # Archivo de salida donde se guardarán los documentos procesados sin duplicados
-archivo_salida = "procesador_referencias/Archivos/referencias_limpias.txt"
+archivo_salida = "referencias_limpias.txt"
 
 # Ejecutar la limpieza
 limpiar_referencias(carpetas, archivo_salida)
