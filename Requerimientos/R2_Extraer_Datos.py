@@ -48,8 +48,8 @@ def filtrar_datos_y_guardar_completo(ruta_archivo, ruta_salida):
 
 # Función principal para procesar los archivos
 def ExtraerDatos():
-    ruta_entrada = "procesador_referencias/Archivos/referencias_limpias.txt"
-    ruta_salida = "procesador_referencias/Archivos/datos_extraidos.txt"  # Archivo de salida predefinido
+    ruta_entrada = "Archivos/referencias_limpias.txt"
+    ruta_salida = "Archivos/datos_extraidos.txt"  # Archivo de salida predefinido
     
     # Verifica si existe la ruta de entrada antes de procesar
     if os.path.exists(ruta_entrada):

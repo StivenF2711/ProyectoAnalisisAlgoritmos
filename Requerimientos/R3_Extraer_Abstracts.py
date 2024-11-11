@@ -1,6 +1,6 @@
 def extraer_y_guardar_abstracts():
-    archivo_entrada = 'procesador_referencias/Archivos/referencias_limpias.txt'
-    archivo_salida = 'procesador_referencias/Archivos/abstracts_extraidos.txt'
+    archivo_entrada = 'Archivos/referencias_limpias.txt'
+    archivo_salida = 'Archivos/abstracts_extraidos.txt'
     abstracts = []
     dentro_de_abstract = False
     abstract_actual = []

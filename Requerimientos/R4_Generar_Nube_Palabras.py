@@ -4,7 +4,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 def generar_nube_palabras_base64():
-    file_path = 'procesador_referencias/Archivos/frecuencias_resultados.txt'
+    file_path = 'Archivos/frecuencias_resultados.txt'
     
     # Lee los abstracts desde el archivo
     with open(file_path, 'r', encoding='utf-8') as file:

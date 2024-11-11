@@ -6,7 +6,7 @@ import pandas as pd
 
 class DataVisualizer:
     def __init__(self):
-        file_path = 'procesador_referencias/Archivos/datos_extraidos.txt'
+        file_path = 'Archivos/datos_extraidos.txt'
         self.file_path = file_path
         self.data = self.load_data()
         self.fields = ["Año Publicación", "Tipo Producto", "Journal", "Publisher", "Base Datos"]

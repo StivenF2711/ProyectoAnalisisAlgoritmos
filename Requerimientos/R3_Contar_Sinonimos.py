@@ -60,9 +60,9 @@ def imprimir_frecuencias(frecuencias):
 
 
 def ejecutar_proceso_completo():
-    nombre_archivo_sinonimos = "procesador_referencias/Archivos/sinonimos.txt"
-    nombre_archivo_abstracts = "procesador_referencias/Archivos/abstracts_extraidos.txt"
-    nombre_archivo_resultados = "procesador_referencias/Archivos/frecuencias_resultados.txt"
+    nombre_archivo_sinonimos = "Archivos/sinonimos.txt"
+    nombre_archivo_abstracts = "Archivos/abstracts_extraidos.txt"
+    nombre_archivo_resultados = "Archivos/frecuencias_resultados.txt"
     
     # Cargar los sinónimos
     sinonimos = cargar_sinonimos(nombre_archivo_sinonimos)

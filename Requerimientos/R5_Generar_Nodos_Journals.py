@@ -40,7 +40,7 @@ def parse_article(lines):
 # Función para generar el grafo y devolver la imagen en base64
 def generar_grafo_base64():
     # Leer y procesar el archivo de referencias en formato RIS
-    file_path = 'procesador_referencias/Archivos/referencias_limpias.txt'
+    file_path = 'Archivos/referencias_limpias.txt'
     articles = []
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = []
