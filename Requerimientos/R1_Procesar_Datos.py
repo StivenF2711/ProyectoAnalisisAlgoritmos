@@ -20,8 +20,6 @@ def limpiar_referencias():
         "Bases de datos/SAGE",
         "Bases de datos/ScienceDirect",
         "Bases de datos/Scopus",
-        "Bases de datos/Springer",
-        "Bases de datos/Taylor & Francis"
     ]
     
     # Archivo de salida donde se guardarán los documentos procesados sin duplicados
