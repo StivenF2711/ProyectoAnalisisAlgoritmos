@@ -15,17 +15,17 @@ def leer_archivo_ris(ruta_archivo):
 def limpiar_referencias():
     # Lista de carpetas donde se encuentran los archivos RIS
     carpetas = [
-        "procesador_referencias/Bases de datos/IEEE",
-        "procesador_referencias/Bases de datos/jstor",
-        "procesador_referencias/Bases de datos/SAGE",
-        "procesador_referencias/Bases de datos/ScienceDirect",
-        "procesador_referencias/Bases de datos/Scopus",
-        "procesador_referencias/Bases de datos/Springer",
-        "procesador_referencias/Bases de datos/Taylor & Francis"
+        "Bases de datos/IEEE",
+        "Bases de datos/jstor",
+        "Bases de datos/SAGE",
+        "Bases de datos/ScienceDirect",
+        "Bases de datos/Scopus",
+        "Bases de datos/Springer",
+        "Bases de datos/Taylor & Francis"
     ]
     
     # Archivo de salida donde se guardarán los documentos procesados sin duplicados
-    archivo_salida = "procesador_referencias/Archivos/referencias_limpias.txt"
+    archivo_salida = "Archivos/referencias_limpias.txt"
 
     referencias_procesadas = set()  # Para almacenar identificadores únicos
     with open(archivo_salida, 'w', encoding='utf-8') as salida:
