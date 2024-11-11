@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos Extraídos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Extracción de Datos Completada</h1>
+        
+        <!-- Mensaje de éxito -->
+        <div class="alert alert-success mt-4" role="alert">
+            Los datos han sido extraídos y guardados exitosamente.
+        </div>
+        
+        <!-- Información del archivo de salida -->
+        <p class="text-center mt-3">Puedes encontrar los datos extraídos en el siguiente archivo:</p>
+        <p class="text-center"><strong>{{ archivo_salida }}</strong></p>
+
+        <!-- Botón para volver a la página principal o realizar otra acción -->
+        <div class="text-center mt-4">
+            <a href="{{ url_for('index') }}" class="btn btn-primary">Volver al Inicio</a>
+        </div>
+    </div>
+</body>
+</html>

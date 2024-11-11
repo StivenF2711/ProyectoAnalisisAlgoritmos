@@ -12,7 +12,21 @@ def leer_archivo_ris(ruta_archivo):
     with open(ruta_archivo, 'r', encoding='utf-8') as archivo:
         return archivo.read()
 
-def limpiar_referencias(carpetas, archivo_salida):
+def limpiar_referencias():
+    # Lista de carpetas donde se encuentran los archivos RIS
+    carpetas = [
+        "procesador_referencias/Bases de datos/IEEE",
+        "procesador_referencias/Bases de datos/jstor",
+        "procesador_referencias/Bases de datos/SAGE",
+        "procesador_referencias/Bases de datos/ScienceDirect",
+        "procesador_referencias/Bases de datos/Scopus",
+        "procesador_referencias/Bases de datos/Springer",
+        "procesador_referencias/Bases de datos/Taylor & Francis"
+    ]
+    
+    # Archivo de salida donde se guardarán los documentos procesados sin duplicados
+    archivo_salida = "procesador_referencias/Archivos/referencias_limpias.txt"
+
     referencias_procesadas = set()  # Para almacenar identificadores únicos
     with open(archivo_salida, 'w', encoding='utf-8') as salida:
         for carpeta in carpetas:
@@ -36,19 +50,5 @@ def limpiar_referencias(carpetas, archivo_salida):
                         print(f"Identificador único no encontrado en {archivo}, agregando de todos modos.")
                         salida.write(contenido + "\n\n")
 
-# Lista de carpetas donde se encuentran los archivos RIS
-carpetas = [
-    "C:/Users/Stiven Fajardo/Documents/GitHub/ProyectoAnalisisAlgoritmos/procesador_referencias/Bases de datos/IEEE",
-    "C:\Users\Stiven Fajardo\Documents\GitHub\ProyectoAnalisisAlgoritmos\procesador_referencias\Bases de datos\jstor",
-    "procesador_referencias/Bases de datos/SAGE",
-    "procesador_referencias/Bases de datos/ScienceDirect",
-    "procesador_referencias/Bases de datos/Scopus",
-    "procesador_referencias/Bases de datos/Springer",
-    "procesador_referencias/Bases de datos/Taylor & Francis"
-]
-
-# Archivo de salida donde se guardarán los documentos procesados sin duplicados
-archivo_salida = "referencias_limpias.txt"
-
 # Ejecutar la limpieza
-limpiar_referencias(carpetas, archivo_salida)
+limpiar_referencias()

@@ -1,40 +1,46 @@
-import streamlit as st
-import subprocess
+import os
+from flask import Flask, render_template, redirect, request, url_for, flash
+from R1_Procesar_Datos import limpiar_referencias
+from R2_Extraer_Datos import ExtraerDatos
 
-# Interfaz de usuario de Streamlit
-def main():
-    st.title("Aplicación de Proyecto con Streamlit")
-    
-    menu = ["Inicio", "Limpiar Referencias RIS", "Ejecutar R1_Procesar_Datos.py", "Acerca de"]
-    choice = st.sidebar.selectbox("Selecciona una opción", menu)
-    
-    if choice == "Inicio":
-        st.subheader("Bienvenido a la aplicación")
-        st.write("Esta aplicación permite ejecutar scripts y limpiar referencias RIS.")
-    
-    elif choice == "Limpiar Referencias RIS":
-        st.subheader("Limpiar Referencias RIS")
-        # Aquí va el código para limpiar referencias (como en tu ejemplo anterior)
-    
-    elif choice == "Ejecutar R1_Procesar_Datos.py":
-        st.subheader("Ejecutar procesamiento de datos")
-        if st.button("Ejecutar R1_Procesar_Datos.py"):
-            # Ejecutar el script R1_Procesar_Datos.py usando subprocess
-            st.write("Ejecutando R1_Procesar_Datos.py...")
-            try:
-                # Esto ejecutará el script desde el terminal
-                result = subprocess.run(["python", "R1_Procesar_Datos.py"], capture_output=True, text=True)
-                st.write("Resultado de la ejecución:")
-                st.write(result.stdout)  # Imprimir la salida estándar del script
-                if result.stderr:
-                    st.write("Errores:")
-                    st.write(result.stderr)  # Imprimir errores si los hubiera
-            except Exception as e:
-                st.write(f"Ocurrió un error al ejecutar el script: {e}")
-    
-    elif choice == "Acerca de":
-        st.subheader("Sobre esta aplicación")
-        st.write("Esta aplicación fue desarrollada utilizando Streamlit y Python para ejecutar scripts y limpiar referencias RIS.")
+app = Flask(__name__)
+app.secret_key = 'your_secret_key'
+UPLOAD_FOLDER = 'procesador_referencias/Archivos'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-if __name__ == "__main__":
-    main()
+# Ruta principal (sin la lógica de limpieza de referencias)
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    # Solo renderiza la página principal
+    return render_template('index.html')
+
+
+# Ruta para procesar los archivos
+@app.route('/procesar', methods=['POST'])
+def procesar_archivos_route():
+    if request.method == 'POST':
+        try:
+            # Ejecutar la función de limpieza de referencias
+            limpiar_referencias()
+            flash("El procesamiento R1 se completó correctamente.")
+        except Exception as e:
+            flash(f"Hubo un error al procesar los datos: {str(e)}")
+
+        return render_template('R1limpieza_referencias.html')    
+
+
+# Ruta para extraer los datos
+@app.route('/extraer', methods=['POST'])
+def extraer_datos_route():
+    if request.method == 'POST':
+        try:
+            # Llamar a la función para extraer los datos
+            ExtraerDatos()
+            flash("Los datos fueron extraídos exitosamente.")
+        except Exception as e:
+            flash(f"Hubo un error al extraer los datos: {str(e)}")
+
+        return render_template('R2datos_extraidos.html')   
+    
+if __name__ == '__main__':
+    app.run(debug=True)
