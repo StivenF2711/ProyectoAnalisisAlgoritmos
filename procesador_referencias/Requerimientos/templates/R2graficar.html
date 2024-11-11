@@ -21,13 +21,33 @@
             {% endif %}
         {% endwith %}
         
-        <!-- Mostrar gráfico -->
-        <div class="text-center mt-4">
-            <img src="{{ url_for('static', filename=image_path.split('static/')[1]) }}" alt="Gráfico de resultados" class="img-fluid">
-        </div>
+        <!-- Selección de filtro y botón Graficar -->
+        <form method="POST" action="{{ url_for('graficar_route') }}" class="text-center mt-4">
+            <div class="form-group">
+                <label for="selected_field">Seleccione un filtro para graficar:</label>
+                <select class="form-control" id="selected_field" name="selected_field">
+                    <option value="Año Publicación">Año Publicación</option>
+                    <option value="Tipo Producto">Tipo Producto</option>
+                    <option value="Journal">Journal</option>
+                    <option value="Publisher">Publisher</option>
+                    <option value="Base Datos">Base Datos</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Graficar</button>
+        </form>
+
+        <!-- Sección para mostrar el gráfico si está disponible -->
+        {% if plot_url %}
+            <div class="text-center mt-4">
+                <h3>{{ field }}</h3>
+                <img src="data:image/png;base64,{{ plot_url }}" alt="Gráfico generado" class="img-fluid">
+            </div>
+        {% endif %}
 
         <!-- Botón para volver -->
-        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-4">Volver a Inicio</a>
+        <div class="text-center mt-4">
+            <a href="{{ url_for('index') }}" class="btn btn-primary">Inicio</a>
+        </div>
     </div>
 </body>
 </html>

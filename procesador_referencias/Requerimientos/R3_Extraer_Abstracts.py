@@ -1,36 +1,32 @@
-def extraer_abstracts(archivo):
+def extraer_y_guardar_abstracts():
+    archivo_entrada = 'procesador_referencias/Archivos/referencias_limpias.txt'
+    archivo_salida = 'procesador_referencias/Archivos/abstracts_extraidos.txt'
     abstracts = []
-    dentro_de_abstract = False  # Indica si estamos dentro de un abstract
+    dentro_de_abstract = False
     abstract_actual = []
 
-    with open(archivo, 'r', encoding='utf-8') as f:
+    # Lectura y extracción de abstracts
+    with open(archivo_entrada, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             if line.startswith('AB  -'):
                 dentro_de_abstract = True
-                abstract_actual.append(line[5:].strip())  # Tomar el texto del abstract después de 'AB  -'
-            elif line.startswith('ER  -'):  # Marca el fin de la entrada actual
+                abstract_actual.append(line[5:].strip())
+            elif line.startswith('ER  -'):
                 if dentro_de_abstract:
-                    abstracts.append(' '.join(abstract_actual))  # Guarda el abstract completo
-                    abstract_actual = []  # Reinicia para el siguiente abstract
+                    abstracts.append(' '.join(abstract_actual))
+                    abstract_actual = []
                 dentro_de_abstract = False
             elif dentro_de_abstract and not line.startswith(('KW  -', 'SN  -', 'LA  -', 'J2  -', 'M3  -', 'DB  -', 'N1  -', 'TI  -')):
-                # Solo agregar líneas que no contengan otras etiquetas
                 abstract_actual.append(line.strip())
 
-    return abstracts
+    # Guardado en archivo de salida
+    with open(archivo_salida, 'w', encoding='utf-8') as f:
+        for abstract in abstracts:
+            f.write(abstract + '\n\n')
+
+    print(f"Abstracts extraídos y guardados en {archivo_salida}.")
 
 # Uso del método
-archivo_referencias = 'procesador_referencias/Archivos/referencias_limpias.txt'
-abstracts = extraer_abstracts(archivo_referencias)
 
-# Guardar los abstracts en un archivo separado
-output_path = 'procesador_referencias/Archivos/abstracts_extraidos.txt'
-with open(output_path, 'w', encoding='utf-8') as f:
-    for abstract in abstracts:
-        f.write(abstract + '\n\n')  # Separa cada abstract con una línea vacía
-
-# Mostrar el resultado
-print(f"Abstracts extraídos y guardados en {output_path}. Contenido:")
-with open(output_path, 'r', encoding='utf-8') as f:
-    print(f.read())
+extraer_y_guardar_abstracts()

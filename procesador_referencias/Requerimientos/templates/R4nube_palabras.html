@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procesador de Referencias</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Nube de Palabras Generada</h1>
+
+        <!-- Muestra la imagen de la nube de palabras en base64 -->
+        {% if image_base64 %}
+            <div class="text-center mt-4">
+                <img src="data:image/png;base64,{{ image_base64 }}" alt="Nube de palabras" class="img-fluid">
+            </div>
+        {% else %}
+            <div class="alert alert-warning mt-4" role="alert">
+                No se pudo generar la nube de palabras.
+            </div>
+        {% endif %}
+        <div class="text-center mt-4">
+            <a href="{{ url_for('index') }}" class="btn btn-primary">Inicio</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,9 +1,12 @@
+import base64
+import io
+from matplotlib import pyplot as plt
 import pandas as pd
-import matplotlib.pyplot as plt
-import os
+
 
 class DataVisualizer:
-    def __init__(self, file_path):
+    def __init__(self):
+        file_path = 'procesador_referencias/Archivos/datos_extraidos.txt'
         self.file_path = file_path
         self.data = self.load_data()
         self.fields = ["Año Publicación", "Tipo Producto", "Journal", "Publisher", "Base Datos"]
@@ -18,6 +21,10 @@ class DataVisualizer:
             return pd.DataFrame()
     
     def graficar(self, selected_field):
+        # Verificar que el campo exista en los datos
+        if selected_field not in self.data.columns:
+            return None
+
         # Filtrar los valores donde el campo no sea "No encontrado"
         filtered_data = self.data[self.data[selected_field] != "No encontrado"]
         
@@ -27,19 +34,23 @@ class DataVisualizer:
         # Ordenar por año si es "Año Publicación"
         if selected_field == "Año Publicación":
             top_values = top_values.sort_index()
+
+        # Crear la gráfica y guardarla en un objeto de bytes
+        fig, ax = plt.subplots(figsize=(10, 6))
+        top_values.plot(kind='bar', color='skyblue', ax=ax)
+        ax.set_title(f"Top 15 más frecuentes para {selected_field}")
+        ax.set_xlabel(selected_field)
+        ax.set_ylabel("Frecuencia")
+        ax.set_xticklabels(top_values.index, rotation=45)
         
-        # Crear y guardar la gráfica
-        plt.figure(figsize=(10, 6))
-        top_values.plot(kind='bar', color='skyblue')
-        plt.title(f"Top 15 más frecuentes para {selected_field}")
-        plt.xlabel(selected_field)
-        plt.ylabel("Frecuencia")
-        plt.xticks(rotation=45)
+        # Convertir la gráfica en una imagen de bytes
+        img = io.BytesIO()
         plt.tight_layout()
+        fig.savefig(img, format='png')
+        img.seek(0)
+        plt.close(fig)
         
-        # Guardar el gráfico como imagen
-        image_path = os.path.join("static", "graficos", f"{selected_field}_top15.png")
-        plt.savefig(image_path)
-        plt.close()  # Cerrar la figura para liberar memoria
-        
-        return image_path
+        # Codificar la imagen en base64
+        plot_url = base64.b64encode(img.getvalue()).decode('utf8')
+        return plot_url
+

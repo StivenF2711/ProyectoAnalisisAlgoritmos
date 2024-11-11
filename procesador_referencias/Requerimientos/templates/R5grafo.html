@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafo de Journals y Artículos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Grafo de Journals y Artículos Más Citados</h1>
+
+        <!-- Muestra el grafo en base64 -->
+        {% if graph_base64 %}
+            <div class="text-center mt-4">
+                <img src="data:image/png;base64,{{ graph_base64 }}" alt="Grafo de Journals y Artículos" class="img-fluid">
+            </div>
+        {% else %}
+            <div class="alert alert-warning mt-4" role="alert">
+                No se pudo generar el grafo.
+            </div>
+        {% endif %}
+
+        <a href="{{ url_for('index') }}" class="btn btn-primary">Inicio</a>
+    </div>
+</body>
+</html>
